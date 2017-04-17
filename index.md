@@ -14,3 +14,7 @@ From Aug-Dec 2015, I was a visiting <a href="http://people.epfl.ch/soumyabrata.d
 
 <br />
 Prior joining NTU Singapore, I graduated with a Bachelors of Technology in the <a href="http://www.nits.ac.in/departments/ece/ece.php">Department of Electronics and Communication Engineering</a> from <a href="http://www.nits.ac.in/">National Institute of Technology Silchar</a>, India summa cum laude in 2010. Following this, I was associated with <a href="http://www.ericsson.com/in">Ericsson India</a> as a network engineer from 2010 to 2012.
+
+<br />
+Currently, I am also associated with the following roles:
+* <a href="https://www.overleaf.com/advisors#!members">Advisor</a>, Overleaf. <a href="https://www.overleaf.com/">Overleaf</a> is an online LaTeX and Rich Text collaborative writing and publishing tool. We believe in the goal of making science and research faster, more open and more accessible to all.
