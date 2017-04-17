@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home3
 title: About Me
 description: "Soumyabrata DEV's website"
 tags: [Jekyll, theme, responsive, blog, template]
