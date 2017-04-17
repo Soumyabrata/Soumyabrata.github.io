@@ -1,23 +1,23 @@
-title:            Jordi Pont-Tuset's site
+title:            Soumyabrata DEV's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //Soumyabrata.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: jponttuset
+disqus_shortname: Soumyabrata
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  name:           Soumyabrata DEV
+  avatar:         SD-web.jpg
+  bio:            PhD Student at Nanyang Technological University Singapore
+  email:          soumyabr001@e.ntu.edu.sg
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  twitter: SoumyabrataDev
+  linkedin: soumyabratadev
+  google_scholar: _akXw8IAAAAJ
+  #google_plus: 113718226018314522413
+  github: Soumyabrata
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1
 google_verify:
@@ -33,8 +33,8 @@ links:
     url: /publications/
   - title: Code
     url: /code/
-  - title: Blog
-    url: /blog/
+  #- title: Blog
+  #  url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
