@@ -1,6 +1,6 @@
 ---
-layout: home2
-title: Me in a Nutshell
+layout: home
+title: About Me
 description: "Soumyabrata DEV's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
