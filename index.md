@@ -18,3 +18,6 @@ Prior joining NTU Singapore, I graduated with a Bachelors of Technology in the <
 <br />
 Currently, I am also associated with the following roles:
 * <a href="https://www.overleaf.com/advisors#!members">Advisor</a>, Overleaf. <a href="https://www.overleaf.com/">Overleaf</a> is an online LaTeX and Rich Text collaborative writing and publishing tool. We believe in the goal of making science and research faster, more open and more accessible to all.
+* Advisor, <a href="http://xonkolpo.org/">Xonkolpo</a>: Higher-Ed Initiative for NE India. <a href="https://www.facebook.com/xonkolpo.org/">Xonkolpo</a> is a non-profit initiative 
+		floated by a community of enthusiasts from Assam, India whose goal is to build a world-class support system for students of North-Eastern India in any 
+		Science, Technology, Engineering and Management (STEM) field.
