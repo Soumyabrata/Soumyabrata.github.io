@@ -19,10 +19,10 @@ owner:
   #google_plus: 113718226018314522413
   github: Soumyabrata
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-52736040-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+#google_analytics: UA-52736040-1
+#google_verify:
+## https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+#bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
