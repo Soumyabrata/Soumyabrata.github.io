@@ -35,8 +35,8 @@ links:
   #  url: /code/
   #- title: Blog
   #  url: /blog/
-  #- title: Research
-  #  url: /research/
+  - title: Research
+    url: /myres/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
