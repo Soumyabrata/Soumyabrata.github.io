@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /myres/
+permalink: /publications/
 title: Some Code I've Written
 tags: [code]
-modified: 3-10-2014
+modified: 24-04-2017
 comments: false
 ---
 
