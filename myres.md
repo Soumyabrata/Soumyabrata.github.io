@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /code/
+permalink: /myres/
 title: Some Code I've Written
 tags: [code]
 modified: 3-10-2014
