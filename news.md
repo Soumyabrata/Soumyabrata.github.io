@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /news/
 title: Research
 tags: [code]
 modified: 24-04-2017
