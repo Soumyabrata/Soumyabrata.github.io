@@ -1,5 +1,5 @@
 ---
-layout: novipage
+layout: post
 permalink: /docs/demo2
 sidebar:
   title: "Sample Title"
