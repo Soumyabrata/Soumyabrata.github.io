@@ -1,9 +1,15 @@
 ---
-layout: novipage
+layout: single
 permalink: /docs/demo2
 sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
+
 
 
 
