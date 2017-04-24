@@ -1,4 +1,5 @@
 ---
+layout: page
 permalink: /docs/demo2
 sidebar:
   - title: "Title"
