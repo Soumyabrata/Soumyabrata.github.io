@@ -18,6 +18,5 @@ sidebar:
 ---
 Soumyabrata Dev
 NTU Singapore
-PhD
 
 To be updated
