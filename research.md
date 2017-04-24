@@ -1,5 +1,5 @@
 ---
-layout: novipage
+layout: page
 permalink: /research/
 title: Research
 tags: [code]
