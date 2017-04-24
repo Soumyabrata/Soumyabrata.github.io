@@ -2,7 +2,7 @@
 layout: novipage
 permalink: /docs/demo2
 sidebar:
-  title: "Sample Title"
+
   nav: sidebar-sample
 
 
@@ -16,7 +16,7 @@ sidebar:
 
 
 ---
-Soumyabrata 
+Soumya
 
 
 To be updated

@@ -1,4 +1,5 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
+  <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
   <div id=sidebar>
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
