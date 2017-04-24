@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-index
 permalink: /docs/demo2
 sidebar:
   title: "Sample Title"
@@ -16,6 +16,6 @@ sidebar:
 
 
 ---
-Soumya
+Soumyabrata
 
 To be updated
