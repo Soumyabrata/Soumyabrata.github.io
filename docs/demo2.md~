@@ -17,6 +17,6 @@ sidebar:
 
 ---
 Soumyabrata Dev
-NTU S
+NTU Sin
 
 To be updated
