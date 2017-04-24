@@ -5,12 +5,6 @@ tags: [code]
 modified: 24-04-2017
 comments: false
 sidebar:
-  nav: "docs"
-
-
-
-
-sidebar:
   - title: "Title"
     image: http://placehold.it/350x250
     image_alt: "image"
