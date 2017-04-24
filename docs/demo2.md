@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 permalink: /docs/demo2
 sidebar:
   title: "Sample Title"
@@ -16,6 +16,6 @@ sidebar:
 
 
 ---
-
+Soumya
 
 To be updated
