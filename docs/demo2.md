@@ -2,7 +2,7 @@
 layout: novipage
 permalink: /docs/demo2
 sidebar:
-  title: "Sample Title"
+  title: 
   nav: main
 
 
@@ -17,5 +17,6 @@ sidebar:
 
 ---
 Soumyabrata Dev
+NTU
 
 To be updated
