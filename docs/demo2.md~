@@ -16,7 +16,7 @@ sidebar:
 
 
 ---
-Soumya
+Sou
 
 
 To be updated
