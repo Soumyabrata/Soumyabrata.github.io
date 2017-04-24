@@ -2,8 +2,8 @@
 layout: novipage
 permalink: /docs/demo2
 sidebar:
-  title: 
-  nav: main
+  title: "Sample Title"
+  nav: sidebar-sample
 
 
 
@@ -16,7 +16,7 @@ sidebar:
 
 
 ---
-Soumyabrata Dev
+Soumyabrata 
 
 
 To be updated
