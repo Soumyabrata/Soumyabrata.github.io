@@ -31,7 +31,9 @@
 {% endif %}
 
 <div id="main" role="main">
-    {% include sidebar.html %}
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
@@ -53,14 +55,3 @@
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
