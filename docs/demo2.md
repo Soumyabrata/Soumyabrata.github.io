@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: novipage
 permalink: /docs/demo2
 sidebar:
   title: "Sample Title"
@@ -16,6 +16,6 @@ sidebar:
 
 
 ---
-Soumyabrata
+Soumyabrata D
 
 To be updated
