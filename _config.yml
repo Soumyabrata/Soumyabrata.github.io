@@ -39,8 +39,12 @@ links:
     url: /research/
   - title: Publications
     url: /publications/    
+  - title: Teaching
+    url: /teaching/      
   - title: News
     url: /news/      
+  - title: Contact
+    url: /contact/      
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich

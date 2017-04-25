@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /news/
+permalink: /teaching/
 title: News & Events
 tags: 
 modified: 24-04-2017
