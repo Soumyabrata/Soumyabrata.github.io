@@ -12,4 +12,4 @@ sidebar:
 
 This page talks about an overview of my research.
 
-Each sidebar should open a new page
+Each sidebar should open a new page.
