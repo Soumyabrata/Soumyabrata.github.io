@@ -8,11 +8,13 @@ comments: false
 ---
 
 
-Advanced Digital Sciences Center (ADSC)  
-1 Fusionopolis Way  
-Connexis North Tower #08-10  
-Singapore 138632  
+Communication Research I  
+S2.1 B4-03/04  
+50 Nanyang Avenue  
+Electrical and Electronic Engineering  
+Nanyang Technological University  
+Singapore-639798  
 
-email: stefan.winkler@adsc.com.sg 
+email: soumyabr001[at]e[dot]ntu[dot]edu[dot]sg  
 
-phone: +65 6591 7760  
+phone: +65 6790 6527 
