@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: News & Events
+title: Teaching
 tags: 
 modified: 24-04-2017
 comments: false
