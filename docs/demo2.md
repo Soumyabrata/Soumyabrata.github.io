@@ -17,7 +17,7 @@ sidebar:
 
 ---
 Soumyabrata Dev
-NTU
+NTU Singapore
 
 
 To be updated
