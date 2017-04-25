@@ -1,15 +1,15 @@
 ---
-layout: novipage
+layout: page
 permalink: /research/
 title: Research
 tags: [code]
 modified: 24-04-2017
 comments: false
 sidebar:
-  nav: "docs"
+  nav: sidebar-research
 
 
 ---
 
 
-To be updated
+This page talks about an overview of my research

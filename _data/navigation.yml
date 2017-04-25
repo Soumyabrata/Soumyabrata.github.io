@@ -2,4 +2,13 @@ sidebar-sample:
   - title: "Parent Page A"
     url: /
   - title: "New Page"
+    url: / 
+    
+    
+    
+    
+sidebar-research:
+  - title: "Cloud Imaging"
+    url: /
+  - title: "Communications"
     url: /  
