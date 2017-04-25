@@ -2,7 +2,7 @@
 layout: novipage
 permalink: /docs/demo2
 sidebar:
-  nav: sidebar-research
+  nav: sidebar-sample
 
 
 
