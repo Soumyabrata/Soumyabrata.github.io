@@ -16,8 +16,7 @@ sidebar:
 
 
 ---
-Soumyabrata Dev
-NTU Singapore
+Soumya
 
 
 To be updated
