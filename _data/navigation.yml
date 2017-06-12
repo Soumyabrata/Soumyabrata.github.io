@@ -11,4 +11,6 @@ sidebar-research:
   - title: "Cloud Imaging"
     url: /cloud/
   - title: "Communications"
-    url: /  
+    url: /communication/  
+  - title: "Software"
+    url: /software/     
