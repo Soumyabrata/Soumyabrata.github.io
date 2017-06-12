@@ -14,7 +14,7 @@ comments: false
 + Received recognition of contribution in the 6th Executive Committee in NTU Graduate Students' Council, AY 2016-17, April 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/04/gsc-2016-17.pdf">PDF</a>]
 + Received recognition and appreciation for contribution as a tutor in the Peer Tutoring Scheme, NTU Singapore, AY 2016-17, March 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/04/peer-tutoring2016.pdf">PDF</a>]
 
-##2016
+## 2016
 
 + Organized <a href="http://hardtechsummit.com/">IEEE HardTech Summit</a> 2016, as the local organizing chair, in extension to <a href="http://tencon2016.org/">TENCON 2016</a> conference. The summit was held at Nanyang Technological University Singapore on 26 November 2016, in association with several partners. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/hts_flyer.png">Event Flyer</a>]
 + Delivered a talk in the 'LED Cube' workshop, as a part of NTU EEE Outreach program at <a href="http://www.eee.ntu.edu.sg/Programmes/Garage/Pages/Home.aspx">Garage@EEE</a>, NTU Singapore, on October 6, 2016 for JC students from <a href="http://www.ri.edu.sg/">Raffles Institution</a>, Singapore. Check out the <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/ledcube.html">LED Cube workshop</a> page. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/led-workshop_ri_6oct2016.pdf">Slides</a>]
@@ -33,3 +33,31 @@ comments: false
 + Organized a career workshop for graduate students titled 'Ideal Jobs for Graduating Students' by experts from <a href="http://www.besttopcareer.com/">BestTop Consulting</a> on 24 February 2016 at NTU Singapore. This event is jointly organized by IEEE Young Professionals and NTU - Graduate Students' Council. Details of the event have been featured in IEEE IMPACT blog in <a href="http://yp.ieee.org/singapore-young-professionals-on-ideal-jobs/">this</a> link. [<a href="https://soumyabratadev.files.wordpress.com/2016/06/besttopcareer-24feb2016.png">Event Flyer</a>]
 + Organized an academic Workshop on Discover, Manage, Share and Showcase: Must-know research trends and tools for graduate students by <a href="http://www.ntu.edu.sg/Library/about/staffdirectory/Pages/DianneCmor.aspx">Ms. Dianne Cmor</a>, on 19 February 2016 at NTU Singapore. This event is jointly organized by  IEEE Young Professionals and NTU - Graduate Students' Council. [<a href="https://soumyabratadev.files.wordpress.com/2016/06/library-feb19.jpg">Event Flyer</a>]
 + Organized a career talk Wireless Devices: Recent developments and Future trends by <a href="http://www.ee.ust.hk/~eeluong/">Prof. Howard Luong</a>, Professor at Hong Kong University of Science and Technology on 6 January 2016 at NTU Singapore. This event is jointly organized by NTU - Graduate Students' Council and IEEE Young Professionals. [<a href="https://soumyabratadev.files.wordpress.com/2016/06/howard_seminar.png">Event Flyer</a>]
+
+
+## 2015
+
++ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
