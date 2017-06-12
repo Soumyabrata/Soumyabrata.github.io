@@ -1,6 +1,6 @@
 ---
 layout: novipage
-permalink: /cloud/
+permalink: /communication/
 title: Research
 tags: [code]
 modified: 24-04-2017
@@ -9,8 +9,8 @@ sidebar:
   nav: sidebar-research
 ---
 
-# Cloud Imaging 
-Here I talk about cloud.
+# Wireless Communication
+Here I talk about Wireless Communication.
 
 <br/>
 And many other things.
