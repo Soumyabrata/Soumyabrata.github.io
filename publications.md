@@ -61,7 +61,8 @@ comments: false
 
 + S. Dev, 2D and 3D Image Analysis and Its Application to Sky/Cloud Imaging, Doctoral Thesis, Nanyang Technological University Singapore, Singapore, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/thesis-soumyabratadev.pdf">Thesis</a>] [<a href="https://www.overleaf.com/read/zbrpyqpkwgzn">Thesis Latex Files</a>] [<a href="https://soumyabratadev.files.wordpress.com/2017/06/phd-defense.pdf">PhD Defense Slides</a>]
 
-+ S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, DIY Sky Imager For Weather Observation: A complete guide to build a ground-based sky imager using off-the-shelf components with automatic cloud coverage computation, SPM Student Design Project Series Documents, IEEE Signal Processing Society, 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/diy-sky-imager-project_1.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/DIY-sky-imager">code</a>]</br>
++ S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, DIY Sky Imager For Weather Observation: A complete guide to build a ground-based sky imager using off-the-shelf components with automatic cloud coverage computation, SPM Student Design Project Series Documents, IEEE Signal Processing Society, 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/diy-sky-imager-project_1.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/DIY-sky-imager">code</a>]
+<br />
 <i>Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">Students' Design Project Series: Sharing Experiences [SP Education]</a>, IEEE Signal Processing Magazine, Jan 2017.</i>
 
 + S. Dev, A. Ghasemi, M. Vetterli, A. Scholefield, Point localization in Multi-camera system, Doctoral internship report, Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne, Switzerland, 2015. [<a href="https://soumyabratadev.files.wordpress.com/2016/10/epflreport.pdf">PDF</a>] [<a href="https://infoscience.epfl.ch/record/216902?ln=en">EPFL</a>]
