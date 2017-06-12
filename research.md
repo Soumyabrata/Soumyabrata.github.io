@@ -24,4 +24,5 @@ We also work in proposing a dynamic frequency allocation and interference mitiga
 ## Software
 Heap management is responsible for the allocation of heap segments to a running application. We propose a new heap management technique that has an inherent auto compaction technique in its algorithm leading to minimum fragmentation of memory space. 
 
+<br />
 We also developed randomized cryptographic techniques that can be effectively provide better security solutions.
