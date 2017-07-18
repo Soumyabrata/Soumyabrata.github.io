@@ -9,6 +9,7 @@ image:
 
 I am a post-doctoral researcher at <a href="https://www.adaptcentre.ie">ADAPT Centre</a>, <a href="http://www.tcd.ie">Trinity College Dublin</a>, working with <a href="https://francois.pitie.net">Prof. Francois Pitie</a>.
 
+<br />
 I graduated with a Bachelors of Technology from <a href="http://www.nits.ac.in/">National Institute of Technology Silchar</a>, India summa cum laude in 2010. I completed my PhD from <a href="www.ntu.edu.sg/Pages/home.aspx">Nanyang Technological University (NTU) Singapore</a>, under the supervision of <a href="http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EYHLEE">Prof. Lee Yee Hui</a> and <a href="https://adsc.illinois.edu/people/stefan-winkler">Dr. Stefan Winkler</a>, in 2017. 
 
 <br />
