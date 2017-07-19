@@ -7,10 +7,10 @@ modified: 24-04-2017
 comments: false
 ---
 
-O'Reilly Building
-Trinity College Dublin
-Dublin 2
-Ireland
+O'Reilly Building  
+Trinity College Dublin  
+Dublin 2  
+Ireland  
 email: soumyabrata.dev@adaptcentre.ie
 
 <!---
