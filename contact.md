@@ -11,7 +11,7 @@ O'Reilly Building
 Trinity College Dublin  
 Dublin 2  
 Ireland  
-email: soumyabrata.dev@adaptcentre.ie
+<a href="mailto:soumyabrata.dev@adaptcentre.ie">Send an Email </a>  
 
 <!---
 Communication Research I  
