@@ -10,7 +10,9 @@ sidebar:
 ---
 
 # Research 
-My research interests lie primarily in remote sensing, pattern recognition, statistical image processing and machine learning.
+My research interests lie primarily in statistical image processing, remote sensing, pattern recognition, and machine learning. I am currently working on using deep-learning techniques for effective image- and video- analysis in consumer videos.    
+
+Following are a few of my research projects:
 
 ## Cloud Imaging
 In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the sky scene. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height.
