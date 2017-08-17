@@ -21,39 +21,45 @@ comments: false
  
 ## Conferences
 
-+ S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, Nighttime sky/cloud image segmentation, Proc. IEEE International Conference on Image Processing (ICIP), 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/icip17-nighttime.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1705.10583.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/nighttime-imaging">code</a>]
++ S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Study of Clear Sky Models for Singapore, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-solar-abstract.pdf">Abstract</a>] [<a href="https://github.com/Soumyabrata/clear-sky-models">code</a>]
 
-+ F. Savoy, S. Dev, Y. H. Lee and S. Winkler, Stereoscopic Cloud Base Reconstruction Using High-Resolution Whole Sky Imagers, Proc. IEEE International Conference on Image Processing (ICIP), 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/icip17recons.pdf">PDF</a>] [<a href="https://github.com/FSavoy/cloud-base-reconstruction">code</a>]
++ S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, Analyzing Cloud Optical Properties Using Sky Cameras, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-cot-abstract.pdf">Abstract</a>] 
 
-+ S. Dev, S. Manandhar, F. Yuan, Y. H. Lee and S. Winkler, Cloud Radiative Effect Study Using Sky Camera, Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting, 2017. <a href="https://soumyabratadev.files.wordpress.com/2017/03/ursi2017.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1703.05591.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/cloud-radiative-effect">code</a>]
++ S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, Correlating Satellite Cloud Cover with Sky Cameras, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-cmask-abstract.pdf">Abstract</a>] 
 
-+ S. Dev, S. Manandhar, Y. H. Lee, S. Winkler, Detecting Rainfall Onset Using Sky Images, Proc. TENCON 2016 - 2016 IEEE Region 10 Conference, November 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/10/tencon16-rainfallonset.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1610.06667v1.pdf">arXiv</a>]
++ S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, Nighttime sky/cloud image segmentation, *Proc. IEEE International Conference on Image Processing (ICIP)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/icip17-nighttime.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1705.10583.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/nighttime-imaging">code</a>]
 
-+ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Short-term prediction of localized cloud motion using ground-based sky imagers, Proc. TENCON 2016 - 2016 IEEE Region 10 Conference, November 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/10/tencon16-prediction.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1610.06666v1.pdf">arXiv</a>]
++ F. Savoy, S. Dev, Y. H. Lee and S. Winkler, Stereoscopic Cloud Base Reconstruction Using High-Resolution Whole Sky Imagers, *Proc. IEEE International Conference on Image Processing (ICIP)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/icip17recons.pdf">PDF</a>] [<a href="https://github.com/FSavoy/cloud-base-reconstruction">code</a>]
 
-+ S. Manandhar, F. Yuan, S. Dev, Y. H. Lee, Y. S. Meng, Weather Radar to Detect Cloud Occurrence Level, Proc. TENCON 2016 - 2016 IEEE Region 10 Conference, November 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/10/tencon16-radar.pdf"> [PDF]</a>
++ S. Dev, S. Manandhar, F. Yuan, Y. H. Lee and S. Winkler, Cloud Radiative Effect Study Using Sky Camera, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2017. <a href="https://soumyabratadev.files.wordpress.com/2017/03/ursi2017.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1703.05591.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/cloud-radiative-effect">code</a>]
 
-+ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Estimation of solar irradiance using ground-based whole sky imagers, Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July 2016. <a href="https://soumyabratadev.files.wordpress.com/2017/04/igarss16-solar-git.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1606.02546.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/solar-irradiance-estimation">code</a>]
++ S. Dev, S. Manandhar, Y. H. Lee, S. Winkler, Detecting Rainfall Onset Using Sky Images, *Proc. TENCON 2016 - 2016 IEEE Region 10 Conference*, November 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/10/tencon16-rainfallonset.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1610.06667v1.pdf">arXiv</a>]
 
-+ F. M. Savoy, S. Dev, Y. H. Lee, S. Winkler, Geo-referencing and stereo calibration of ground-based whole sky imagers using the sun trajectory, Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/06/igarss15calib.pdf"> [PDF]</a>
++ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Short-term prediction of localized cloud motion using ground-based sky imagers, *Proc. TENCON 2016 - 2016 IEEE Region 10 Conference*, November 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/10/tencon16-prediction.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1610.06666v1.pdf">arXiv</a>]
 
-+ S. Manandhar, Y. H. Lee, S. Dev, GPS Derived PWV for rainfall monitoring, Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/06/igarss15gps.pdf"> [PDF]</a>
++ S. Manandhar, F. Yuan, S. Dev, Y. H. Lee, Y. S. Meng, Weather Radar to Detect Cloud Occurrence Level, *Proc. TENCON 2016 - 2016 IEEE Region 10 Conference*, November 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/10/tencon16-radar.pdf"> [PDF]</a>
 
-+ S. Dev, Y. H. Lee, S. Winkler, Multi-level semantic labelling of sky/cloud images, Proc. IEEE International Conference on Image Processing (ICIP), Sept. 2015.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2015seg.pdf"> [PDF]</a> [<a href="http://hdl.handle.net/10220/40381">DR-NTU</a>]
++ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Estimation of solar irradiance using ground-based whole sky imagers, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, July 2016. <a href="https://soumyabratadev.files.wordpress.com/2017/04/igarss16-solar-git.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1606.02546.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/solar-irradiance-estimation">code</a>]
 
-+ S. Dev, Y. H. Lee, S. Winkler, Categorization of cloud image patches using an improved texton-based approach, Proc. IEEE International Conference on Image Processing (ICIP), Sept. 2015.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2015cat.pdf"> [PDF]</a> [<a target="_blank" href="http://hdl.handle.net/10220/40358">DR-NTU</a>]
++ F. M. Savoy, S. Dev, Y. H. Lee, S. Winkler, Geo-referencing and stereo calibration of ground-based whole sky imagers using the sun trajectory, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, July 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/06/igarss15calib.pdf"> [PDF]</a>
 
-+ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Design of low-cost, compact and weather-proof whole sky imagers for high-dynamic-range captures, Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July 2015. [<a href="https://soumyabratadev.files.wordpress.com/2017/04/igarss2015hdr.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1704.05678.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/HDRCaptures">code</a>]
++ S. Manandhar, Y. H. Lee, S. Dev, GPS Derived PWV for rainfall monitoring, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, July 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/06/igarss15gps.pdf"> [PDF]</a>
 
-+ F. M. Savoy, J. C. Lemaitre, S. Dev, Y. H. Lee, S. Winkler, Cloud base height estimation using high-resolution whole sky imagers, Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July 2015.<a href="https://soumyabratadev.files.wordpress.com/2016/06/igarss2015stereo.pdf"> [PDF]</a>
++ S. Dev, Y. H. Lee, S. Winkler, Multi-level semantic labelling of sky/cloud images, *Proc. IEEE International Conference on Image Processing (ICIP)*, Sept. 2015.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2015seg.pdf"> [PDF]</a> [<a href="http://hdl.handle.net/10220/40381">DR-NTU</a>]
 
-+ S. Dev, Y. H. Lee, S. Winkler, Systematic Study of Color Spaces and Components for the segmentation of sky/cloud images, Proc. IEEE International Conference on Image Processing (ICIP), Oct. 2014.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2014b.pdf"> [PDF]</a> <a href="https://arxiv.org/pdf/1701.04520v1.pdf"> [arXiv]</a> [<a href="https://github.com/Soumyabrata/color-channels">code</a>]
++ S. Dev, Y. H. Lee, S. Winkler, Categorization of cloud image patches using an improved texton-based approach, *Proc. IEEE International Conference on Image Processing (ICIP)*, Sept. 2015.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2015cat.pdf"> [PDF]</a> [<a target="_blank" href="http://hdl.handle.net/10220/40358">DR-NTU</a>]
 
-+ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, WAHRSIS: A low-cost, high-resolution whole sky imager with near-infrared capabilities, Proc. IS&T/SPIE Infrared Imaging Systems: Design, Analysis, Modeling, and Testing, May 2014.<a href="https://soumyabratadev.files.wordpress.com/2017/04/spie2014.pdf"> [PDF]</a> <a href="https://arxiv.org/pdf/1605.06595.pdf"> [arXiv]</a> [<a href="https://github.com/Soumyabrata/WAHRSIS">code</a>]
++ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Design of low-cost, compact and weather-proof whole sky imagers for high-dynamic-range captures, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, July 2015. [<a href="https://soumyabratadev.files.wordpress.com/2017/04/igarss2015hdr.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1704.05678.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/HDRCaptures">code</a>]
 
-+ S. Dev, Z.H. Choudhury, K. L. Baishnab, A. Nag, An efficient heap management technique with Minimum Fragmentation and Auto Compaction, IEEE International Conference on Industrial and Information Systems (ICIIS), July 2010 <a href="https://soumyabratadev.files.wordpress.com/2016/06/iciis2010.pdf"> [PDF]</a>
++ F. M. Savoy, J. C. Lemaitre, S. Dev, Y. H. Lee, S. Winkler, Cloud base height estimation using high-resolution whole sky imagers, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, July 2015.<a href="https://soumyabratadev.files.wordpress.com/2016/06/igarss2015stereo.pdf"> [PDF]</a>
 
-+ S. Dev, Z. H. Choudhury, A randomized cryptographic algorithm and its simulation in C and MATLAB, with its hardware implementation in Verilog HDL, IEEE Conference on Anti-Counterfeiting, Security and Identification (ASID) , Aug. 2009 <a href="https://soumyabratadev.files.wordpress.com/2016/06/icasid2009.pdf"> [PDF]</a>
++ S. Dev, Y. H. Lee, S. Winkler, Systematic Study of Color Spaces and Components for the segmentation of sky/cloud images, *Proc. IEEE International Conference on Image Processing (ICIP)*, Oct. 2014.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2014b.pdf"> [PDF]</a> <a href="https://arxiv.org/pdf/1701.04520v1.pdf"> [arXiv]</a> [<a href="https://github.com/Soumyabrata/color-channels">code</a>]
+
++ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, WAHRSIS: A low-cost, high-resolution whole sky imager with near-infrared capabilities, *Proc. IS&T/SPIE Infrared Imaging Systems: Design, Analysis, Modeling, and Testing*, May 2014.<a href="https://soumyabratadev.files.wordpress.com/2017/04/spie2014.pdf"> [PDF]</a> <a href="https://arxiv.org/pdf/1605.06595.pdf"> [arXiv]</a> [<a href="https://github.com/Soumyabrata/WAHRSIS">code</a>]
+
++ S. Dev, Z.H. Choudhury, K. L. Baishnab, A. Nag, An efficient heap management technique with Minimum Fragmentation and Auto Compaction, *IEEE International Conference on Industrial and Information Systems (ICIIS)*, July 2010 <a href="https://soumyabratadev.files.wordpress.com/2016/06/iciis2010.pdf"> [PDF]</a>
+
++ S. Dev, Z. H. Choudhury, A randomized cryptographic algorithm and its simulation in C and MATLAB, with its hardware implementation in Verilog HDL, *IEEE Conference on Anti-Counterfeiting, Security and Identification (ASID)*, Aug. 2009 <a href="https://soumyabratadev.files.wordpress.com/2016/06/icasid2009.pdf"> [PDF]</a>
 
 
 
@@ -68,7 +74,7 @@ comments: false
 + S. Dev, A. Ghasemi, M. Vetterli, A. Scholefield, Point localization in Multi-camera system, Doctoral internship report, Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne, Switzerland, 2015. [<a href="https://soumyabratadev.files.wordpress.com/2016/10/epflreport.pdf">PDF</a>] [<a href="https://infoscience.epfl.ch/record/216902?ln=en">EPFL</a>]
 
 
-## Posters
+## Others
 
 + S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, "Cloud Imaging Using Ground-based Sky Cameras", ADSC PhD day, Singapore, August 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/adsc-phd-day.pdf">PDF</a>]
 
