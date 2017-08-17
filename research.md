@@ -15,7 +15,7 @@ My research interests lie primarily in remote sensing, pattern recognition, stat
 ## Cloud Imaging
 In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the sky scene. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height.
 
-## Wireless Communication
+## Communications
 This project deals with the analysis of user- interaction and cooperation in wireless networks. It helps in improving the performance of the IEEE 802.11 protocol. 
 
 <br />
