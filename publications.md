@@ -23,9 +23,9 @@ comments: false
 
 + S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Study of Clear Sky Models for Singapore, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-solar-abstract.pdf">Abstract</a>] [<a href="https://github.com/Soumyabrata/clear-sky-models">code</a>]
 
-+ S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, Analyzing Cloud Optical Properties Using Sky Cameras, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-cot-abstract.pdf">Abstract</a>] 
++ S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, Analyzing Cloud Optical Properties Using Sky Cameras, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-cot-abstract.pdf">Abstract</a>] [<a href="https://github.com/Soumyabrata/cloud-optical-thickness">code</a>]
 
-+ S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, Correlating Satellite Cloud Cover with Sky Cameras, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-cmask-abstract.pdf">Abstract</a>] 
++ S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, Correlating Satellite Cloud Cover with Sky Cameras, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-cmask-abstract.pdf">Abstract</a>] [<a href="https://github.com/Soumyabrata/MODIS-cloud-mask">code</a>]
 
 + S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, Nighttime sky/cloud image segmentation, *Proc. IEEE International Conference on Image Processing (ICIP)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/icip17-nighttime.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1705.10583.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/nighttime-imaging">code</a>]
 
