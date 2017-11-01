@@ -235,6 +235,14 @@
         </li>
       {% endif %}
 
+      {% if author.publons %}
+        <li>
+          <a href="https://www.publons.com/{{ author.publons }}" itemprop="sameAs">
+            <i class="fa fa-file-text" aria-hidden="true"></i> Publons
+          </a>
+        </li>
+      {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
