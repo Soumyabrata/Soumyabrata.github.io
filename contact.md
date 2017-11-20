@@ -10,6 +10,7 @@ email: <a href="mailto:soumyabrata.dev@adaptcentre.ie">soumyabrata.dev@adaptcent
 phone: + 353 1896 1797   
 address: ADAPT Centre, Room G31, O'Reilly Building, Dublin 2 (see <a href="https://www.google.ie/maps/place/53°20'36.7%22N+6°15'03.4%22W/@53.3435311,-6.2531254,17z/am=t/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.3435311!4d-6.2509314?hl=en">Google Maps</a>)  
 Trinity College Dublin, Ireland  
+affiliation: IEEE (S'09-M'17)  
 <img src="{{ site.baseurl }}/images/adapt-logo.png" width="140">   
 
 
