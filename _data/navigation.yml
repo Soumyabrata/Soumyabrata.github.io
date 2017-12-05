@@ -36,3 +36,12 @@ sidebar-news:
     url: /news/#2016
   - title: "2015 and before"
     url: /news/#2015-and-before
+
+
+sidebar-teaching:
+  - title: "Course"
+    url: /teaching/#course
+  - title: "Outreach"
+    url: /teaching/#outreach
+  - title: "Projects"
+    url: /teaching/#projects
