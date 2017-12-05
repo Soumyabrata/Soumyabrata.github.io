@@ -20,7 +20,7 @@ sidebar-research:
 
 sidebar-pubs:
   - title: "Journals"
-    url: /publications/(#journals)
+    url: /publications/#journals
   - title: "Conferences"
     url: /cloud/
   - title: "Technical Reports"
