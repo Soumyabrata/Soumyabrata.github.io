@@ -14,7 +14,7 @@ During my doctoral program, I was a Teaching Assistant for the course EE2008: Da
 <br />
 
 ## Outreach
-I was also involved in teaching Junior College students, as a part of our university outreach programs. Check out the <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/ledcube.html">LED Cube workshop</a> page. 
+I was also involved in teaching Junior College students, as a part of our university outreach programs. I worked on fun and interesting projects during this term. I taught students how to build antenna using regular tin cans (more popularly known as <a href="https://en.wikipedia.org/wiki/Cantenna">cantenna</a>). Additionally, I explained arduino programming using a block of LEDs - check out our <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/ledcube.html">LED Cube workshop</a> page. 
 <br />
 
 ## Projects
