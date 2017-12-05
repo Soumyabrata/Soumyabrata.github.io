@@ -15,6 +15,10 @@ comments: false
 
 + S. Dev, Y. H. Lee, S. Winkler, Color-based segmentation of sky/cloud images from ground-based cameras, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 10, no. 1, pp. 231-242, Jan 2017.  [<a href="https://soumyabratadev.files.wordpress.com/2016/07/jstars2016.pdf">PDF</a>] [<a href="http://arxiv.org/pdf/1606.03669v1.pdf">arXiv</a>]
 
++ S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, DIY Sky Imager For Weather Observation: A complete guide to build a ground-based sky imager using off-the-shelf components with automatic cloud coverage computation, SPM Student Design Project Series Documents, IEEE Signal Processing Society, 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/diy-sky-imager-project_1.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/DIY-sky-imager">code</a>]
+<br />
+Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">Students' Design Project Series: Sharing Experiences [SP Education]</a>, IEEE Signal Processing Magazine, Jan 2017.
+
 + S. Dev, B. Wen, Y. H. Lee, S. Winkler, Machine Learning Techniques and Applications For Ground-based Image Analysis, *IEEE Geoscience and Remote Sensing Magazine, Special Issue on Advances in Machine Learning for Remote Sensing and Geosciences*, vol. 4, no. 2, pp. 79-93, Jun 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/06/grsm20153.pdf">PDF</a>] [<a href="http://arxiv.org/pdf/1606.02811v1.pdf">arXiv</a>]
 
 + S. Dev, Nischal S., An efficient partner assignment algorithm for improving the performance of 802.11 WLAN, *International Journal of Recent Trends in Engineering, Issue on Electrical and Electronics*, vol. 2, no. 6, pp. 155-157, Nov 2009 [<a href="https://soumyabratadev.files.wordpress.com/2016/06/ijrte2009.pdf">PDF</a>]
@@ -69,11 +73,9 @@ comments: false
 
 + S. Dev, 2D and 3D Image Analysis and Its Application to Sky/Cloud Imaging, Doctoral Thesis, Nanyang Technological University Singapore, Singapore, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/thesis-soumyabratadev.pdf">Thesis</a>] [<a href="https://www.overleaf.com/read/zbrpyqpkwgzn">Thesis Latex Files</a>] [<a href="https://soumyabratadev.files.wordpress.com/2017/06/phd-defense.pdf">PhD Defense Slides</a>]
 
-+ S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, DIY Sky Imager For Weather Observation: A complete guide to build a ground-based sky imager using off-the-shelf components with automatic cloud coverage computation, SPM Student Design Project Series Documents, IEEE Signal Processing Society, 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/diy-sky-imager-project_1.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/DIY-sky-imager">code</a>]
-<br />
-<i>Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">Students' Design Project Series: Sharing Experiences [SP Education]</a>, IEEE Signal Processing Magazine, Jan 2017.</i>
-
 + S. Dev, A. Ghasemi, M. Vetterli, A. Scholefield, Point localization in Multi-camera system, Doctoral internship report, Ecole Polytechnique F&eacute;d&eacute;rale de Lausanne, Switzerland, 2015. [<a href="https://soumyabratadev.files.wordpress.com/2016/10/epflreport.pdf">PDF</a>] [<a href="https://infoscience.epfl.ch/record/216902?ln=en">EPFL</a>]
+
++ S. Dev, R. Hazarika, H. B. Nemade, Design of a minimum off time device for protecting refrigerator compressor after power interruption, Internship report, Indian Institute of Technology Guwahati, 2008. [<a href="https://soumyabratadev.files.wordpress.com/2017/12/report-iitg.pdf">PDF</a>]
 
 
 ## Others
