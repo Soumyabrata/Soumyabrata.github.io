@@ -51,7 +51,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + S. Manandhar, Y. H. Lee, S. Dev, GPS Derived PWV for rainfall monitoring, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, July 2016. <a href="https://soumyabratadev.files.wordpress.com/2016/06/igarss15gps.pdf"> [PDF]</a>
 
-+ S. Dev, Y. H. Lee, S. Winkler, Multi-level semantic labelling of sky/cloud images, *Proc. IEEE International Conference on Image Processing (ICIP)*, Sept. 2015.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2015seg.pdf"> [PDF]</a> [<a href="http://hdl.handle.net/10220/40381">DR-NTU</a>]
++ S. Dev, Y. H. Lee, S. Winkler, Multi-level semantic labelling of sky/cloud images, *Proc. IEEE International Conference on Image Processing (ICIP)*, Sept. 2015.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2015seg.pdf"> [PDF]</a> [<a href="http://hdl.handle.net/10220/40381">DR-NTU</a>] [<a href="https://github.com/Soumyabrata/semantic-labels">code</a>]
 
 + S. Dev, Y. H. Lee, S. Winkler, Categorization of cloud image patches using an improved texton-based approach, *Proc. IEEE International Conference on Image Processing (ICIP)*, Sept. 2015.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2015cat.pdf"> [PDF]</a> [<a target="_blank" href="http://hdl.handle.net/10220/40358">DR-NTU</a>]
 
