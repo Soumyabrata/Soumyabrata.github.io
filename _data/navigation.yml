@@ -22,8 +22,8 @@ sidebar-pubs:
   - title: "Journals"
     url: /publications/#journals
   - title: "Conferences"
-    url: /cloud/
+    url: /publications/#conferences
   - title: "Technical Reports"
-    url: /communication/  
+    url: /publications/#technical-reports
   - title: "Others"
-    url: /software/     
+    url: /publications/#others   
