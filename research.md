@@ -9,6 +9,10 @@ sidebar:
   nav: sidebar-research
 ---
 
+<!---
+	Details about sidebar info is provided inside _data/navigation.yml file
+-->
+
 # Research 
 My research interests lie primarily in statistical image processing, remote sensing, pattern recognition, and machine learning. I am currently working on using deep-learning techniques for effective image- and video- analysis in consumer videos.    
 

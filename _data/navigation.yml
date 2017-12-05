@@ -8,6 +8,8 @@ sidebar-sample:
     
     
 sidebar-research:
+  - title: "Overview"
+    url: /research/
   - title: "Cloud Imaging"
     url: /cloud/
   - title: "Communications"
