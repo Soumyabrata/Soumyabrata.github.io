@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: novipage
 permalink: /teaching/
 title: Teaching
 tags: 
