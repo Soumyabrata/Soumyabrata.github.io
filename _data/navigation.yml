@@ -15,4 +15,15 @@ sidebar-research:
   - title: "Communications"
     url: /communication/  
   - title: "Software"
+    url: /software/ 
+
+
+sidebar-pubs:
+  - title: "Journals"
+    url: [/publications/](#journals)
+  - title: "Conferences"
+    url: /cloud/
+  - title: "Technical Reports"
+    url: /communication/  
+  - title: "Others"
     url: /software/     
