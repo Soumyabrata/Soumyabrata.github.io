@@ -15,9 +15,8 @@ With the ubiquity of powerful digital cameras, there has been a paradigm shift i
 
 <br />
 We designed and built four different versions of ground-based sky cameras, which are efficient, low-cost, and highly flexible. Our custom-built WSIs are equipped with a high resolution fish-eye lens that captures the images of the sky scene at user defined intervals of time. Our imagers are modular with easily configurable hardware and software, offer a high image resolution (5184X3456 pixels), and cost less than US$3K to build. Furthermore, they give us the flexibility to explore the use of High Dynamic Range Imaging (HDRI) techniques to capture the wide range of luminosity of the sky scene.   
-{% include image.html
-            img="images/1-sky-camera.jpg"
-            caption="Various models of our designed sky cameras, along with their corresponding captured images." %}
+![]<img src="{{ site.baseurl }}/images/1-sky-camera.jpg">
+*Various models of our designed sky cameras, along with their corresponding captured images.*
 
 <br />
 With the vast image data collected from these ground-based sky cameras, extracting valuable information viz. cloud coverage can be challenging. Cloud segmentation of the images into cloud vs. sky regions is one of the fundamental problems, as clouds are non-rigid, and have a wide variety of shapes, sizes, colors or textures. In this project, we present a supervised segmentation framework for ground-based sky/cloud images based on a systematic analysis of different color spaces and components. Unlike other state-of-the-art cloud segmentation methods, our proposed approach is entirely learning-based and does not require any manually defined parameters. As part of this effort, we released a large segmentation database of annotated sky/cloud images to the research community.   
