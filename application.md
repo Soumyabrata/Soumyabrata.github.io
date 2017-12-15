@@ -6,15 +6,6 @@ tags:
 modified: 24-04-2017
 comments: false
 ---
-<!---
-email: <a href="mailto:soumyabrata.dev@adaptcentre.ie">soumyabrata.dev@adaptcentre.ie</a>  
-phone: + 353 1896 1797   
-address: ADAPT Centre, Room G31, O'Reilly Building, Dublin 2 (see <a href="https://www.google.ie/maps/place/53°20'36.7%22N+6°15'03.4%22W/@53.3435311,-6.2531254,17z/am=t/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.3435311!4d-6.2509314?hl=en">Google Maps</a>)  
-Trinity College Dublin, Ireland  
-affiliation: IEEE (S'09-M'17)  
--->
-
-
 ## Research Statement
 
 The central theme of my research vision is to identify the specific computational problems in the above areas; and solve them in a cooperative manner with the domain experts. I am a firm believer of open science and research reproducibility – and thereby interested to advance science by promoting mutual collaboration and collective efforts amongst the community. I am interested in developing computer-vision based techniques to analyze earth observations. Currently, I am also involved in applying deep-learning based techniques in consumer multimedia data. In the future, I am interested to extend my expertise of artificial intelligence in medical imaging, specifically, in multimodal neuroimaging.   
@@ -30,7 +21,8 @@ It is a well-known fact that clouds have a huge impact on this intermittency of 
 My interest in this field of solar and renewable energy stems from my previous doctoral experience at Nanyang Technological University Singapore. My previous work involved the study and analysis of clouds in tropical regions, like Singapore, and to understand its impact in the signal attenuation of satellite communication links. We used ground-based sky cameras that continuously captures the images of the earth's atmosphere at regular intervals of time. These images are useful in generating a highly localized cloud profile.   
 
 
-<img src="{{ site.baseurl }}/images/wsi-image.jpg">   
+![]<img src="{{ site.baseurl }}/images/wsi-image.jpg">
+*We designed low-cost, ground-based sky cameras for continuous cloud profiling. The region around the sun (popularly known as circumsolar region) is highlighted with a white rectangle.*
 
 These hardware developments in imaging the earth's atmosphere inspired me to analyze better the problems in solar energy generation and forecasting. These devices can provide a new paradigm in understanding the solar energy dynamics. I am interested to analyze how clouds can have an impact on the total solar irradiance falling on the earth's surface. This is an interesting problem at hand: how the intermittency and rapid fluctuations in solar radiation be best captured by ground-based imaging devices? This can be intuitively explained by the fact that a drop in total solar irradiance leads to a decreased imaging luminance by the camera sensor, and vice versa. With the massive amount of imaging data collected by such cameras, it will provide us a good user study to apply machine-learning techniques on such imaging data. I plan to use deep-learning based neural networks to parametrize the camera response curve of the imaging sensors. I am interested in modeling the received solar irradiance from the luminance of the sky camera. Additionally, I also plan to further miniaturize the sky cameras, so that it can be deployed at multiple locations across the region of interest. This will help us in mapping the entire solar irradiance map over the considered region.   
 
@@ -44,7 +36,8 @@ With the advancement in deep-learning techniques in image and video analysis, we
 <br />
 My previous doctoral experience also dealt with using near-infrared cameras to see through fogs. Fredembach and Susstrunk demonstrated in their recent work that the haze disappears in near-infrared capture of an outdoor scene as compared to an image captured by a conventional RGB image. The following figure illustrates this. This is because of a physical phenomenon called Rayleigh scattering. Small atmospheric particles present in the air scatter incident light with varying degree. Because of Rayleigh scattering, the component of light having the least wavelength gets scattered the most; and thus provides a bluish color to the sky. However, near-infrared is less scattered as compared to its visible counterparts and renders the sky darker. I plan to investigate this characteristics of near-infrared imaging in the context of car dashboard cameras. Such imaging techniques are very important in our current application and has potential in capturing sharper and clearer images of the road scene. A regular RGB image, together with a near-infrared capture of the same scene will provide the car driver better insights about the traffic and road signs.    
 
-<img src="{{ site.baseurl }}/images/haze-img.jpg">   
+![]<img src="{{ site.baseurl }}/images/haze-img.jpg">
+*On the left, a conventional RGB image. On the right, a near-IR capture of the same scene. The haze has disappeared, revealing a sharper, cleaner, picture.*
 
 It is an interesting problem to harness the large amount of videos obtained from car dashboard cameras, with varying spectral resolutions. I am interested to use the color-information of the regular traffic signs to provide a robust and state-of-the-art object detection system. Color-based image segmentation is an expertise that I gathered since my PhD studies. During my doctoral problem, we presented a supervised segmentation framework for ground-based sky/cloud images based on a systematic analysis of different color spaces and components. Unlike other state-of-the-art cloud segmentation methods, our proposed approach was entirely learning-based and does not require any manually defined parameters. We also released a large segmentation database of annotated sky/cloud images, to the research community. Currently, at ADAPT Centre, Trinity College Dublin, I am also working on a segmentation-based task in an industry-affiliated project. I am investigating deep-learning based techniques to identify advertisement billboards in street-view videos. My current project is providing me the relevant know-hows for object detection and localization, in the field of vision-assisted autonomous driving.    
 
@@ -56,16 +49,3 @@ In the future, I am interested to extend my expertise in image processing and ma
 
 <br />
 Inspired by the practical problems faced in various area, my vision is to use my expertise of machine learning and image processing to solve similar problems in myriad fields: solar energy, assisted driving and neuroimaging. Apart from my ongoing research, I am interested to continue involving myself in a number of education and outreach activities. Furthermore, I am a firm believer of open science, and the spirit of reproducible research. Therefore, whenever possible, I will continue to publish my preprints, and release the associated codes and datasets amongst the community.    
-
-<!---
-Communication Research I  
-S2.1 B4-03/04  
-50 Nanyang Avenue  
-Electrical and Electronic Engineering  
-Nanyang Technological University  
-Singapore-639798  
-
-email: soumyabr001[at]e[dot]ntu[dot]edu[dot]sg  
-
-phone: +65 6790 6527 
--->
