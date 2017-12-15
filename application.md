@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /application/
-title: 
+title:     
 tags: 
 modified: 24-04-2017
 comments: false
