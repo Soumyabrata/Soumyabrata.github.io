@@ -6,11 +6,11 @@ tags:
 modified: 24-04-2017
 comments: false
 ---
-# Research Statement
+## Research Statement
 
 The central theme of my research vision is to identify the specific computational problems in the above areas; and solve them in a cooperative manner with the domain experts. I am a firm believer of open science and research reproducibility – and thereby interested to advance science by promoting mutual collaboration and collective efforts amongst the community. I am interested in developing computer-vision based techniques to analyze earth observations. Currently, I am also involved in applying deep-learning based techniques in consumer multimedia data. In the future, I am interested to extend my expertise of artificial intelligence in medical imaging, specifically, in multimodal neuroimaging.   
 
-## Remote sensing
+### Remote sensing
 The future of solving energy crisis lies at the successful integration of solar and renewable energy into the conventional power grid. With the rapid development in photogrammetric techniques and low-cost weather station data, it is now increasingly easier to collect massive image and other meteorological sensor data of the earth's atmosphere from the ground. The key to many unsolved problems lies in systematically analyzing these massive data, and fusing these diverse data types to develop new tools and techniques in renewable energy. My research plan in this particular field of atmospheric observations lies at the intersection of remote sensing and machine learning. In particular, I am interested to visualize in what ways state-of-the-art techniques inspired from computer vision and machine learning community help us in analyzing solar energy falling at earth's surface.   
 
 <br />
@@ -30,7 +30,7 @@ These hardware developments in imaging the earth's atmosphere inspired me to ana
 <br />
 In summary, I am interested to work on this project on solar irradiance estimation and forecasting, as I firmly believe that efficient- and clear- energy generation is the need of the hour. Of course, solar energy encompasses a significant proportion of renewable energy. This project can be collaboratively executed alongside international institutions and research groups. I have already developed initial contacts with two leading solar energy forecasting group: Center for Energy Research, UC San Diego and Solar Energy Research Institute of Singapore (SERIS).   
 
-## Multimedia Data
+### Multimedia Data
 
 With the advancement in deep-learning techniques in image and video analysis, we have seen a massive interest in the field of autonomous driving from the leading companies in AI. There are a plethora of interesting problems in vision-based, computer-assisted self driving. However, I am interested to solve a specific problem in this area: to provide an end-to-end system in detecting the traffic- and road- signs from low-resolution car dashboard cameras. This problem becomes more challenging with poor lighting conditions during fog and misty weather conditions.   
 
