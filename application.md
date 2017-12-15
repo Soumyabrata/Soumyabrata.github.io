@@ -24,6 +24,7 @@ My interest in this field of solar and renewable energy stems from my previous d
 <img src="{{ site.baseurl }}/images/wsi-image.jpg">
 *We designed low-cost, ground-based sky cameras for continuous cloud profiling. The region around the sun (popularly known as circumsolar region) is highlighted with a white rectangle.*   
 
+<br />
 These hardware developments in imaging the earth's atmosphere inspired me to analyze better the problems in solar energy generation and forecasting. These devices can provide a new paradigm in understanding the solar energy dynamics. I am interested to analyze how clouds can have an impact on the total solar irradiance falling on the earth's surface. This is an interesting problem at hand: how the intermittency and rapid fluctuations in solar radiation be best captured by ground-based imaging devices? This can be intuitively explained by the fact that a drop in total solar irradiance leads to a decreased imaging luminance by the camera sensor, and vice versa. With the massive amount of imaging data collected by such cameras, it will provide us a good user study to apply machine-learning techniques on such imaging data. I plan to use deep-learning based neural networks to parametrize the camera response curve of the imaging sensors. I am interested in modeling the received solar irradiance from the luminance of the sky camera. Additionally, I also plan to further miniaturize the sky cameras, so that it can be deployed at multiple locations across the region of interest. This will help us in mapping the entire solar irradiance map over the considered region.   
 
 <br />
@@ -39,6 +40,7 @@ My previous doctoral experience also dealt with using near-infrared cameras to s
 <img src="{{ site.baseurl }}/images/haze-img.jpg">
 *On the left, a conventional RGB image. On the right, a near-IR capture of the same scene. The haze has disappeared, revealing a sharper, cleaner, picture.*   
 
+<br />
 It is an interesting problem to harness the large amount of videos obtained from car dashboard cameras, with varying spectral resolutions. I am interested to use the color-information of the regular traffic signs to provide a robust and state-of-the-art object detection system. Color-based image segmentation is an expertise that I gathered since my PhD studies. During my doctoral problem, we presented a supervised segmentation framework for ground-based sky/cloud images based on a systematic analysis of different color spaces and components. Unlike other state-of-the-art cloud segmentation methods, our proposed approach was entirely learning-based and does not require any manually defined parameters. We also released a large segmentation database of annotated sky/cloud images, to the research community. Currently, at ADAPT Centre, Trinity College Dublin, I am also working on a segmentation-based task in an industry-affiliated project. I am investigating deep-learning based techniques to identify advertisement billboards in street-view videos. My current project is providing me the relevant know-hows for object detection and localization, in the field of vision-assisted autonomous driving.    
 
 <br />
