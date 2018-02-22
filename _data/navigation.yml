@@ -45,3 +45,11 @@ sidebar-teaching:
     url: /teaching/#outreach
   - title: "Projects"
     url: /teaching/#projects
+
+
+
+sidebar-application:
+  - title: "Research Statement"
+    url: /application/#research-statement
+  - title: "Teaching Statement"
+    url: /application/#teaching-statement

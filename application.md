@@ -1,11 +1,17 @@
 ---
-layout: page
+layout: novipage
 permalink: /application/
 title: Overview
 tags: 
 modified: 24-04-2017
 comments: false
+sidebar:
+  nav: sidebar-application
 ---
+
+<!---
+	Details about sidebar info is provided inside _data/navigation.yml file
+-->
 ## Research Statement
 
 The central theme of my research vision is to identify the specific computational problems in the above areas; and solve them in a cooperative manner with the domain experts. I am a firm believer of open science and research reproducibility – and thereby interested to advance science by promoting mutual collaboration and collective efforts amongst the community. I am interested in developing computer-vision based techniques to analyze earth observations. Currently, I am also involved in applying deep-learning based techniques in consumer multimedia data. In the future, I am interested to extend my expertise of artificial intelligence in medical imaging, specifically, in multimodal neuroimaging.   
@@ -51,3 +57,25 @@ In the future, I am interested to extend my expertise in image processing and ma
 
 <br />
 Inspired by the practical problems faced in various area, my vision is to use my expertise of machine learning and image processing to solve similar problems in myriad fields: solar energy, assisted driving and neuroimaging. Apart from my ongoing research, I am interested to continue involving myself in a number of education and outreach activities. Furthermore, I am a firm believer of open science, and the spirit of reproducible research. Therefore, whenever possible, I will continue to publish my preprints, and release the associated codes and datasets amongst the community.    
+
+
+
+
+
+
+
+
+
+
+## Teaching Statement
+
+There goes an old aphorism “Learning is the progressive discovery of one’s ignorance”; and in this journey of discovery, researchers have developed several pedagogical techniques viz. active-, collaborative-, cooperative- and problem-based- learning. The existence of multitude of techniques brings out the subtle fact that the process of learning is not at all simplistic; and no single technique can fit the bill at all times. Therefore, in my teaching philosophy, I intend to provide a blend of such techniques, with a strong emphasis on: a) problem-based learning and b) technology-enabled learning.
+
+*Learning by doing*. This statement concisely put forwards my teaching philosophy, and what I strive to achieve in my class. In teaching the fundamental concepts of signal processing and machine learning, I believe that it is necessary for the students to complement their theoretical knowledge with current state-of-the-art research and its applications. Engaging themselves in hands-on projects will foster creativity and team-building spirit amongst the peers. Such cooperative learning encourages the student to present concerted efforts while solving the problem statement. Using a combination of online and face-to-face sessions, collaborate and cooperative learning will flourish further. *Technology-enabled learning* will create greater learner engagement, and also make the assessment process more engaging and fascinating. I am interested for a seamless integration of technology in my teaching methods -- such learning aids will greatly help in disseminating my lessons, and collecting student feedback, both during- and after- the class. Whilst I appreciate the advantages of a technology-enabled learning experience, however, I will avoid an over-reliance on them. Technology should not attempt to replace the basic tenants of teaching -- I would continue fostering an interactive and open discussion amongst my students. 
+
+My doctoral training at the School of Electrical and Electronic Engineering at Nanyang Technological University (NTU) Singapore, has provided me excellent opportunities to develop my teaching philosophy over these years. I have been a teaching assistant in the course EE2008: Data Structures and Algorithms during two complete semesters of AY 2014-15 and AY 2015-16 session. Based on the collective feedback of 120+ students, I was awarded the `Commendable Teaching Assistant Award'. Moreover, I also involved myself in peer-tutoring groups, where students with academic probation/warning can increase their grades and eventually graduate in the same graduating cohort. 
+
+
+Based on such experiences as a lecturer in regular courses and peer-tutoring groups, I was interested to delve further into my teaching philosophy. The Teaching Perspectives Inventory (TPI) [Pratt and McKenna 2001] has developed a comprehensive questionnaire to do a profiling of the intended teachers. The result of this TPI questionnaire provides the intendant teacher an analysis on the following perspective viewpoints -- Transmission, Apprenticeship, Developmental, Nurturing, and Social Reform. I participated in the survey, my personalized test results can be accessed [here](http://www.teachingperspectives.com/tpi/tpisurveyresult.html?surveyid=240289). These results made me realize, that I have a differentiated teaching profile with dominant perspective in nurturing and apprenticeship. My score is highest on Nurturing, with a low in Transmission. This makes sense to me -- because I always intend to foster creativity and team-building spirit amongst the students, rather than only disseminating the subject matter knowledge in the class. I believe this TPI profile results broadly encompasses my teaching philosophy, as I put strong emphasis on overall development of the students and also try to provide my students a practical viewpoint of the studied course.
+
+Aside from teaching in a formal setting, I have been involved in mentoring students in their Final Year Projects (FYPs) and Nanyang Research Program (NRP). I was also involved in teaching junior college and polytechnic students, as a part of our university outreach programs. It has been a rewarding and enriching experience so far. I enjoyed the interaction with my students, and I intend to continue such mentorship role in my prospective academic career. 
