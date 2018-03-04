@@ -28,7 +28,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ S. Manandhar(\*), S. Dev(\*), Y. H. Lee and Y. S. Meng, Analyzing Solar Irradiance Variation From GPS and Cameras, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018 (\* Authors contributed equally).
++ S. Manandhar\*, S. Dev\*, Y. H. Lee and Y. S. Meng, Analyzing Solar Irradiance Variation From GPS and Cameras, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018 (\* Authors contributed equally).
+
++ S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, On the Importance of PWV in Detecting Precipitation, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018.
 
 + S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Study of Clear Sky Models for Singapore, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-solar-abstract.pdf">Abstract</a>] [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-solar.pdf">Full Paper</a>] [<a href="https://arxiv.org/pdf/1708.08760.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/clear-sky-models">code</a>]
 
