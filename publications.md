@@ -28,6 +28,12 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ S. Manandhar\*, S. Dev\*, Y. H. Lee, S. Winkler and Y. S. Meng, Systematic Study of Weather Variables for Rainfall Detection, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018 (\* Authors contributed equally).
+
++ S. Manandhar, S. Dev, Y. H. Lee, Y. S. Meng and S. Winkler, A Data-driven Approach to Detect Precipitation from Meteorological Sensor Data, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018.
+
++ S. Manandhar, Y. H. Lee, Y. S. Meng, F. Yuan and S. Dev, A Potential Low Cost Remote Sensing Using GPS Derived PWV, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018.
+
 + S. Manandhar\*, S. Dev\*, Y. H. Lee and Y. S. Meng, Analyzing Solar Irradiance Variation From GPS and Cameras, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018 (\* Authors contributed equally).
 
 + S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, On the Importance of PWV in Detecting Precipitation, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018.
