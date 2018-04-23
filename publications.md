@@ -34,9 +34,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + S. Manandhar, Y. H. Lee, Y. S. Meng, F. Yuan and S. Dev, A Potential Low Cost Remote Sensing Using GPS Derived PWV, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018.
 
-+ S. Manandhar\*, S. Dev\*, Y. H. Lee and Y. S. Meng, Analyzing Solar Irradiance Variation From GPS and Cameras, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/04/aps2018-gps-clouds.pdf">PDF</a>]
++ S. Manandhar\*, S. Dev\*, Y. H. Lee and Y. S. Meng, Analyzing Solar Irradiance Variation From GPS and Cameras, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/04/aps2018-gps-clouds.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1804.07629.pdf">arXiv</a>]
 
-+ S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, On the Importance of PWV in Detecting Precipitation, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/04/aps2018-pwv-importance.pdf">PDF</a>]
++ S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, On the Importance of PWV in Detecting Precipitation, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/04/aps2018-pwv-importance.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1804.07048.pdf">arXiv</a>]
 
 + S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Study of Clear Sky Models for Singapore, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-solar-abstract.pdf">Abstract</a>] [<a href="https://soumyabratadev.files.wordpress.com/2017/08/piers-solar.pdf">Full Paper</a>] [<a href="https://arxiv.org/pdf/1708.08760.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/clear-sky-models">code</a>]
 
