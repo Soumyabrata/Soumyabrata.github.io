@@ -28,13 +28,13 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ S. Manandhar\*, S. Dev\*, Y. H. Lee, S. Winkler and Y. S. Meng, Systematic Study of Weather Variables for Rainfall Detection, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018 (\* Authors contributed equally).
++ S. Manandhar\*, S. Dev\*, Y. H. Lee, S. Winkler and Y. S. Meng, Systematic Study of Weather Variables for Rainfall Detection, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/05/igarss2018b.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1805.01957.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/weather-features">code</a>]
 
-+ S. Manandhar, S. Dev, Y. H. Lee, Y. S. Meng and S. Winkler, A Data-driven Approach to Detect Precipitation from Meteorological Sensor Data, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018.
++ S. Manandhar, S. Dev, Y. H. Lee, Y. S. Meng and S. Winkler, A Data-driven Approach to Detect Precipitation from Meteorological Sensor Data, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/05/igarss2018a.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1805.01950.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/precipitation-detection">code</a>]
 
-+ S. Manandhar, Y. H. Lee, Y. S. Meng, F. Yuan and S. Dev, A Potential Low Cost Remote Sensing Using GPS Derived PWV, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018.
++ S. Manandhar, Y. H. Lee, Y. S. Meng, F. Yuan and S. Dev, A Potential Low Cost Remote Sensing Using GPS Derived PWV, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/05/igarss2018c.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1805.01961.pdf">arXiv</a>] 
 
-+ S. Manandhar\*, S. Dev\*, Y. H. Lee and Y. S. Meng, Analyzing Solar Irradiance Variation From GPS and Cameras, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/04/aps2018-gps-clouds.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1804.07629.pdf">arXiv</a>]
++ S. Manandhar\*, S. Dev\*, Y. H. Lee and Y. S. Meng, Analyzing Solar Irradiance Variation From GPS and Cameras, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/04/aps2018-gps-clouds.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1804.07629.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/irradiance-variation">code</a>]
 
 + S. Manandhar, S. Dev, Y. H. Lee and Y. S. Meng, On the Importance of PWV in Detecting Precipitation, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/04/aps2018-pwv-importance.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1804.07048.pdf">arXiv</a>]
 
