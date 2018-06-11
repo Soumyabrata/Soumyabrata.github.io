@@ -32,15 +32,19 @@ We designed and built four different versions of ground-based sky cameras, which
 <br />
 With the vast image data collected from these ground-based sky cameras, extracting valuable information viz. cloud coverage can be challenging. Cloud segmentation of the images into cloud vs. sky regions is one of the fundamental problems, as clouds are non-rigid, and have a wide variety of shapes, sizes, colors or textures. In this project, we present a supervised segmentation framework for ground-based sky/cloud images based on a systematic analysis of different color spaces and components. Unlike other state-of-the-art cloud segmentation methods, our proposed approach is entirely learning-based and does not require any manually defined parameters. As part of this effort, we released [a large segmentation database](http://vintage.winklerbros.net/swimseg.html) of annotated sky/cloud images to the research community.   
 <img src="{{ site.baseurl }}/images/2-multi-class.png">
+<br />
 *(From left to right) Sample input images, probabilistic cloud detection, 3-level ground-truth image, 3-level detected image.*   
 
+<br />
 As a part of benchmarking with other state-of-the-art cloud detection algorithms, we have also annotated and released the [three-level ground-truth images](https://github.com/Soumyabrata/HYTA) of the popular [HYTA](https://journals.ametsoc.org/doi/abs/10.1175/JTECH-D-11-00009.1) dataset.   
 
+<br />
 We have also extended our cloud segmentation methodology on High-Dynamic-Range (HDR) images. It assists in capturing the details of an entire scene with a regular camera in a single HDR shot. We have also released the first [HDR cloud segmentation dataset](http://vintage.winklerbros.net/shwimseg.html), along with manually annotated ground-truth images to the research community.   
 
-
+<br />
 In addition to cloud segmentation, we also proposed a framework for automatic cloud type recognition that classifies sky/cloud image patches efficiently into various cloud types. Our proposed algorithm systematically integrates both *color* and *texture* cues of cloud and has a good multi-class classification accuracy. We also released a [large-scale cloud categories database](http://vintage.winklerbros.net/swimcat.html) for further benchmarking purposes.  
 <img src="{{ site.baseurl }}/images/3-five-classes.png">
+<br />
 *Sample representative image of (a) Clear sky, (b) Patterned clouds, (c) Thick dark clouds, (d) Thick white clouds, and (e) Veil clouds.*   
 
 
