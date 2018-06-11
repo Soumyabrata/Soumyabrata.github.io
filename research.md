@@ -14,7 +14,7 @@ sidebar:
 -->
 
 # Research 
-My research interests lie primarily in image- and signal- processing, machine learning, remote sensing and deep learning. I am interested in using these expertise in solving problems related to digital multimedia, and earth and atmospheric sciences. 
+My research interests lie primarily in image- and signal- processing, machine learning, remote sensing and deep learning. I am interested in using these expertise in solving problems related to digital multimedia, cloud imaging, and solar and renewable energy. 
 
 
 <br />
