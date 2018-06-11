@@ -14,10 +14,11 @@ sidebar:
 -->
 
 # Research 
-My research interests lie primarily in statistical image processing, remote sensing, pattern recognition, and machine learning. I am currently working on using deep-learning techniques for effective image- and video- analysis in consumer videos.    
+My research interests lie primarily in image- and signal- processing, machine learning, remote sensing and deep learning. I am interested in using these expertise in solving problems related to digital multimedia, and earth and atmospheric sciences. 
+
 
 <br />
-Following are a few of my research projects:
+I am currently working (or have worked) on several related research projects. 
 
 ## [Cloud Imaging](https://soumyabrata.github.io/cloud/)
 In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the sky scene. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height.
