@@ -15,12 +15,10 @@ sidebar:
 Understanding user communication in wireless networks.
 
 ## Team
-
 Worked in collaboration with [Indian Institute of Science Bangalore](http://www.ece.iisc.ernet.in/~vinod/), India. 
 
 ## Description 
 
-<br/>
 In this project, a novel idea of user cooperation in wireless networks has been exploited to improve the performance of the IEEE 802.11 protocol. A crucial challenge in the implementation of a cooperative diversity protocol is how to assign source-relay pairs. We propose a new high-performance forwarding scheme, denoted Timer based Adaptive Relay Selection Protocol (TARSeP) that efficiently improves the overall throughput in wireless 802.11 networks. 
 
 <br/>
