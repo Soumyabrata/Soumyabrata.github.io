@@ -26,7 +26,7 @@ The central theme of this project is to use conventional cameras to capture imag
 
 <br />
 We designed and built four different versions of ground-based sky cameras, which are efficient, low-cost, and highly flexible. Our custom-built WSIs are equipped with a high-resolution fish-eye lens that captures the images of the sky scene at user-defined intervals of time. Our imagers are modular with easily configurable hardware and software, offer a high image resolution (5184X3456 pixels), and cost less than US$3K to build. Furthermore, they give us the flexibility to explore the use of High Dynamic Range Imaging (HDRI) techniques to capture the wide range of luminosity of the sky scene.   
-<img src="{{ site.baseurl }}/images/1-sky-camera.jpg">
+<img src="{{ site.url }}/images/1-sky-camera.jpg">
 *Various models of our designed sky cameras, along with their corresponding captured images.*   
 
 <br />
