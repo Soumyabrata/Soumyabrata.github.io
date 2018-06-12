@@ -19,7 +19,7 @@ Worked in collaboration with [The ADAPT Centre](https://www.adaptcentre.ie/), Tr
 
 ## Description 
 With the rapid development of internet services, there has been a massive surge in the development of online multimedia videos. These videos are equipped with *skip-ad* buttons and ad blockers, bringing online marketing and advertisement to a standstill. In this project, we solve this problem by seamlessly integrating new adverts into existing adverts in videos. We design a system that can localize an existing advert in an image frame (from the video sequence), and replace it with a new target advert. 
-<img src="{{ site.url }}/images/1-sky-camera.jpg">
+<img src="{{ site.url }}/images/advert-story.png">
 *(From left to right) Original image, Augmented image with new target advert.*   
 
 <br />
