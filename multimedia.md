@@ -23,7 +23,7 @@ With the rapid development of internet services, there has been a massive surge 
 *(From left to right) Original image, Augmented image with new target advert.*   
 
 <br />
-We use a deep-learning based method to localize the position of the advertisement in an image frame. Based on a large-scale dataset of outdoor scenes with manually annotated ground-truth maps, we propose a probabilistic billboard detection framework. We localize the bounded billboard, using a deep-learning based refinement network. <img src="{{ site.url }}/images/advert-localization.png">
+We use a deep-learning based method to localize the position of the advertisement in an image frame. Based on a large-scale dataset of outdoor scenes with manually annotated ground-truth maps, we propose a probabilistic billboard detection framework. We localize the bounded billboard, using a deep-learning based refinement network. <img src="{{ site.url }}/images/advert-localization.jpg">
 *(From left to right) Input image, Binary ground-truth map, Detected advert, Localized advert.*  
 
 ## Results   
