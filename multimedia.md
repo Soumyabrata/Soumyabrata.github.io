@@ -22,7 +22,7 @@ With the rapid development of internet services, there has been a massive surge 
 <img src="{{ site.url }}/images/advert-story.png">
 <img src="{{ site.baseurl }}/images/adapt-logo.png" width="140">
 ![image](/images/adapt-logo.png)
-![image](/images/advert-story.png)
+![speaker]({{ site.url }}/images/advert-story.png)
 *(From left to right) Original image, Augmented image with new target advert.*   
 
 <br />
