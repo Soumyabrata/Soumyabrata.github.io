@@ -10,6 +10,19 @@ sidebar-sample:
 sidebar-research:
   - title: "Overview"
     url: /research/
+  - title: "Cloud Imaging"
+    url: /cloud/
+  - title: "Solar Analytics"
+    url: /solar/
+  - title: "Communications"
+    url: /communication/  
+  - title: "Software"
+    url: /software/ 
+
+
+sidebar-research-more:
+  - title: "Overview"
+    url: /research/
   - title: "Multimedia"
     url: /multimedia/
   - title: "Cloud Imaging"
@@ -19,7 +32,7 @@ sidebar-research:
   - title: "Communications"
     url: /communication/  
   - title: "Software"
-    url: /software/ 
+    url: /software/     
 
 
 sidebar-pubs:

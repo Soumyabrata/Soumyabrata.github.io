@@ -20,8 +20,10 @@ My research interests lie primarily in image- and signal- processing, machine le
 <br />
 I am currently working (or have worked) on several related research projects. 
 
+<!---
 ## [Multimedia](https://soumyabrata.github.io/multimedia/)
 This project involves designing an advertisement detection- and integration- system for multimedia videos, that is useful for next-generation online publicity. We use deep-learning based techniques for accurate detection and localization of adverts in images and videos. 
+-->
 
 ## [Cloud Imaging](https://soumyabrata.github.io/cloud/)
 In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the sky scene. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height.
