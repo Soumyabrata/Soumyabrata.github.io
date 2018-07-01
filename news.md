@@ -8,6 +8,9 @@ comments: false
 sidebar:
   nav: sidebar-news
 ---
+## 2018
+
++ Awarded the ADAPT Centre Directors Commercialisation Award 2018, in recognition of the contribution to Huawei Advert project. [<a href="https://soumyabratadev.files.wordpress.com/2018/07/director-award2018.pdf">PDF</a>]
 
 
 ## 2017
