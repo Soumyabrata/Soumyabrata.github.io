@@ -7,7 +7,7 @@ sidebar-sample:
     
     
     
-sidebar-research:
+sidebar-research-less:
   - title: "Overview"
     url: /research/
   - title: "Cloud Imaging"
@@ -20,7 +20,7 @@ sidebar-research:
     url: /software/ 
 
 
-sidebar-research-more:
+sidebar-research:
   - title: "Overview"
     url: /research/
   - title: "Multimedia"
