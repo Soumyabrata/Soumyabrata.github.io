@@ -31,6 +31,9 @@ We use a deep-learning based method to localize the position of the advertisemen
 <br />
 *(From left to right) Input image, Binary ground-truth map, Detected advert, Localized advert.*  
 
+## Demonstration 
+
+[![Watch the video](https://github.com/Soumyabrata/Soumyabrata.github.io/blob/master/images/video-grab.png)](https://youtu.be/zaKpJZhBVL4)
 
 ## Results   
 We are currently in the process of disseminating our research results to the community. 
