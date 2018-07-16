@@ -28,7 +28,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ S. Dev\*, T. AlSkaif\*, M. Hossari, R. Godina, A. Louwen, and W. van Sark, Solar Irradiance Forecasting Using Triple Exponential Smoothing, *International Conference on Smart Energy Systems and Technologies (SEST)*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/07/sest2018.pdf">PDF</a>]
++ S. Dev\*, T. AlSkaif\*, M. Hossari, R. Godina, A. Louwen, and W. van Sark, Solar Irradiance Forecasting Using Triple Exponential Smoothing, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/07/sest2018.pdf">PDF</a>]
 
 + S. Manandhar\*, S. Dev\*, Y. H. Lee, S. Winkler and Y. S. Meng, Systematic Study of Weather Variables for Rainfall Detection, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/05/igarss2018b.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1805.01957.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/weather-features">code</a>]
 
