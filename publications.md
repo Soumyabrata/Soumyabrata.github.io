@@ -28,6 +28,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ A. Nautiyal\*, K. McCabe\*, M. Hossari\*, S. Dev\*, M. Nicholson, C. Conran, D. McKibben, J. Tang, X. Wei, and F. Pitie, An Advert Creation System for Next-Gen Publicity, *Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECM-PKDD)*, 2018 (\* Authors contributed equally and arranged alphabetically). [<a href="https://soumyabratadev.files.wordpress.com/2018/08/ecml2018.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1808.00163.pdf">arXiv</a>] [<a href="https://youtu.be/zaKpJZhBVL4">video</a>] 
+
 + S. Dev\*, T. AlSkaif\*, M. Hossari, R. Godina, A. Louwen, and W. van Sark, Solar Irradiance Forecasting Using Triple Exponential Smoothing, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/07/sest2018.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1807.05872.pdf">arXiv</a>]
 
 + S. Manandhar\*, S. Dev\*, Y. H. Lee, S. Winkler and Y. S. Meng, Systematic Study of Weather Variables for Rainfall Detection, *Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/05/igarss2018b.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1805.01957.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/weather-features">code</a>]

@@ -36,4 +36,4 @@ We use a deep-learning based method to localize the position of the advertisemen
 [<img src="{{ site.baseurl }}/images/video-grab.png">](https://youtu.be/zaKpJZhBVL4)
 
 ## Results   
-We are currently in the process of disseminating our research results to the community. 
+Please refer to the [publications](https://soumyabrata.github.io/publications/).  
