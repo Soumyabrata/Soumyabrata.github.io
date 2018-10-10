@@ -10,6 +10,7 @@ sidebar:
 ---
 ## 2018
 
++ Research talk on 'Computer-Vision Solutions for Sensing Problems', at University of Dundee, Scotland, October 2018.
 + Invited talk on the course '<a href="https://www.scss.tcd.ie/%7Edevs/bucknell.html">Inside the Machine: An Introduction to Architecture, Parallelism & Electronics</a>', at Bucknell University, Lewisburg, PA, United States, July 2018. 
 + Awarded the ADAPT Centre Directors Commercialisation Award 2018, in recognition of the contribution to Huawei Advert project. [<a href="https://soumyabratadev.files.wordpress.com/2018/07/director-award2018.pdf">PDF</a>]
 + Invited seminar on 'Developing Computer-Vision Solutions for Sensing Problems in Intelligent Systems', at University of Derby, United Kingdom, April 2018.
