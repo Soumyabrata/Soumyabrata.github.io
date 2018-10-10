@@ -87,7 +87,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 ## Technical Reports
 
-+ F. Pitie, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, Cloud-based intelligent advertisement space discovery and implantation in videos, *Patent Filed*. 
++ F. Pitie, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, Cloud-based intelligent advertisement space discovery and implantation in videos, *Patent Filed*, 2018. 
 
 + S. Dev, 2D and 3D Image Analysis and Its Application to Sky/Cloud Imaging, Doctoral Thesis, Nanyang Technological University Singapore, Singapore, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/thesis-soumyabratadev.pdf">Thesis</a>] [<a href="https://www.overleaf.com/read/zbrpyqpkwgzn">Thesis Latex Files</a>] [<a href="https://soumyabratadev.files.wordpress.com/2017/06/phd-defense.pdf">PhD Defense Slides</a>] [<a href="https://www.overleaf.com/read/gnjpksczmqtj">PhD Defense Slides Latex Files</a>]
 
