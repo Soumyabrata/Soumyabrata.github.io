@@ -10,6 +10,7 @@ sidebar:
 ---
 ## 2018
 
++ Presented our industry-collaborative research at <a href="https://irishtechnews.ie/huawei-ireland-video-intelligence-forum-2018-takes-place-october-23rd/">3rd Annual Huawei Ireland Video Intelligence Forum 2018</a>, Dublin, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/huawei-video-forum2018.pdf">PDF</a>]
 + Research talk on 'Computer-Vision Solutions for Sensing Problems', at University of Dundee, Scotland, October 2018.
 + Invited talk on the course '<a href="https://www.scss.tcd.ie/%7Edevs/bucknell.html">Inside the Machine: An Introduction to Architecture, Parallelism & Electronics</a>', at Bucknell University, Lewisburg, PA, United States, July 2018. 
 + Awarded the ADAPT Centre Directors Commercialisation Award 2018, in recognition of the contribution to Huawei Advert project. [<a href="https://soumyabratadev.files.wordpress.com/2018/07/director-award2018.pdf">PDF</a>]
