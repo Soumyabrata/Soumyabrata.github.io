@@ -28,9 +28,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ M. Hossari\*, S. Dev\*, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Pitie, ADNet: A Deep Network for Detecting Adverts, *Proc. 26th Irish Conference on Artificial Intelligence and Cognitive Science (AICS)*, 2018 (\* Authors contributed equally and arranged alphabetically). [<a href="https://soumyabratadev.files.wordpress.com/2018/11/aics2018.pdf">PDF</a>] 
++ M. Hossari\*, S. Dev\*, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, ADNet: A Deep Network for Detecting Adverts, *Proc. 26th Irish Conference on Artificial Intelligence and Cognitive Science (AICS)*, 2018 (\* Authors contributed equally and arranged alphabetically). [<a href="https://soumyabratadev.files.wordpress.com/2018/11/aics2018.pdf">PDF</a>] 
 
-+ A. Nautiyal\*, K. McCabe\*, M. Hossari\*, S. Dev\*, M. Nicholson, C. Conran, D. McKibben, J. Tang, W. Xu, and F. Pitie, An Advert Creation System for Next-Gen Publicity, *Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2018 (\* Authors contributed equally and arranged alphabetically). [<a href="https://soumyabratadev.files.wordpress.com/2018/08/ecml2018.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1808.00163.pdf">arXiv</a>] [<a href="https://youtu.be/zaKpJZhBVL4">video</a>] 
++ A. Nautiyal\*, K. McCabe\*, M. Hossari\*, S. Dev\*, M. Nicholson, C. Conran, D. McKibben, J. Tang, W. Xu, and F. Piti&eacute;, An Advert Creation System for Next-Gen Publicity, *Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2018 (\* Authors contributed equally and arranged alphabetically). [<a href="https://soumyabratadev.files.wordpress.com/2018/08/ecml2018.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1808.00163.pdf">arXiv</a>] [<a href="https://youtu.be/zaKpJZhBVL4">video</a>] 
 
 + S. Dev\*, T. AlSkaif\*, M. Hossari, R. Godina, A. Louwen, and W. van Sark, Solar Irradiance Forecasting Using Triple Exponential Smoothing, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2018 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2018/07/sest2018.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1807.05872.pdf">arXiv</a>]
 
@@ -89,7 +89,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 ## Technical Reports
 
-+ F. Pitie, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, Cloud-based intelligent advertisement space discovery and implantation in videos, *Patent Filed*, 2018. 
++ F. Piti&eacute;, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, Cloud-based intelligent advertisement space discovery and implantation in videos, *Patent Filed*, 2018. 
 
 + S. Dev, 2D and 3D Image Analysis and Its Application to Sky/Cloud Imaging, Doctoral Thesis, Nanyang Technological University Singapore, Singapore, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/thesis-soumyabratadev.pdf">Thesis</a>] [<a href="https://www.overleaf.com/read/zbrpyqpkwgzn">Thesis Latex Files</a>] [<a href="https://soumyabratadev.files.wordpress.com/2017/06/phd-defense.pdf">PhD Defense Slides</a>] [<a href="https://www.overleaf.com/read/gnjpksczmqtj">PhD Defense Slides Latex Files</a>]
 
@@ -100,7 +100,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 ## Others
 
-+ A. Abdelkader et al., "An Advert Creation System for Next-Gen Publicity", 3rd Annual Huawei Ireland Video Intelligence Forum 2018, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/huawei-video-forum2018.pdf">PDF</a>]
++ A. Abdelkader, A. Nautiyal, C. Conran, D. McKibben, D. Turner, F. Piti&eacute;, J. Vreeke, K. McCabe, M. Hossari, M. Nicholsan, S. Dev, "An Advert Creation System for Next-Gen Publicity", 3rd Annual Huawei Ireland Video Intelligence Forum 2018, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/huawei-video-forum2018.pdf">PDF</a>]
 
 + T. AlSkaif, S. Dev, L. Visser, M. Hossari, W. van Sark, "On the Analysis and Evaluation of Meteorological Variables for Photovoltaic Output Power Estimation", ACOS 2018 - Applied Computational Science Symposium, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/acos18.pdf">PDF</a>]
 
