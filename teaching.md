@@ -16,11 +16,11 @@ I am teaching courses primarily on computer data structures and data analytics, 
 I am lecturing a course on <a href="http://courses.ncirl.ie/index.cfm/page/module/moduleId/20375">H9PDA: Programming for Data Analytics</a>, for degree in Masters in Cloud Computing. Please see <a href="https://moodle.ncirl.ie/course/view.php?id=1319">the moodle page</a> for course notes + assignments.
 
 ### 2014-16
-During my doctoral program, I was a Teaching Assistant for the course <a href="https://eee.ntu.edu.sg/Programmes/CurrentStudents/undergraduate/undergraduatefull-time/Documents/EE2008.pdf">EE2008: Data Structures and Algorithms</a>. In 2014, I taught this course for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2014.html">Sem 1 AY 2014-15</a>, for which I am the recipient of <a href="https://soumyabratadev.files.wordpress.com/2016/07/teaching_award_fall2014.pdf">Commendable Teaching Assistant award</a> from NTU Singapore. 
+During my doctoral program, I was a Teaching Assistant for the course <a href="https://eee.ntu.edu.sg/Programmes/CurrentStudents/undergraduate/undergraduatefull-time/Documents/EE2008.pdf">EE2008: Data Structures and Algorithms</a>. In 2014, I taught this course for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2014.html">Sem 1 AY 2014-15</a>, for which I am the recipient of <a href="https://soumyabratadev.files.wordpress.com/2016/07/teaching_award_fall2014.pdf">Commendable Teaching Assistant award</a> from NTU Singapore. <br />
 
-Additionally, I have taught the course EE2008: Data Structures and Algorithms for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2015.html">Sem 2 AY 2015-16</a> session. 
+Additionally, I have taught the course EE2008: Data Structures and Algorithms for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2015.html">Sem 2 AY 2015-16</a> session. <br />
 
-In Sem 1 AY 2016-17, I was involved in peer-tutoring sessions for the course EE2008: Data Structures and Algorithms. This was a special course offering, that was conducted, under the direction of our school's <a href="http://www.eee.ntu.edu.sg/Programmes/CurrentStudents/sws/AcademicCounselling/Pages/Home.aspx">pastoral care office</a>.
+In Sem 1 AY 2016-17, I was involved in peer-tutoring sessions for the course EE2008: Data Structures and Algorithms. This was a special course offering, that was conducted, under the direction of our school's <a href="http://www.eee.ntu.edu.sg/Programmes/CurrentStudents/sws/AcademicCounselling/Pages/Home.aspx">pastoral care office</a>. 
 
 
 
@@ -39,7 +39,7 @@ I am also involved in outreach activities and teaching Junior College students, 
 <br />
 
 ## Mentor
-I also mentor students in their Master of Science (MSc) research thesis, Final Year Projects (FYPs) and <a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx">Nanyang Research Program</a> (NRP). 
+I also mentor students in their Master of Science (MSc) research thesis, Final Year Projects (FYPs) and <a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx">Nanyang Research Program</a> (NRP) projects. 
 
 ### Current
 + Jyotsna Patel, NCI MSc, AY 2018-19
