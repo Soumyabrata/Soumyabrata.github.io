@@ -36,4 +36,4 @@ We use a deep-learning based method to localize the position of the advertisemen
 [<img src="{{ site.baseurl }}/images/video-grab.png">](https://youtu.be/zaKpJZhBVL4)
 
 ## Results   
-Please refer to the [publications](https://soumyabrata.github.io/publications/).  
+Please refer to the [publications](https://soumyabrata.github.io/publications/). It also received extensive <a href="https://www.adaptcentre.ie/news/adapt-research-shortlisted-for-2018-technology-ireland-software-industry-aw">media coverage</a>.
