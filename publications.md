@@ -17,7 +17,7 @@ sidebar:
 
 + S. Dev, Y. H. Lee, S. Winkler, Color-based segmentation of sky/cloud images from ground-based cameras, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 10, no. 1, pp. 231-242, Jan 2017.  [<a href="https://soumyabratadev.files.wordpress.com/2016/07/jstars2016.pdf">PDF</a>] [<a href="http://arxiv.org/pdf/1606.03669v1.pdf">arXiv</a>]
 
-+ S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, DIY Sky Imager For Weather Observation: A complete guide to build a ground-based sky imager using off-the-shelf components with automatic cloud coverage computation, SPM Student Design Project Series Documents, IEEE Signal Processing Society, 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/diy-sky-imager-project_1.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/DIY-sky-imager">code</a>]
++ S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, <a href="https://sigport.org/documents/diy-sky-imager-weather-observation">DIY Sky Imager For Weather Observation: A complete guide to build a ground-based sky imager using off-the-shelf components with automatic cloud coverage computation</a>, SPM Student Design Project Series Documents, IEEE Signal Processing Society, 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/diy-sky-imager-project_1.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/DIY-sky-imager">code</a>]
 <br />
 Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">Students' Design Project Series: Sharing Experiences [SP Education]</a>, IEEE Signal Processing Magazine, Jan 2017.
 
