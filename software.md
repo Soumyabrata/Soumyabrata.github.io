@@ -13,7 +13,7 @@ sidebar:
 We also worked on a few software-based projects, such as heap-management techniques and cryptography.
 
 ## Team
-Worked in collaboration with [National Institute of Technology Silchar](http://www.nits.ac.in/), India.
+This work was performed at [National Institute of Technology Silchar](http://www.nits.ac.in/), India, and <a href="http://www.ericsson.com/in">Ericsson India</a>.
 
 ## Description 
 

@@ -18,7 +18,7 @@ To analyse and understand the impact of clouds in satellite communication links 
 
 ## Team
 
-Worked in collaboration with:
+This is a collaborative work between:
 - [Nanyang Technological University Singapore](http://www.ntu.edu.sg/home/eyhlee/) 
 - [Advanced Digital Sciences Center (ADSC)](http://vintage.winklerbros.net/index.html), Singapore. 
 

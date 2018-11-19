@@ -17,11 +17,11 @@ I am lecturing a course on <a href="http://courses.ncirl.ie/index.cfm/page/modul
 
 ### 2014-16
 During my doctoral program, I was a Teaching Assistant for the course <a href="https://eee.ntu.edu.sg/Programmes/CurrentStudents/undergraduate/undergraduatefull-time/Documents/EE2008.pdf">EE2008: Data Structures and Algorithms</a>. In 2014, I taught this course for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2014.html">Sem 1 AY 2014-15</a>, for which I am the recipient of <a href="https://soumyabratadev.files.wordpress.com/2016/07/teaching_award_fall2014.pdf">Commendable Teaching Assistant award</a> from NTU Singapore. 
-<br />
 
+<br />
 Additionally, I have taught the course EE2008: Data Structures and Algorithms for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2015.html">Sem 2 AY 2015-16</a> session. 
-<br />
 
+<br />
 In Sem 1 AY 2016-17, I was involved in peer-tutoring sessions for the course EE2008: Data Structures and Algorithms. This was a special course offering, that was conducted, under the direction of our school's <a href="http://www.eee.ntu.edu.sg/Programmes/CurrentStudents/sws/AcademicCounselling/Pages/Home.aspx">pastoral care office</a>. 
 
 
@@ -32,13 +32,14 @@ During my doctoral program, I was a Teaching Assistant for the course EE2008: Da
 Additionally, I have taught this course for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2015.html">Sem 2 AY 2015-16</a> session. 
 
 Also, in Sem 1 AY 2016-17, I was involved in peer-tutoring sessions for this course. 
--->
+
 
 <br />
+-->
 
 ## Outreach
 I am also involved in outreach activities and teaching Junior College students, as a part of the university outreach programs. I worked on fun and interesting projects during my doctoral program at NTU. I taught students how to build antenna using regular tin cans (more popularly known as <a href="https://en.wikipedia.org/wiki/Cantenna">cantenna</a>). Additionally, I explained arduino programming using a block of LEDs - check out our <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/ledcube.html">LED Cube workshop</a> page. 
-<br />
+
 
 ## Mentor
 I also mentor students in their Master of Science (MSc) research thesis, Final Year Projects (FYPs) and <a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx">Nanyang Research Program</a> (NRP) projects. 

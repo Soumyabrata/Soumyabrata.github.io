@@ -15,7 +15,7 @@ sidebar:
 Understanding user communication in wireless networks.
 
 ## Team
-Worked in collaboration with [Indian Institute of Science Bangalore](http://www.ece.iisc.ernet.in/~vinod/), India. 
+This work was performed at [Indian Institute of Science Bangalore](http://www.ece.iisc.ernet.in/~vinod/), India. 
 
 ## Description 
 
