@@ -20,7 +20,7 @@ This is a collaborative work between:
 - [Huawei Ireland Research Center](http://www.huawei.com/en/about-huawei/corporate-information/research-development), Dublin. 
 
 ## Description 
-With the rapid development of internet services, there has been a massive surge in the development of online multimedia videos. These videos are equipped with *[skip-ad](https://medium.com/@alenarajwani/the-mistake-you-make-each-time-you-press-the-skip-ad-button-on-youtube-e4f21b4d101c)* buttons and ad blockers, bringing online marketing and advertisement to a standstill. In this project, we solve this problem by seamlessly integrating new adverts into existing adverts in videos. We design a system that can localize an existing advert in an image frame (from the video sequence), and replace it with a new target advert.    
+With the rapid development of internet services, there has been a massive surge in the development of online multimedia videos. These videos are equipped with *[skip-ad](https://medium.com/@alenarajwani/the-mistake-you-make-each-time-you-press-the-skip-ad-button-on-youtube-e4f21b4d101c)* buttons and ad blockers, bringing online marketing and advertisement to a standstill. In this project, we solve this problem by seamlessly integrating new adverts into existing adverts in videos. We design a [system](https://arxiv.org/pdf/1808.00163.pdf) that can localize an existing advert in an image frame (from the video sequence), and replace it with a new target advert.    
 <img src="{{ site.baseurl }}/images/advert-story.png">
 <br />
 *(From left to right) Original image, Augmented image with new target advert.*   
