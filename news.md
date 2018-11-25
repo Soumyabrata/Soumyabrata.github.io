@@ -10,6 +10,7 @@ sidebar:
 ---
 ## 2018
 
++ Awarded the Outstanding Academic Achievement award, by Technology Ireland, November 2018. [<a href="https://twitter.com/technology_irl/status/1066101122455220225">news</a>]
 + Presented our industry-collaborative research at <a href="https://irishtechnews.ie/huawei-ireland-video-intelligence-forum-2018-takes-place-october-23rd/">3rd Annual Huawei Ireland Video Intelligence Forum 2018</a>, Dublin, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/huawei-video-forum2018.pdf">PDF</a>]
 + Research talk on 'Computer-Vision Solutions for Sensing Problems', at University of Dundee, Scotland, October 2018.
 + Invited talk on the course '<a href="https://www.scss.tcd.ie/%7Edevs/bucknell.html">Inside the Machine: An Introduction to Architecture, Parallelism & Electronics</a>', at Bucknell University, Lewisburg, PA, United States, July 2018. 

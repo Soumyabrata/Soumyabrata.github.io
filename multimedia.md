@@ -38,4 +38,8 @@ Traditionally, the frames in a video are manually checked by the video-editors, 
 [<img src="{{ site.baseurl }}/images/video-grab.png">](https://youtu.be/zaKpJZhBVL4)
 
 ## Results   
-Please refer to the [publications](https://soumyabrata.github.io/publications/). It also received extensive <a href="https://www.adaptcentre.ie/news/adapt-research-shortlisted-for-2018-technology-ireland-software-industry-aw">media coverage</a>.
+Please refer to the [publications](https://soumyabrata.github.io/publications/). It also received extensive media coverage: 
+[<a href="https://www.adaptcentre.ie/news/adapt-research-shortlisted-for-2018-technology-ireland-software-industry-aw">adaptcentre</a>] 
+[<a href="https://www.technology-ireland.ie/Sectors/TI/TI.nsf/vPages/Awards~finalists-2018!OpenDocument">technology-ireland</a>] 
+[<a href="https://www.ibec.ie/IBEC/Press/PressPublicationsdoclib3.nsf/vPages/Newsroom~finalists-named-for-technology-ireland-2018-awards-25-10-2018?OpenDocument">ibec</a>] 
+[<a href="https://www.techcentral.ie/technology-ireland-awards-shortlist-revealed/">techcentral</a>].
