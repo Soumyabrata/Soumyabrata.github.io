@@ -39,6 +39,12 @@ Traditionally, the frames in a video are manually checked by the video-editors, 
 
 ## Results   
 Please refer to the [publications](https://soumyabrata.github.io/publications/). It also received extensive media coverage: 
+[<a href="https://www.tcd.ie/news_events/articles/adapt-scoops-technology-ireland-award-for-disruptive-advertising-system/">tcd</a>]
+[<a href="https://www.dcu.ie/news/news/2018/Nov/ADAPT-scoops-Technology-Ireland-Award-for-Disruptive-Advertising-System.shtml">dcu</a>]
+[<a href="https://www.irishtimes.com/business/technology/learnupon-takes-top-prize-at-annual-technology-ireland-awards-1.3708041">irishtimes</a>]
+[<a href="https://www.isin.ie/go/news_events/news/learnupon-adapt-centre-amongst-the-winners-at-the-2018-technology-awards">isin</a>]
+[<a href="https://www.adaptcentre.ie/news/adapt-research-centre-scoops-technology-ireland-award-for-disruptive-advert">adaptcentre</a>] 
+[<a href="http://www.engineersjournal.ie/2018/11/28/adapt-wins-technology-ireland-award-for-disruptive-advertising-system/">engineersjournal</a>] 
 [<a href="https://www.adaptcentre.ie/news/adapt-research-shortlisted-for-2018-technology-ireland-software-industry-aw">adaptcentre</a>] 
 [<a href="https://www.technology-ireland.ie/Sectors/TI/TI.nsf/vPages/Awards~finalists-2018!OpenDocument">technology-ireland</a>] 
 [<a href="https://www.ibec.ie/IBEC/Press/PressPublicationsdoclib3.nsf/vPages/Newsroom~finalists-named-for-technology-ireland-2018-awards-25-10-2018?OpenDocument">ibec</a>] 
