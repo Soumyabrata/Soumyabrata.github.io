@@ -12,6 +12,14 @@ sidebar:
 <!---
 	Details about sidebar info is provided inside _data/navigation.yml file
 -->
+# Summary
+
+I am currently in the academic job market. This page provides details on several aspects of application packet.
+
+
+| curriculum vitae | <a href="https://soumyabratadev.files.wordpress.com/2018/05/cv-soumya.pdf">PDF</a>|
+
+
 ## Research Statement
 
 The central theme of my research vision is to identify the specific computational problems in the above areas; and solve them in a cooperative manner with the domain experts. I am a firm believer of open science and research reproducibility – and thereby interested to advance science by promoting mutual collaboration and collective efforts amongst the community. I am interested in developing computer-vision based techniques to analyze earth observations. Currently, I am also involved in applying deep-learning based techniques in consumer multimedia data. In the future, I am interested to extend my expertise of artificial intelligence in medical imaging, specifically, in multimodal neuroimaging.   
