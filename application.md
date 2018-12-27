@@ -22,7 +22,19 @@ Curriculum Vitae | [<a href="https://soumyabratadev.files.wordpress.com/2018/05/
 
 ## Research Statement
 
-The central theme of my research vision is to identify the specific computational problems in the above areas; and solve them in a cooperative manner with the domain experts. I am a firm believer of open science and research reproducibility – and thereby interested to advance science by promoting mutual collaboration and collective efforts amongst the community. I am interested in developing computer-vision based techniques to analyze earth observations. Currently, I am also involved in applying deep-learning based techniques in consumer multimedia data. In the future, I am interested to extend my expertise of artificial intelligence in medical imaging, specifically, in multimodal neuroimaging.   
+The current rapid developments in machine intelligence and computer vision
+owe to three important factors – existence of massive data, open-source algorithms,
+and higher computing power. I am interested in utilizing these recent developments
+to solve specific computational problems in computer vision. My research interests are
+primarily in the field of image processing, computer vision, machine learning, and deep
+learning. Broadly speaking, I am interested in designing state-of-the-art algorithms and
+systems, based on rigorous mathematical framework and systematic data analysis in
+the following research areas:
+
++ Earth sciences and related observations,
++ Multimedia imaging- and video- data.
+
+
 
 ### Remote sensing
 The future of solving energy crisis lies at the successful integration of solar and renewable energy into the conventional power grid. With the rapid development in photogrammetric techniques and low-cost weather station data, it is now increasingly easier to collect massive image and other meteorological sensor data of the earth's atmosphere from the ground. The key to many unsolved problems lies in systematically analyzing these massive data, and fusing these diverse data types to develop new tools and techniques in renewable energy. My research plan in this particular field of atmospheric observations lies at the intersection of remote sensing and machine learning. In particular, I am interested to visualize in what ways state-of-the-art techniques inspired from computer vision and machine learning community help us in analyzing solar energy falling at earth's surface.   
