@@ -131,7 +131,7 @@ about the traffic and road signs. I am interested in exploring the possibility
 of a multi-modal approach with Near-Infra-Red (NIR) and Global Positioning System
 (GPS), in addition to regular RGB camera images.  
 
-<img src="{{ site.baseurl }}/images/haze-img.jpg">
+<img src="{{ site.baseurl }}/images/traffic.png">
 *Automatic detection of traffic- light and signage using a multitude of sensor
 data.*   
 
@@ -172,8 +172,7 @@ Inspired by the practical problems faced in various area, my vision is to use my
 pertise of machine learning and image processing to solve similar problems in myriad
 fields: solar analytics, and smart traffic analytics. Alongside my research, I am inter-
 ested to continue involving myself in a number of education and outreach activities.
-Furthermore, I am a firm believer of open science, and the spirit of reproducible re-
-search [7]. Therefore, whenever possible, I continue to publish my preprints, and release
+Furthermore, I am a firm believer of open science, and the spirit of reproducible research [7]. Therefore, whenever possible, I continue to publish my preprints, and release
 the associated codes and datasets amongst the community.
 
 
@@ -181,22 +180,28 @@ the associated codes and datasets amongst the community.
 
 [1] S. Dev, F. M. Savoy, Y. H. Lee and S. Winkler, DIY Sky Imager For Weather Observation, IEEE
 Signal Processing Society, 2016
+<br />
 [2] C. Fredembach and S. Süsstrunk, Colouring the near-infrared, Proc. Color and Imaging Confer-
 ence, 2008.
+<br />
 [3] S. Dev, Y. H. Lee, S. Winkler, Color-based segmentation of sky/cloud images from ground-based
 cameras, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,
 vol. PP, no. 99, pp. 1-12, 2016.
+<br />
 [4] A. Nautiyal*, K. McCabe*, M. Hossari*, S. Dev*, M. Nicholson, C. Conran, D. McKibben, J.
 Tang, W. Xu, and F. Pitié, An Advert Creation System for Next-Gen Publicity, Proc. Euro-
 pean Conference on Machine Learning and Principles and Practice of Knowledge Discovery in
 Databases (ECML-PKDD), 2018 (* Authors contributed equally and arranged alphabetically).
+<br />
 [5] M. Hossari*, S. Dev*, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F.
 Pitié, ADNet: A Deep Network for Detecting Adverts, Proc. 26th Irish Conference on Artificial
 Intelligence and Cognitive Science (AICS), 2018 (* Authors contributed equally and arranged
 alphabetically).
+<br />
 [6] S. Manandhar, Y. H. Lee, Y. S. Meng, F. Yuan and S. Dev, A Potential Low Cost Remote Sensing
 Using GPS Derived PWV, Proc. IEEE International Geoscience and Remote Sensing Symposium
 (IGARSS), 2018.
+<br />
 [7] P. Vandewalle, J. Kovacevic, M. Vetterli, Reproducible Research in Signal Processing - What,
 why, and how, IEEE Signal Processing Magazine, vol. 26, no. 3, pp. 37–47, 2009.
 
