@@ -14,7 +14,7 @@ sidebar:
 -->
 # Summary
 
-I am currently in the academic job market. This page provides details on several aspects of application packet.
+I am currently in the academic job market. This page provides details on several aspects of my application packet.
 
 <br />
 Curriculum Vitae | [<a href="https://soumyabratadev.files.wordpress.com/2018/05/cv-soumya.pdf">PDF</a>]
@@ -37,8 +37,7 @@ the following research areas:
 
 ### Executive Summary
 
-The central theme of my research vision is to identify the specific computational prob-
-lems in the above areas; and solve them in a collaborative manner with the domain
+The central theme of my research vision is to identify the specific computational problems in the above areas; and solve them in a collaborative manner with the domain
 experts. I am a firm believer of open science and research reproducibility – and thereby
 interested in advancing science by promoting mutual collaboration and collective efforts
 among the community.
@@ -47,12 +46,9 @@ among the community.
 
 ### Computer Vision in Remote Sensing
 
-The future of solving energy crisis lies at the successful integration of solar and re-
-newable energy into the conventional power grid. With the rapid development in pho-
-togrammetric techniques and low-cost imaging and weather-station data, it is now
+The future of solving energy crisis lies at the successful integration of solar and renewable energy into the conventional power grid. With the rapid development in photogrammetric techniques and low-cost imaging and weather-station data, it is now
 increasingly easier to collect massive image and other meteorological sensor data of the
-earth’s atmosphere from the ground. The key to many unsolved problems in atmo-
-spheric studies lies in systematically analyzing these massive data, and fusing these
+earth’s atmosphere from the ground. The key to many unsolved problems in atmospheric studies lies in systematically analyzing these massive data, and fusing these
 diverse data types to develop new algorithms and techniques. My research plan in this
 particular field of atmospheric studies lies at the intersection of remote sensing and
 computer vision. In particular, I am interested to visualize in what ways state-of-the-
@@ -61,10 +57,8 @@ us in analyzing solar energy falling at earth’s surface.
 
 <br />
 My interest in this field of earth observations and solar energy stems from my
-previous doctoral experience at Nanyang Technological University Singapore. My pre-
-vious work involved the study and analysis of clouds in tropical regions, like Singapore,
-and to understand the impact of clouds in the signal attenuation of satellite communi-
-cation links. We used ground-based sky cameras that continuously captures the images
+previous doctoral experience at Nanyang Technological University Singapore. My previous work involved the study and analysis of clouds in tropical regions, like Singapore,
+and to understand the impact of clouds in the signal attenuation of satellite communication links. We used ground-based sky cameras that continuously captures the images
 of the earth’s atmosphere at regular intervals of time. These images were useful in
 generating a highly localized cloud profile, and understanding the various atmospheric
 events. We designed our custom-built sky cameras [1], equipped with wide-angle fish
@@ -97,14 +91,11 @@ can be deployed at multiple locations across the region of interest. This will h
 mapping the entire solar irradiance map over the considered region.
 
 <br />
-In summary, such problems in remote sensing merit a more rigorous and thor-
-ough analysis in a multitude of applications, and I intend to bridge that gap. I am
-interested to study such remote-sensing problems from the perspective of computer vi-
-sion and machine learning communities. This project can be collaboratively executed
-alongside international institutions and research groups. I have already developed ini-
-tial contacts with leading solar energy groups: Copernicus Institute of Sustainable
-Development, Utrecht University, The Netherlands, Center for Energy Research, UC
-San Diego and Solar Energy Research Institute of Singapore (SERIS).
+In summary, such problems in remote sensing merit a more rigorous and thorough analysis in a multitude of applications, and I intend to bridge that gap. I am
+interested to study such remote-sensing problems from the perspective of computer vision and machine learning communities. This project can be collaboratively executed
+alongside international institutions and research groups. I have already developed initial contacts with leading solar energy groups: [Copernicus Institute of Sustainable
+Development, Utrecht University, The Netherlands](https://www.uu.nl/en/research/copernicus-institute-of-sustainable-development), [Center for Energy Research, UC
+San Diego](https://cer.ucsd.edu) and [Solar Energy Research Institute of Singapore (SERIS)](http://www.seris.nus.edu.sg).
 
  
 
@@ -122,8 +113,7 @@ poor lighting conditions during fog and misty weather conditions.
 My previous doctoral experience also dealt with using near-infrared cameras
 to see through fogs. Fredembach and Süsstrunk demonstrated in their recent work [2]
 that the haze disappears in near-infrared capture of an outdoor scene as compared to
-an image captured by a conventional RGB image. I plan to investigate this character-
-istics of near-infrared imaging in the context of car dashboard cameras. Such imaging
+an image captured by a conventional RGB image. I plan to investigate this characteristics of near-infrared imaging in the context of car dashboard cameras. Such imaging
 techniques are very important in our current application and has potential in capturing
 sharper and clearer images of the road scene. A regular RGB image, together with
 a near-infrared capture of the same scene will provide the car driver better insights
@@ -139,22 +129,18 @@ data.*
 It is an interesting problem to harness the large amount of videos obtained
 from car dashboard cameras, with varying spectral resolutions. I am interested to use
 the color-information of the regular traffic signs to provide a robust and state-of-the-art
-object detection system. Color-based image segmentation is an expertise that I gath-
-ered since my PhD studies. During my doctoral problem, we presented a supervised segmentation framework based on a systematic analysis of different color spaces and
+object detection system. Color-based image segmentation is an expertise that I gathered since my PhD studies. During my doctoral problem, we presented a supervised segmentation framework based on a systematic analysis of different color spaces and
 components [3]. Unlike other state-of-the-art color segmentation methods, our proposed
-approach was entirely learning-based and does not require any manually defined param-
-eters. We also released a large segmentation database of annotated sky/cloud images,
+approach was entirely learning-based and does not require any manually defined parameters. We also released a large segmentation database of annotated sky/cloud images,
 to the research community. Currently, at the ADAPT Centre, I am also working on a
-object-instance segmentation task in collaboration with Huawei Ireland Research Cen-
-tre. I am developing deep-learning based techniques to identify advertisement billboards
+object-instance segmentation task in collaboration with Huawei Ireland Research Centre. I am developing deep-learning based techniques to identify advertisement billboards
 in street-view videos. We are designing an advertisement detection- and integration-
 system for multimedia videos, that is useful for next-generation online publicity [4].
 We have developed ADNet, a deep convolutional network that automatically detect the
 presence of a street billboard in a video frame [5]. Furthermore, we also developed a
 deep-learning based method to localize the position of the advertisement in the video
-frame. Our project produced an impressive advertisement creation system, and also
-received extensive media coverage for the work. I believe my current project is pro-
-viding me the relevant know-hows for object detection and localization, in the field of
+frame. Our project produced an [impressive advertisement creation system](https://youtu.be/zaKpJZhBVL4), and also
+received extensive [media coverage](https://www.tcd.ie/news_events/articles/adapt-scoops-technology-ireland-award-for-disruptive-advertising-system/) for the work. I believe my current project is providing me the relevant know-hows for object detection and localization, in the field of
 vision-assisted autonomous driving.
 
 <br />
@@ -162,7 +148,7 @@ Apart from image-based data, I am also interested to explore other sensor
 data for assisted driving. I plan to use Light Detection and Ranging (LIDAR) data
 and GPS [6] for the same purpose. Such a multi-modal approach can help the driver to
 take an informed decision during autonomous navigation. I plan to execute this project
-with the assistance from small- and medium-size enterprises. I established contact with ai Robotics, an Anuva Ventures start-up company incubated in Singapore.
+with the assistance from small- and medium-size enterprises. I established contact with [ai Robotics](http://anuva-ventures.com/projects), an Anuva Ventures start-up company incubated in Singapore.
 
  
 
@@ -188,14 +174,13 @@ ence, 2008.
 cameras, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,
 vol. PP, no. 99, pp. 1-12, 2016.
 <br />
-[4] A. Nautiyal*, K. McCabe*, M. Hossari*, S. Dev*, M. Nicholson, C. Conran, D. McKibben, J.
-Tang, W. Xu, and F. Pitié, An Advert Creation System for Next-Gen Publicity, Proc. Euro-
-pean Conference on Machine Learning and Principles and Practice of Knowledge Discovery in
-Databases (ECML-PKDD), 2018 (* Authors contributed equally and arranged alphabetically).
+[4] A. Nautiyal\*, K. McCabe\*, M. Hossari\*, S. Dev\*, M. Nicholson, C. Conran, D. McKibben, J.
+Tang, W. Xu, and F. Pitié, An Advert Creation System for Next-Gen Publicity, Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in
+Databases (ECML-PKDD), 2018 (\* Authors contributed equally and arranged alphabetically).
 <br />
-[5] M. Hossari*, S. Dev*, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F.
+[5] M. Hossari\*, S. Dev\*, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F.
 Pitié, ADNet: A Deep Network for Detecting Adverts, Proc. 26th Irish Conference on Artificial
-Intelligence and Cognitive Science (AICS), 2018 (* Authors contributed equally and arranged
+Intelligence and Cognitive Science (AICS), 2018 (\* Authors contributed equally and arranged
 alphabetically).
 <br />
 [6] S. Manandhar, Y. H. Lee, Y. S. Meng, F. Yuan and S. Dev, A Potential Low Cost Remote Sensing
