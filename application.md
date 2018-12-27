@@ -254,3 +254,62 @@ college and polytechnic students, as a part of our university outreach programs.
 been a rewarding and enriching experience so far. I enjoyed the interaction with my
 students, and I intend to continue such mentorship role in my prospective academic
 career.
+
+
+## Diversity Statement
+
+Growing up overseas in the remote town of [Nagaon](https://en.wikipedia.org/wiki/Nagaon), in the province of Assam
+situated on the north-eastern part of India, I was exposed to varied culture and tradition
+from a very early age. My parents migrated to my home province about four decades
+back because of their respective jobs. Consequently, I was born and raised in a different
+culture and upbringing at a very early stage, as compared to my parents’ culture and
+traditions. However, I was extremely privileged to be born in a family where my parents
+and family members defied all odds, and were successful in providing the best education
+to me and my other siblings.
+
+<br />
+In this intended application of mine, I would like to humbly point a few pointers that greatly helped me in embracing diversity and a positive inclusionary envi-
+ronment in my current self. I completed all my high-school education from my home
+province. In 2006, I got admitted to a national institute of technology, for my engineering studies. This period was undoubtedly the first time, when I started lifelong
+friendship with students, who came from the diverse cultural backgrounds of India.
+It was an amazing experience, as I learnt to forge friendship with people from various backgrounds. Post my graduation in 2010, I joined a Swedish telecommunication
+company as a network engineer and worked with them for 2 years. It was also an enriching experience for me, as I got a chance to interact with employees of different age
+groups, designations, nationality etc. I understood first-hand that embracing diversity
+and inclusiveness in the workplace positively impacts the overall well-being of the team.
+
+<br />
+My doctoral training at Nanyang Technological University (NTU) Singapore
+since 2012, further assisted me in improving my emotional quotient. I got exposed to
+education curriculum of international standards, and received opportunities to develop
+friendship with friends and colleagues from diverse nationalities. Singapore prides itself
+to possess one of the diverse workforce in the international community, and I was
+fortunate to experience it first hand. My doctoral training at NTU also gave me the
+initial opportunities in teaching diverse students. As a teaching assistant in the subject
+Data Structures and Algorithms, I got exposed to a variety of students in my class.
+Particularly, I was interested in helping the academically weak students who struggled
+to maintain a good semester grades. Therefore, I enrolled myself as a peer tutor after
+my office hours, to assist them in better understanding the fundamental concepts of
+this subject. It was an opportunity for me to identify with the challenges faced by the
+students, and I was delighted to see their improvements over the months. An email
+excerpt from one of such students – she said, “Hi Soumya, I would like to thank you
+for your guidance on DSA. I thought that I would failed badly for it but with your help I gotten B+. Thank you so much. Best regards, LY”. This frankly summarizes my
+amazement after getting to know their outcomes.
+
+<br />
+Similar diverse cultural experiences were learnt during my research attachment at École polytechnique fédérale de Lausanne, Switzerland. These experiences
+garnered over these years are greatly assisting me in my current job at Dublin, Ireland.
+I have understood that diversity should be celebrated, and a diverse workforce is always
+necessary for a balanced viewpoint. This philosophy stands true for both prospective
+academicians and prospective students.
+
+<br />
+I am inclined to believe that, if opportunities are bestowed upon the right students, irrespective of the geographic boundaries, we can assist many in their educational
+goals. Based on this philosophy, I am involved as an advisor at Xonkolpo: Higher-Ed
+Initiative. [Xonkolpo](https://www.facebook.com/xonkolpo.org/) is a non-profit initiative floated by a community of enthusiasts
+from Assam, India whose goal is to build a world-class support system for students of
+North-Eastern India in any Science, Technology, Engineering and Management (STEM)
+field.
+
+<br />
+These experiences further strengthen my commitment in promoting diversity
+at my workplace, and I intent to look forward to a diverse community.
