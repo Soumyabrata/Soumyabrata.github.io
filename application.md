@@ -17,7 +17,7 @@ sidebar:
 I am currently in the academic job market. This page provides details on several aspects of my application packet.
 
 <br />
-Curriculum Vitae | [<a href="https://soumyabratadev.files.wordpress.com/2018/05/cv-soumya.pdf">PDF</a>]
+Curriculum Vitae | [<a href="https://www.scss.tcd.ie/~devs/files/CV.pdf">PDF</a>]
 
 
 ## Research Statement
@@ -268,8 +268,7 @@ and family members defied all odds, and were successful in providing the best ed
 to me and my other siblings.
 
 <br />
-In this intended application of mine, I would like to humbly point a few pointers that greatly helped me in embracing diversity and a positive inclusionary envi-
-ronment in my current self. I completed all my high-school education from my home
+In this intended application of mine, I would like to humbly point a few pointers that greatly helped me in embracing diversity and a positive inclusionary environment in my current self. I completed all my high-school education from my home
 province. In 2006, I got admitted to a national institute of technology, for my engineering studies. This period was undoubtedly the first time, when I started lifelong
 friendship with students, who came from the diverse cultural backgrounds of India.
 It was an amazing experience, as I learnt to forge friendship with people from various backgrounds. Post my graduation in 2010, I joined a Swedish telecommunication
