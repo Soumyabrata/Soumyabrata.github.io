@@ -16,8 +16,8 @@ sidebar:
 
 I am currently in the academic job market. This page provides details on several aspects of application packet.
 
-
-| curriculum vitae | <a href="https://soumyabratadev.files.wordpress.com/2018/05/cv-soumya.pdf">PDF</a>|
+<br />
+Curriculum Vitae | [<a href="https://soumyabratadev.files.wordpress.com/2018/05/cv-soumya.pdf">PDF</a>]
 
 
 ## Research Statement
