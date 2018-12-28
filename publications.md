@@ -104,7 +104,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + A. Abdelkader, A. Nautiyal, C. Conran, D. McKibben, D. Turner, F. Piti&eacute;, J. Vreeke, K. McCabe, M. Hossari, M. Nicholsan, S. Dev, "An Advert Creation System for Next-Gen Publicity", 3rd Annual Huawei Ireland Video Intelligence Forum 2018, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/huawei-video-forum2018.pdf">PDF</a>]
 
+<!---
 + T. AlSkaif, S. Dev, L. Visser, M. Hossari, W. van Sark, "On the Analysis and Evaluation of Meteorological Variables for Photovoltaic Output Power Estimation", ACOS 2018 - Applied Computational Science Symposium, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/acos18.pdf">PDF</a>]
+-->
 
 + S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, "Cloud Imaging Using Ground-based Sky Cameras", ADSC PhD day, Singapore, August 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/adsc-phd-day.pdf">PDF</a>]
 
