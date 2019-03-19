@@ -28,6 +28,10 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Multi-label Cloud Segmentation Using a Deep Network, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2019. [<a href="https://arxiv.org/pdf/1903.06562.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/multilabel-unet">code</a>]
+
++ S. Manandhar\*, S. Dev\*, Y. H. Lee and S. Winkler, Predicting GPS-based PWV Measurements Using Exponential Smoothing, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2019 (\* Authors contributed equally). [<a href="https://arxiv.org/pdf/1903.06506.pdf">PDF</a>] 
+
 + M. Hossari, S. Dev and J. D. Kelleher, TEST: A Terminology Extraction System for Technology Related Terms, *Proc. 11th International Conference on Computer and Automation Engineering (ICCAE)*, 2019. [<a href="https://soumyabratadev.files.wordpress.com/2019/03/iccae2019.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1812.09541.pdf">arXiv</a>] 
 
 + M. Hossari\*, S. Dev\*, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, ADNet: A Deep Network for Detecting Adverts, *Proc. 26th Irish Conference on Artificial Intelligence and Cognitive Science (AICS)*, 2018 (\* Authors contributed equally and arranged alphabetically). [<a href="https://soumyabratadev.files.wordpress.com/2018/11/aics2018.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1811.04115.pdf">arXiv</a>]
