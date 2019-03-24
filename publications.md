@@ -11,6 +11,9 @@ sidebar:
 
 
 ## Journals
+
++ S. Dev, A. Nautiyal, Y. H. Lee, S. Winkler, CloudSegNet: A Deep Network for Nychthemeron Cloud Segmentation, *IEEE Geoscience and Remote Sensing Letters*, 2019.
+
 + S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, High-Dynamic-Range Imaging for Cloud Segmentation, *Atmospheric Measurement Techniques (AMT)*, 2018.  [<a href="https://soumyabratadev.files.wordpress.com/2018/03/amt2018.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1803.01071.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/HDR-cloud-segmentation">code</a>]
 
 + S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Rough Set Based Color Channel Selection, *IEEE Geoscience and Remote Sensing Letters*, vol. 14, no. 1, pp. 52-56, Jan 2017.  [<a href="https://soumyabratadev.files.wordpress.com/2016/11/grsl2016.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1611.00931v1.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/rough-sets">code</a>]
