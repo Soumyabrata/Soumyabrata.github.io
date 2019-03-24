@@ -24,6 +24,8 @@ I am currently working (or have worked) on several related research projects.
 ## [Multimedia](https://soumyabrata.github.io/multimedia/)
 This project involves designing an advertisement detection- and integration- system for multimedia videos. It is useful for next-generation online publicity (viz. product placement and embedded marketing), wherein advertisements are seamlessly integrated into the video scenes. We use deep-learning based techniques for determining if a video frame contains an existing advert, and for accurate localization of adverts in the selected video frame. Subsequently, new adverts are seamlessly implanted into the original video, to create a new augmented video. 
 
+[[more details](https://soumyabrata.github.io/multimedia/)]
+
 
 ## [Cloud Imaging](https://soumyabrata.github.io/cloud/)
 In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the sky scene. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height.

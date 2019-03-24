@@ -47,6 +47,8 @@ sidebar-pubs:
 
 
 sidebar-news:
+  - title: "2019"
+    url: /news/#2019
   - title: "2018"
     url: /news/#2018
   - title: "2017"

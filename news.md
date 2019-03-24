@@ -8,6 +8,10 @@ comments: false
 sidebar:
   nav: sidebar-news
 ---
+
+## 2019
++ Delivered an undergraduate research talk on 'Solving Interdisciplinary Problems Using Computer Vision', at Maynooth University, Co. Kildare, February 2019.
+
 ## 2018
 
 + Presented our work on ADNet deep-learning model, used for detecting adverts in video frames, at the 26th Irish Conference on Artificial Intelligence and Cognitive Science, Dublin, Ireland. [<a href="https://soumyabratadev.files.wordpress.com/2018/12/2018aics-presentation.pdf">presentation</a>]
