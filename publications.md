@@ -31,6 +31,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ T. AlSkaif\*, S. Dev\*, L. Visser, M. Hossari, and W. van Sark, On the Interdependence and Importance of Meteorological Variables for Photovoltaic Output Power Estimation, *Proc. 46th IEEE Photovoltaic Specialists Conference (PVSC)*, 2019 (\* Authors contributed equally). 
+
 + S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The CASE Dataset of Candidate Spaces for Advert Implantation, *Proc. International Conference on Machine Vision Applications (MVA)*, 2019. [<a href="https://arxiv.org/pdf/1903.08943.pdf">arXiv</a>] 
 
 + S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Multi-label Cloud Segmentation Using a Deep Network, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2019. [<a href="https://arxiv.org/pdf/1903.06562.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/multilabel-unet">code</a>]
@@ -100,7 +102,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 ## Technical Reports
 
-+ F. Piti&eacute;, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, Cloud-based intelligent advertisement space discovery and implantation in videos, *Patent Filed*, 2018. 
++ F. Piti&eacute;, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, An automatic system that identifies and locates the four corners of the advertising space in a video as a cloud service, *Patent Filed*, 2018. 
+
++ F. Piti&eacute;, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, An algorithm that ranks candidate advertising spaces based on their quality and value, *Patent Filed*, 2018. 
 
 + S. Dev, 2D and 3D Image Analysis and Its Application to Sky/Cloud Imaging, Doctoral Thesis, Nanyang Technological University Singapore, Singapore, 2017. [<a href="https://soumyabratadev.files.wordpress.com/2017/06/thesis-soumyabratadev.pdf">Thesis</a>] [<a href="https://www.overleaf.com/read/zbrpyqpkwgzn">Thesis Latex Files</a>] [<a href="https://soumyabratadev.files.wordpress.com/2017/06/phd-defense.pdf">PhD Defense Slides</a>] [<a href="https://www.overleaf.com/read/gnjpksczmqtj">PhD Defense Slides Latex Files</a>]
 
