@@ -35,9 +35,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The CASE Dataset of Candidate Spaces for Advert Implantation, *Proc. International Conference on Machine Vision Applications (MVA)*, 2019. [<a href="https://arxiv.org/pdf/1903.08943.pdf">arXiv</a>] 
 
-+ S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Multi-label Cloud Segmentation Using a Deep Network, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2019. [<a href="https://arxiv.org/pdf/1903.06562.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/multilabel-unet">code</a>]
++ S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Multi-label Cloud Segmentation Using a Deep Network, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2019. [<a href="https://arxiv.org/pdf/1903.06562.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/multilabel-unet">code</a>]
 
-+ S. Manandhar\*, S. Dev\*, Y. H. Lee and S. Winkler, Predicting GPS-based PWV Measurements Using Exponential Smoothing, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2019 (\* Authors contributed equally). [<a href="https://arxiv.org/pdf/1903.06506.pdf">PDF</a>] 
++ S. Manandhar\*, S. Dev\*, Y. H. Lee and S. Winkler, Predicting GPS-based PWV Measurements Using Exponential Smoothing, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2019 (\* Authors contributed equally). [<a href="https://arxiv.org/pdf/1903.06506.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/predicting-pwv">code</a>]
 
 + M. Hossari, S. Dev and J. D. Kelleher, TEST: A Terminology Extraction System for Technology Related Terms, *Proc. 11th International Conference on Computer and Automation Engineering (ICCAE)*, 2019. [<a href="https://soumyabratadev.files.wordpress.com/2019/03/iccae2019.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1812.09541.pdf">arXiv</a>] 
 
