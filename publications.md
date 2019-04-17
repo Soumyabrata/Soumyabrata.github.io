@@ -31,7 +31,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The ALOS Dataset for Advert Localization in Outdoor Scenes, *Proc. Eleventh International Conference on Quality of Multimedia Experience (QoMEX)*, 2019.
++ S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The ALOS Dataset for Advert Localization in Outdoor Scenes, *Proc. Eleventh International Conference on Quality of Multimedia Experience (QoMEX)*, 2019. [<a href="https://arxiv.org/pdf/1904.07776.pdf">arXiv</a>] 
 
 + C. S. Nwosu\*, S. Dev\*, P. Bhardwaj, B. Veeravalli, and C. J. Deepu, Understanding Electronic Health Records for Stroke Prediction, *Proc. 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 (\* Authors contributed equally). 
 
