@@ -12,7 +12,7 @@ sidebar:
 
 ## Journals
 
-+ S. Dev, A. Nautiyal, Y. H. Lee, S. Winkler, CloudSegNet: A Deep Network for Nychthemeron Cloud Segmentation, *IEEE Geoscience and Remote Sensing Letters*, 2019.
++ S. Dev, A. Nautiyal, Y. H. Lee, S. Winkler, CloudSegNet: A Deep Network for Nychthemeron Cloud Segmentation, *IEEE Geoscience and Remote Sensing Letters*, 2019. [<a href="https://arxiv.org/pdf/1904.07979.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/CloudSegNet">code</a>]
 
 + S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, High-Dynamic-Range Imaging for Cloud Segmentation, *Atmospheric Measurement Techniques (AMT)*, 2018.  [<a href="https://soumyabratadev.files.wordpress.com/2018/03/amt2018.pdf">PDF</a>] [<a href="https://arxiv.org/pdf/1803.01071.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/HDR-cloud-segmentation">code</a>]
 
