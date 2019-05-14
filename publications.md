@@ -31,7 +31,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, Localizing Adverts in Outdoor Scenes, *Proc. IEEE International Conference on Multimedia and Expo (ICME)*, 2019. 
++ S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, Localizing Adverts in Outdoor Scenes, *Proc. IEEE International Conference on Multimedia & Expo Workshops (ICMEW)*, 2019. [<a href="https://arxiv.org/pdf/1905.02106.pdf">arXiv</a>] 
 
 + S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The ALOS Dataset for Advert Localization in Outdoor Scenes, *Proc. Eleventh International Conference on Quality of Multimedia Experience (QoMEX)*, 2019. [<a href="https://arxiv.org/pdf/1904.07776.pdf">arXiv</a>] 
 
