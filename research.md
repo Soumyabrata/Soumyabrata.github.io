@@ -28,19 +28,19 @@ This project involves designing an advertisement detection- and integration- sys
 [[more details](https://soumyabrata.github.io/multimedia/)]
 
 
-## [Cloud Imaging](https://soumyabrata.github.io/cloud/)
+## [<u>Cloud Imaging</u>](https://soumyabrata.github.io/cloud/)
 In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the sky scene. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height.
 
 <br />
 [[more details](https://soumyabrata.github.io/cloud/)]
 
-## [Solar Analytics](https://soumyabrata.github.io/solar/)
+## [<u>Solar Analytics</u>](https://soumyabrata.github.io/solar/)
 In this project, we use a multi-modal data integration approach, in using various sensors (camera images + weather station recordings) to provide useful insights about solar energy. We use image- and weather-station- data for accurate solar energy estimation and forecasting. This is useful in the field of photovoltaic (PV) generation and integration. 
 
 <br />
 [[more details](https://soumyabrata.github.io/solar/)]
 
-## [Communications](https://soumyabrata.github.io/communication/)
+## [<u>Communications</u>](https://soumyabrata.github.io/communication/)
 This project deals with the analysis of user- interaction and cooperation in wireless networks. We propose algorithmic framework, that helps in improving the performance of the IEEE 802.11 protocol. 
 
 <br />
@@ -49,7 +49,7 @@ We also work in proposing a dynamic frequency allocation and interference mitiga
 <br />
 [[more details](https://soumyabrata.github.io/communication/)]
 
-## [Software](https://soumyabrata.github.io/software/)
+## [<u>Software</u>](https://soumyabrata.github.io/software/)
 In this research theme, we dealt with several software-related issues. Heap management is responsible for the allocation of heap segments to a running application. We propose a new heap management technique that has an inherent auto compaction technique in its algorithm leading to minimum fragmentation of memory space. 
 
 <br />
