@@ -21,7 +21,7 @@ My research interests lie primarily in image- and signal- processing, machine le
 I am currently working (or have worked) on several related research projects. 
 
 
-## [Multimedia](https://soumyabrata.github.io/multimedia/)
+## [<u>Multimedia</u>](https://soumyabrata.github.io/multimedia/)
 This project involves designing an advertisement detection- and integration- system for multimedia videos. It is useful for next-generation online publicity (viz. product placement and embedded marketing), wherein advertisements are seamlessly integrated into the video scenes. We use deep-learning based techniques for determining if a video frame contains an existing advert, and for accurate localization of adverts in the selected video frame. Subsequently, new adverts are seamlessly implanted into the original video, to create a new augmented video. 
 
 <br />
