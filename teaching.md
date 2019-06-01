@@ -12,11 +12,13 @@ sidebar:
 ## Course
 I am teaching courses primarily on computer data structures and data analytics, over the last few years.
 
-#### H8BGD: Programming for big data
+### H8BGD: Programming for big data
+#### Semester II, AY 2018-19
+**Semester II, AY 2018-19** 
+<br />
 I am lecturing a course on <a href="http://courses.ncirl.ie/index.cfm/page/module/moduleId/21358">Programming for big data</a>, for Higher Diploma in Science in Data Analytics. Please see <a href="https://moodle.ncirl.ie/course/view.php?id=1605">the moodle page</a> for course notes + assignments.
 
 <br />
-### H8BGD: Programming for big data
 I am also a Teaching Assistant, conducting the lab sessions of [EEU44C08 Digital Image and Video Processing](https://github.com/frcs/EE4C08), for fourth year undergraduates of Trinity College Dublin. <!---Please see the blackboard page, for lab handouts.-->
 
 
