@@ -14,11 +14,10 @@ sidebar:
 -->
 
 # Research 
-My research interests lie primarily in image- and signal- processing, machine learning, remote sensing and deep learning. I am interested in using these expertise in solving problems related to digital multimedia, cloud imaging, and solar and renewable energy. 
-
+My research interests lie primarily in image- and signal- processing, machine learning, remote sensing and deep learning. I am interested in using techniques from these areas in solving problems related to digital multimedia, cloud imaging, and solar and renewable energy. 
 
 <br />
-I am currently working (or have worked) on several related research projects. 
+I am currently working on the following research themes. Please navigate into the individual research themes for more details. 
 
 
 ## [<u>Multimedia</u>](https://soumyabrata.github.io/multimedia/)
@@ -43,15 +42,17 @@ In this project, we use a multi-modal data integration approach, in using variou
 <br />
 [[more details](https://soumyabrata.github.io/solar/)]-->
 
+
+<!---
 ## [<u>Communications</u>](https://soumyabrata.github.io/communication/)
 This project deals with the analysis of user- interaction and cooperation in wireless networks. We propose algorithmic framework, that helps in improving the performance of the IEEE 802.11 protocol. 
 
 <br />
 We also work in proposing a dynamic frequency allocation and interference mitigation algorithm for dense urban wireless networks. The algorithm is implemented and tested on-air in a proprietary Ericsson software.
 
-<!---
+
 <br />
-[[more details](https://soumyabrata.github.io/communication/)]-->
+[[more details](https://soumyabrata.github.io/communication/)]
 
 ## [<u>Software</u>](https://soumyabrata.github.io/software/)
 In this research theme, we dealt with several software-related issues. Heap management is responsible for the allocation of heap segments to a running application. We propose a new heap management technique that has an inherent auto compaction technique in its algorithm leading to minimum fragmentation of memory space. 
@@ -59,6 +60,4 @@ In this research theme, we dealt with several software-related issues. Heap mana
 <br />
 We also developed randomized cryptographic techniques that can be effectively provide better security solutions.
 
-<!---
-<br />
-[[more details](https://soumyabrata.github.io/software/)]-->
+-->
