@@ -10,6 +10,7 @@ sidebar:
 ---
 
 ## 2019
++ Invited talk on the course '<a href="https://www.scss.tcd.ie/~devs/bdic.html">Inside the Machine: An Introduction to Architecture, Parallelism & its Applications</a>', at University College Dublin, Dublin, Ireland, May 2019.
 + Delivered an undergraduate research talk on 'Solving Interdisciplinary Problems Using Computer Vision', at Maynooth University, Co. Kildare, February 2019.
 
 ## 2018
