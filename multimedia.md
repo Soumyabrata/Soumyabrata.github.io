@@ -32,6 +32,7 @@ Traditionally, the frames in a video are manually checked by the video-editors, 
 <br />
 *(From left to right) Input image, Binary ground-truth map, Detected advert, Localized advert.*  
 
+<br />
 We also explored the idea of identifying candidate spaces in a video frame, wherein new adverts can be artificially implanted. This technology assists the advertisement agencies to generate personalised video content, based on consumers' likes and dislikes. We proposed and released the first large-scale dataset (referred as <a href="https://arxiv.org/pdf/1903.08943.pdf">CASE dataset</a>) of candidate placements in outdoor scene images. Our proposed light-weight DeepAds neural model is also effective in identifying new candidates spaces in video frames. 
 
 <img src="{{ site.baseurl }}/images/candidate-space-example.png">
