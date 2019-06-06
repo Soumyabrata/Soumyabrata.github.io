@@ -26,18 +26,24 @@ With the rapid development of internet services, there has been a massive surge 
 
 <br />
 
-Traditionally, the frames in a video are manually checked by the video-editors, for possible candidates in new advert integration. This is obviously cumbersome and time-consuming. In this project, we propose a deep-learning module called <a href="https://arxiv.org/abs/1811.04115">ADNet</a> that automatically detects if a video frame contains an existing advert. Furthermore, we also use a deep-learning based method to localize the position of the advertisement in the video frame. Based on a large-scale dataset of outdoor scenes with manually annotated ground-truth maps, we propose a probabilistic billboard detection framework. We further refine the bounding box of the billboard, using a deep-learning based refinement network. 
+Traditionally, the frames in a video are manually checked by the video-editors, for possible candidates in new advert integration. This is obviously cumbersome and time-consuming. In this project, we propose a deep-learning module called <a href="https://arxiv.org/abs/1811.04115">ADNet</a> that automatically detects if a video frame contains an existing advert. Furthermore, we also propose a <a href="https://arxiv.org/pdf/1905.02106.pdf">light-weight convolutional neural network called DeepAds</a>, that can localize the position of the advertisement in the video frame with a high degree of accuracy. The DeepAds model is based on a probabilistic billboard detection framework, that assigns a degree of probability to each pixel in a video frame to belong to *billboard* category. In this context, we collected and annotated a large-scale dataset of outdoor scenes (referred as <a href="https://arxiv.org/pdf/1904.07776.pdf">ALOS dataset</a>) with manually annotated ground-truth maps. Finally, the bouding box is computed using a deep-learning based refinement network. 
 
 <img src="{{ site.baseurl }}/images/mul-localization.jpg">
 <br />
 *(From left to right) Input image, Binary ground-truth map, Detected advert, Localized advert.*  
+
+We also explored the idea of identifying candidate spaces in a video frame, wherein new adverts can be artificially implanted. This technology assists the advertisement agencies to generate personalised video content, based on consumers' likes and dislikes. We proposed and released the first large-scale dataset (referred as <a href="https://arxiv.org/pdf/1903.08943.pdf">CASE dataset</a>) of candidate placements in outdoor scene images. Our proposed light-weight DeepAds neural model is also effective in identifying new candidates spaces in video frames. 
+
+<img src="{{ site.baseurl }}/images/candidate-space-example.png">
+<br />
+*The candidate spaces (marked in pink) can either be floating across the scene, or anchored against walls in the scene.* 
 
 ## Demonstration 
 
 [<img src="{{ site.baseurl }}/images/video-grab.png">](https://youtu.be/zaKpJZhBVL4)
 
 ## Results   
-Please refer to the [publications](https://soumyabrata.github.io/publications/). It also received extensive media coverage: 
+Please refer to the [publications](https://soumyabrata.github.io/publications/). This work has received extensive media coverage: 
 [<a href="https://www.tcd.ie/news_events/articles/adapt-scoops-technology-ireland-award-for-disruptive-advertising-system/">tcd</a>]
 [<a href="https://www.dcu.ie/news/news/2018/Nov/ADAPT-scoops-Technology-Ireland-Award-for-Disruptive-Advertising-System.shtml">dcu</a>]
 [<a href="https://www.irishtimes.com/business/technology/learnupon-takes-top-prize-at-annual-technology-ireland-awards-1.3708041">irishtimes</a>]
