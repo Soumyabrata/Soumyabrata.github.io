@@ -21,26 +21,17 @@ I am currently working on the following research themes. Please navigate into th
 
 
 ## [<u>Multimedia</u>](https://soumyabrata.github.io/multimedia/)
-This project involves designing an advertisement detection- and integration- system for multimedia videos. It is useful for next-generation online publicity (viz. product placement and embedded marketing), wherein advertisements are seamlessly integrated into the video scenes. We use deep-learning based techniques for determining if a video frame contains an existing advert, and for accurate localization of adverts in the selected video frame. Subsequently, new adverts are seamlessly implanted into the original video, to create a new augmented video. 
+This project involves designing an advertisement detection- and integration- system for multimedia videos. It is useful for next-generation online publicity (viz. product placement and embedded marketing), wherein advertisements are seamlessly integrated into the video scenes. We use deep-learning based techniques for determining if a video frame contains an existing advert, and for accurate localization of adverts in the selected video frame. Subsequently, new adverts are seamlessly implanted into the original video, to create a new augmented video. [[read more](https://soumyabrata.github.io/multimedia/)]
 
-<!---
-<br />
-[[more details](https://soumyabrata.github.io/multimedia/)]-->
 
 
 ## [<u>Cloud Imaging</u>](https://soumyabrata.github.io/cloud/)
-In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the sky scene. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height.
+In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the sky scene. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height. [[read more](https://soumyabrata.github.io/cloud/)]
 
-<!---
-<br />
-[[more details](https://soumyabrata.github.io/cloud/)]-->
+
 
 ## [<u>Solar Analytics</u>](https://soumyabrata.github.io/solar/)
-In this project, we use a multi-modal data integration approach, in using various sensors (camera images + weather station recordings) to provide useful insights about solar energy. We use image- and weather-station- data for accurate solar energy estimation and forecasting. This is useful in the field of photovoltaic (PV) generation and integration. 
-
-<!---
-<br />
-[[more details](https://soumyabrata.github.io/solar/)]-->
+In this project, we use a multi-modal data integration approach, in using various sensors (camera images + weather station recordings) to provide useful insights about solar energy. We use image- and weather-station- data for accurate solar energy estimation and forecasting. This is useful in the field of photovoltaic (PV) generation and integration. [[read more](https://soumyabrata.github.io/solar/)]
 
 
 <!---
