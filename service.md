@@ -16,8 +16,8 @@ comments: false
 + 2018: <a href="http://aics2018.scss.tcd.ie/index.html">AICS 2018</a>, 26th Irish Conference on Artificial Intelligence and Cognitive Science 
 
 ### Referee
-+ 2019: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-+ 2019: Remote Sensing
++ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
++ Remote Sensing
 
 ### Talks
 + 2019: <a href="https://www.meetup.com/Machine-Learning-Dublin/events/262441772/">Machine Learning Dublin meetup</a> on <a href="https://twitter.com/DublinML/status/1143229057334558720 ">June 24, 2019</a> to discuss our recent work on deep-learning based advert-creation system, developed in collaboration with Huawei Ireland Research Centre. [<a href="https://soumyabratadev.files.wordpress.com/2019/06/ml_meetup_june2019.pdf">slides</a>]
