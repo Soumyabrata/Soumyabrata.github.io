@@ -7,22 +7,18 @@ modified: 27-06-2019
 comments: false
 ---
 
-## Organizing Committee
+### Organizing Committee
 + 2019: hello
 + 2019: hello
 
-## Technical Program Committee
+### Technical Program Committee
 + 2019: hello
 + 2019: hello
 
-## Journal Referee
+### Referee
 + 2019: hello
 + 2019: hello
 
-## Conference Referee
-+ 2019: hello
-+ 2019: hello
-
-## Talks
+### Talks
 + 2019: hello
 + 2019: hello
