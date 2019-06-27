@@ -1,43 +1,16 @@
 ---
 layout: page
-permalink: /contact/
-title: Contact Me
+permalink: /service/
+title: Services
 tags: 
-modified: 24-04-2017
+modified: 27-06-2019
 comments: false
 ---
-<!---
-email: <a href="mailto:soumyabrata.dev@adaptcentre.ie">soumyabrata.dev@adaptcentre.ie</a>  
-phone: + 353 1896 1797   
-address: ADAPT Centre, Room G31, O'Reilly Building, Dublin 2 (see <a href="https://www.google.ie/maps/place/53°20'36.7%22N+6°15'03.4%22W/@53.3435311,-6.2531254,17z/am=t/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.3435311!4d-6.2509314?hl=en">Google Maps</a>)  
-Trinity College Dublin, Ireland  
-affiliation: IEEE (S'09-M'17)  
--->
 
-|                  |                                                                       |
-|------------------|-----------------------------------------------------------------------|
-| email            | <a href="mailto:soumyabrata.dev@adaptcentre.ie">soumyabrata.dev@adaptcentre.ie</a>|
-| phone            | + 353 1896 1797                                                       |
-| address          | The ADAPT Centre                                                      |
-|                  | Room G31, O’Reilly Building, Dublin 2                                 |
-|                  | Trinity College Dublin, Ireland                                       |
-|                  | (see <a href="https://www.google.ie/maps/place/53°20'36.7%22N+6°15'03.4%22W/@53.3435311,-6.2531254,17z/am=t/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.3435311!4d-6.2509314?hl=en">Google Maps</a>)|
-| membership       | IEEE (S’09-M’17)                                                      |
-| academic job     | I am no longer in the academic job market. <a href="https://soumyabrata.github.io/application/">This page</a>, however, provides details on several aspects of my application. You may find it useful.|
+## Course
+I am teaching courses primarily in the area of data analytics, programming, image processing and computer data structures.
 
-
-
-<!---
-Communication Research I  
-S2.1 B4-03/04  
-50 Nanyang Avenue  
-Electrical and Electronic Engineering  
-Nanyang Technological University  
-Singapore-639798  
-
-email: soumyabr001[at]e[dot]ntu[dot]edu[dot]sg  
-
-phone: +65 6790 6527 
-
-| affiliation      | <img src="{{ site.baseurl }}/images/adapt-logo.png" width="140">      |
--->
+### H9PDA: Programming for Data Analytics
+**Semester III, AY 2018-19, National College of Ireland** 
+<br />
+Currently, I am lecturing a course on <a href="http://courses.ncirl.ie/index.cfm/page/module/moduleId/20375">H9PDA: Programming for Data Analytics</a>, for degree in Masters in Cloud Computing. Please see <a href="https://moodle.ncirl.ie/course/view.php?id=1464">the moodle page</a> for course notes + assignments.
