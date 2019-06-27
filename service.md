@@ -43,3 +43,9 @@ comments: false
 
 ### Talks
 + 2019: <a href="https://www.meetup.com/Machine-Learning-Dublin/events/262441772/">Machine Learning Dublin meetup</a> on <a href="https://twitter.com/DublinML/status/1143229057334558720 ">June 24, 2019</a> to discuss our recent work on deep-learning based advert-creation system, developed in collaboration with Huawei Ireland Research Centre. [<a href="https://soumyabratadev.files.wordpress.com/2019/06/ml_meetup_june2019.pdf">slides</a>]
++ 2019: Course '<a href="https://www.scss.tcd.ie/~devs/bdic.html">Inside the Machine: An Introduction to Architecture, Parallelism & its Applications</a>', at University College Dublin, Dublin, Ireland, May 2019.
++ 2019: 'Solving Interdisciplinary Problems Using Computer Vision', at Maynooth University, Co. Kildare, February 2019. [<a href="https://soumyabratadev.files.wordpress.com/2019/06/maynooth_talk.pdf">slides</a>]
++ 2018: ADNet deep-learning model, used for detecting adverts in video frames, at the 26th Irish Conference on Artificial Intelligence and Cognitive Science, Dublin, Ireland. [<a href="https://soumyabratadev.files.wordpress.com/2018/12/2018aics-presentation.pdf">presentation</a>]
+
+
+
