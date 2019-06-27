@@ -28,22 +28,16 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  #- title: Curriculum
-  #  url: /cv/
-  #- title: Publications
-  #  url: /publications/
-  #- title: Code
-  #  url: /code/
-  #- title: Blog
-  #  url: /blog/
   - title: Research
     url: /research/
   - title: Publications
     url: /publications/    
   - title: Teaching
     url: /teaching/      
-  - title: News
-    url: /news/      
+  # - title: News
+  #   url: /news/      
+  - title: Service
+    url: /service/      
   - title: Contact
     url: /contact/      
 
