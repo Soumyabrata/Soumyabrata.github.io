@@ -19,6 +19,8 @@ Our research interests are primarily in the area of computer vision, image proce
 <div class="row">
 
   <div class="col-xs-2">
+	  **Soumyabrata Dev** 
+	  <br />
     <a href="https://soumyabrata.github.io/">
       <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
     </a>
