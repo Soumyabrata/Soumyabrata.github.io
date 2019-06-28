@@ -15,31 +15,47 @@ Welcome to the THEIA: THE vIsion and Analytics lab. The THEIA lab is based in th
 Our research interests are primarily in the area of computer vision, image processing, and remote sensing. We are interested in using techniques from statistical machine learning and deep learning, to solve interdisciplinary computational problems in various fields. 
 
 
+#### Academic Leader
 <div class="row">
 
-
-
   <div class="col-xs-2">
     <a href="https://soumyabrata.dev/">
-      <img class="people-pic" src="{{ "/images/4-solar.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
-      <h6>ADAPT Centre, Trinity College Dublin, Ireland</h6>
+      Some of Soumya's details
     </div>
   </div>
   
-  <br />
   
+</div>
+
+
+#### Collaborator 
+<div class="row">
+
   <div class="col-xs-2">
     <a href="https://soumyabrata.dev/">
-      <img class="people-pic" src="{{ "/images/4-solar.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
-      <h6>ADAPT Centre, Trinity College Dublin, Ireland</h6>
+      Some of Murhaf's details
     </div>
   </div>
   
+<br />
+
+  <div class="col-xs-2">
+    <a href="https://soumyabrata.dev/">
+      <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
+      Some of Fab's details
+    </div>
+  </div>
+
   
 </div>
