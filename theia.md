@@ -24,6 +24,7 @@ Our research interests are primarily in the area of computer vision, image proce
     </a>
     <div class="people-name">
       <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
+	  <br />
       Some of Soumya's details
     </div>
   </div>
@@ -41,6 +42,7 @@ Our research interests are primarily in the area of computer vision, image proce
     </a>
     <div class="people-name">
       <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
+	  <br />
       Some of Murhaf's details
     </div>
   </div>
@@ -53,6 +55,7 @@ Our research interests are primarily in the area of computer vision, image proce
     </a>
     <div class="people-name">
       <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
+	  <br />
       Some of Fab's details
     </div>
   </div>
