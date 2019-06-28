@@ -7,7 +7,7 @@ modified: 28-06-2019
 comments: false
 ---
 
-### THEIA: THE vIsion and Analytics lab
+## THEIA: THE vIsion and Analytics lab
 
 Welcome to the THEIA: THE vIsion and Analytics lab. The THEIA lab is based in the School of Computer Science, University College Dublin. Our group's research is funded by University College Dublin and the ADAPT SFI Research Centre. 
 
@@ -15,7 +15,7 @@ Welcome to the THEIA: THE vIsion and Analytics lab. The THEIA lab is based in th
 Our research interests are primarily in the area of computer vision, image processing, and remote sensing. We are interested in using techniques from statistical machine learning and deep learning, to solve interdisciplinary computational problems in various fields. 
 
 
-#### Academic Leader
+### Academic Leader
 
 <div class="row">
   <div class="col-xs-2">
@@ -29,7 +29,7 @@ Our research interests are primarily in the area of computer vision, image proce
 </div>
 
 
-#### Research Leads 
+### Research Leads 
 <div class="row">
 	<div class="col-xs-2">
     <a href="https://www.linkedin.com/in/murhaf-hossari-0ab50588/">
@@ -57,7 +57,7 @@ Our research interests are primarily in the area of computer vision, image proce
 
 
 
-#### Alumni
+### Alumni
 
 + Ankur Patil, NCI MSc, AY 2018-19
 + Jyotsna Patel, NCI MSc, AY 2018-19
