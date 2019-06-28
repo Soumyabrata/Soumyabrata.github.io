@@ -11,7 +11,7 @@ sidebar:
 
 ## THEIA: THE vIsion and Analytics lab
 
-Welcome to the THEIA: THE vIsion and Analytics lab. The THEIA lab is based in the School of Computer Science, University College Dublin. Our group's research is funded by University College Dublin and the ADAPT SFI Research Centre. 
+Welcome to the <a href="https://soumyabrata.github.io/theia/">THEIA: THE vIsion and Analytics lab</a>. The THEIA lab is based in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin</a>. Our group's <a href="https://soumyabrata.github.io/research/">research</a> is funded by <a href="https://www.ucd.ie/">University College Dublin</a> and the <a href="https://www.adaptcentre.ie">ADAPT SFI Research Centre</a>. 
 
 <br />
 Our research interests are primarily in the area of computer vision, image processing, and remote sensing. We are interested in using techniques from statistical machine learning and deep learning, to solve interdisciplinary computational problems in various fields. 
@@ -79,5 +79,5 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 + Wenqing Fan, NTU NRP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 
 
-##### [Why THEIA? ](#abcd)
+##### Why THEIA
 All great research starts with a story. Our group's name THEIA lab is derived from the <a href="https://en.wikipedia.org/wiki/Theia">Greek goddess Theia</a>, also referred as the Titan goddess of sight (thea), and the bright blue sky (aithre). Also, Theia's brother is Hyperion, who is a god of the sun. Quite interestingly, our group's research is focused on computer vision, solar and renewable energy etc. Credits to <a href="https://twitter.com/hossari">Murhaf</a> and <a href="https://twitter.com/BadmotorF">Fabrizio</a> for this wonderful idea. 
