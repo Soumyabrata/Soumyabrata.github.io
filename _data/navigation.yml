@@ -7,17 +7,15 @@ sidebar-sample:
     
     
     
-sidebar-research-less:
-  - title: "Overview"
-    url: /research/
-  - title: "Cloud Imaging"
-    url: /cloud/
-  - title: "Solar Analytics"
-    url: /solar/
-  - title: "Communications"
-    url: /communication/  
-  - title: "Software"
-    url: /software/ 
+sidebar-service:
+  - title: "Organizing Committee"
+    url: /service/#organizing-committee
+  - title: "Technical Program Committee"
+    url: /service/#technical-program-committee
+  - title: "Talks"
+    url: /service/#talks
+  - title: "Referee"
+    url: /service/#referee
 
 
 sidebar-research:
