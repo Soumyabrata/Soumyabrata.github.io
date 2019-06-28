@@ -24,7 +24,7 @@ Our research interests are primarily in the area of computer vision, image proce
       <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      Soumyabrata DEV is a postdoctoral researcher at ADAPT Centre, the Science Foundation Ireland (SFI)-funded research centre, based at Trinity College Dublin.
+      <b>Soumyabrata DEV</b> is a postdoctoral researcher at ADAPT Centre, the Science Foundation Ireland (SFI)-funded research centre, based at Trinity College Dublin.
     </div>
   </div>
   
