@@ -5,6 +5,8 @@ title: Team
 tags: 
 modified: 28-06-2019
 comments: false
+sidebar:
+  nav: sidebar-theia
 ---
 
 ## THEIA: THE vIsion and Analytics lab
