@@ -34,10 +34,10 @@ links:
     url: /publications/    
   - title: Teaching
     url: /teaching/      
-  # - title: News
-  #   url: /news/      
   - title: Service
     url: /service/      
+  - title: Team
+    url: /theia/      
   - title: Contact
     url: /contact/      
 
