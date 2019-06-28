@@ -4,7 +4,16 @@ sidebar-sample:
   - title: "New Page"
     url: / 
     
-    
+ 
+sidebar-theia:
+   - title: "Academic Leader"
+     url: /theia/#academic-leader
+   - title: "Research Leads"
+     url: /theia/#research-leads    
+   - title: "Alumni"
+     url: /theia/#alumni  
+   - title: "Why Theia?"
+     url: /theia/#abcd  
     
     
 sidebar-service:
