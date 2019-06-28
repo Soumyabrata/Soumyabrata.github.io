@@ -19,13 +19,11 @@ Our research interests are primarily in the area of computer vision, image proce
 <div class="row">
 
   <div class="col-xs-2">
-    <a href="https://soumyabrata.dev/">
+    <a href="https://soumyabrata.github.io/">
       <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
-	  <br />
-      Some of Soumya's details
+      Soumyabrata DEV is a postdoctoral researcher at ADAPT Centre, the Science Foundation Ireland (SFI)-funded research centre, based at Trinity College Dublin.
     </div>
   </div>
   
@@ -37,26 +35,22 @@ Our research interests are primarily in the area of computer vision, image proce
 <div class="row">
 
   <div class="col-xs-2">
-    <a href="https://soumyabrata.dev/">
-      <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
+    <a href="https://www.linkedin.com/in/murhaf-hossari-0ab50588/">
+      <img class="people-pic" src="{{ "/images/theia/MH.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
-	  <br />
-      Some of Murhaf's details
+	  Murhaf HOSSARI is an AI Architect (Machine Learning) at Trinity College Dublin.
     </div>
   </div>
   
 <br />
 
   <div class="col-xs-2">
-    <a href="https://soumyabrata.dev/">
-      <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
+    <a href="https://badmotor.github.io/">
+      <img class="people-pic" src="{{ "/images/theia/FO.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>
-	  <br />
-      Some of Fab's details
+      Fabrizio ORLANDI is a Research Fellow at ADAPT Centre, Trinity College Dublin. His research interests are focused on Knowledge Graphs, Semantic Web, Web of Data, Knowledge Representation and the application of semantic technologies to different domains, such as Social Media, Personalisation and Open Government Data. 
     </div>
   </div>
 
