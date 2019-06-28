@@ -40,7 +40,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
       <img class="people-pic" src="{{ "/images/theia/MH.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-	  <b>Murhaf HOSSARI</b> is an AI Architect in ADAPT Centre, Trinity College Dublin. His main interests and expertise are in Natural Language Processing, Machine Learning and Deep Learning. Prior to ADAPT Centre, Murhaf worked in Apple Inc. for 5 years, where he was working on Apple’s software, ensuring that they can be fully localised to different languages and specific regions. He won the 2018 DatSci award for Best Contribution to Data Science from Academic Research Body.
+	  <b>Murhaf HOSSARI</b> is an AI Architect in ADAPT Centre, Trinity College Dublin. His main interests and expertise are in Natural Language Processing, Machine Learning and Deep Learning. Prior to ADAPT Centre, Murhaf worked in Apple Inc. for 5 years. He won the 2018 DatSci award for Best Contribution to Data Science from Academic Research Body.
     </div>
  </div>
   
