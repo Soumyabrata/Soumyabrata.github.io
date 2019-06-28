@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /theia/
-title: THEIA: THE vIsion and Analytics lab
+title: Team
 tags: 
 modified: 28-06-2019
 comments: false
 ---
 
+## THEIA: THE vIsion and Analytics lab
 
 Welcome to the THEIA: THE vIsion and Analytics lab. The THEIA lab is based in the School of Computer Science, University College Dublin. Our group's research is funded by University College Dublin and the ADAPT SFI Research Centre. 
 
