@@ -41,7 +41,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + C. S. Nwosu\*, S. Dev\*, P. Bhardwaj, B. Veeravalli, and D. John, Predicting Stroke from Electronic Health Records, *Proc. 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 (\* Authors contributed equally). [<a href="https://arxiv.org/pdf/1904.11280.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/analyzing-stroke/">code</a>]
 
-+ T. AlSkaif\*, S. Dev\*, L. Visser, M. Hossari, and W. van Sark, On the Interdependence and Importance of Meteorological Variables for Photovoltaic Output Power Estimation, *Proc. 46th IEEE Photovoltaic Specialists Conference (PVSC)*, 2019 (\* Authors contributed equally). 
++ T. AlSkaif\*, S. Dev\*, L. Visser, M. Hossari, and W. van Sark, On the Interdependence and Importance of Meteorological Variables for Photovoltaic Output Power Estimation, *Proc. 46th IEEE Photovoltaic Specialists Conference (PVSC)*, 2019 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2019/07/pvsc2019.pdf">PDF</a>]
 
 + S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The CASE Dataset of Candidate Spaces for Advert Implantation, *Proc. International Conference on Machine Vision Applications (MVA)*, 2019. [<a href="https://arxiv.org/pdf/1903.08943.pdf">arXiv</a>] 
 
