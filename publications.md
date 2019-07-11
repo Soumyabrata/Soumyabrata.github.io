@@ -12,7 +12,7 @@ sidebar:
 
 ## Journals
 
-+ S. Manandhar, S. Dev, Y. H. Lee, Y. S. Meng, and S. Winkler, A Data-Driven Approach for Accurate Rainfall Prediction, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
++ S. Manandhar, S. Dev, Y. H. Lee, Y. S. Meng, and S. Winkler, A Data-Driven Approach for Accurate Rainfall Prediction, *IEEE Transactions on Geoscience and Remote Sensing*, 2019. [<a href="https://arxiv.org/pdf/1907.04816.pdf">arXiv</a>] 
 
 + S. Dev, A. Nautiyal, Y. H. Lee, S. Winkler, CloudSegNet: A Deep Network for Nychthemeron Cloud Segmentation, *IEEE Geoscience and Remote Sensing Letters*, 2019. [<a href="https://arxiv.org/pdf/1904.07979.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/CloudSegNet">code</a>]
 
@@ -33,7 +33,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ F. Orlandi, A. Meehan, M. Hossari, S. Dev, D. O'Sullivan and T. Alskaif, Interlinking Heterogeneous Data for Smart Energy Systems, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2019.
++ F. Orlandi, A. Meehan, M. Hossari, S. Dev, D. O'Sullivan and T. Alskaif, Interlinking Heterogeneous Data for Smart Energy Systems, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2019. [<a href="https://arxiv.org/pdf/1907.02790.pdf">arXiv</a>] 
 
 + S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, Localizing Adverts in Outdoor Scenes, *Proc. IEEE International Conference on Multimedia & Expo Workshops (ICMEW)*, 2019. [<a href="https://arxiv.org/pdf/1905.02106.pdf">arXiv</a>] 
 
