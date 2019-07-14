@@ -18,6 +18,7 @@ owner:
   google_scholar: _akXw8IAAAAJ
   github: Soumyabrata
   publons: author/1307481/soumyabrata-dev
+# Do the favicons changes in the file _includes/_author-bio.html
 
 # Links to include in top navigation
 # For external links add external: true

@@ -7,6 +7,9 @@
 {% endif %}
 <h3>{{ site.owner.name }}</h3>
 <p>{{ site.owner.bio }}</p>
+
+{% if site.owner.email %}<a href="mailto:{{ site.owner.email }}" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> e-Mail</a>{% endif %}
+
 {% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>{% endif %}
 {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>{% endif %}
 {% if site.owner.linkedin %}<a href="http://linkedin.com/in/{{ site.owner.linkedin }}" class="author-social" target="_blank"><i class="fa fa-linkedin-square"></i> LinkedIn</a>{% endif %}
@@ -23,7 +26,6 @@
 
 {% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="fa fa-github-square"></i> Github</a>{% endif %}
 {% if site.owner.google_scholar %}<a href="http://scholar.google.com.sg/citations?user={{ site.owner.google_scholar }}" class="author-social" target="_blank"><i class="ai ai-google-scholar-square"></i>&nbsp; G. Scholar</a>{% endif %}
-{% if site.owner.publons %}<a href="http://publons.com/{{ site.owner.publons }}" class="author-social" target="_blank"><i class="fa fa-file-text"></i> Publons</a>{% endif %}
+{% if site.owner.publons %}<a href="http://publons.com/{{ site.owner.publons }}" class="author-social" target="_blank"><i class="ai ai-publons-square"></i> Publons</a>{% endif %}
 
 
-{% if site.owner.email %}<a href="mailto:{{ site.owner.email }}" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> e-Mail</a>{% endif %}
