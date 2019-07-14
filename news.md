@@ -10,6 +10,8 @@ sidebar:
 ---
 
 ## 2019
+
++ I attended the <a href="https://www.2019apsursi.org/">2019 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting</a> - AP-S/URSI 2019 at Atlanta, Georgia, from 7-12 July 2019, and presented our recent work on <a href="https://arxiv.org/pdf/1903.06562.pdf">cloud image segmentation</a> and <a href="https://arxiv.org/pdf/1903.06506.pdf">precipitable water vapour prediction</a>. 
 + I gave an invited-talk at the <a href="https://www.meetup.com/Machine-Learning-Dublin/events/262441772/">Machine Learning Dublin meetup</a> on <a href="https://twitter.com/DublinML/status/1143229057334558720 ">June 24, 2019</a> to discuss our recent work on deep-learning based advert-creation system, developed in collaboration with Huawei Ireland Research Centre. [<a href="https://soumyabratadev.files.wordpress.com/2019/06/ml_meetup_june2019.pdf">slides</a>]
 + Invited talk on the course '<a href="https://www.scss.tcd.ie/~devs/bdic.html">Inside the Machine: An Introduction to Architecture, Parallelism & its Applications</a>', at University College Dublin, Dublin, Ireland, May 2019.
 + Delivered an undergraduate research talk on 'Solving Interdisciplinary Problems Using Computer Vision', at Maynooth University, Co. Kildare, February 2019. [<a href="https://soumyabratadev.files.wordpress.com/2019/06/maynooth_talk.pdf">slides</a>]
