@@ -69,8 +69,6 @@ sidebar-news:
 sidebar-teaching:
   - title: "Course"
     url: /teaching/#course
-    - title: "2014"
-      url: /teaching/#2014
   - title: "Outreach"
     url: /teaching/#outreach
 
