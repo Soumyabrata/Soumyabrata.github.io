@@ -24,7 +24,7 @@ affiliation: IEEE (S'09-M'17)
 |                  | (see <a href="https://www.google.ie/maps/place/53°20'36.7%22N+6°15'03.4%22W/@53.3435311,-6.2531254,17z/am=t/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.3435311!4d-6.2509314?hl=en">Google Maps</a>)|
 | membership       | IEEE (S’09-M’17)                                                      |
 | academic job     | I am no longer in the academic job market. <a href="https://soumyabrata.github.io/application/">*This page*</a>, however, provides details on several aspects of my application. You may find it useful.|
-| CV               | [<a href="https://soumyabrata.github.io/files/CV.pdf">pdf</a>]                |
+| cv               | [<a href="https://soumyabrata.github.io/files/CV.pdf">pdf</a>]                |
 
 
 
