@@ -17,7 +17,7 @@ sidebar:
 I am no longer in the academic job market. However, this page provides details on several aspects of my application packet.
 
 <br />
-Curriculum Vitae | [<a href="https://www.scss.tcd.ie/~devs/files/CV.pdf">PDF</a>]
+Curriculum Vitae | [<a href="https://soumyabrata.github.io/files/CV.pdf">PDF</a>]
 
 
 ## Research Statement
