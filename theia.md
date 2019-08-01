@@ -11,7 +11,7 @@ sidebar:
 
 ## THEIA: THE visIon and Analytics lab
 
-Welcome to the <a href="https://soumyabrata.github.io/theia/">THEIA: THE vIsion and Analytics lab</a>. The THEIA lab is based in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin</a>. Our group's <a href="https://soumyabrata.github.io/research/">research</a> is funded by <a href="https://www.ucd.ie/">University College Dublin</a> and the <a href="https://www.adaptcentre.ie">ADAPT SFI Research Centre</a>. 
+Welcome to the <a href="https://soumyabrata.github.io/theia/">THEIA: THE visIon and Analytics lab</a>. The THEIA lab is based in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin</a>. Our group's <a href="https://soumyabrata.github.io/research/">research</a> is funded by <a href="https://www.ucd.ie/">University College Dublin</a> and the <a href="https://www.adaptcentre.ie">ADAPT SFI Research Centre</a>. 
 
 <br />
 Our research interests are in the area of computer vision, image processing, and remote sensing. We use techniques from statistical machine learning and deep learning, to solve interdisciplinary computational problems in various fields of digital multimedia, atmospheric research, and solar and renewable energy. 
