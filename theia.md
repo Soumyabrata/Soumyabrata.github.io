@@ -9,7 +9,7 @@ sidebar:
   nav: sidebar-theia
 ---
 
-## THEIA: THE vIsion and Analytics lab
+## THEIA: THE visIon and Analytics lab
 
 Welcome to the <a href="https://soumyabrata.github.io/theia/">THEIA: THE vIsion and Analytics lab</a>. The THEIA lab is based in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin</a>. Our group's <a href="https://soumyabrata.github.io/research/">research</a> is funded by <a href="https://www.ucd.ie/">University College Dublin</a> and the <a href="https://www.adaptcentre.ie">ADAPT SFI Research Centre</a>. 
 
@@ -27,7 +27,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
       <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <b>Soumyabrata DEV</b> is a postdoctoral researcher at ADAPT Centre, the Science Foundation Ireland (SFI)-funded research centre, based at Trinity College Dublin. He is starting as an Assistant Professor in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>, from this Fall 2019 session.
+      <b>Soumyabrata DEV</b> is an Assistant Professor in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>, since Fall 2019 session.
     </div>
   </div>
 </div>
