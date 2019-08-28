@@ -16,7 +16,7 @@ affiliation: IEEE (S'09-M'17)
 
 |                  |                                                                       |
 |------------------|-----------------------------------------------------------------------|
-| email            | <a href="mailto:soumyabrata.dev@adaptcentre.ie">soumyabrata.dev@adaptcentre.ie</a>|
+| email            | <a href="mailto:soumyabrata.dev@ucd.ie">soumyabrata.dev@ucd.ie</a>|
 | phone            | + 353 1896 1797                                                       |
 | address          | The ADAPT Centre                                                      |
 |                  | Room G31, O’Reilly Building, Dublin 2                                 |

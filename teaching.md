@@ -13,8 +13,24 @@ sidebar:
 I teach courses in the area of data analytics, image processing, programming, and data structures.
 
 ### 2019
+
+#### COMP3005J Agile Processes<br><sup>Semester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on Agile Processes, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=798">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
+
+
+#### COMP3008J Distributed Systems<br><sup>Semester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on Distributed Systems, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=796">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
+
+
+#### COMP3020J Information Security for the Internet of Things<br><sup>Semester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on Information Security for the Internet of Things, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=797">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
+
+
 #### H9PDA: Programming for Data Analytics<br><sup>Semester III, AY 2018-19, National College of Ireland</sup>
-Currently, I am lecturing a course on <a href="http://courses.ncirl.ie/index.cfm/page/module/moduleId/20375">H9PDA: Programming for Data Analytics</a>, for degree in Masters in Cloud Computing. Please see <a href="https://moodle.ncirl.ie/course/view.php?id=1464">the moodle page</a> for course notes + assignments.
+I lectured a course on <a href="http://courses.ncirl.ie/index.cfm/page/module/moduleId/20375">H9PDA: Programming for Data Analytics</a>, for degree in Masters in Cloud Computing. Please see <a href="https://moodle.ncirl.ie/course/view.php?id=1464">the moodle page</a> for course notes + assignments.
 
 #### H8BGD: Programming for Big Data<br><sup>Semester II, AY 2018-19, National College of Ireland</sup>
 I lectured a course on <a href="http://courses.ncirl.ie/index.cfm/page/module/moduleId/21358">Programming for big data</a>, for Higher Diploma in Science in Data Analytics. Please see <a href="https://moodle.ncirl.ie/course/view.php?id=1605">the moodle page</a> for course notes + assignments.
