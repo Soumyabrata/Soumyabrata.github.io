@@ -25,6 +25,7 @@ affiliation: IEEE (S'09-M'17)
 | membership       | IEEE (S’09-M’17)                                                      |
 | academic job     | I am no longer in the academic job market. <a href="https://soumyabrata.github.io/application/">*This page*</a>, however, provides details on several aspects of my application. You may find it useful.|
 | curriculum vitae | [<a href="https://soumyabrata.github.io/files/CV.pdf">pdf</a>]        |
+| office hours     | Monday, 4pm to 5pm, at Exchange-4 room, 7th floor, Teaching building 4|
 
 
 
