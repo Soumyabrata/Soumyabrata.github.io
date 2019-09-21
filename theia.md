@@ -64,7 +64,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
       <img class="people-pic" src="{{ "/images/theia/MS.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-	  <b>Mahmoud Said Elsayed</b> received the B.E. degree in electronics and communication engineering from Zagazig University, Egypt in 2007, the M.E. degree in Information Security from Nile University, Egypt, in 2018. He has worked for ten years in the industry through Huawei and IBM Co. in the area of computer network and security. He is currently pursuing the Ph.D. degree at the School of Computer Science, UCD Dublin, with Dr. Anca Jurcut. His research interests involve computer networks, network security, deep learning, and cloud computing.  
+	  <b>Mahmoud Said ELSAYED</b> received the B.E. degree in electronics and communication engineering from Zagazig University, Egypt in 2007, the M.E. degree in Information Security from Nile University, Egypt, in 2018. He has worked for ten years in the industry through Huawei and IBM Co. in the area of computer network and security. He is currently pursuing the Ph.D. degree at the School of Computer Science, UCD Dublin, with Dr. Anca Jurcut. His research interests involve computer networks, network security, deep learning, and cloud computing.  
     </div>
   </div>
 </div>
