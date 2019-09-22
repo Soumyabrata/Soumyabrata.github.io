@@ -25,7 +25,7 @@ Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnec
 
 
 #### COMP3020J Information Security for the Internet of Things<br><sup>Semester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on Information Security for the Internet of Things, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=797">the CS moodle page</a> for course notes + assessments.<br>
+I am currently lecturing a course on Information Security for the Internet of Things, for degree in BSc Internet of Things. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=797">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
 
 
