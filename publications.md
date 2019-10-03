@@ -33,6 +33,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Machine-Learning Techniques for Detecting Attacks in SDN, *Proc. IEEE 7th International Conference on Computer Science and Network Technology*, 2019. [<a href="https://arxiv.org/pdf/1910.00817.pdf">arXiv</a>] 
+
 + F. Orlandi, A. Meehan, M. Hossari, S. Dev, D. O'Sullivan and T. Alskaif, Interlinking Heterogeneous Data for Smart Energy Systems, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2019. [<a href="https://arxiv.org/pdf/1907.02790.pdf">arXiv</a>] 
 
 + S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, Localizing Adverts in Outdoor Scenes, *Proc. IEEE International Conference on Multimedia & Expo Workshops (ICMEW)*, 2019. [<a href="https://arxiv.org/pdf/1905.02106.pdf">arXiv</a>] 
