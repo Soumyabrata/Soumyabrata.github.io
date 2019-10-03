@@ -28,7 +28,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + S. Dev, B. Wen, Y. H. Lee, S. Winkler, Machine Learning Techniques and Applications For Ground-based Image Analysis, *IEEE Geoscience and Remote Sensing Magazine, Special Issue on Advances in Machine Learning for Remote Sensing and Geosciences*, vol. 4, no. 2, pp. 79-93, Jun 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/06/grsm20153.pdf">PDF</a>] [<a href="http://arxiv.org/pdf/1606.02811v1.pdf">arXiv</a>]
 
-+ S. Dev, Nischal S., An efficient partner assignment algorithm for improving the performance of 802.11 WLAN, *International Journal of Recent Trends in Engineering, Issue on Electrical and Electronics*, vol. 2, no. 6, pp. 155-157, Nov 2009 [<a href="https://soumyabratadev.files.wordpress.com/2016/06/ijrte2009.pdf">PDF</a>]
++ S. Dev, Nischal S., An efficient partner assignment algorithm for improving the performance of 802.11 WLAN, *International Journal of Recent Trends in Engineering, Issue on Electrical and Electronics*, vol. 2, no. 6, pp. 155-157, Nov 2009 [<a href="https://soumyabratadev.files.wordpress.com/2016/06/ijrte2009.pdf">PDF</a>] 
 
  
 ## Conferences
