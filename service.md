@@ -19,6 +19,10 @@ sidebar:
 + 2020: <a href="http://www.iaria.org/conferences2020/ComeLmL20.html">eLmL 2020</a>, Twelfth International Conference on Mobile, Hybrid, and On-line Learning
 + 2018: <a href="http://aics2018.scss.tcd.ie/org.html">AICS 2018</a>, 26th Irish Conference on Artificial Intelligence and Cognitive Science 
 
+
+### Outreach
++ 2019: Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, University College Dublin.
+
 ### Talks
 
 + 2019: Invited talk at the <a href="https://www.eventbrite.sg/e/ieee-yp-symposium-on-impact-of-data-science-in-healthcare-tickets-62792349608?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=viewevent">IEEE YP Symposium on Impact of Data Science in Healthcare</a>, Dublin, July 15, 2019. [<a href="https://soumyabratadev.files.wordpress.com/2019/07/yp_symposium_july2019.pdf">slides</a>]
