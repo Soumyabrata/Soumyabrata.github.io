@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Estimating Solar Irradiance Using Sky Imagers, *Atmospheric Measurement Techniques (AMT)*, 2019.  [<a href="https://arxiv.org/pdf/1910.04981.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/estimate-solar-irradiance">code</a>]
+
 + S. Manandhar, S. Dev, Y. H. Lee, Y. S. Meng, and S. Winkler, A Data-Driven Approach for Accurate Rainfall Prediction, *IEEE Transactions on Geoscience and Remote Sensing*, 2019. [<a href="https://arxiv.org/pdf/1907.04816.pdf">arXiv</a>] 
 
 + S. Dev, A. Nautiyal, Y. H. Lee, S. Winkler, CloudSegNet: A Deep Network for Nychthemeron Cloud Segmentation, *IEEE Geoscience and Remote Sensing Letters*, 2019. [<a href="https://arxiv.org/pdf/1904.07979.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/CloudSegNet">code</a>]
@@ -32,6 +34,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
  
 ## Conferences
+
++ S. Dev, H. Javidnia, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, Identifying Candidate Spaces for Advert Implantation, *Proc. IEEE 7th International Conference on Computer Science and Network Technology*, 2019. [<a href="https://arxiv.org/pdf/1910.03227.pdf">arXiv</a>] 
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Machine-Learning Techniques for Detecting Attacks in SDN, *Proc. IEEE 7th International Conference on Computer Science and Network Technology*, 2019. [<a href="https://arxiv.org/pdf/1910.00817.pdf">arXiv</a>] 
 
