@@ -15,7 +15,8 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 + I started as an Assistant Professor in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>, from Fall 2019 session. I am looking for hard-working PhD students and motivated postdoctoral researchers to join my <a href="https://soumyabrata.dev/theia/">research group</a>, contact me if you are interested.
 + Welcome Conor Meegan to our group. He joins us for his <a href="https://soumyabrata.github.io/files/FYP2019-2020.pdf">FYP project</a> on exploring data augmentation techniques using GANs for sky/cloud image databases.
-+ Congratulations Mahmoud Said Elsayed for his <a href="https://arxiv.org/pdf/1910.00817.pdf">paper</a> acceptance on network attack detection using machine learning techniques, at 2019 IEEE 7th International Conference on Computer Science and Network Technology.
+<!---
++ Congratulations Mahmoud Said Elsayed for his <a href="https://arxiv.org/pdf/1910.00817.pdf">paper</a> acceptance on network attack detection using machine learning techniques, at 2019 IEEE 7th International Conference on Computer Science and Network Technology.--->
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
 
 <!---comments here--->
