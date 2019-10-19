@@ -68,6 +68,18 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
     </div>
   </div>
 </div>
+
+
+### Undergraduate Students
+
+<div class="row">
+  <div class="col-xs-2">
+      <img class="people-pic" src="{{ "/images/theia/CM.png" | prepend:site.baseurl }}">
+    <div class="people-name">
+	  <b>Conor MEEGAN</b> is a final year undergraduate student in the School of Computer Science, University College Dublin (UCD). His main areas of interest include Machine Learning, Deep Learning and Software Engineering. 
+    </div>
+  </div>
+</div>
  
 ### Alumni
 
