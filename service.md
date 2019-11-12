@@ -16,6 +16,7 @@ sidebar:
 + 2016: Local organizing chair of <a href="http://hardtechsummit.com/">IEEE HardTech Summit</a> 2016, in extension to <a href="http://tencon2016.org/">TENCON 2016</a> conference. The summit was held at Nanyang Technological University Singapore on 26 November 2016, in association with several partners. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/hts_flyer.png">Event Flyer</a>]
 
 ### Technical Program Committee
++ 2020: <a href="http://www.iaria.org/conferences2020/ComVISUAL20.html">VISUAL 2020</a>, Fifth International Conference on Applications and Systems of Visual Paradigms
 + 2020: <a href="http://www.iaria.org/conferences2020/ComeLmL20.html">eLmL 2020</a>, Twelfth International Conference on Mobile, Hybrid, and On-line Learning
 + 2019: <a href="http://www.acn-conference.org/ista2019/index.html">ISTA 2019</a>, Fifth International Symposium on Intelligent Systems Technologies and Applications 
 + 2018: <a href="http://aics2018.scss.tcd.ie/org.html">AICS 2018</a>, 26th Irish Conference on Artificial Intelligence and Cognitive Science 
