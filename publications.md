@@ -35,6 +35,12 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ L. L&‌eacute;v&‌ecirc;que, S. Dev, M. Hossari, Y. H. Lee and S. Winkler, Subjective Quality Assessment of Ground-based Camera Images, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2019. [<a href="https://arxiv.org/pdf/1912.07192.pdf">arXiv</a>] 
+
++ T. A. Fathima, V. Nedumpozhimana, Y. H. Lee, S. Winkler and S. Dev, Predicting Solar Irradiance in Singapore, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2019. [<a href="https://arxiv.org/pdf/1912.07187.pdf">arXiv</a>] 
+
++ T. A. Fathima, V. Nedumpozhimana, Y. H. Lee, S. Winkler and S. Dev, A Chaotic Approach on Solar Irradiance Forecasting, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2019. [<a href="https://arxiv.org/pdf/1912.07184.pdf">arXiv</a>] 
+
 + S. Dev, H. Javidnia, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, Identifying Candidate Spaces for Advert Implantation, *Proc. IEEE 7th International Conference on Computer Science and Network Technology*, 2019. [<a href="https://arxiv.org/pdf/1910.03227.pdf">arXiv</a>] 
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Machine-Learning Techniques for Detecting Attacks in SDN, *Proc. IEEE 7th International Conference on Computer Science and Network Technology*, 2019. [<a href="https://arxiv.org/pdf/1910.00817.pdf">arXiv</a>] 
