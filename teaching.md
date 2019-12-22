@@ -58,11 +58,11 @@ During my doctoral program, I was a Teaching Assistant for the course <a href="h
 #### EE2008: Data Structures and Algorithms<br><sup>Semester I, AY 2014-15, Nanyang Technological University Singapore</sup>
 Additionally, in 2014, I taught this course for <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/teach_AY2014.html">Sem 1 AY 2014-15</a>, for which I am the recipient of <a href="https://soumyabratadev.files.wordpress.com/2016/07/teaching_award_fall2014.pdf">Commendable Teaching Assistant award</a> from NTU Singapore. 
 
+
+<!---
 ## Outreach
 I am also involved in outreach activities and teaching Junior College students, as a part of the university outreach programs. I participate regularly in public engagement programmes conducted by ADAPT Centre, Dublin. I also worked on fun and interesting projects during my doctoral program at NTU. I taught students how to build antenna using regular tin cans (more popularly known as <a href="https://en.wikipedia.org/wiki/Cantenna">cantenna</a>). Additionally, I explained arduino programming using a block of LEDs - check out our <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/ledcube.html">LED Cube workshop</a> page. 
 
 
-
-<!---
 I supervise students in their Master of Science (MSc) research thesis, and also mentor Final Year Projects (FYPs) and <a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx">Nanyang Research Program</a> (NRP) projects. 
 -->

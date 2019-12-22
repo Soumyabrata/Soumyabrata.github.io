@@ -13,10 +13,11 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 #### Recent News
 
-+ I started as an Assistant Professor in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>, from Fall 2019 session. I am looking for hard-working PhD students and motivated postdoctoral researchers to join my <a href="https://soumyabrata.dev/theia/">research group</a>, contact me if you are interested.
-+ Three papers [<a href="https://arxiv.org/pdf/1912.07184.pdf">1</a>] [<a href="https://arxiv.org/pdf/1912.07187.pdf">2</a>] [<a href="https://arxiv.org/pdf/1912.07192.pdf">3</a>] accepted in 42nd Proc. Progress In Electromagnetics Research Symposium (PIERS). Congratulations to all involved!
++ Three papers [<a href="https://arxiv.org/pdf/1912.07184.pdf">1</a>] [<a href="https://arxiv.org/pdf/1912.07187.pdf">2</a>] [<a href="https://arxiv.org/pdf/1912.07192.pdf">3</a>] accepted in 42nd Proc. Progress In Electromagnetics Research Symposium (PIERS). Congratulations to all involved! The slides are available [<a href="https://bing.com">here</a>], [<a href="https://bing.com">here</a>], and [<a href="https://bing.com">here</a>].
 + I am one of the <a href="https://elite-fellowship.eu/supervisors/soumyabrata-dev/">academic supervisors</a> in the <a href="https://elite-fellowship.eu/">ELITE-S postdoctoral fellowship</a>, contact me if you are interested to work in the broad areas of computer vision + machine learning.
++ Our <a href="https://arxiv.org/pdf/1910.04981.pdf">work</a> on estimating solar irradiance from ground-based camera images is accepted in Atmospheric Measurement Techniques (AMT).
 + Congratulations Mahmoud Said Elsayed for his <a href="https://arxiv.org/pdf/1910.00817.pdf">paper</a> acceptance on network attack detection using machine learning techniques, at 2019 IEEE 7th International Conference on Computer Science and Network Technology.
++ Our <a href="https://arxiv.org/pdf/1907.04816.pdf">work</a> on proposing a machine-learning framework for accurate rainfall prediction is accepted in IEEE Transactions on Geoscience and Remote Sensing.
 + Welcome Conor Meegan to our group. He joins us for his <a href="https://soumyabrata.github.io/files/FYP2019-2020.pdf">FYP project</a> on exploring data augmentation techniques using GANs for sky/cloud image databases.
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
 

@@ -26,21 +26,26 @@ sidebar:
 
 ### Outreach
 + 2019: Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, University College Dublin.
++ 2017: Delivered a talk in the workshop 'Cantenna to the WiFi rescue', as a part of <a href="http://www.ntu.edu.sg/TalentOutreach/seeNTU/Documents/seeNTU%20Programme%20Schedule%202017.pdf">seeNTU 2017 programme</a> at NTU Singapore, on May 31, 2017. This is organized by <a href="http://www.ntu.edu.sg/TalentOutreach/Pages/index.aspx">Talent Outreach</a>, NTU Singapore.
++ 2016: Delivered a talk in the 'LED Cube' workshop, as a part of NTU EEE Outreach program at <a href="http://www.eee.ntu.edu.sg/Programmes/Garage/Pages/Home.aspx">Garage@EEE</a>, NTU Singapore, on October 6, 2016 for JC students from <a href="http://www.ri.edu.sg/">Raffles Institution</a>, Singapore. Check out the <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/ledcube.html">LED Cube workshop</a> page. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/led-workshop_ri_6oct2016.pdf">Slides</a>]
++ 2016: Delivered a talk in the workshop 'Cantenna to the WiFi rescue', as a part of <a href="http://www.ntu.edu.sg/TalentOutreach/seeNTU/Documents/Module_Synopses_seeNTU%202016.pdf">seeNTU 2016 programme</a> at NTU Singapore, on June 1, 2016. This is organized by <a href="http://www.ntu.edu.sg/TalentOutreach/Pages/index.aspx">Talent Outreach</a>, NTU Singapore.
++ 2016: Delivered a talk in the workshop 'How to build a cantenna?', as a part of NTU Outreach programme at <a href="http://ajc.edu.sg/">Anderson Junior College,</a> in Ang Mo Kio, Singapore, on May 25, 2016.
+
 
 ### Talks
 
+(This list excludes conference talks; such details are available in the [<a href="https://soumyabrata.github.io/news/">news</a>] page.)
 + 2019: Invited talk at the <a href="https://www.eventbrite.sg/e/ieee-yp-symposium-on-impact-of-data-science-in-healthcare-tickets-62792349608?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=viewevent">IEEE YP Symposium on Impact of Data Science in Healthcare</a>, Dublin, July 15, 2019. [<a href="https://soumyabratadev.files.wordpress.com/2019/07/yp_symposium_july2019.pdf">slides</a>]
 + 2019: <a href="https://www.meetup.com/Machine-Learning-Dublin/events/262441772/">Machine Learning Dublin meetup</a> on <a href="https://twitter.com/DublinML/status/1143229057334558720 ">June 24, 2019</a> to discuss our recent work on deep-learning based advert-creation system, developed in collaboration with Huawei Ireland Research Centre. [<a href="https://soumyabratadev.files.wordpress.com/2019/06/ml_meetup_june2019.pdf">slides</a>]
 + 2019: Course '<a href="https://www.scss.tcd.ie/~devs/bdic.html">Inside the Machine: An Introduction to Architecture, Parallelism & its Applications</a>', at University College Dublin, Dublin, Ireland, May 2019.
 + 2019: 'Solving Interdisciplinary Problems Using Computer Vision', at Maynooth University, Co. Kildare, February 2019. [<a href="https://soumyabratadev.files.wordpress.com/2019/06/maynooth_talk.pdf">slides</a>]
-+ 2018: ADNet deep-learning model, used for detecting adverts in video frames, at the 26th Irish Conference on Artificial Intelligence and Cognitive Science, Dublin, Ireland. [<a href="https://soumyabratadev.files.wordpress.com/2018/12/2018aics-presentation.pdf">presentation</a>]
 + 2018: <a href="https://irishtechnews.ie/huawei-ireland-video-intelligence-forum-2018-takes-place-october-23rd/">3rd Annual Huawei Ireland Video Intelligence Forum 2018</a>, Dublin, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/huawei-video-forum2018.pdf">PDF</a>]
 + 2018: Research talk on 'Computer-Vision Solutions for Sensing Problems', at University of Dundee, Scotland, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2019/06/dundee_oct2018.pdf">slides</a>]
 + 2018: Course '<a href="https://www.scss.tcd.ie/%7Edevs/bucknell.html">Inside the Machine: An Introduction to Architecture, Parallelism & Electronics</a>', at Bucknell University, Lewisburg, PA, United States, July 2018. 
 + 2018: 'A short tutorial on k-means algorithm', at National College of Ireland, Dublin, June 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/nci-talk.pdf">PDF</a>]
 + 2018: 'Developing Computer-Vision Solutions for Sensing Problems in Intelligent Systems', at University of Derby, United Kingdom, April 2018. [<a href="https://soumyabratadev.files.wordpress.com/2019/06/derby_april2018.pdf">slides</a>]
 + 2017: 'Ground-based Image Analysis for Solar Energy Applications' in <a href="http://mldublin.github.io">Machine Learning Dublin meetup</a> at <a href="https://mldublin.github.io/events/apapt-the-innovation-academy-tcd/">The Innovation Academy TCD</a>, on <a href="https://www.meetup.com/Machine-Learning-Dublin/events/242709321/">Aug 28, 2017</a>. [<a href="https://soumyabratadev.files.wordpress.com/2017/08/ml-meetup.pdf">Slides</a>]
-+ 2017: Workshop 'Cantenna to the WiFi rescue', as a part of <a href="http://www.ntu.edu.sg/TalentOutreach/seeNTU/Documents/seeNTU%20Programme%20Schedule%202017.pdf">seeNTU 2017 programme</a> at NTU Singapore, on May 31, 2017. This is organized by <a href="http://www.ntu.edu.sg/TalentOutreach/Pages/index.aspx">Talent Outreach</a>, NTU Singapore.
+
 
 ### Referee
 + Applied Sciences
