@@ -71,10 +71,16 @@ sidebar-news:
 
 
 sidebar-teaching:
-  - title: "Course"
-    url: /teaching/#course
-  - title: "Outreach"
-    url: /teaching/#outreach
+  - title: "2019"
+    url: /teaching/#2019
+  - title: "2018"
+    url: /teaching/#2018
+  - title: "2016"
+    url: /teaching/#2016
+  - title: "2015"
+    url: /teaching/#2015
+  - title: "2014"
+    url: /teaching/#2014
 
 
 
