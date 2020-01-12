@@ -16,6 +16,8 @@ sidebar:
 + 2016: Local organizing chair of <a href="http://hardtechsummit.com/">IEEE HardTech Summit</a> 2016, in extension to <a href="http://tencon2016.org/">TENCON 2016</a> conference. The summit was held at Nanyang Technological University Singapore on 26 November 2016, in association with several partners. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/hts_flyer.png">Event Flyer</a>]
 
 ### Technical Program Committee
++ 2020: <a href="https://worlds4.co.uk/committees.php">WS4 2020</a>, World Conference on Smart Trends in Systems, Security and Sustainability
++ 2020: <a href="http://citei.intconference.org/organizing-committee/">CITEI 2020</a>, 1st Conference on Internet of Things and Embedded Intelligence
 + 2020: <a href="http://www.gistam.org/ProgramCommittee.aspx">GISTAM 2020</a>, Sixth International Conference on Geographical Information Systems Theory, Applications and Management
 + 2020: <a href="http://www.iaria.org/conferences2020/ComCOGNITIVE20.html">COGNITIVE 2020</a>, Twelfth International Conference on Advanced Cognitive Technologies and Applications
 + 2020: <a href="http://www.iaria.org/conferences2020/ComVISUAL20.html">VISUAL 2020</a>, Fifth International Conference on Applications and Systems of Visual Paradigms
