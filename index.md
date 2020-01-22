@@ -13,6 +13,7 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 #### Recent News
 
++ Welcome Mayank Jain to our <a href="https://soumyabrata.dev/theia/">group</a>. He joins us for his PhD since January 2020, on understanding the various events in the atmosphere using computer vision techniques. 
 + I am one of the <a href="https://edge-research.eu/supervisors/soumyabrata-dev/">academic supervisors</a> in the <a href="https://elite-fellowship.eu/">EDGE Marie Skłodowska-Curie postdoctoral fellowship</a>, contact me if you are interested to work in the broad areas of computer vision + machine learning.
 + Three papers [<a href="https://arxiv.org/pdf/1912.07184.pdf">1</a>] [<a href="https://arxiv.org/pdf/1912.07187.pdf">2</a>] [<a href="https://arxiv.org/pdf/1912.07192.pdf">3</a>] accepted in 42nd Proc. Progress In Electromagnetics Research Symposium (PIERS). Congratulations to all involved! The slides are available [<a href="https://soumyabratadev.files.wordpress.com/2019/12/piers2019-chaos.pdf">here</a>], [<a href="https://soumyabratadev.files.wordpress.com/2019/12/piers2019-tes.pdf">here</a>], and [<a href="https://soumyabratadev.files.wordpress.com/2019/12/piers2019-qoe.pdf">here</a>].
 + I am one of the <a href="https://elite-fellowship.eu/supervisors/soumyabrata-dev/">academic supervisors</a> in the <a href="https://elite-fellowship.eu/">ELITE-S postdoctoral fellowship</a>, contact me if you are interested to work in the broad areas of computer vision + machine learning.
