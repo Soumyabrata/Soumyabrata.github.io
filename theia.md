@@ -59,6 +59,19 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 ### PhD Students
 
 <div class="row">
+	
+   	<div class="col-xs-2">
+       <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">
+         <img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
+       </a>
+       <div class="people-name">
+   	  <b>Mayank JAIN</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He did his M.Sc. Artificial Intelligence from the University of Edinburgh in 2019, and B.Tech. IT and Mathematical Innovations - Major: Electronics and Robotics from the Cluster Innovation Centre, University of Delhi in 2015. He is the co-founder of Imfundo Technologies Pvt. Ltd., for which he worked as Director for 3 years. The startup was focused on introducing STEM education modules in a gamified manner for young kids. He has also been associated with Defence Terrain Research Laboratory (Defence Research and Development Organization, Government of India), Design Innovation Centre (University of Delhi) and Indian Institute of Technology (Mumbai, India) at various times in his academic career. He has been a recipient of several fellowships and scholarships, including the Scottish Saltire Scholarship, Delhi University Innovation Project Fellowship, Global Problem Solving Consortium - Water Sustainability Fellowship'2013 and UCD-CS PhD Scholarship. His major research interests are computer vision, deep Learning, and robotics.
+       </div>
+    </div>
+	
+	
+<br />
+	
   <div class="col-xs-2">
     <a href="https://www.linkedin.com/in/mahmoud-abdallah-06a29b4b/">
       <img class="people-pic" src="{{ "/images/theia/MS.png" | prepend:site.baseurl }}">
@@ -67,6 +80,9 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 	  <b>Mahmoud Said ELSAYED</b> received the B.E. degree in electronics and communication engineering from Zagazig University, Egypt in 2007, the M.E. degree in Information Security from Nile University, Egypt, in 2018. He has worked for ten years in the industry through Huawei and IBM Co. in the area of computer network and security. He is currently pursuing the Ph.D. degree at the School of Computer Science, UCD Dublin, with Dr. Anca Jurcut. His research interests involve computer networks, network security, deep learning, and cloud computing.  
     </div>
   </div>
+  
+  
+  
 </div>
 
 
