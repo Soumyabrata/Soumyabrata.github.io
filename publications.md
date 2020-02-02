@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ T. AlSkaif\*, S. Dev\*, L. Visser, M. Hossari, W. van Sark, A systematic analysis of meteorological variables for PV output power estimation, *Renewable Energy*, 2020 (\* Authors contributed equally). 
+
 + S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Estimating Solar Irradiance Using Sky Imagers, *Atmospheric Measurement Techniques (AMT)*, 2019.  [<a href="https://arxiv.org/pdf/1910.04981.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/estimate-solar-irradiance">code</a>]
 
 + S. Manandhar, S. Dev, Y. H. Lee, Y. S. Meng, and S. Winkler, A Data-Driven Approach for Accurate Rainfall Prediction, *IEEE Transactions on Geoscience and Remote Sensing*, 2019. [<a href="https://arxiv.org/pdf/1907.04816.pdf">arXiv</a>] 
