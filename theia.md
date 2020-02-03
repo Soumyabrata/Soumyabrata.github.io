@@ -89,12 +89,29 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 ### Undergraduate Students
 
 <div class="row">
+
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/WH.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>WANG He</b> is a final year undergraduate student in Beijing-Dublin International College (BDIC), with a major in Internet of Things (IoT).  She won the first Prize in North China Division, in 2019 Huawei Cup National Undergraduate IoT Design Contest. Her research interests include energy harvesting, system design and neural networks. 
+</div>
+</div>
+
+
+
+<br />
+
   <div class="col-xs-2">
       <img class="people-pic" src="{{ "/images/theia/CM.png" | prepend:site.baseurl }}">
     <div class="people-name">
 	  <b>Conor MEEGAN</b> is a final year undergraduate student in the School of Computer Science, University College Dublin (UCD). His main areas of interest include Machine Learning, Deep Learning and Software Engineering. 
     </div>
   </div>
+
+
+
 </div>
  
 ### Alumni
