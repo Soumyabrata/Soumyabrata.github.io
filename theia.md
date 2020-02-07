@@ -103,6 +103,19 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 <br />
 
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/JS.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>SUN Jingxiang</b> is a final year undergraduate student in Beijing-Dublin International College (BDIC), with a major in Internet of Things (IoT). His interests are in the areas of computer vision, machine learning and robotics. Sun is engaged in research on the design and development of bus arrival time prediction model, achieving an efficient and general bus GPS data pre-processing method that enables various models to predict arrival time at bus stops only. Most recently, Sun has been working on 3D Object Classification with Point Convolution in SenseTime-CUHK Joint Lab. He won Meritorious Winner in 2018 Mathematical Contest in Modeling and First Prize in 2019 UP-TECH National College Student Embedded System Design Competition. 
+</div>
+</div>
+
+
+
+<br />
+
+
   <div class="col-xs-2">
       <img class="people-pic" src="{{ "/images/theia/CM.png" | prepend:site.baseurl }}">
     <div class="people-name">
