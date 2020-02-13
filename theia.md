@@ -161,6 +161,18 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <br />
 
 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Fu-Zixin.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>FU Zixin</b> is a final year undergraduate student in Beijing-Dublin International College (BDIC), with a major in Software Engineering. He was awarded the honorable mention (college-level scholarship) for the academic year 2017-2018 at Beijing University of Technology (BJUT).
+</div>
+</div>
+
+
+
+<br />
+
+
   <div class="col-xs-2">
       <img class="people-pic" src="{{ "/images/theia/CM.png" | prepend:site.baseurl }}">
     <div class="people-name">
