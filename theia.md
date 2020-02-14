@@ -128,6 +128,19 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <br />
 
 
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/ML.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Meichen LU</b> is a final year undergraduate student at Beijing-Dublin International College (BDIC), with a major in the Internet of Things (IoT). Her main area of interest is mobile computing, and wireless sensor networks. She won the national scholarship and third prize in 9th Lan Qiao Cup Software Programming Contest.
+</div>
+</div>
+
+
+
+<br />
+
+
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/zhenhao.png" | prepend:site.baseurl }}">
 <div class="people-name">
