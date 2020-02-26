@@ -22,7 +22,7 @@ affiliation: IEEE (S'09-M'17)
 | (ADAPT)          | Room G31, O’Reilly Building, Dublin 2                                 |
 |                  | Trinity College Dublin, Ireland                                       |
 |                  | (see <a href="https://www.google.ie/maps/place/53°20'36.7%22N+6°15'03.4%22W/@53.3435311,-6.2531254,17z/am=t/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.3435311!4d-6.2509314?hl=en">Google Maps</a>)                                                                              |
-| address          | UCD School of Computer Science                                        |
+| address          | A1.16, UCD School of Computer Science                                 |
 | (UCD)            | University College Dublin                                             |
 |                  | Belfield, Dublin 4, Ireland                                           |
 |                  | (see <a href="https://goo.gl/maps/vq2L7NKsVmUniNZC8">Google Maps</a>) |
