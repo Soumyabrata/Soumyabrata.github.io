@@ -37,6 +37,10 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ M. Jain, S. Manandhar, Y. H. Lee, S. Winkler, and S. Dev, Forecasting Precipitable Water Vapor Using LSTMs, *IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2020. 
+
++ I. Bacher, H. Javidnia, S. Dev, R. Agrahari, M. Hossari, M. Nicholson, C. Conran, D. Corrigan, and F. Piti&eacute;, DeepReal - A Deep Learning Based 3D Advert Integration System, *Proc. NEM Summit 2020 - B'Smart - European Media Science and Technology Meets Arts*, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2020/03/nem2020.pdf">PDF</a>] 
+
 + L. L&eacute;v&ecirc;que, S. Dev, M. Hossari, Y. H. Lee and S. Winkler, Subjective Quality Assessment of Ground-based Camera Images, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2019. [<a href="https://arxiv.org/pdf/1912.07192.pdf">arXiv</a>] 
 
 + T. A. Fathima, V. Nedumpozhimana, Y. H. Lee, S. Winkler and S. Dev, Predicting Solar Irradiance in Singapore, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2019. [<a href="https://arxiv.org/pdf/1912.07187.pdf">arXiv</a>] 
