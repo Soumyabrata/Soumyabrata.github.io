@@ -34,12 +34,16 @@ sidebar-service:
 sidebar-research:
   - title: "Overview"
     url: /research/
-  - title: "Multimedia"
-    url: /multimedia/
   - title: "Cloud Imaging"
     url: /cloud/
   - title: "Solar Analytics"
-    url: /solar/
+    url: /solar/	
+  - title: "Multimedia"
+    url: /multimedia/
+  - title: "Security"
+    url: /security/
+  - title: "E-Health"
+    url: /ehealth/  
   - title: "Communications"
     url: /communication/  
   - title: "Software"
