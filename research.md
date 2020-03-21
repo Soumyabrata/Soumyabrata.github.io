@@ -29,6 +29,8 @@ In this project, we develop low-cost, high resolution, ground-based sky cameras 
 
 ## [<u>Solar Analytics</u>](https://soumyabrata.github.io/solar/)
 In this project, we use a multi-modal data integration approach, in using various sensors (camera images + weather station recordings) to provide useful insights about solar energy. We use image- and weather-station- data for accurate solar energy estimation and forecasting. This is useful in the field of photovoltaic (PV) generation and integration. [[read more](https://soumyabrata.github.io/solar/)]
+    <img src="{{ site.url }}/images/upot.jpg">
+    *Utrecht Photovoltaic Outdoor Test facility (UPOT). Photo courtesy of Arjen de Waal.* 
 
 
 
