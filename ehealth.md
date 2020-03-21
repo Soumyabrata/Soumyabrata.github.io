@@ -12,7 +12,7 @@ sidebar:
 # E-Health
 
 ## Objective 
-To provide useful insights to security aspects in Software Defined Networks (SDNs). 
+To derive important insights from biomedical data using machine learning models. 
 
 ## Team
 This is a collaborative work between:
