@@ -21,14 +21,14 @@ Our group is currently working on the following research themes. Please navigate
 
 
 ## [<u>Cloud Imaging</u>](https://soumyabrata.github.io/cloud/)
-In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the atmosphere. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height. [[read more](https://soumyabrata.github.io/cloud/)]
+In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the atmosphere. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height. [[read more](https://soumyabrata.github.io/cloud/)]<br />
     <img src="{{ site.url }}/images/sky-imaging.jpg">
     *(From left to right) Sky Camera, Whole Sky Image captured by the camera* 
 
 
 
 ## [<u>Solar Analytics</u>](https://soumyabrata.github.io/solar/)
-In this project, we use a multi-modal data integration approach, in using various sensors (camera images + weather station recordings) to provide useful insights about solar energy. We use image- and weather-station- data for accurate solar energy estimation and forecasting. This is useful in the field of photovoltaic (PV) generation and integration. [[read more](https://soumyabrata.github.io/solar/)]
+In this project, we use a multi-modal data integration approach, in using various sensors (camera images + weather station recordings) to provide useful insights about solar energy. We use image- and weather-station- data for accurate solar energy estimation and forecasting. This is useful in the field of photovoltaic (PV) generation and integration. [[read more](https://soumyabrata.github.io/solar/)]<br />
     <img src="{{ site.url }}/images/upot.png">
     *(From left to right) Utrecht Photovoltaic Outdoor Test facility (UPOT) with photo courtesy of Arjen de Waal, Solar Irradiance fluctuations on the event of an overcast day.* 
 
