@@ -14,7 +14,7 @@ sidebar:
 -->
 
 # Research 
-My research interests include image processing, machine learning, and remote sensing. I solve problems in digital multimedia, cloud imaging, and solar and renewable energy. 
+My research interests include image processing, machine learning, and remote sensing. I solve problems in atmospheric science, multimedia, ehealth, and network security. 
 
 <br />
 Our group is currently working on the following research themes. Please navigate into the individual research themes for more details. 
