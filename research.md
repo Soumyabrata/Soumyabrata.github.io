@@ -47,6 +47,10 @@ This project involves designing an advertisement detection- and integration- sys
 Software Defined Networking (SDN) has transformed the manner in which we manage the network, without regard to the underlying network technology. It is now easier and cheaper to scale networking solutions to different devices. However, such networking systems are more prone to security vulnerabilities as compared to traditional systems. In this research theme, we explore machine learning technique to develop security solutions for such networks. [[read more](https://soumyabrata.github.io/security/)]
 
 
+## [<u>E-Health</u>](https://soumyabrata.github.io/ehealth/)
+Medicine has traditionally always been an empirical field. With the onset of higher computing power and availability of large-scale dataset, it is now increasingly easier to derive insights of any disease. In this research theme, we have set an ambitious goal to use machine-learning models to characterize the empirical model of medicine. [[read more](https://soumyabrata.github.io/ehealth/)]
+
+
 <!---
 ## [<u>Communications</u>](https://soumyabrata.github.io/communication/)
 This project deals with the analysis of user- interaction and cooperation in wireless networks. We propose algorithmic framework, that helps in improving the performance of the IEEE 802.11 protocol. 
