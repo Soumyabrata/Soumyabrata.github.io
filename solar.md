@@ -35,9 +35,9 @@ In addition to using weather data, we also derive solar analytics information fr
 *Using two successive image frames, we compute the optical flow fields, and thereby predict the future image frames.*   
 
 Furthermore, such multi-modal data can be useful for the purpose of detecting rainfall onset. We use ground-based sky cameras to detect the onset of rainfall. Using the luminance of the camera image as an indicator, we can accurately identify the precipitation onset. We define Clearness Luminance Index as the ratio of measured luminance value to the clear-sky luminance value. 
-<img src="{{ site.baseurl }}/images/cli-trend.png">   
+<img src="{{ site.baseurl }}/images/cli-trend-conc.png">   
 <br />
-*We observe that the index value gradually decreases as it approaches a rain event, and reaches a minimum during rainfall. Post rain event, the clearness luminance index gradually increases with the passage of time.*  
+*We observe that the index value gradually decreases as it approaches a rain event, and reaches a minimum during rainfall. Post rain event, the clearness luminance index gradually increases with the passage of time. We also plot the Cumulative Distribution Plot (CDF) of clearness luminance index of images within and outside the time window of ±15 minutes.*  
 
 
 ## Results   
