@@ -40,7 +40,7 @@ In this project, we use a multi-modal data integration approach, in using variou
 This project involves designing an advertisement detection- and integration- system for multimedia videos. It is useful for next-generation online publicity (viz. product placement and embedded marketing), wherein advertisements are seamlessly integrated into the video scenes. We use deep-learning based techniques for determining if a video frame contains an existing advert, and for accurate localization of adverts in the selected video frame. Subsequently, new adverts are seamlessly implanted into the original video, to create a new augmented video. [[read more](https://soumyabrata.github.io/multimedia/)]
     <br />
     <img src="{{ site.url }}/images/hw1-image.png">
-    * (From left to right) Screen grab of original video and augmented video respectively.* 
+    *(From left to right) Screen grab of original video and augmented video respectively.* 
 
 
 <!---
