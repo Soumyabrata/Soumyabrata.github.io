@@ -86,7 +86,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 </div>
 
 
-### Undergraduate Students
+### Undergrad Students
 
 <div class="row">
 
@@ -196,6 +196,25 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 </div>
+
+
+### Visitors 
+
+<div class="row">
+    <div class="col-xs-2">
+    <a href="https://www.linkedin.com/in/sarthak-batra1/">
+    <img class="people-pic" src="{{ "/images/theia/sarthak-batra.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+    <b>Sarthak Batra</b> is a second-year undergraduate student at Indian Institute of Technology Kharagpur, India. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep learning and computer vision, and is working on a project in understanding engagement of viewers from video streams. 
+    </div>
+    </div>
+
+
+
+
+</div>
+
  
 ### Alumni
 
