@@ -9,20 +9,38 @@ sidebar:
   nav: sidebar-teaching
 ---
 
+## 2020
+
+#### COMP47360-Research Practicum (MSc Conv)<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
+I am currently supervising students, in their dissertation projects. The Research Practicum is a core component of the MSc Computer Science (Conversion) programme and offers an opportunity to build on the skills attained during the modules of the first two trimesters through a research and development project. Please see <a href="https://brightspace.ucd.ie/d2l/home/54595">the Brightspace page</a> for all the related details.
+
+#### COMP47200 Dissertation<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
+I am currently supervising 1 student, in its dissertation project. The COMP47200 Dissertation is one of three possible routes to complete a 30 credit research requirement within the Negotiated Learning programme. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=877">the CS moodle page</a> for all the related details.
+
+
+#### COMP3037J/EEEN3010J IoT Final Year Project<br><sup>Trimester II, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
+I am currently supervising 8 students, in their final year Internet of Things (IoT) projects. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=779">the CS moodle page</a> for all the related details.
+
+
+#### COMP3032J SE Degree Project<br><sup>Trimester II, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
+I am currently supervising 8 students, in their final year software engineering projects. Please see <a href="https://brightspace.ucd.ie/d2l/home/59270">the Brightspace page</a> for all the related details.
 
 ## 2019
 
-#### COMP3005J Agile Processes<br><sup>Semester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
+#### COMP30910-FYP: Design and Implementation<br><sup>Trimester I & II, AY 2019-20, University College Dublin</sup>
+I am currently supervising 1 student, in its final year project. Please see <a href="https://brightspace.ucd.ie/d2l/home/67116">the Brightspace page</a> for all the related details.
+
+#### COMP3005J Agile Processes<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
 I lectured a course on Agile Processes, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=798">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
 
 
-#### COMP3008J Distributed Systems<br><sup>Semester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
+#### COMP3008J Distributed Systems<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
 I lectured a course on Distributed Systems, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=796">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
 
 
-#### COMP3020J Information Security for the Internet of Things<br><sup>Semester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
+#### COMP3020J Information Security for the Internet of Things<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
 I lectured a course on Information Security for the Internet of Things, for degree in BSc Internet of Things. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=797">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
 
