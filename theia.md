@@ -198,7 +198,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 </div>
 
 
-### Visitors 
+### Interns 
 
 <div class="row">
     <div class="col-xs-2">

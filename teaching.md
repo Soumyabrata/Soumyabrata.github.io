@@ -18,7 +18,7 @@ sidebar:
 ## 2020
 
 #### COMP47360-Research Practicum (MSc Conv)<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
-I am currently supervising students, in their dissertation projects. The Research Practicum is a core component of the MSc Computer Science (Conversion) programme and offers an opportunity to build on the skills attained during the modules of the first two trimesters through a research and development project. Please see <a href="https://brightspace.ucd.ie/d2l/home/54595">the Brightspace page</a> for all the related details.
+I am currently mentoring students, in their research practicum. The Research Practicum is a core component of the MSc Computer Science (Conversion) programme and offers an opportunity to build on the skills attained during the modules of the first two trimesters through a research and development project. Please see <a href="https://brightspace.ucd.ie/d2l/home/54595">the Brightspace page</a> for all the related details.
 
 #### COMP47200 Dissertation<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
 I am currently supervising 1 student, in its dissertation project. The COMP47200 Dissertation is one of three possible routes to complete a 30 credit research requirement within the Negotiated Learning programme. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=877">the CS moodle page</a> for all the related details.
