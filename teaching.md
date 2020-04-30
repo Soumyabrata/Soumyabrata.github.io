@@ -9,6 +9,12 @@ sidebar:
   nav: sidebar-teaching
 ---
 
+<!---
+ Details of navigation bar can be found here: _data/navigation.yml
+ -->
+
+
+
 ## 2020
 
 #### COMP47360-Research Practicum (MSc Conv)<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
@@ -82,3 +88,7 @@ I am also involved in outreach activities and teaching Junior College students, 
 
 I supervise students in their Master of Science (MSc) research thesis, and also mentor Final Year Projects (FYPs) and <a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx">Nanyang Research Program</a> (NRP) projects. 
 -->
+
+
+
+
