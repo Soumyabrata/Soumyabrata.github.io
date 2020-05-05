@@ -201,6 +201,20 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 ### Interns 
 
 <div class="row">
+
+
+<div class="col-xs-2">
+<a href="https://www.linkedin.com/in/dewansh-kaloni-18650859/">
+<img class="people-pic" src="{{ "/images/theia/Dewansh-Kaloni.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Dewansh Kaloni</b> is a third-year undergraduate student at Birla Institute of Technology and Science, Pilani, India. His areas of interest include deep learning and remote sensing, and is working on understanding the COVID-19 effect on the environment. 
+</div>
+</div>
+
+
+<br />
+
     <div class="col-xs-2">
     <a href="https://www.linkedin.com/in/sarthak-batra1/">
     <img class="people-pic" src="{{ "/images/theia/sarthak-batra.png" | prepend:site.baseurl }}">
