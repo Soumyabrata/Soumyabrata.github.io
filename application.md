@@ -155,10 +155,8 @@ with the assistance from small- and medium-size enterprises. I established conta
 
 ### Closing Note
 
-Inspired by the practical problems faced in various area, my vision is to use my ex-
-pertise of machine learning and image processing to solve similar problems in myriad
-fields: solar analytics, and smart traffic analytics. Alongside my research, I am inter-
-ested to continue involving myself in a number of education and outreach activities.
+Inspired by the practical problems faced in various area, my vision is to use my expertise of machine learning and image processing to solve similar problems in myriad
+fields: solar analytics, and smart traffic analytics. Alongside my research, I am interested to continue involving myself in a number of education and outreach activities.
 Furthermore, I am a firm believer of open science, and the spirit of reproducible research [7]. Therefore, whenever possible, I continue to publish my preprints, and release
 the associated codes and datasets amongst the community.
 
