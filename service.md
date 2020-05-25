@@ -31,6 +31,7 @@ sidebar:
 
 
 ### Outreach
++ 2020: <a href="https://soundcloud.com/theadaptcentre/soumyabrata-dev-how-computer-vision-assists-in-identifying-product-placement-locations">Chat</a> at <a href="https://soundcloud.com/theadaptcentre">ADAPT Radio</a> podcast series, and provided insights into how the future of video ads may work using computer vision and deep learning. 
 + 2019: Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, University College Dublin.
 + 2017: Delivered a talk in the workshop 'Cantenna to the WiFi rescue', as a part of <a href="http://www.ntu.edu.sg/TalentOutreach/seeNTU/Documents/seeNTU%20Programme%20Schedule%202017.pdf">seeNTU 2017 programme</a> at NTU Singapore, on May 31, 2017. This is organized by <a href="http://www.ntu.edu.sg/TalentOutreach/Pages/index.aspx">Talent Outreach</a>, NTU Singapore.
 + 2016: Delivered a talk in the 'LED Cube' workshop, as a part of NTU EEE Outreach program at <a href="http://www.eee.ntu.edu.sg/Programmes/Garage/Pages/Home.aspx">Garage@EEE</a>, NTU Singapore, on October 6, 2016 for JC students from <a href="http://www.ri.edu.sg/">Raffles Institution</a>, Singapore. Check out the <a href="http://www3.ntu.edu.sg/home2012/SOUMYABR001/ledcube.html">LED Cube workshop</a> page. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/led-workshop_ri_6oct2016.pdf">Slides</a>]
