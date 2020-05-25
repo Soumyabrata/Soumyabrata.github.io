@@ -10,7 +10,7 @@ sidebar:
 ---
 
 ### Organizing Committee
-+ 2020: Publication Chair, <a href="https://sites.univaasa.fi/sest2021/committees/">4th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Vaasa, Finland.
++ 2021: Publication Chair, <a href="https://sites.univaasa.fi/sest2021/committees/">4th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Vaasa, Finland.
 + 2019: Organizer, <a href="http://hpcs2019.cisedu.info/2-conference/workshops/workshop14-mlpra">8th International Workshop on Machine Learning, Pattern Recognition & Applications (MLPRA 2019)</a> at <a href="http://hpcs2019.cisedu.info/">17th International Conference on High Performance Computing & Simulation (HPCS 2019)</a>
 + 2019: Organizer, <a href="https://2019cvae.github.io/">2019 Workshop on Computer Vision for Atmospheric Events Analysis (CVAE)</a> at <a href="https://www.acpr2019.org/">5th Asian Conference on Pattern Recognition (ACPR 2019)</a>
 + 2019: Organizer, <a href="https://3iar.github.io/">3D Reconstruction and Interactive Augmented Reality (3IAR)</a> at <a href="https://www.acpr2019.org/">5th Asian Conference on Pattern Recognition (ACPR 2019)</a>
