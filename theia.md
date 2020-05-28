@@ -86,6 +86,38 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 </div>
 
 
+
+### Grad Students 
+
+<div class="row">
+
+
+<div class="col-xs-2">
+<a href="https://github.com/Walshj73">
+<img class="people-pic" src="{{ "/images/theia/jason-walsh.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Jason WALSH</b> received his BSc degree from Technological University Dublin in Computing with Data Analytics. He is currently pursuing his MSc in Computer Science at University College Dublin. His main areas of interest are computer vision & deep learning and their applications in medical imaging. Currently, he is working on his thesis on the segmentation of brain tumours from magnetic resonance imaging (MRI) images.
+</div>
+</div>
+
+
+<br />
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Barry-McNicholl.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Barry McNICHOLL</b> is a fourth year student pursuing a masters in Electronic & Computer Engineering at University College Dublin. He has a BSc in Electrical & Electronic Engineering and his main area of interest is software engineering. He is currently a summer intern hosted by University College Dublin and is working on the visualization of ERA5 datasets for precision agriculture. 
+</div>
+</div>
+
+
+
+
+</div>
+
+
+
 ### Undergrad Students
 
 <div class="row">
@@ -208,7 +240,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <img class="people-pic" src="{{ "/images/theia/Dewansh-Kaloni.png" | prepend:site.baseurl }}">
 </a>
 <div class="people-name">
-<b>Dewansh Kaloni</b> is a third-year undergraduate student at Birla Institute of Technology and Science, Pilani, India. He is currently a summer intern hosted by University College Dublin. His areas of interest include deep learning and remote sensing, and is working on understanding the COVID-19 effect on the environment. 
+<b>Dewansh KALONI</b> is a third-year undergraduate student at Birla Institute of Technology and Science, Pilani, India. He is currently a summer intern hosted by University College Dublin. His areas of interest include deep learning and remote sensing, and is working on understanding the COVID-19 effect on the environment. 
 </div>
 </div>
 
@@ -220,7 +252,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
     <img class="people-pic" src="{{ "/images/theia/sarthak-batra.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-    <b>Sarthak Batra</b> is a second-year undergraduate student at Indian Institute of Technology Kharagpur, India. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep learning and computer vision, and is working on a project in understanding engagement of viewers from video streams. 
+    <b>Sarthak BATRA</b> is a second-year undergraduate student at Indian Institute of Technology Kharagpur, India. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep learning and computer vision, and is working on a project in understanding engagement of viewers from video streams. 
     </div>
     </div>
 

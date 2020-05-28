@@ -13,7 +13,8 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 #### Recent News
 
-+ Welcome to our summer interns for this academic year: Sarthak Batra, Dewansh Kaloni and Pierre Berjon. They are working on varied projects in the area of computer vision and machine learning. 
++ Welcome to our grad students: Jason Walsh, and Barry McNicholl, who joined us for their research masters degree supervision. 
++ Welcome to our summer interns for this academic year: Sarthak Batra, Dewansh Kaloni, Pierre Berjon, and Guillaume Tran. They are working on varied projects in the area of computer vision and machine learning. 
 + We are delighted to receive a research grant from <a href="https://www.kaggle.com/">Kaggle</a>, a subsidiary of Google LLC, for atmospheric monitoring using imaging sensors, along with <a href="https://people.ucd.ie/michela.bertolotto">Michela Bertolotto</a>, <a href="https://people.ucd.ie/gavin.mcardle">Gavin McArdle</a>, and <a href="https://people.ucd.ie/isabella.gollini">Isabella Gollini</a>.
 + Welcome Mayank Jain to our <a href="https://soumyabrata.dev/theia/">group</a>. He joins us for his PhD since January 2020, on understanding the various events in the atmosphere using computer vision techniques. 
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
