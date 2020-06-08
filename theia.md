@@ -236,6 +236,17 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Guillaume.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Guillaume TRAN</b> is a second-year undergraduate student at Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France. He is currently a summer intern hosted by University College Dublin. His areas of interest are image processing and multimedia, and is working on a project in cloud type recognition from ground-based sky cameras.
+</div>
+</div>
+
+
+<br />
+
+
+<div class="col-xs-2">
 <a href="https://www.linkedin.com/in/dewansh-kaloni-18650859/">
 <img class="people-pic" src="{{ "/images/theia/Dewansh-Kaloni.png" | prepend:site.baseurl }}">
 </a>
