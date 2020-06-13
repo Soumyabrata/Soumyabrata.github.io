@@ -37,6 +37,11 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
+
++ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, DDoSNet: A Deep-Learning Model for Detecting Network Attacks, *Proc. IEEE World of Wireless, Mobile and Multimedia networks (WoWMoM)*, 2020. 
+
++ I. Bacher\*, H. Javidnia\*, S. Dev\*, R. Agrahari, M. Hossari,  M. Nicholson, C. Conran, J. Tang, P. Song, D. Corrigan, and F. Piti&eacute;, A 3D-Advert Creation System for Product Placements, *Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2020 (\* authors contributed equally). 
+
 + M. Jain, S. Manandhar, Y. H. Lee, S. Winkler, and S. Dev, Forecasting Precipitable Water Vapor Using LSTMs, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2020. 
 
 + I. Bacher, H. Javidnia, S. Dev, R. Agrahari, M. Hossari, M. Nicholson, C. Conran, D. Corrigan, and F. Piti&eacute;, DeepReal - A Deep Learning Based 3D Advert Integration System, *Proc. NEM Summit 2020 - B'Smart - European Media Science and Technology Meets Arts*, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2020/03/nem2020.pdf">PDF</a>] 
