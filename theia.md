@@ -107,7 +107,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Barry-McNicholl.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Barry McNICHOLL</b> is a fourth year student pursuing a masters in Electronic & Computer Engineering at University College Dublin. He has a BSc in Electrical & Electronic Engineering and his main area of interest is software engineering. He is currently a summer intern hosted by University College Dublin and is working on the visualization of ERA5 datasets for precision agriculture. 
+<b>Barry McNICHOLL</b> is a fourth year student pursuing a masters in Electronic & Computer Engineering at University College Dublin. He has a BSc in Electrical & Electronic Engineering and his main area of interest is software engineering. Currently, he is working on his thesis on the visualization of ERA5 datasets for precision agriculture. 
 </div>
 </div>
 
