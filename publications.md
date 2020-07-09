@@ -37,15 +37,15 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ M. Jain, T. Alskaif and S. Dev, A Clustering Framework for Residential Electric Demand Profiles, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2020. 
++ M. Jain, T. Alskaif and S. Dev, A Clustering Framework for Residential Electric Demand Profiles, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2020. [<a href="https://github.com/jain15mayank/Clustering-Framework-for-Resedential-Demand-Profiles">code</a>]
 
-+ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, DDoSNet: A Deep-Learning Model for Detecting Network Attacks, *Proc. IEEE World of Wireless, Mobile and Multimedia networks (WoWMoM)*, 2020. 
++ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, DDoSNet: A Deep-Learning Model for Detecting Network Attacks, *Proc. IEEE World of Wireless, Mobile and Multimedia networks (WoWMoM)*, 2020. [<a href="https://arxiv.org/pdf/2006.13981.pdf">arXiv</a>]
 
-+ I. Bacher\*, H. Javidnia\*, S. Dev\*, R. Agrahari, M. Hossari,  M. Nicholson, C. Conran, J. Tang, P. Song, D. Corrigan, and F. Piti&eacute;, A 3D-Advert Creation System for Product Placements, *Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2020 (\* authors contributed equally). 
++ I. Bacher\*, H. Javidnia\*, S. Dev\*, R. Agrahari, M. Hossari,  M. Nicholson, C. Conran, J. Tang, P. Song, D. Corrigan, and F. Piti&eacute;, An Advert Creation System for 3D Product Placements, *Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2020 (\* authors contributed equally). [<a href="https://arxiv.org/pdf/2006.15131.pdf">arXiv</a>]
 
-+ M. Jain, S. Manandhar, Y. H. Lee, S. Winkler, and S. Dev, Forecasting Precipitable Water Vapor Using LSTMs, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2020. 
++ M. Jain, S. Manandhar, Y. H. Lee, S. Winkler, and S. Dev, Forecasting Precipitable Water Vapor Using LSTMs, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2020. [<a href="https://arxiv.org/pdf/2006.15165.pdf">arXiv</a>] [<a href="https://github.com/jain15mayank/PWV-Forecasts-Using-LSTM">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2020/07/aps2020-slides.pdf">slides</a>]
 
-+ I. Bacher, H. Javidnia, S. Dev, R. Agrahari, M. Hossari, M. Nicholson, C. Conran, D. Corrigan, and F. Piti&eacute;, DeepReal - A Deep Learning Based 3D Advert Integration System, *Proc. NEM Summit 2020 - B'Smart - European Media Science and Technology Meets Arts*, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2020/03/nem2020.pdf">PDF</a>] 
++ I. Bacher, H. Javidnia, S. Dev, R. Agrahari, M. Hossari, M. Nicholson, C. Conran, D. Corrigan, and F. Piti&eacute;, DeepReal - A Deep Learning Based 3D Advert Integration System, *<a href="https://nem-initiative.org/nem-summit-2020-program/">Proc. NEM Summit 2020 - B'Smart - European Media Science and Technology Meets Arts</a>*, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2020/03/nem2020.pdf">PDF</a>] 
 
 + L. L&eacute;v&ecirc;que, S. Dev, M. Hossari, Y. H. Lee and S. Winkler, Subjective Quality Assessment of Ground-based Camera Images, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2019. [<a href="https://arxiv.org/pdf/1912.07192.pdf">arXiv</a>] 
 
@@ -67,7 +67,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + T. AlSkaif\*, S. Dev\*, L. Visser, M. Hossari, and W. van Sark, On the Interdependence and Importance of Meteorological Variables for Photovoltaic Output Power Estimation, *Proc. 46th IEEE Photovoltaic Specialists Conference (PVSC)*, 2019 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2019/07/pvsc2019.pdf">PDF</a>]
 
-+ S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The CASE Dataset of Candidate Spaces for Advert Implantation, *Proc. International Conference on Machine Vision Applications (MVA)*, 2019. [<a href="https://arxiv.org/pdf/1903.08943.pdf">arXiv</a>] 
++ S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The CASE Dataset of Candidate Spaces for Advert Implantation, *Proc. International Conference on Machine Vision Applications (MVA)*, 2019. [<a href="https://arxiv.org/pdf/1903.08943.pdf">arXiv</a>] [<a href="https://www.adaptcentre.ie/images/uploads/about/CASE-dataset.zip">dataset</a>] 
 
 + S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Multi-label Cloud Segmentation Using a Deep Network, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2019. [<a href="https://arxiv.org/pdf/1903.06562.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/multilabel-unet">code</a>]
 
