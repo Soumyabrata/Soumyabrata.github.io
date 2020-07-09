@@ -269,6 +269,17 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 
+<br />
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Pierre.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Pierre BERJON</b> is a second-year undergraduate student at Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep Learning and natural language processing, and is working on a project in automatic speech recognition in order to develop and AI-driven software framework that will automatically generate English sentences from a video tutorial.
+</div>
+</div>
+
+
+
 
 </div>
 
