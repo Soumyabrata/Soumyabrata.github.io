@@ -45,7 +45,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + M. Jain, S. Manandhar, Y. H. Lee, S. Winkler, and S. Dev, Forecasting Precipitable Water Vapor Using LSTMs, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2020. [<a href="https://arxiv.org/pdf/2006.15165.pdf">arXiv</a>] [<a href="https://github.com/jain15mayank/PWV-Forecasts-Using-LSTM">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2020/07/aps2020-slides.pdf">slides</a>]
 
-+ I. Bacher, H. Javidnia, S. Dev, R. Agrahari, M. Hossari, M. Nicholson, C. Conran, D. Corrigan, and F. Piti&eacute;, DeepReal - A Deep Learning Based 3D Advert Integration System, *<a href="https://nem-initiative.org/nem-summit-2020-program/">Proc. NEM Summit 2020 - B'Smart - European Media Science and Technology Meets Arts</a>*, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2020/03/nem2020.pdf">PDF</a>] 
++ I. Bacher, H. Javidnia, S. Dev, R. Agrahari, M. Hossari, M. Nicholson, C. Conran, D. Corrigan, and F. Piti&eacute;, DeepReal - A Deep Learning Based 3D Advert Integration System, *<a href="https://nem-initiative.org/nem-summit-2020-program/">Proc. NEM Summit 2020 - B'Smart - European Media Science and Technology Meets Arts</a>*, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2020/03/nem2020.pdf">PDF</a>] [<a href="https://soumyabratadev.files.wordpress.com/2020/07/nem-summit2020-slides.pdf">slides</a>]
 
 + L. L&eacute;v&ecirc;que, S. Dev, M. Hossari, Y. H. Lee and S. Winkler, Subjective Quality Assessment of Ground-based Camera Images, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2019. [<a href="https://arxiv.org/pdf/1912.07192.pdf">arXiv</a>] 
 
