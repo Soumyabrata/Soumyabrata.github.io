@@ -13,6 +13,7 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 #### Recent News
 
++ I'm a guest editor in the <a href="https://ieeexplore.ieee.org/document/9142155">Special Issue on Deep Learning and Evolutionary Computation for Satellite Imagery</a>, in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8254253">IEEE Big Data Mining and Analytics journal</a>.
 + Welcome to our grad students: Jason Walsh, and Barry McNicholl, who joined us for their research masters degree supervision. 
 + Welcome to our summer interns for this academic year: Sarthak Batra, Dewansh Kaloni, Pierre Berjon, Guillaume Tran, and Buğra Alparslan. They are working on varied projects in the area of computer vision and machine learning. 
 + We are delighted to receive a research grant from <a href="https://www.kaggle.com/">Kaggle</a>, a subsidiary of Google LLC, for atmospheric monitoring using imaging sensors, along with <a href="https://people.ucd.ie/michela.bertolotto">Michela Bertolotto</a>, <a href="https://people.ucd.ie/gavin.mcardle">Gavin McArdle</a>, and <a href="https://people.ucd.ie/isabella.gollini">Isabella Gollini</a>.
