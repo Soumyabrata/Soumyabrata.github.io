@@ -43,7 +43,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, DDoSNet: A Deep-Learning Model for Detecting Network Attacks, *Proc. IEEE World of Wireless, Mobile and Multimedia networks (WoWMoM)*, 2020. [<a href="https://arxiv.org/pdf/2006.13981.pdf">arXiv</a>]
 
-+ I. Bacher\*, H. Javidnia\*, S. Dev\*, R. Agrahari, M. Hossari,  M. Nicholson, C. Conran, J. Tang, P. Song, D. Corrigan, and F. Piti&eacute;, An Advert Creation System for 3D Product Placements, *Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2020 (\* authors contributed equally). [<a href="https://arxiv.org/pdf/2006.15131.pdf">arXiv</a>]
++ I. Bacher\*, H. Javidnia\*, S. Dev\*, R. Agrahari, M. Hossari,  M. Nicholson, C. Conran, J. Tang, P. Song, D. Corrigan, and F. Piti&eacute;, An Advert Creation System for 3D Product Placements, *Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2020 (\* authors contributed equally). [<a href="https://arxiv.org/pdf/2006.15131.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2020/07/ecml-pkdd2020-slides.pdf">slides</a>]
 
 + M. Jain, S. Manandhar, Y. H. Lee, S. Winkler, and S. Dev, Forecasting Precipitable Water Vapor Using LSTMs, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2020. [<a href="https://arxiv.org/pdf/2006.15165.pdf">arXiv</a>] [<a href="https://github.com/jain15mayank/PWV-Forecasts-Using-LSTM">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2020/07/aps2020-slides.pdf">slides</a>]
 
