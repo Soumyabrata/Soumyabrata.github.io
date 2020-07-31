@@ -17,6 +17,7 @@ sidebar:
 + 2016: Local organizing chair of <a href="http://hardtechsummit.com/">IEEE HardTech Summit</a> 2016, in extension to <a href="http://tencon2016.org/">TENCON 2016</a> conference. The summit was held at Nanyang Technological University Singapore on 26 November 2016, in association with several partners. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/hts_flyer.png">Event Flyer</a>]
 
 ### Technical Program Committee
++ 2021: <a href="http://www.iccgv.org/com.html">ICCGV 2021</a>, 4th International Conference on Computer Graphics and Virtuality 
 + 2021: <a href="https://sites.univaasa.fi/sest2021/committees/">SEST 2021</a>, 4th International Conference on Smart Energy Systems and Technologies (SEST)
 + 2020: <a href="http://www.icdsie.com/committee.html">ICDSIE 2020</a>, First International Conference on Data Science and Internet of Everything
 + 2020: <a href="http://smart-sports-exercises.nl/maistrope/">MAIStroPE 2020</a>, 1st Workshop on Action Modelling for Interaction and Analysis in Smart Sports and Physical Education (MAIStroPE), at <a href="http://icmi.acm.org/2020/">22nd ACM International Conference on Multimodal Interaction</a>.
