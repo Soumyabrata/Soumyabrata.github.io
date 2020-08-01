@@ -39,7 +39,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Detecting Abnormal Traffic in Large-Scale Networks, *Proc. IEEE International Symposium on Networks, Computers and Communications (ISNCC)*, 2020. 
 
-+ M. Jain, T. Alskaif and S. Dev, A Clustering Framework for Residential Electric Demand Profiles, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2020. [<a href="https://github.com/jain15mayank/Clustering-Framework-for-Resedential-Demand-Profiles">code</a>]
++ M. Jain, T. Alskaif and S. Dev, A Clustering Framework for Residential Electric Demand Profiles, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2020. [<a href="https://github.com/jain15mayank/Clustering-Framework-for-Resedential-Demand-Profiles">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2020/08/sest2020-slides.pdf">slides</a>]
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, DDoSNet: A Deep-Learning Model for Detecting Network Attacks, *Proc. IEEE World of Wireless, Mobile and Multimedia networks (WoWMoM)*, 2020. [<a href="https://arxiv.org/pdf/2006.13981.pdf">arXiv</a>]
 
