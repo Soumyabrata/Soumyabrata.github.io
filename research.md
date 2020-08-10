@@ -14,7 +14,7 @@ sidebar:
 -->
 
 # Research 
-My research interests include image processing, machine learning, and remote sensing. I solve problems in atmospheric science, multimedia, ehealth, and network security. 
+My research interests include image processing, machine learning, and remote sensing. I solve problems in atmospheric science, multimedia, ehealth, and network security. My research interests in the theme of atmospheric science strongly align with UN Sustainable Development Goals: (a) [Goal 7: affordable and clean energy](https://www.un.org/sustainabledevelopment/energy/), and (b) [Goal 13: climate action](https://www.un.org/sustainabledevelopment/climate-change/).
 
 <br />
 Our group is currently working on the following research themes. Please navigate into the individual research themes for more details. 
