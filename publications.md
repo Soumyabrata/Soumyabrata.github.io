@@ -37,7 +37,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Detecting Abnormal Traffic in Large-Scale Networks, *Proc. IEEE International Symposium on Networks, Computers and Communications (ISNCC)*, 2020. 
++ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Network Anomaly Detection Using LSTM Based Autoencoder, *Proc. The Sixteenth International Conference on Networking and Services (ICNS)*, 2020. 
+
++ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Detecting Abnormal Traffic in Large-Scale Networks, *Proc. IEEE International Symposium on Networks, Computers and Communications (ISNCC)*, 2020. [<a href="https://arxiv.org/pdf/2008.05791.pdf">arXiv</a>]
 
 + M. Jain, T. Alskaif and S. Dev, A Clustering Framework for Residential Electric Demand Profiles, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2020. [<a href="https://github.com/jain15mayank/Clustering-Framework-for-Resedential-Demand-Profiles">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2020/08/sest2020-slides.pdf">slides</a>]
 
