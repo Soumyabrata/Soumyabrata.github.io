@@ -17,24 +17,37 @@ sidebar:
 
 ## 2020
 
+#### COMP2002J Data Structures and Algorithms 1<br><sup>Trimester I, AY 2020-21, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on Data Structures and Algorithms 1, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=891">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:saeedeh.ghanadbashi@ucdconnect.ie">Saeedeh Ghanadbashi</a>, for further details.
+
+
+#### COMP2012J Operating Systems<br><sup>Trimester I, AY 2020-21, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=890">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:maha.riad@ucdconnect.ie">Maha Riad</a>, for further details.
+
+#### COMP2005J Object Oriented Programming<br><sup>Trimester I, AY 2020-21, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on Object Oriented Programming, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=892">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:mayank.jain1@ucdconnect.ie">Mayank Jain</a>, for further details.
+
 #### COMP47360-Research Practicum (MSc Conv)<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
-I am currently mentoring students, in their research practicum. The Research Practicum is a core component of the MSc Computer Science (Conversion) programme and offers an opportunity to build on the skills attained during the modules of the first two trimesters through a research and development project. Please see <a href="https://brightspace.ucd.ie/d2l/home/54595">the Brightspace page</a> for all the related details.
+I mentored students, in their research practicum. The Research Practicum is a core component of the MSc Computer Science (Conversion) programme and offers an opportunity to build on the skills attained during the modules of the first two trimesters through a research and development project. Please see <a href="https://brightspace.ucd.ie/d2l/home/54595">the Brightspace page</a> for all the related details.
 
 #### COMP47200 Dissertation<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
-I am currently supervising 1 student, in its dissertation project. The COMP47200 Dissertation is one of three possible routes to complete a 30 credit research requirement within the Negotiated Learning programme. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=877">the CS moodle page</a> for all the related details.
+I supervised 1 student, in its dissertation project. The COMP47200 Dissertation is one of three possible routes to complete a 30 credit research requirement within the Negotiated Learning programme. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=877">the CS moodle page</a> for all the related details.
 
 
 #### COMP3037J/EEEN3010J IoT Final Year Project<br><sup>Trimester II, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I am currently supervising 8 students, in their final year Internet of Things (IoT) projects. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=779">the CS moodle page</a> for all the related details.
+I supervised 8 students, in their final year Internet of Things (IoT) projects. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=779">the CS moodle page</a> for all the related details.
 
 
 #### COMP3032J SE Degree Project<br><sup>Trimester II, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I am currently supervising 8 students, in their final year software engineering projects. Please see <a href="https://brightspace.ucd.ie/d2l/home/59270">the Brightspace page</a> for all the related details.
+I supervised 8 students, in their final year software engineering projects. Please see <a href="https://brightspace.ucd.ie/d2l/home/59270">the Brightspace page</a> for all the related details.
 
 ## 2019
 
 #### COMP30910-FYP: Design and Implementation<br><sup>Trimester I & II, AY 2019-20, University College Dublin</sup>
-I am currently supervising 1 student, in its final year project. Please see <a href="https://brightspace.ucd.ie/d2l/home/67116">the Brightspace page</a> for all the related details.
+I supervised 1 student, in its final year project. Please see <a href="https://brightspace.ucd.ie/d2l/home/67116">the Brightspace page</a> for all the related details.
 
 #### COMP3005J Agile Processes<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
 I lectured a course on Agile Processes, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=798">the CS moodle page</a> for course notes + assessments.<br>
