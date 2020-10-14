@@ -229,7 +229,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 + Wenqing Fan, NTU NRP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 
 
-##### Why THEIA
+## Why THEIA?
 All great research starts with a story. Our group's name THEIA lab is derived from the <a href="https://en.wikipedia.org/wiki/Theia">Greek goddess Theia</a>, also referred as the Titan goddess of sight (thea), and the bright blue sky (aithre). Also, Theia's brother is Hyperion, who is a god of the sun. Quite interestingly, our group's research is focused on computer vision, solar and renewable energy etc. Credits to <a href="https://twitter.com/hossari">Murhaf</a> and <a href="https://twitter.com/BadmotorF">Fabrizio</a> for this wonderful idea. 
 
 
