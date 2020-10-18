@@ -60,6 +60,25 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 <div class="row">
 	
+	
+	
+   	<div class="col-xs-2">
+       <a href="https://github.com/futaoo">
+         <img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
+       </a>
+       <div class="people-name">
+   	  <b>Jiantao WU (Ivan)</b> is pursuing his PhD at the School of Computer Science, University College Dublin. His thesis is co-supervised by Dr Fabrizio Orlandi and Prof Declan O'Sullivan. Jiantao has been a software engineer for 2 years in the field of knowledge graph applications at China Electronics Technology Group Corporation before the commence of his research role at UCD. Prior to this, he completed his Masters from University College London and Bachelors from Xi'an University of Architecture and Technology. His research interests includes knowledge graphs, machine learning, and sensor data processing. 
+       </div>
+    </div>
+	
+	
+<br />
+
+
+
+
+
+	
    	<div class="col-xs-2">
        <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">
          <img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
