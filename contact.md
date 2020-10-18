@@ -33,7 +33,7 @@ affiliation: IEEE (S'09-M'17)
 |                  | Beijing 100124, P. R. China                                           |
 | membership       | IEEE (S’09-M’17)                                                      |
 | academic job     | I am no longer in the academic job market. <a href="https://soumyabrata.github.io/application/">*This page*</a>, however, provides details on several aspects of my application. You may find it useful.                                                                             |
-| office hours     | Monday, 4pm to 5pm, at Exchange-4 room, 7th floor, Teaching building 4|
+| office hours     | <del>Monday, 4pm to 5pm, at Exchange-4 room, 7th floor, Teaching building 4</del> Online till this pandemic is over!|
 
 
 
