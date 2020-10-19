@@ -111,6 +111,24 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <div class="row">
 
 
+
+
+
+<div class="col-xs-2">
+<a href="https://github.com/Walshj73">
+<img class="people-pic" src="{{ "/images/theia/Nicholas-Danesi.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Nicholas DANESI</b> is pursuing his MSc in Environmental Sustainability at University College Dublin. He received his undergraduate from the University of Queensland in Chemical Engineering and Commerce. He is interested in developing better air quality control systems in the mining industry. Currently, he is working on his thesis on the short-term forecasting of atmospheric air pollutants using a deep learning model. 
+</div>
+</div>
+
+
+<br />
+
+
+
+
 <div class="col-xs-2">
 <a href="https://github.com/Walshj73">
 <img class="people-pic" src="{{ "/images/theia/jason-walsh.png" | prepend:site.baseurl }}">
