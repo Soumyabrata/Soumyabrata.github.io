@@ -115,7 +115,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 <div class="col-xs-2">
-<a href="https://github.com/Walshj73">
+<a href="https://www.linkedin.com/in/nicholas-danesi/">
 <img class="people-pic" src="{{ "/images/theia/Nicholas-Danesi.png" | prepend:site.baseurl }}">
 </a>
 <div class="people-name">
