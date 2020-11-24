@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ M. S. Pathan, J. Zhang, D. John, A. Nag and S. Dev, <a href="https://ieeexplore.ieee.org/document/9264165">Identifying Stroke Indicators Using Rough Sets</a>, *IEEE Access*, 2020. 
+
 + T. AlSkaif\*, S. Dev\*, L. Visser, M. Hossari, W. van Sark, A systematic analysis of meteorological variables for PV output power estimation, *Renewable Energy*, 2020 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2020/02/re2020.pdf">PDF</a>]
 
 + S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, Estimating Solar Irradiance Using Sky Imagers, *Atmospheric Measurement Techniques (AMT)*, 2019.  [<a href="https://arxiv.org/pdf/1910.04981.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/estimate-solar-irradiance">code</a>]
@@ -37,7 +39,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Network Anomaly Detection Using LSTM Based Autoencoder, *Proc. The Sixteenth International Conference on Networking and Services (ICNS)*, 2020. 
++ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, <a href="https://dl.acm.org/doi/abs/10.1145/3416013.3426457">Network Anomaly Detection Using LSTM Based Autoencoder</a>, *Proc. 16th ACM Symposium on QoS and Security for Wireless and Mobile Networks*, 2020. 
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Detecting Abnormal Traffic in Large-Scale Networks, *Proc. IEEE International Symposium on Networks, Computers and Communications (ISNCC)*, 2020. [<a href="https://arxiv.org/pdf/2008.05791.pdf">arXiv</a>]
 
