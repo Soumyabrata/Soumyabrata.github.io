@@ -115,6 +115,28 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Zixiang-Xu.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Zixiang XU (Dante)</b> is pursuing his MSc at the School of Computer Science, University College Dublin. His project is supervised by Dr Abraham Campbell and Dr Soumyabrata Dev. Zixiang received his undergraduate from Beijing-Dublin International College. His research interests include virtual reality, augmented reality, data visualization and machine learning. Currently, he is working with CONSUS to visualize the farming data into 3D graphs and output them with augmented reality technology in devices.
+</div>
+</div>
+
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Yuan-Liang.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Yuan LIANG (Nick)</b> is currently pursuing his MSc in Computer Science at University College Dublin. He received his BSc degree and B.Eng degree from Beijing University of Technology in Software Engineering.  His main areas of interest are computer vision, machine learning and deep learning. Currently, he is working on his thesis on the visualization of agricultural big data with machine learning.
+</div>
+</div>
+
+
+<br />
+
+
+<div class="col-xs-2">
 <a href="https://www.linkedin.com/in/nicholas-danesi/">
 <img class="people-pic" src="{{ "/images/theia/Nicholas-Danesi.png" | prepend:site.baseurl }}">
 </a>
