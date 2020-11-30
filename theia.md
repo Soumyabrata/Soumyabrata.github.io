@@ -177,6 +177,27 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 
+
+### Undergrads
+
+
+
+<div class="row">
+	<div class="col-xs-2">
+      <img class="people-pic" src="{{ "/images/theia/oisin-hourican.png" | prepend:site.baseurl }}">
+    <div class="people-name">
+	  <b>Oisin HOURICAN</b> is a fourth year computer science student currently doing a final year project in image processing, with an interest in software development.
+    </div>
+ </div>
+  
+<br />
+
+
+
+</div>
+
+
+
 ### Interns 
 
 <div class="row">
