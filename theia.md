@@ -178,7 +178,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 
-### Undergrads
+### Undergrad Students
 
 
 
@@ -188,9 +188,18 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
     <div class="people-name">
 	  <b>Oisin HOURICAN</b> is a fourth year computer science student currently doing a final year project in image processing, with an interest in software development.
     </div>
- </div>
+	</div>
   
 <br />
+
+
+
+	<div class="col-xs-2">
+      <img class="people-pic" src="{{ "/images/theia/dummy-headshot.png" | prepend:site.baseurl }}">
+    <div class="people-name">
+	  <b>Aleksandar DIMITROV</b> is a fourth year computer science student at University College Dublin. He is currently doing a final year project in image segmentation. His areas of interest are embedded hardware and software development.
+    </div>
+	</div>
 
 
 
