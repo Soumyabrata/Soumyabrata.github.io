@@ -56,6 +56,24 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
   </div>
 </div>
 
+
+
+### Postdoc Fellows
+
+<div class="row">
+  <div class="col-xs-2">
+    <a href="https://scholar.google.com/citations?user=ZTyANRQAAAAJ&hl=en">
+      <img class="people-pic" src="{{ "/images/theia/Salman-Khan.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <b>Muhammad Salman PATHAN</b> is a Marie Skłodowska-Curie ELITE-S Research fellow at ADAPT centre. He has completed his PhD in Software Engineering from Beijing University of Technology where he was awarded 4 years fully funded Chinese Scholarship Council (CSC) Scholarship. His research interests include machine learning, information security, and health care data.
+    </div>
+  </div>
+</div>
+
+
+
+
 ### PhD Students
 
 <div class="row">
