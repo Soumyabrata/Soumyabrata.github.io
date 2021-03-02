@@ -11,6 +11,11 @@ sidebar:
 
 ## 2020
 
++ I'm a guest editor in the <a href="https://ieeexplore.ieee.org/document/9142155">Special Issue on Deep Learning and Evolutionary Computation for Satellite Imagery</a>, in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8254253">IEEE Big Data Mining and Analytics journal</a>.
++ Welcome to our grad students: Jason Walsh, and Barry McNicholl, who joined us for their research masters degree supervision. 
++ Welcome to our summer interns for this academic year: Sarthak Batra, Dewansh Kaloni, Pierre Berjon, Guillaume Tran, and Buğra Alparslan. They are working on varied projects in the area of computer vision and machine learning. 
++ We are delighted to receive a research grant from <a href="https://www.kaggle.com/">Kaggle</a>, a subsidiary of Google LLC, for atmospheric monitoring using imaging sensors, along with <a href="https://people.ucd.ie/michela.bertolotto">Michela Bertolotto</a>, <a href="https://people.ucd.ie/gavin.mcardle">Gavin McArdle</a>, and <a href="https://people.ucd.ie/isabella.gollini">Isabella Gollini</a>.
++ Welcome Mayank Jain to our <a href="https://soumyabrata.dev/theia/">group</a>. He joins us for his PhD since January 2020, on understanding the various events in the atmosphere using computer vision techniques. 
 + I am one of the <a href="https://edge-research.eu/supervisors/soumyabrata-dev/">academic supervisors</a> in the <a href="https://edge-research.eu/">EDGE Marie Skłodowska-Curie postdoctoral fellowship</a>, contact me if you are interested to work in the broad areas of computer vision + machine learning.
 
 
