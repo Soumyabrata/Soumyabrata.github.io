@@ -32,7 +32,6 @@ affiliation: IEEE (S'09-M'17)
 |                  | 100 Ping Le Yuan, Chaoyang District                                   |
 |                  | Beijing 100124, P. R. China                                           |
 | membership       | IEEE (S’09-M’17)                                                      |
-| academic job     | I am no longer in the academic job market. <a href="https://soumyabrata.github.io/application/">*This page*</a>, however, provides details on several aspects of my application. You may find it useful.                                                                             |
 | office hours     | <del>Monday, 4pm to 5pm, at Exchange-4 room, 7th floor, Teaching building 4</del> Online till this pandemic is over!|
 
 
@@ -50,6 +49,6 @@ email: soumyabr001[at]e[dot]ntu[dot]edu[dot]sg
 phone: +65 6790 6527 
  
 | curriculum vitae | [<a href="https://soumyabrata.github.io/files/CV.pdf">pdf</a>]        |
-
+| academic job     | I am no longer in the academic job market. <a href="https://soumyabrata.github.io/application/">*This page*</a>, however, provides details on several aspects of my application. You may find it useful.                                                                             |
 | affiliation      | <img src="{{ site.baseurl }}/images/adapt-logo.png" width="140">      |
 -->
