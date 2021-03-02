@@ -44,6 +44,8 @@ sidebar-research:
     url: /cloud/
   - title: "Solar Analytics"
     url: /solar/	
+  - title: "Knowledge Graph"
+    url: /knowledgegraph/
   - title: "Multimedia"
     url: /multimedia/
   - title: "Security"

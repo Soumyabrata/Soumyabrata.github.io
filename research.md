@@ -36,6 +36,15 @@ In this project, we use a multi-modal data integration approach, in using variou
 
 
 
+
+## [<u>Knowledge Graph</u>](https://soumyabrata.github.io/knowledgegraph/)
+In this project, we aim to make knowledge graph technologies more accessible to climate and energy researchers. A large number of today's climate data centers present their collected data in the form of raw tables (e.g. RDB, CSV, JSON): KNMI Climate Explorer, NOAA datasets. Recently, one of the popular solutions that is greatly explored is employing an ontology or a knowledge graph, that offers the expressivity and flexibility to easily extend to various interoperable domains. [[read more](https://soumyabrata.github.io/knowledgegraph/)]
+    <br />
+    <img src="{{ site.baseurl }}/images/KG-NOAA.png">
+    *Our proposed knowledge graph model modelled on NOAA climate data.* 
+
+
+
 ## [<u>Multimedia</u>](https://soumyabrata.github.io/multimedia/)
 This project involves designing an advertisement detection- and integration- system for multimedia videos. It is useful for next-generation online publicity (viz. product placement and embedded marketing), wherein advertisements are seamlessly integrated into the video scenes. We use deep-learning based techniques for determining if a video frame contains an existing advert, and for accurate localization of adverts in the selected video frame. Subsequently, new adverts are seamlessly implanted into the original video, to create a new augmented video. [[read more](https://soumyabrata.github.io/multimedia/)]
     <br />
