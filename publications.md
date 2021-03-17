@@ -41,6 +41,14 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
+
++  M. Jain, C. Meegan, and S. Dev, Using GANs to Augment Data for Cloud Image Segmentation Task, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
+
++  M. Jain, I. Gollini, M. Bertolotto, G. McArdle, and S. Dev, An Extremely-Low Cost Ground-Based Whole Sky Imager, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
+
++  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, An Ontology Model for Climatic Data Analysis, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
+
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, <a href="https://dl.acm.org/doi/abs/10.1145/3416013.3426457">Network Anomaly Detection Using LSTM Based Autoencoder</a>, *Proc. 16th ACM Symposium on QoS and Security for Wireless and Mobile Networks*, 2020. 
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Detecting Abnormal Traffic in Large-Scale Networks, *Proc. IEEE International Symposium on Networks, Computers and Communications (ISNCC)*, 2020. [<a href="https://arxiv.org/pdf/2008.05791.pdf">arXiv</a>]
