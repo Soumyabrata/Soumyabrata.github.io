@@ -47,8 +47,8 @@ sidebar:
 
 (This list excludes conference talks; such details are available in the [<a href="https://soumyabrata.github.io/news/">news</a>] page.)
 
-2021: UCD Earth Institute workshop, and spoke on our recent project of imaging the atmosphere using low-cost cameras, March 24, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/03/collab_workshop_1.pdf">slides</a>]
-2021: UCD Earth Institute workshop, and spoke about our current work on interlinking atmospheric sensor data using knowledge graph, March 24, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/03/collab_workshop_2.pdf">slides</a>]
++ 2021: UCD Earth Institute workshop, and spoke on our recent project of imaging the atmosphere using low-cost cameras, March 24, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/03/collab_workshop_1.pdf">slides</a>]
++ 2021: UCD Earth Institute workshop, and spoke about our current work on interlinking atmospheric sensor data using knowledge graph, March 24, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/03/collab_workshop_2.pdf">slides</a>]
 + 2020: Invited talk at the <a href="https://sites.google.com/a/adaptcentre.ie/srs/home/scientific-meetings/online-research-seminars-proposed?authuser=0">ADAPT Research Seminar series</a>, Dublin, May 20, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2020/05/adaptseminar_may2020.pdf">slides</a>] 
 + 2020: Invited talk at the <a href="https://twitter.com/UCDEarth/status/1236976921130524673">Earth Institute coffee morning</a>, Dublin, March 12, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2020/03/ei-2020.pdf">slides</a>] 
 + 2019: Invited talk at the <a href="https://www.eventbrite.sg/e/ieee-yp-symposium-on-impact-of-data-science-in-healthcare-tickets-62792349608?aff=eemailordconf&utm_campaign=order_confirm&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=viewevent">IEEE YP Symposium on Impact of Data Science in Healthcare</a>, Dublin, July 15, 2019. [<a href="https://soumyabratadev.files.wordpress.com/2019/07/yp_symposium_july2019.pdf">slides</a>]
