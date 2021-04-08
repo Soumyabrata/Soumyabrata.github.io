@@ -41,6 +41,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  X. Pan, X. Xu, S. Dev, and A. Campbell, 3D Displays: Their Evolution, Inherent Challenges & Future Perspectives, *Future Technologies Conference (FTC)*, 2021.
+
 +  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
 
 +  M. Jain, C. Meegan, and S. Dev, Using GANs to Augment Data for Cloud Image Segmentation Task, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
