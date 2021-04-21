@@ -246,6 +246,19 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Navya-Jain.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Navya JAIN</b> is a first-year undergraduate student at Ram Lal Anand College, University of Delhi. She is perusing her major in statistics. She is currently a student intern at the THEIA Lab. Her research interests are computer vision and deep learning. She has been working on research projects on cloud classification and image deblurring techniques. 
+</div>
+</div>
+
+
+
+
+
+
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Ho-Zheng-Yi.png" | prepend:site.baseurl }}">
 <div class="people-name">
