@@ -107,16 +107,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
     </div>
 	
 	
-<br />
-	
-  <div class="col-xs-2">
-    <a href="https://www.linkedin.com/in/mahmoud-abdallah-06a29b4b/">
-      <img class="people-pic" src="{{ "/images/theia/MS.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-	  <b>Mahmoud Said ELSAYED</b> received the B.E. degree in electronics and communication engineering from Zagazig University, Egypt in 2007, the M.E. degree in Information Security from Nile University, Egypt, in 2018. He has worked for ten years in the industry through Huawei and IBM Co. in the area of computer network and security. He is currently pursuing the Ph.D. degree at the School of Computer Science, UCD Dublin, with Dr. Anca Jurcut. His research interests involve computer networks, network security, deep learning, and cloud computing.  
-    </div>
-  </div>
+
   
   
   
@@ -164,6 +155,195 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 </div>
 
 
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+### Undergrad Students
+
+
+
+<div class="row">
+	
+	 
+	 None at this moment. 
+	
+
+
+</div>
+
+
+
+### Interns 
+
+<div class="row">
+
+
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Navya-Jain.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Navya JAIN</b> is a first-year undergraduate student at Ram Lal Anand College, University of Delhi. She is perusing her major in statistics. She is currently a student intern at the THEIA Lab. Her research interests are computer vision and deep learning. She has been working on research projects on cloud classification and image deblurring techniques. 
+</div>
+</div>
+
+
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Ho-Zheng-Yi.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>HO Zheng Yi</b> is a penultimate undergraduate student at Nanyang Technological University, Singapore. He is currently a semestral intern hosted by University College Dublin. His areas of interest are applied machine learning and deep learning. He is working on developing forecasting techniques for atmospheric parameters. 
+</div>
+</div>
+
+
+
+
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Pierre.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Pierre BERJON</b> is a graduate student at Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep Learning and natural language processing, and is working on a project in automatic speech recognition in order to develop and AI-driven software framework that will automatically generate English sentences from a video tutorial.
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+
+ 
+### Alumni
+
+
+#### Masters
++ Jason Walsh, UCD MS, AY 2020-21
++ Barry McNicholl, UCD MS, AY 2020-21
++ Ankur Patil, NCI MSc, AY 2018-19
++ Jyotsna Patel, NCI MSc, AY 2018-19
++ Chidozie Shamrock Nwosu, NCI MSc, AY 2018-19
+
+
+#### Undergrads
++ Robert Collins, UCD FYP, AY 2020-21
++ Oisin Hourican, UCD FYP, AY 2020-21
++ Aleksandar Dimitrov, UCD FYP, AY 2020-21
++ Wang He, UCD FYP, AY 2019-20
++ Sun Jingxiang, UCD FYP, AY 2019-20
++ Wang Zihao, UCD FYP, AY 2019-20
++ Meichen Lu, UCD FYP, AY 2019-20
++ Wang Zhenhao, UCD FYP, AY 2019-20
++ Zhang Lei , UCD FYP, AY 2019-20
++ Rongze Tian, UCD FYP, AY 2019-20
++ Fu Zixin, UCD FYP, AY 2019-20
++ Conor Meegan, UCD FYP, AY 2019-20
++ Fangben Zheng, UCD FYP, AY 2019-20
++ Yiou Zhao, UCD FYP, AY 2019-20
++ Hao Chen, UCD FYP, AY 2019-20
++ Ze Song, UCD FYP, AY 2019-20
++ Chao Han, UCD FYP, AY 2019-20
++ Yuefan Liu, UCD FYP, AY 2019-20
++ Jinkai Cui, UCD FYP, AY 2019-20
++ Weiting Zhang, UCD FYP, AY 2019-20
++ <a href="https://github.com/Shar0nnC">Sharon Chia</a>, NTU FYP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ <a href="https://github.com/joannelsp">Joanne Lim</a>, NTU FYP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ <a href="https://github.com/LeeChongkai">Chong Kai</a>, NTU FYP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ Chen Danning, NTU FYP 2016-17 (Supervised by Prof. Lu Yilong)
++ Wang Jiaqi, NTU FYP 2016-17 (Supervised by Prof. Lu Yilong)
++ Ng Ai Jing Felicia, NTU FYP 2015-16 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ Kristabel Khoo Shi Min, NTU FYP 2015-16 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ Wong Chee Leong Charles, NTU FYP 2014-15 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ Lim Sze Zheng, NTU FYP 2013-14 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ Guan Zhao Ting, NTU FYP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
+
+#### Interns
++ Bugra Alparslan (Middle East Technical University, Turkey), UCD Intern, AY 2019-20
++ Guillaume Tran (ENSEEIHT Toulouse France), UCD Intern, AY 2019-20
++ Dewansh Kaloni (Birla Institute of Technology and Science, Pilani, India), UCD Intern, AY 2019-20
++ Sarthak Batra (Indian Institute of Technology Kharagpur, India), UCD Intern, AY 2019-20
++ Sarah Omer, NTU NRP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ Megan Soo, NTU NRP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ Loh Yi Chang, NTU NRP 2015 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
++ Wenqing Fan, NTU NRP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
+
+
+## Why THEIA?
+All great research starts with a story. Our group's name THEIA lab is derived from the <a href="https://en.wikipedia.org/wiki/Theia">Greek goddess Theia</a>, also referred as the Titan goddess of sight (thea), and the bright blue sky (aithre). Also, Theia's brother is Hyperion, who is a god of the sun. Quite interestingly, our group's research is focused on computer vision, solar and renewable energy etc. Credits to <a href="https://twitter.com/hossari">Murhaf</a> and <a href="https://twitter.com/BadmotorF">Fabrizio</a> for this wonderful idea. 
+
+
+
+
+<!---
+### Undergrad Students
+
+<div class="row">
+
+
+
+
+</div>
+
+-->
+
+
+
+<!---
+Previous team members detailed biography
+
+
+
+
+PhD:
+
+<br />
+	
+  <div class="col-xs-2">
+    <a href="https://www.linkedin.com/in/mahmoud-abdallah-06a29b4b/">
+      <img class="people-pic" src="{{ "/images/theia/MS.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+	  <b>Mahmoud Said ELSAYED</b> received the B.E. degree in electronics and communication engineering from Zagazig University, Egypt in 2007, the M.E. degree in Information Security from Nile University, Egypt, in 2018. He has worked for ten years in the industry through Huawei and IBM Co. in the area of computer network and security. He is currently pursuing the Ph.D. degree at the School of Computer Science, UCD Dublin, with Dr. Anca Jurcut. His research interests involve computer networks, network security, deep learning, and cloud computing.  
+    </div>
+  </div>
+
+
+
+================================================================================================
+
+
+Masters:
+
+<br />
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Barry-McNicholl.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Barry McNICHOLL</b> is a fourth year student pursuing a masters in Electronic & Computer Engineering at University College Dublin. He has a BSc in Electrical & Electronic Engineering and his main area of interest is software engineering. Currently, he is working on his thesis on the visualization of ERA5 datasets for precision agriculture. 
+</div>
+</div>
+
+
 <br />
 
 
@@ -179,28 +359,15 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 </div>
 
 
-<br />
 
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Barry-McNicholl.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Barry McNICHOLL</b> is a fourth year student pursuing a masters in Electronic & Computer Engineering at University College Dublin. He has a BSc in Electrical & Electronic Engineering and his main area of interest is software engineering. Currently, he is working on his thesis on the visualization of ERA5 datasets for precision agriculture. 
-</div>
-</div>
+================================================================================================
+
+Undergrads:
 
 
 
 
-</div>
 
-
-
-
-### Undergrad Students
-
-
-
-<div class="row">
 	
 	
 	<div class="col-xs-2">
@@ -236,177 +403,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 
-</div>
 
-
-
-### Interns 
-
-<div class="row">
-
-
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Navya-Jain.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Navya JAIN</b> is a first-year undergraduate student at Ram Lal Anand College, University of Delhi. She is perusing her major in statistics. She is currently a student intern at the THEIA Lab. Her research interests are computer vision and deep learning. She has been working on research projects on cloud classification and image deblurring techniques. 
-</div>
-</div>
-
-
-
-
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Ho-Zheng-Yi.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>HO Zheng Yi</b> is a penultimate undergraduate student at Nanyang Technological University, Singapore. He is currently a semestral intern hosted by University College Dublin. His areas of interest are applied machine learning and deep learning. He is working on developing forecasting techniques for atmospheric parameters. 
-</div>
-</div>
-
-
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/bugra.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Buğra ALPARSLAN</b> is a second year undergraduate student at Middle East Technical University (METU), Ankara, Turkey. He is currently a summer intern hosted by University College Dublin. His areas of interest are computer vision and deep learning, and he is working on short-term forecasting of atmospheric pollutant concentrations using a deep learning model.
-</div>
-</div>
-
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Pierre.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Pierre BERJON</b> is a graduate student at Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep Learning and natural language processing, and is working on a project in automatic speech recognition in order to develop and AI-driven software framework that will automatically generate English sentences from a video tutorial.
-</div>
-</div>
-
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Guillaume.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Guillaume TRAN</b> is a second-year undergraduate student at Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France. He is currently a summer intern hosted by University College Dublin. His areas of interest are image processing and multimedia, and is working on a project in cloud type recognition from ground-based sky cameras.
-</div>
-</div>
-
-
-<br />
-
-
-<div class="col-xs-2">
-<a href="https://www.linkedin.com/in/dewansh-kaloni-18650859/">
-<img class="people-pic" src="{{ "/images/theia/Dewansh-Kaloni.png" | prepend:site.baseurl }}">
-</a>
-<div class="people-name">
-<b>Dewansh KALONI</b> is a third-year undergraduate student at Birla Institute of Technology and Science, Pilani, India. He is currently a summer intern hosted by University College Dublin. His areas of interest include deep learning and remote sensing, and is working on understanding the COVID-19 effect on the environment. 
-</div>
-</div>
-
-
-<br />
-
-    <div class="col-xs-2">
-    <a href="https://www.linkedin.com/in/sarthak-batra1/">
-    <img class="people-pic" src="{{ "/images/theia/sarthak-batra.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-    <b>Sarthak BATRA</b> is a second-year undergraduate student at Indian Institute of Technology Kharagpur, India. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep learning and computer vision, and is working on a project in understanding engagement of viewers from video streams. 
-    </div>
-    </div>
-
-
-
-
-
-
-
-</div>
-
- 
-### Alumni
-
-
-#### Masters
-+ Ankur Patil, NCI MSc, AY 2018-19
-+ Jyotsna Patel, NCI MSc, AY 2018-19
-+ Chidozie Shamrock Nwosu, NCI MSc, AY 2018-19
-
-
-#### Undergrads
-+ Wang He, UCD FYP, AY 2019-20
-+ Sun Jingxiang, UCD FYP, AY 2019-20
-+ Wang Zihao, UCD FYP, AY 2019-20
-+ Meichen Lu, UCD FYP, AY 2019-20
-+ Wang Zhenhao, UCD FYP, AY 2019-20
-+ Zhang Lei , UCD FYP, AY 2019-20
-+ Rongze Tian, UCD FYP, AY 2019-20
-+ Fu Zixin, UCD FYP, AY 2019-20
-+ Conor Meegan, UCD FYP, AY 2019-20
-+ Fangben Zheng, UCD FYP, AY 2019-20
-+ Yiou Zhao, UCD FYP, AY 2019-20
-+ Hao Chen, UCD FYP, AY 2019-20
-+ Ze Song, UCD FYP, AY 2019-20
-+ Chao Han, UCD FYP, AY 2019-20
-+ Yuefan Liu, UCD FYP, AY 2019-20
-+ Jinkai Cui, UCD FYP, AY 2019-20
-+ Weiting Zhang, UCD FYP, AY 2019-20
-+ <a href="https://github.com/Shar0nnC">Sharon Chia</a>, NTU FYP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ <a href="https://github.com/joannelsp">Joanne Lim</a>, NTU FYP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ <a href="https://github.com/LeeChongkai">Chong Kai</a>, NTU FYP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ Chen Danning, NTU FYP 2016-17 (Supervised by Prof. Lu Yilong)
-+ Wang Jiaqi, NTU FYP 2016-17 (Supervised by Prof. Lu Yilong)
-+ Ng Ai Jing Felicia, NTU FYP 2015-16 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ Kristabel Khoo Shi Min, NTU FYP 2015-16 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ Wong Chee Leong Charles, NTU FYP 2014-15 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ Lim Sze Zheng, NTU FYP 2013-14 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ Guan Zhao Ting, NTU FYP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-
-#### Interns
-+ Sarah Omer, NTU NRP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ Megan Soo, NTU NRP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ Loh Yi Chang, NTU NRP 2015 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-+ Wenqing Fan, NTU NRP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
-
-
-## Why THEIA?
-All great research starts with a story. Our group's name THEIA lab is derived from the <a href="https://en.wikipedia.org/wiki/Theia">Greek goddess Theia</a>, also referred as the Titan goddess of sight (thea), and the bright blue sky (aithre). Also, Theia's brother is Hyperion, who is a god of the sun. Quite interestingly, our group's research is focused on computer vision, solar and renewable energy etc. Credits to <a href="https://twitter.com/hossari">Murhaf</a> and <a href="https://twitter.com/BadmotorF">Fabrizio</a> for this wonderful idea. 
-
-
-
-
-<!---
-### Undergrad Students
-
-<div class="row">
-
-
-
-
-</div>
-
--->
-
-
-
-<!---
-Previous team members detailed biography
-
-
-
-
-
-
-
-================================================================================================
-
-Undergrads:
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/WH.png" | prepend:site.baseurl }}">
@@ -510,6 +507,72 @@ Undergrads:
   </div>
 
 
+	
+	
+	
+	
+	
+================================================================================================
+
+Interns:
+
+
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/bugra.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Buğra ALPARSLAN</b> is a second year undergraduate student at Middle East Technical University (METU), Ankara, Turkey. He is currently a summer intern hosted by University College Dublin. His areas of interest are computer vision and deep learning, and he is working on short-term forecasting of atmospheric pollutant concentrations using a deep learning model.
+</div>
+</div>
+
+
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Guillaume.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Guillaume TRAN</b> is a second-year undergraduate student at Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France. He is currently a summer intern hosted by University College Dublin. His areas of interest are image processing and multimedia, and is working on a project in cloud type recognition from ground-based sky cameras.
+</div>
+</div>
+
+
+
+
+
+<br />
+
+
+<div class="col-xs-2">
+<a href="https://www.linkedin.com/in/dewansh-kaloni-18650859/">
+<img class="people-pic" src="{{ "/images/theia/Dewansh-Kaloni.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Dewansh KALONI</b> is a third-year undergraduate student at Birla Institute of Technology and Science, Pilani, India. He is currently a summer intern hosted by University College Dublin. His areas of interest include deep learning and remote sensing, and is working on understanding the COVID-19 effect on the environment. 
+</div>
+</div>
+
+	
+	
+<br />
+
+    <div class="col-xs-2">
+    <a href="https://www.linkedin.com/in/sarthak-batra1/">
+    <img class="people-pic" src="{{ "/images/theia/sarthak-batra.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+    <b>Sarthak BATRA</b> is a second-year undergraduate student at Indian Institute of Technology Kharagpur, India. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep learning and computer vision, and is working on a project in understanding engagement of viewers from video streams. 
+    </div>
+    </div>
+
+
+
+
+	
 	
 -->
 
