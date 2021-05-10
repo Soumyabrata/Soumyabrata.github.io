@@ -41,6 +41,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  H. Wang, M. S. Pathan and S. Dev, Stereo Matching Based on Visual Sensitive Information, *6th IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2021.
+
 +  X. Pan, X. Xu, S. Dev, and A. Campbell, 3D Displays: Their Evolution, Inherent Challenges & Future Perspectives, *Future Technologies Conference (FTC)*, 2021.
 
 +  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
