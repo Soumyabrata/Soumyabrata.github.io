@@ -41,7 +41,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+  H. Wang, M. S. Pathan and S. Dev, Stereo Matching Based on Visual Sensitive Information, *6th IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2021.
++  H. Wang, M. S. Pathan, and S. Dev, Stereo Matching Based on Visual Sensitive Information, *6th IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2021.
 
 +  X. Pan, X. Xu, S. Dev, and A. Campbell, 3D Displays: Their Evolution, Inherent Challenges & Future Perspectives, *Future Technologies Conference (FTC)*, 2021.
 
@@ -53,7 +53,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, An Ontology Model for Climatic Data Analysis, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
 
-+ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, <a href="https://dl.acm.org/doi/abs/10.1145/3416013.3426457">Network Anomaly Detection Using LSTM Based Autoencoder</a>, *Proc. 16th ACM Symposium on QoS and Security for Wireless and Mobile Networks*, 2020. 
++ M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, <a href="https://dl.acm.org/doi/abs/10.1145/3416013.3426457">Network Anomaly Detection Using LSTM Based Autoencoder</a>, *Proc. 16th ACM Symposium on QoS and Security for Wireless and Mobile Networks*, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2021/05/mswim_2020.pdf">PDF</a>]
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Detecting Abnormal Traffic in Large-Scale Networks, *Proc. IEEE International Symposium on Networks, Computers and Communications (ISNCC)*, 2020. [<a href="https://arxiv.org/pdf/2008.05791.pdf">arXiv</a>]
 
@@ -183,7 +183,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 
 
-<sub><sup>&copy; 2008-2020 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works. </sup></sub>
+<sub><sup>&copy; 2008-2021 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works. </sup></sub>
 
 
 <sub><sup>&copy; This material on this page is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. </sup></sub>
