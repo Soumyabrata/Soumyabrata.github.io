@@ -43,7 +43,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  H. Wang, M. S. Pathan, and S. Dev, Stereo Matching Based on Visual Sensitive Information, *6th IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2021.
 
-+  X. Pan, X. Xu, S. Dev, and A. Campbell, 3D Displays: Their Evolution, Inherent Challenges & Future Perspectives, *Future Technologies Conference (FTC)*, 2021.
++  X. Pan, X. Xu, S. Dev, and A. Campbell, 3D Displays: Their Evolution, Inherent Challenges & Future Perspectives, *Future Technologies Conference (FTC)*, 2021. [<a href="https://arxiv.org/pdf/2105.08390.pdf">arXiv</a>]
 
 +  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
 
@@ -57,7 +57,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, Detecting Abnormal Traffic in Large-Scale Networks, *Proc. IEEE International Symposium on Networks, Computers and Communications (ISNCC)*, 2020. [<a href="https://arxiv.org/pdf/2008.05791.pdf">arXiv</a>]
 
-+ M. Jain, T. Alskaif and S. Dev, A Clustering Framework for Residential Electric Demand Profiles, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2020. [<a href="https://github.com/jain15mayank/Clustering-Framework-for-Resedential-Demand-Profiles">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2020/08/sest2020-slides.pdf">slides</a>]
++ M. Jain, T. Alskaif and S. Dev, A Clustering Framework for Residential Electric Demand Profiles, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2020. [<a href="https://arxiv.org/pdf/2105.08537.pdf">arXiv</a>] [<a href="https://github.com/jain15mayank/Clustering-Framework-for-Resedential-Demand-Profiles">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2020/08/sest2020-slides.pdf">slides</a>]
 
 + M. S. Elsayed, N-A. Le-Khac, S. Dev, and A. D. Jurcut, DDoSNet: A Deep-Learning Model for Detecting Network Attacks, *Proc. IEEE World of Wireless, Mobile and Multimedia networks (WoWMoM)*, 2020. [<a href="https://arxiv.org/pdf/2006.13981.pdf">arXiv</a>]
 
