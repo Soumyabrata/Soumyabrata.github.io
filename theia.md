@@ -189,6 +189,19 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Bibhash-Pran-Das.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Bibhash Pran DAS</b> is a penultimate year undergraduate student at National Institute of Technology, Rourkela. He is pursuing his major in Electronics and Instrumentation Engineering. His research interests include deep learning and computer vision. He is working on a research project for estimating the ground-based pollutant concentration from satellite measurements.
+</div>
+</div>
+
+
+
+<br />
+
+
+
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Navya-Jain.png" | prepend:site.baseurl }}">
