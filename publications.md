@@ -41,9 +41,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ J. Wu, F. Orlandi, T. Alskaif, D. O'Sullivan and S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. 
++ J. Wu, F. Orlandi, T. Alskaif, D. O'Sullivan and S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. 
 
-+ M. Jain, M. Jain, T. Alskaif and S. Dev, Impact of Load Demand Dataset Characteristics on Clustering Validation Indices, *Proc. International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. 
++ M. Jain, M. Jain, T. Alskaif and S. Dev, Impact of Load Demand Dataset Characteristics on Clustering Validation Indices, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. 
 
 +  H. Wang, M. S. Pathan, and S. Dev, Stereo Matching Based on Visual Sensitive Information, *6th IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2021. [<a href="https://arxiv.org/pdf/2105.10831.pdf">arXiv</a>]
 
