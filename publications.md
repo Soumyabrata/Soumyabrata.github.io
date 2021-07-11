@@ -53,7 +53,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  X. Pan, X. Xu, S. Dev, and A. Campbell, 3D Displays: Their Evolution, Inherent Challenges & Future Perspectives, *Future Technologies Conference (FTC)*, 2021. [<a href="https://arxiv.org/pdf/2105.08390.pdf">arXiv</a>]
 
-+  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/06/igarss2021_c19.pdf">PDF</a>] 
++  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/06/igarss2021_c19.pdf">PDF</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/07/covid19_igarss2021_slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/5b2cf4ad5fe440fc810c61f534afefc0">video presentation</a>]
 
 +  M. Jain, C. Meegan, and S. Dev, Using GANs to Augment Data for Cloud Image Segmentation Task, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. [<a href="https://arxiv.org/pdf/2106.03064.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/06/igarss2021_gan_slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/6294e1f090d24181837a2ad30b045bff">video presentation</a>]
 
