@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ N. Akrami, K. Ziarati and S. Dev, Graph-based Local Climate Classification in Iran, *International Journal of Climatology*, 2021. 
+
 + M. Jain, T. AlSkaif, S. Dev, Validating Clustering Frameworks for Electric Load Demand Profiles, *IEEE Transactions on Industrial Informatics*, 2021. [<a href="https://arxiv.org/pdf/2103.00030.pdf">arXiv</a>] [<a href="https://github.com/jain15mayank/validating-clustering-frameworks">code</a>]
 
 + M. S. Pathan, J. Zhang, D. John, A. Nag and S. Dev, <a href="https://ieeexplore.ieee.org/document/9264165">Identifying Stroke Indicators Using Rough Sets</a>, *IEEE Access*, 2020. [<a href="https://github.com/Sammyy092/Identifying-stroke-indicators-using-rough-sets">code</a>]
@@ -44,6 +46,20 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
  
 ## Conferences
+
++ T. A. Fathima, V. Nedumpozhimana, Y. H. Lee, and S. Dev, Embedding Cyclical Information in Solar Irradiance Forecasting, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
+
++ M. Jain, N. Jain, Y. H. Lee, S. Winkler, and S. Dev, Detecting Blurred Ground-based Sky/Cloud Images, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
+
++ J. Wu, H. Chen, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, An Interoperable Open Data Portal for Climate Analysis, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
+
++ J. Wu, H. Chen, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, Automated Climate Analyses Using Knowledge Graph, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
+
++ H. Wang, M. S. Pathan, Y. H. Lee, and S. Dev, Day-ahead Forecasts of Air Temperature, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
+
++ M. S. Pathan, J. Wu, Y. H. Lee, J. Yan, and S. Dev, Analyzing the Impact of Meteorological Parameters on Rainfall Prediction, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
+
++ N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Monitoring Atmospheric Pollutants From Ground-based Observations, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
 
 + J. Wu, F. Orlandi, T. Alskaif, D. O'Sullivan and S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. 
 
