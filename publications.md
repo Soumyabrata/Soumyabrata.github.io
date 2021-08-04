@@ -61,15 +61,15 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Monitoring Atmospheric Pollutants From Ground-based Observations, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
 
-+ J. Wu, F. Orlandi, T. Alskaif, D. O'Sullivan and S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. 
++ J. Wu, F. Orlandi, T. Alskaif, D. O'Sullivan and S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. [<a href="https://arxiv.org/pdf/2108.01504.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/08/sest2021-kg-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/40a058b82246488ca34ba14e9390288c">video presentation</a>]
 
-+ M. Jain, M. Jain, T. Alskaif and S. Dev, Impact of Load Demand Dataset Characteristics on Clustering Validation Indices, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. 
++ M. Jain, M. Jain, T. Alskaif and S. Dev, Impact of Load Demand Dataset Characteristics on Clustering Validation Indices, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. [<a href="https://arxiv.org/pdf/2108.01433.pdf">arXiv</a>]
 
-+  H. Wang, M. S. Pathan, and S. Dev, Stereo Matching Based on Visual Sensitive Information, *6th IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2021. [<a href="https://arxiv.org/pdf/2105.10831.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/07/icivc2021-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/f1bf230677da4a278bef3d7a0900e0fa">video presentation</a>]
++  H. Wang, M. S. Pathan, and S. Dev, Stereo Matching Based on Visual Sensitive Information, *6th IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2021. [<a href="https://arxiv.org/pdf/2105.10831.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/07/icivc2021-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/f1bf230677da4a278bef3d7a0900e0fa">video presentation</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/08/bp-vc1039.pdf">Best Presentation Award</a>]
 
 +  X. Pan, X. Xu, S. Dev, and A. Campbell, 3D Displays: Their Evolution, Inherent Challenges & Future Perspectives, *Future Technologies Conference (FTC)*, 2021. [<a href="https://arxiv.org/pdf/2105.08390.pdf">arXiv</a>]
 
-+  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/06/igarss2021_c19.pdf">PDF</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/07/covid19_igarss2021_slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/5b2cf4ad5fe440fc810c61f534afefc0">video presentation</a>]
++  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. [<a href="https://arxiv.org/pdf/2107.13514.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/07/covid19_igarss2021_slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/5b2cf4ad5fe440fc810c61f534afefc0">video presentation</a>]
 
 +  M. Jain, C. Meegan, and S. Dev, Using GANs to Augment Data for Cloud Image Segmentation Task, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. [<a href="https://arxiv.org/pdf/2106.03064.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/06/igarss2021_gan_slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/6294e1f090d24181837a2ad30b045bff">video presentation</a>]
 
