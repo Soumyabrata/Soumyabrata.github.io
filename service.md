@@ -18,6 +18,8 @@ sidebar:
 + 2016: Local organizing chair of <a href="http://hardtechsummit.com/">IEEE HardTech Summit</a> 2016, in extension to <a href="http://tencon2016.org/">TENCON 2016</a> conference. The summit was held at Nanyang Technological University Singapore on 26 November 2016, in association with several partners. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/hts_flyer.png">Event Flyer</a>]
 
 ### Technical Program Committee
+
++ 2022: <a href="http://www.iccgv.org/com.html">ICCGV 2021</a>, 5th International Conference on Computer Graphics and Virtuality 
 + 2021: <a href="https://www.iaria.org/conferences2021/ComICSNC21.html">ICSNC 2021</a>, The Sixteenth International Conference on Systems and Networks Communications
 + 2021: <a href="https://www.iaria.org/conferences2021/ComVISUAL21.html">VISUAL 2021</a>, Sixth International Conference on Applications and Systems of Visual Paradigms
 + 2021: <a href="https://www.iaria.org/conferences2021/ComeLmL21.html">eLmL 2021</a>, Thirteenth International Conference on Mobile, Hybrid, and On-line Learning
