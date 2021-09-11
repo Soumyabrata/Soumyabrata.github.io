@@ -9,8 +9,14 @@ sidebar:
   nav: sidebar-news
 ---
 
+## 2021
++ Welcome Muhammad Salman Pathan to our <a href="https://soumyabrata.dev/theia/">group</a>. He joins us as a Marie Skłodowska-Curie ELITE-S Research fellow to investigate the onset of critical events in a machine-learning framework.
++ Welcome to our summer intern for this academic year: Ho Zheng Yi. He is working on developing forecasting techniques for atmospheric parameters. 
+
 ## 2020
 
++ Welcome to our grad students: Zixiang Xu (Dante), Yuan Liang (Nick) and Nicholas Danesi, who joined us for their research masters degree supervision. 
++ Welcome Jiantao Wu (Ivan) to our <a href="https://soumyabrata.dev/theia/">group</a>. He joins us for his PhD since August 2020, on making knowledge graph technologies accessible to climate and energy researchers.
 + I'm a guest editor in the <a href="https://ieeexplore.ieee.org/document/9142155">Special Issue on Deep Learning and Evolutionary Computation for Satellite Imagery</a>, in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8254253">IEEE Big Data Mining and Analytics journal</a>.
 + Welcome to our grad students: Jason Walsh, and Barry McNicholl, who joined us for their research masters degree supervision. 
 + Welcome to our summer interns for this academic year: Sarthak Batra, Dewansh Kaloni, Pierre Berjon, Guillaume Tran, and Buğra Alparslan. They are working on varied projects in the area of computer vision and machine learning. 

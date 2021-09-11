@@ -121,7 +121,18 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 
+<div class="col-xs-2">
+<a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">
+	<img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Alexia Larchen COSTUCHEN</b> is a Ph.D. candidate at the Polytechnic University of Valencia (UPV), Spain. She is invited as a visiting researcher to University College Dublin to contribute to the development of gamified survey software under the supervision of Dr. Soumyabrata Dev. Her current research interests include cognitive linguistics and innovations in second-language learning and teaching. She is a member of the GIEL research group (GIUV2013-081) at the University of Valencia, Spain, and is currently participating in gamification and game-design projects in Spain, Sweden, and Ireland. 
+</div>
+</div>
 
+
+
+<br />
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Zixiang-Xu.png" | prepend:site.baseurl }}">
@@ -145,14 +156,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <br />
 
 
-<div class="col-xs-2">
-<a href="https://www.linkedin.com/in/nicholas-danesi/">
-<img class="people-pic" src="{{ "/images/theia/Nicholas-Danesi.png" | prepend:site.baseurl }}">
-</a>
-<div class="people-name">
-<b>Nicholas DANESI</b> is pursuing his MSc in Environmental Sustainability at University College Dublin. He received his undergraduate from the University of Queensland in Chemical Engineering and Commerce. He is interested in developing better air quality control systems in the mining industry. Currently, he is working on his thesis on the short-term forecasting of atmospheric air pollutants using a deep learning model. 
-</div>
-</div>
+
 
 
 
@@ -196,12 +200,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 </div>
 </div>
 
-
-
 <br />
-
-
-
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Navya-Jain.png" | prepend:site.baseurl }}">
@@ -209,21 +208,6 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <b>Navya JAIN</b> is a first-year undergraduate student at Ram Lal Anand College, University of Delhi. She is perusing her major in statistics. She is currently a student intern at the THEIA Lab. Her research interests are computer vision and deep learning. She has been working on research projects on cloud classification and image deblurring techniques. 
 </div>
 </div>
-
-
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Ho-Zheng-Yi.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>HO Zheng Yi</b> is a penultimate undergraduate student at Nanyang Technological University, Singapore. He is currently a semestral intern hosted by University College Dublin. His areas of interest are applied machine learning and deep learning. He is working on developing forecasting techniques for atmospheric parameters. 
-</div>
-</div>
-
-
-
 
 
 <br />
@@ -236,14 +220,6 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 </div>
 </div>
 
-
-
-
-
-
-
-
-
 </div>
 
  
@@ -251,7 +227,8 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 #### Masters
-+ Jason Walsh, UCD MS, AY 2020-21
++ <a href="https://www.linkedin.com/in/nicholas-danesi/">Nicholas Danesi</a>, UCD MS, AY 2020-21
++ <a href="https://www.linkedin.com/in/jason-john-walsh/">Jason Walsh</a>, UCD MS, AY 2020-21
 + Barry McNicholl, UCD MS, AY 2020-21
 + Ankur Patil, NCI MSc, AY 2018-19
 + Jyotsna Patel, NCI MSc, AY 2018-19
@@ -291,7 +268,8 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 + Guan Zhao Ting, NTU FYP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 
 #### Interns
-+ Bugra Alparslan (Middle East Technical University, Turkey), UCD Intern, AY 2019-20
++ Ho Zheng Yi (Nanyang Technological University, Singapore), UCD Intern, Summer 2021
++ Bugra Alparslan (Middle East Technical University, Turkey), UCD Intern, Summer 2020
 + Guillaume Tran (ENSEEIHT Toulouse France), UCD Intern, AY 2019-20
 + Dewansh Kaloni (Birla Institute of Technology and Science, Pilani, India), UCD Intern, AY 2019-20
 + Sarthak Batra (Indian Institute of Technology Kharagpur, India), UCD Intern, AY 2019-20
@@ -346,6 +324,16 @@ PhD:
 
 
 Masters:
+
+
+<div class="col-xs-2">
+<a href="https://www.linkedin.com/in/nicholas-danesi/">
+<img class="people-pic" src="{{ "/images/theia/Nicholas-Danesi.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Nicholas DANESI</b> is pursuing his MSc in Environmental Sustainability at University College Dublin. He received his undergraduate from the University of Queensland in Chemical Engineering and Commerce. He is interested in developing better air quality control systems in the mining industry. Currently, he is working on his thesis on the short-term forecasting of atmospheric air pollutants using a deep learning model. 
+</div>
+</div>
 
 <br />
 
@@ -530,6 +518,16 @@ Undergrads:
 Interns:
 
 
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Ho-Zheng-Yi.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>HO Zheng Yi</b> is a penultimate undergraduate student at Nanyang Technological University, Singapore. He is currently a semestral intern hosted by University College Dublin. His areas of interest are applied machine learning and deep learning. He is working on developing forecasting techniques for atmospheric parameters. 
+</div>
+</div>
 
 <br />
 

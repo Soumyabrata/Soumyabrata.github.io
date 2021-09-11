@@ -13,10 +13,9 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 #### Recent News
 
-+ Welcome Muhammad Salman Pathan to our <a href="https://soumyabrata.dev/theia/">group</a>. He joins us as a Marie Skłodowska-Curie ELITE-S Research fellow to investigate the onset of critical events in a machine-learning framework.
-+ Welcome to our summer intern for this academic year: Ho Zheng Yi. He is working on developing forecasting techniques for atmospheric parameters. 
-+ Welcome to our grad students: Zixiang Xu (Dante), Yuan Liang (Nick) and Nicholas Danesi, who joined us for their research masters degree supervision. 
-+ Welcome Jiantao Wu (Ivan) to our <a href="https://soumyabrata.dev/theia/">group</a>. He joins us for his PhD since August 2020, on making knowledge graph technologies accessible to climate and energy researchers.
++ [Sep 2021]: Welcome Alexia Larchen Costuchen to our <a href="https://soumyabrata.dev/theia/">group</a>. She joins us as a visiting researcher, as a part of Erasmus Internship programme to contribute to the development of gamified survey software. 
++ [Sep 2021]: Our group publishes two papers [<a href="https://arxiv.org/pdf/2108.01504.pdf">1</a>] [<a href="https://arxiv.org/pdf/2108.01433.pdf">2</a>] to <a href="https://sites.uwasa.fi/sest2021/">2021 4th IEEE International Conference on Smart Energy Systems and Technologies (SEST)</a>.
++ [July 2021]: Our group publishes four papers [<a href="https://arxiv.org/pdf/2107.13514.pdf">1</a>] [<a href="https://arxiv.org/pdf/2106.03064.pdf">2</a>] [<a href="https://arxiv.org/pdf/2106.03073.pdf">3</a>] [<a href="https://arxiv.org/pdf/2106.03085.pdf">4</a>] to <a href="https://igarss2021.com/">2021 41st annual IGARSS symposium</a>.
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
 
 
