@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ P. Berjon, A. Nag, and S. Dev, Analysis of French phonetic idiosyncrasies for accent recognition, *Soft Computing Letters*, 2021. 
+
 + N. Akrami, K. Ziarati and S. Dev, Graph-based Local Climate Classification in Iran, *International Journal of Climatology*, 2021. 
 
 + M. Jain, T. AlSkaif, S. Dev, Validating Clustering Frameworks for Electric Load Demand Profiles, *IEEE Transactions on Industrial Informatics*, 2021. [<a href="https://arxiv.org/pdf/2103.00030.pdf">arXiv</a>] [<a href="https://github.com/jain15mayank/validating-clustering-frameworks">code</a>]
