@@ -10,6 +10,7 @@ sidebar:
 ---
 
 ### Organizing Committee
++ 2022: Publication Chair, <a href="https://www.sest2022.org/#committees.html">5th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Eindhoven, the Netherlands.
 + 2021: Publication Chair, <a href="https://sites.univaasa.fi/sest2021/committees/">4th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Vaasa, Finland.
 + 2020: Guest editor, <a href="https://ieeexplore.ieee.org/document/9142155">Special Issue on Deep Learning and Evolutionary Computation for Satellite Imagery</a>, in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8254253">IEEE Big Data Mining and Analytics journal</a>.
 + 2019: Organizer, <a href="http://hpcs2019.cisedu.info/2-conference/workshops/workshop14-mlpra">8th International Workshop on Machine Learning, Pattern Recognition & Applications (MLPRA 2019)</a> at <a href="http://hpcs2019.cisedu.info/">17th International Conference on High Performance Computing & Simulation (HPCS 2019)</a>
@@ -19,7 +20,10 @@ sidebar:
 
 ### Technical Program Committee
 
++ 2022: <a href="https://icict.co.uk/committees.php#tab4">ICICT 2022</a>, 7th International Congress on Information and Communication Technology 
++ 2022: <a href="https://smartcomconference.com/committee.php#tab04">SmartCom 2022</a>, International Conference on Smart Trends in Computing and Communications 
 + 2022: <a href="http://www.iccgv.org/com.html">ICCGV 2021</a>, 5th International Conference on Computer Graphics and Virtuality 
++ 2021: <a href="https://worlds4.co.uk/committees.php">WS4 2021</a>, World Conference on Smart Trends in Systems, Security and Sustainability
 + 2021: <a href="https://www.iaria.org/conferences2021/ComICSNC21.html">ICSNC 2021</a>, The Sixteenth International Conference on Systems and Networks Communications
 + 2021: <a href="https://www.iaria.org/conferences2021/ComVISUAL21.html">VISUAL 2021</a>, Sixth International Conference on Applications and Systems of Visual Paradigms
 + 2021: <a href="https://www.iaria.org/conferences2021/ComeLmL21.html">eLmL 2021</a>, Thirteenth International Conference on Mobile, Hybrid, and On-line Learning
