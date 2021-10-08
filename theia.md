@@ -192,6 +192,17 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <div class="row">
 
 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Nitin-Sai.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Nitin Sai BOMMI</b> is a 4th-year Integrated Masters of Technology student at the University of Hyderabad, India, with majors in Computer Science. His research interests include machine learning, deep learning, and computer vision. He recently completed a research internship under Prof Siba K Udgata, University of Hyderabad, India. As of October 2021, he co-authored four peer-reviewed publications.
+</div>
+</div>
+
+
+<br />
+
+
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Bibhash-Pran-Das.png" | prepend:site.baseurl }}">
