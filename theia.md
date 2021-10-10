@@ -193,6 +193,18 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/prathistith-raj-medi.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Prathistith Raj MEDI</b> is currently a 3rd-year undergraduate student majoring in Data Science & Artificial Intelligence at the International Institute of Information Technology (IIIT), Naya Raipur, India. His research interests include computer vision, deep learning, pattern recognition, medical image analysis, biometrics, generative AI, multi-modal learning, machine learning, privacy-preserving schemes for biometric data, emotion recognition, speech processing, and multimedia learning. He is currently working as an R&D Intern at Samsung Research Institute (SRI-B), Bangalore, India under the PRISM program, and previously he was an intern at the Indian Institute of Technology (IIT-BHU), Varanasi, India.
+</div>
+</div>
+
+
+<br />
+
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Nitin-Sai.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Nitin Sai BOMMI</b> is a 4th-year Integrated Masters of Technology student at the University of Hyderabad, India, with majors in Computer Science. His research interests include machine learning, deep learning, and computer vision. He recently completed a research internship under Prof Siba K Udgata, University of Hyderabad, India. As of October 2021, he co-authored four peer-reviewed publications.
