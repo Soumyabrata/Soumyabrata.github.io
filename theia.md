@@ -179,7 +179,13 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <div class="row">
 	
 	 
-	 None at this moment. 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/jarrett-pierse.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Jarrett Pierse</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has a keen interest in business and technology with a focus on developing knowledge in the area of machine learning and artificial intelligence. He is a black belt in Shotokan karate and enjoys all things tech.
+
+</div>
+</div>
 	
 
 
