@@ -180,6 +180,20 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 	
 	 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Andra-Antal.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Andra Antal-Berbecaru</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. She has an interest in software development and is eager to complete her degree and contribute positively to technology. She has many interests, including sewing and roller skating, and enjoys the process of creating something from start to finish. Over the course of her degree, Andra has come to appreciate working within a team environment, and although an introvert, now prefers it over independent work.
+
+</div>
+</div>
+
+
+
+<br />
+
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/jarrett-pierse.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Jarrett Pierse</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has a keen interest in business and technology with a focus on developing knowledge in the area of machine learning and artificial intelligence. He is a black belt in Shotokan karate and enjoys all things tech.
