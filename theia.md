@@ -17,7 +17,7 @@ Welcome to the <a href="https://soumyabrata.github.io/theia/">THEIA: THE visIon 
 Our research interests are in the area of computer vision, image processing, and remote sensing. We use techniques from statistical machine learning and deep learning, to solve interdisciplinary computational problems in various fields of digital multimedia, atmospheric research, and solar and renewable energy. 
 
 <br />
-We always look for hard-working PhD students and self-motivated postdoctoral researchers to join us, <a href="mailto:soumyabrata.dev@adaptcentre.ie">contact us</a> for more details.
+We always look for (independent!) postdoctoral researchers, (hard-working!) PhD students, and (ambitious!) interns to join us, <a href="mailto:soumyabrata.dev@adaptcentre.ie">contact us</a> for more details.
 
 ### Academic Leader
 
@@ -79,6 +79,20 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <div class="row">
 	
 	
+
+<div class="col-xs-2">
+<a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">
+<img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Alexia Larchen COSTUCHEN</b> is a Ph.D. candidate at the Polytechnic University of Valencia (UPV), Spain. She is invited as a visiting researcher to University College Dublin to contribute to the development of gamified survey software under the supervision of Dr. Soumyabrata Dev. Her current research interests include cognitive linguistics and innovations in second-language learning and teaching. She is a member of the GIEL research group (GIUV2013-081) at the University of Valencia, Spain, and is currently participating in gamification and game-design projects in Spain, Sweden, and Ireland. 
+</div>
+</div>
+
+
+
+<br />
+
 	
    	<div class="col-xs-2">
        <a href="https://github.com/futaoo">
@@ -121,18 +135,7 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 
 
 
-<div class="col-xs-2">
-<a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">
-	<img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
-</a>
-<div class="people-name">
-<b>Alexia Larchen COSTUCHEN</b> is a Ph.D. candidate at the Polytechnic University of Valencia (UPV), Spain. She is invited as a visiting researcher to University College Dublin to contribute to the development of gamified survey software under the supervision of Dr. Soumyabrata Dev. Her current research interests include cognitive linguistics and innovations in second-language learning and teaching. She is a member of the GIEL research group (GIUV2013-081) at the University of Valencia, Spain, and is currently participating in gamification and game-design projects in Spain, Sweden, and Ireland. 
-</div>
-</div>
 
-
-
-<br />
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Zixiang-Xu.png" | prepend:site.baseurl }}">
@@ -151,15 +154,6 @@ We always look for hard-working PhD students and self-motivated postdoctoral res
 <b>Yuan LIANG (Nick)</b> is currently pursuing his MSc in Computer Science at University College Dublin. He received his BSc degree and B.Eng degree from Beijing University of Technology in Software Engineering.  His main areas of interest are computer vision, machine learning and deep learning. Currently, he is working on his thesis on the visualization of agricultural big data with machine learning.
 </div>
 </div>
-
-
-<br />
-
-
-
-
-
-
 
 
 
