@@ -12,13 +12,13 @@ sidebar:
 
 ## Journals
 
-+ P. Berjon, A. Nag, and S. Dev, Analysis of French phonetic idiosyncrasies for accent recognition, *Soft Computing Letters*, 2021. [<a href="https://arxiv.org/pdf/2110.09179.pdf">arXiv</a>]
++ P. Berjon, A. Nag, and S. Dev, Analysis of French phonetic idiosyncrasies for accent recognition, *Soft Computing Letters*, 2021. [<a href="https://arxiv.org/pdf/2110.09179.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Article-Accent-Recognition">code</a>]
 
 + N. Akrami, K. Ziarati and S. Dev, Graph-based Local Climate Classification in Iran, *International Journal of Climatology*, 2021. [<a href="https://arxiv.org/pdf/2110.09209.pdf">arXiv</a>]
 
 + M. Jain, T. AlSkaif, S. Dev, Validating Clustering Frameworks for Electric Load Demand Profiles, *IEEE Transactions on Industrial Informatics*, 2021. [<a href="https://arxiv.org/pdf/2103.00030.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/validating-clustering-frameworks">code</a>]
 
-+ M. S. Pathan, J. Zhang, D. John, A. Nag and S. Dev, <a href="https://ieeexplore.ieee.org/document/9264165">Identifying Stroke Indicators Using Rough Sets</a>, *IEEE Access*, 2020. [<a href="https://github.com/Soumyabrata/Identifying-stroke-indicators-using-rough-sets">code</a>]
++ M. S. Pathan, J. Zhang, D. John, A. Nag and S. Dev, Identifying Stroke Indicators Using Rough Sets, *IEEE Access*, 2020. [<a href="https://github.com/Soumyabrata/Identifying-stroke-indicators-using-rough-sets">code</a>]
 
 + T. AlSkaif\*, S. Dev\*, L. Visser, M. Hossari, W. van Sark, A systematic analysis of meteorological variables for PV output power estimation, *Renewable Energy*, 2020 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2020/02/re2020.pdf">PDF</a>]
 
