@@ -49,11 +49,11 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ T. A. Fathima, V. Nedumpozhimana, Y. H. Lee, and S. Dev, Embedding Cyclical Information in Solar Irradiance Forecasting, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
++ T. A. Fathima, V. Nedumpozhimana, Y. H. Lee, and S. Dev, Embedding Cyclical Information in Solar Irradiance Forecasting, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.09761.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Forecasting">code</a>]
 
-+ M. Jain, N. Jain, Y. H. Lee, S. Winkler, and S. Dev, Detecting Blurred Ground-based Sky/Cloud Images, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
++ M. Jain, N. Jain, Y. H. Lee, S. Winkler, and S. Dev, Detecting Blurred Ground-based Sky/Cloud Images, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.09764.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Blur-Detection-in-WSI-Images">code</a>]
 
-+ J. Wu, H. Chen, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, An Interoperable Open Data Portal for Climate Analysis, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
++ J. Wu, H. Chen, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, An Interoperable Open Data Portal for Climate Analysis, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.09797.pdf">arXiv</a>] 
 
 + J. Wu, H. Chen, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, Automated Climate Analyses Using Knowledge Graph, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
 
