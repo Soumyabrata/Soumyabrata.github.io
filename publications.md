@@ -18,7 +18,7 @@ sidebar:
 
 + M. Jain, T. AlSkaif, S. Dev, Validating Clustering Frameworks for Electric Load Demand Profiles, *IEEE Transactions on Industrial Informatics*, 2021. [<a href="https://arxiv.org/pdf/2103.00030.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/validating-clustering-frameworks">code</a>]
 
-+ M. S. Pathan, J. Zhang, D. John, A. Nag and S. Dev, Identifying Stroke Indicators Using Rough Sets, *IEEE Access*, 2020. [<a href="https://github.com/Soumyabrata/Identifying-stroke-indicators-using-rough-sets">code</a>]
++ M. S. Pathan, J. Zhang, D. John, A. Nag and S. Dev, Identifying Stroke Indicators Using Rough Sets, *IEEE Access*, 2020. [<a href="https://arxiv.org/pdf/2110.10152.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Identifying-stroke-indicators-using-rough-sets">code</a>]
 
 + T. AlSkaif\*, S. Dev\*, L. Visser, M. Hossari, W. van Sark, A systematic analysis of meteorological variables for PV output power estimation, *Renewable Energy*, 2020 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2020/02/re2020.pdf">PDF</a>]
 
@@ -55,23 +55,23 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + J. Wu, H. Chen, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, An Interoperable Open Data Portal for Climate Analysis, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.09797.pdf">arXiv</a>] 
 
-+ J. Wu, H. Chen, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, Automated Climate Analyses Using Knowledge Graph, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
++ J. Wu, H. Chen, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, Automated Climate Analyses Using Knowledge Graph, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.11039.pdf">arXiv</a>] 
 
 + H. Wang, M. S. Pathan, Y. H. Lee, and S. Dev, Day-ahead Forecasts of Air Temperature, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
 
-+ M. S. Pathan, J. Wu, Y. H. Lee, J. Yan, and S. Dev, Analyzing the Impact of Meteorological Parameters on Rainfall Prediction, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
++ M. S. Pathan, J. Wu, Y. H. Lee, J. Yan, and S. Dev, Analyzing the Impact of Meteorological Parameters on Rainfall Prediction, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.11059.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Impact-of-meteorological-parameters-on-rainfall">code</a>]
 
 + N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Monitoring Atmospheric Pollutants From Ground-based Observations, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
 
-+ J. Wu, F. Orlandi, T. Alskaif, D. O'Sullivan and S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. [<a href="https://arxiv.org/pdf/2108.01504.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/08/sest2021-kg-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/40a058b82246488ca34ba14e9390288c">video presentation</a>]
++ J. Wu, F. Orlandi, T. Alskaif, D. O'Sullivan and S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. [<a href="https://arxiv.org/pdf/2108.01504.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/ontology-energysystems">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/08/sest2021-kg-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/40a058b82246488ca34ba14e9390288c">video presentation</a>]
 
 + M. Jain, M. Jain, T. Alskaif and S. Dev, Impact of Load Demand Dataset Characteristics on Clustering Validation Indices, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. [<a href="https://arxiv.org/pdf/2108.01433.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/08/sest2021-clustering-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/7282a0a4da1044ada44375a4bf20d182">video presentation</a>]
 
-+  H. Wang, M. S. Pathan, and S. Dev, Stereo Matching Based on Visual Sensitive Information, *6th IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2021. [<a href="https://arxiv.org/pdf/2105.10831.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/07/icivc2021-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/f1bf230677da4a278bef3d7a0900e0fa">video presentation</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/08/bp-vc1039.pdf">Best Presentation Award</a>]
++  H. Wang, M. S. Pathan, and S. Dev, Stereo Matching Based on Visual Sensitive Information, *6th IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2021. [<a href="https://arxiv.org/pdf/2105.10831.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Stereo-Matching">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/07/icivc2021-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/f1bf230677da4a278bef3d7a0900e0fa">video presentation</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/08/bp-vc1039.pdf">Best Presentation Award</a>]
 
 +  X. Pan, X. Xu, S. Dev, and A. Campbell, 3D Displays: Their Evolution, Inherent Challenges & Future Perspectives, *Future Technologies Conference (FTC)*, 2021. [<a href="https://arxiv.org/pdf/2105.08390.pdf">arXiv</a>]
 
-+  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. [<a href="https://arxiv.org/pdf/2107.13514.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/07/covid19_igarss2021_slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/5b2cf4ad5fe440fc810c61f534afefc0">video presentation</a>]
++  D. Kaloni, Y. H. Lee, and S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. [<a href="https://arxiv.org/pdf/2107.13514.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/LockdownAnalysis_Ireland">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/07/covid19_igarss2021_slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/5b2cf4ad5fe440fc810c61f534afefc0">video presentation</a>]
 
 +  M. Jain, C. Meegan, and S. Dev, Using GANs to Augment Data for Cloud Image Segmentation Task, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021. [<a href="https://arxiv.org/pdf/2106.03064.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/06/igarss2021_gan_slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/6294e1f090d24181837a2ad30b045bff">video presentation</a>]
 
