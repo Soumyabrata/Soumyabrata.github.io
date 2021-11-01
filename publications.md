@@ -113,7 +113,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + T. AlSkaif\*, S. Dev\*, L. Visser, M. Hossari, and W. van Sark, On the Interdependence and Importance of Meteorological Variables for Photovoltaic Output Power Estimation, *Proc. 46th IEEE Photovoltaic Specialists Conference (PVSC)*, 2019 (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2019/07/pvsc2019.pdf">PDF</a>]
 
-+ S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The CASE Dataset of Candidate Spaces for Advert Implantation, *Proc. International Conference on Machine Vision Applications (MVA)*, 2019. [<a href="https://arxiv.org/pdf/1903.08943.pdf">arXiv</a>] [<a href="https://www.adaptcentre.ie/images/uploads/about/CASE-dataset.zip">dataset</a>] 
++ S. Dev, M. Hossari, M. Nicholson, K. McCabe, A. Nautiyal, C. Conran, J. Tang, W. Xu, and F. Piti&eacute;, The CASE Dataset of Candidate Spaces for Advert Implantation, *Proc. International Conference on Machine Vision Applications (MVA)*, 2019. [<a href="https://arxiv.org/pdf/1903.08943.pdf">arXiv</a>] [<a href="https://drive.google.com/file/d/13X7QwPsDiDkBcEgsh4cXEA4DjziPsBn1/view">dataset</a>] 
 
 + S. Dev, S. Manandhar, Y. H. Lee and S. Winkler, Multi-label Cloud Segmentation Using a Deep Network, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2019. [<a href="https://arxiv.org/pdf/1903.06562.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/multilabel-unet">code</a>]
 
