@@ -57,7 +57,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + J. Wu, H. Chen, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, Automated Climate Analyses Using Knowledge Graph, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.11039.pdf">arXiv</a>] 
 
-+ H. Wang, M. S. Pathan, Y. H. Lee, and S. Dev, Day-ahead Forecasts of Air Temperature, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.13812.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/temperature-forecasting">code</a>]
++ H. Wang, M. S. Pathan, Y. H. Lee, and S. Dev, Day-ahead Forecasts of Air Temperature, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.13812.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/temperature-forecasting">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/11/2021aps-hewei-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/6d9986fe85974eed91cbad4b3395ff34">video presentation</a>]
 
 + M. S. Pathan, J. Wu, Y. H. Lee, J. Yan, and S. Dev, Analyzing the Impact of Meteorological Parameters on Rainfall Prediction, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.11059.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Impact-of-meteorological-parameters-on-rainfall">code</a>]
 
