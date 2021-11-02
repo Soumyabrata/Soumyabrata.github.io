@@ -171,6 +171,20 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 <div class="row">
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Killian-Callaghan.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Killian Callaghan</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has an interest in science and technology. He has many interests, such as video games, going to the gym and making things. He hopes to learn more about software development, virtual reality and cyber security.
+
+</div>
+</div>
+
+
+
+<br />
+
 	
 	 
 <div class="col-xs-2">
