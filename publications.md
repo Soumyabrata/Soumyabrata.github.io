@@ -61,7 +61,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + M. S. Pathan, J. Wu, Y. H. Lee, J. Yan, and S. Dev, Analyzing the Impact of Meteorological Parameters on Rainfall Prediction, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.11059.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Impact-of-meteorological-parameters-on-rainfall">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/11/2021aps-pathan-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/a62bdc621e734082828236a85606f1bf">video presentation</a>]
 
-+ N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Monitoring Atmospheric Pollutants From Ground-based Observations, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. 
++ N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Monitoring Atmospheric Pollutants From Ground-based Observations, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2111.05094.pdf">arXiv</a>]
 
 + J. Wu, F. Orlandi, T. Alskaif, D. O'Sullivan and S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. [<a href="https://arxiv.org/pdf/2108.01504.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/ontology-energysystems">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/08/sest2021-kg-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/40a058b82246488ca34ba14e9390288c">video presentation</a>]
 
