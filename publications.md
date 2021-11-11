@@ -49,6 +49,35 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
+
++ M. Munjal, and S. Dev, Utility Based Handoff Decision for Internet of Everything (IoE), *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ N. Akrami, K. Ziarati, and S. Dev, Predicting Temperature from Ground-based Synoptic Data in Shiraz City, Iran, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ N. Akrami, K. Ziarati, and S. Dev, Comparison between Ground-based Synoptic Data and ERA5 Reanalysis Data in Iran, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ J. Wu, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, Organizing Decentralized Energy Data Using Semantic Approach, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ J. Wu, F. Orlandi, I. Gollini, E. Pisoni, and S. Dev, Uplifting Air Quality Data Using Knowledge Graph, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ T. A. Fathima, V. Nedumpozhimana, J. Wu, Y. H. Lee, and S. Dev, Role of Temporal Information for Multi-step Ahead Forecasting of Solar Irradiance, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Detecting Rainfall Events Leveraging Climate Knowledge Graphs, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ B. Alparslan, M. Jain, J. Wu, and S. Dev, Analyzing Air Pollutant Concentrations in New Delhi, India, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Predicting Ground-based PM2.5 Concentration in Queensland, Australia, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ M. Jain, P. Yadav, Y. H. Lee, and S. Dev, Improving Training Efficiency of LSTMs While Forecasting Precipitable Water Vapours, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ Z. Y. Ho, M. Jain, and S. Dev, Multivariate Convolutional LSTMs for Relative Humidity Forecasting, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ B. P. Das, M. S. Pathan, Y. H. Lee, and S. Dev, Estimating Ground-level Nitrogen Dioxide Concentration from Satellite Data, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ M. S. Pathan, M. Jain, Y. H. Lee, T. AlSkaif, and S. Dev, Efficient Forecasting of Precipitation Using LSTM, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
++ M. S. Pathan, M. Jain, A. Nag, T. AlSkaif, and S. Dev, Analyzing Impact of Time on Early Detection of Rainfall Event, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
+
 + T. A. Fathima, V. Nedumpozhimana, Y. H. Lee, and S. Dev, Embedding Cyclical Information in Solar Irradiance Forecasting, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.09761.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Forecasting">code</a>]
 
 + M. Jain, N. Jain, Y. H. Lee, S. Winkler, and S. Dev, Detecting Blurred Ground-based Sky/Cloud Images, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.09764.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Blur-Detection-in-WSI-Images">code</a>]
