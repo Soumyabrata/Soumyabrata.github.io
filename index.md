@@ -14,15 +14,10 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 #### Recent News
 
 + (Dec 2021): Our group publishes seven papers [<a href="https://arxiv.org/pdf/2110.09761.pdf">1</a>] [<a href="https://arxiv.org/pdf/2110.09764.pdf">2</a>] [<a href="https://arxiv.org/pdf/2110.09797.pdf">3</a>] [<a href="https://arxiv.org/pdf/2110.11039.pdf">4</a>] [<a href="https://arxiv.org/pdf/2110.13812.pdf">5</a>] [<a href="https://arxiv.org/pdf/2110.11059.pdf">6</a>] [<a href="https://arxiv.org/pdf/2111.05094.pdf">7</a>] to <a href="https://igarss2021.com/">2021 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (APS/URSI)</a>.
-
 + (Oct 2021): Welcome Nitin Sai Bommi from University of Hyderabad, India, and Prathistith Raj Medi from International Institute of Information Technology (IIIT), Naya Raipur, India to our <a href="https://soumyabrata.dev/theia/">group</a>. Both of them join us as research interns. 
-
 + (Sep 2021): Welcome Shane Cooke, Killian Callaghan, Andra Antal-Berbecaru, and Jarrett Pierse to our <a href="https://soumyabrata.dev/theia/">group</a>. They join us for a year as part of their BSc final year projects.  
-
 + (Sep 2021): Welcome Alexia Larchen Costuchen to our <a href="https://soumyabrata.dev/theia/">group</a>. She joins us as a visiting researcher, as a part of Erasmus Internship programme to contribute to the development of gamified survey software. 
-
 + (Sep 2021): Our group publishes two papers [<a href="https://arxiv.org/pdf/2108.01504.pdf">1</a>] [<a href="https://arxiv.org/pdf/2108.01433.pdf">2</a>] to <a href="https://sites.uwasa.fi/sest2021/">2021 4th IEEE International Conference on Smart Energy Systems and Technologies (SEST)</a>.
-
 + (July 2021): Our group publishes four papers [<a href="https://arxiv.org/pdf/2107.13514.pdf">1</a>] [<a href="https://arxiv.org/pdf/2106.03064.pdf">2</a>] [<a href="https://arxiv.org/pdf/2106.03073.pdf">3</a>] [<a href="https://arxiv.org/pdf/2106.03085.pdf">4</a>] to <a href="https://igarss2021.com/">2021 41st annual IGARSS symposium</a>.
 
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
