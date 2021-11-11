@@ -43,6 +43,7 @@ sidebar:
 
 
 ### Outreach
++ 2021: Participated in a <a href="https://ieeeukiyp.org/3rd_stem/schedule/">panel discussion</a> at Third IEEE UK&I YP Postgrad STEM Research Symposium on the future of STEM in a shifting landscape, organised by IEEE UK & Ireland Young Professionals, Nov 10, 2021, at Dublin, Ireland.
 + 2020: <a href="https://soundcloud.com/theadaptcentre/soumyabrata-dev-how-computer-vision-assists-in-identifying-product-placement-locations">Chat</a> at <a href="https://soundcloud.com/theadaptcentre">ADAPT Radio</a> podcast series, and provided insights into how the future of video ads may work using computer vision and deep learning. 
 + 2019: Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, University College Dublin.
 + 2017: Delivered a talk in the workshop 'Cantenna to the WiFi rescue', as a part of <a href="http://www.ntu.edu.sg/TalentOutreach/seeNTU/Documents/seeNTU%20Programme%20Schedule%202017.pdf">seeNTU 2017 programme</a> at NTU Singapore, on May 31, 2017. This is organized by <a href="http://www.ntu.edu.sg/TalentOutreach/Pages/index.aspx">Talent Outreach</a>, NTU Singapore.
