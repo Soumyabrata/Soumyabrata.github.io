@@ -208,6 +208,19 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 </div>
 </div>
+
+
+<br />
+
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/dummy-headshot.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Shane COOKE</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has an interest in software development, cyber security and web development and hopes to pursue one of these fields upon finishing his studies. He enjoys all things tech and also has a keen interest in sports.
+
+</div>
+</div>
 	
 
 
