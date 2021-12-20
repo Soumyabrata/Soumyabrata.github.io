@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ B. McNicholl, Y. H. Lee, A. Campbell, and S. Dev, Evaluating the Reliability of Air Temperature from ERA5 Reanalysis Data, *IEEE Geoscience and Remote Sensing Letters*, 2021. 
+
 + P. Berjon, A. Nag, and S. Dev, Analysis of French phonetic idiosyncrasies for accent recognition, *Soft Computing Letters*, 2021. [<a href="https://arxiv.org/pdf/2110.09179.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Article-Accent-Recognition">code</a>]
 
 + N. Akrami, K. Ziarati and S. Dev, Graph-based Local Climate Classification in Iran, *International Journal of Climatology*, 2021. [<a href="https://arxiv.org/pdf/2110.09209.pdf">arXiv</a>]
@@ -66,7 +68,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + B. Alparslan, M. Jain, J. Wu, and S. Dev, Analyzing Air Pollutant Concentrations in New Delhi, India, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
 
-+ N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Predicting Ground-based PM2.5 Concentration in Queensland, Australia, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
++ N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Predicting Ground-based PM2.5 Concentration in Queensland, Australia, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/12/2021piers-nick-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/5a54f85cfd7c436aa09336044afdc7f9">video presentation</a>]
 
 + M. Jain, P. Yadav, Y. H. Lee, and S. Dev, Improving Training Efficiency of LSTMs While Forecasting Precipitable Water Vapours, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
 
@@ -90,7 +92,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + M. S. Pathan, J. Wu, Y. H. Lee, J. Yan, and S. Dev, Analyzing the Impact of Meteorological Parameters on Rainfall Prediction, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2110.11059.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Impact-of-meteorological-parameters-on-rainfall">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/11/2021aps-pathan-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/a62bdc621e734082828236a85606f1bf">video presentation</a>]
 
-+ N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Monitoring Atmospheric Pollutants From Ground-based Observations, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2111.05094.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/11/2021aps-nick-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/5a54f85cfd7c436aa09336044afdc7f9">video presentation</a>]
++ N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Monitoring Atmospheric Pollutants From Ground-based Observations, *Proc. IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2021. [<a href="https://arxiv.org/pdf/2111.05094.pdf">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/12/2021aps-danesi.pdf">slides</a>] [<a href="https://media.heanet.ie/page/c54ba7c1a3044166b827717743f00d26">video presentation</a>]
 
 + J. Wu, F. Orlandi, T. Alskaif, D. O'Sullivan and S. Dev, Ontology Modeling for Decentralized Household Energy Systems, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2021. [<a href="https://arxiv.org/pdf/2108.01504.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/ontology-energysystems">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2021/08/sest2021-kg-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/40a058b82246488ca34ba14e9390288c">video presentation</a>]
 

@@ -235,6 +235,18 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Shobhit-Belwal.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Shobhit Belwal</b> is a 3rd year undergraduate in Computer Science department of Indian Institute of Information Technology Guwahati. He has broad interests in field of computer vision and machine learning. He has previous authored a research paper in the field of approximate computing. He is currently working on cloud/sky segmentation of HDR images. 
+</div>
+</div>
+
+
+<br />
+
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Deepak-Joel-Yericherla.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Deepak Joel Yericherla</b> is a 3rd-year undergraduate student majoring in Data Science & Artificial Intelligence at the International Institute of Information Technology (IIIT) Naya Raipur, India. His main areas of interest are in data analytics and statistical modelling, although all domains in AI fascinate him the same. He enjoys music, manga, and board games. He is working on new techniques to detect PM2.5 concentration pollutants in the air using AI.
