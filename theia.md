@@ -234,15 +234,6 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Shobhit-Belwal.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Shobhit Belwal</b> is a 3rd year undergraduate in Computer Science department of Indian Institute of Information Technology Guwahati. He has broad interests in field of computer vision and machine learning. He has previous authored a research paper in the field of approximate computing. He is currently working on cloud/sky segmentation of HDR images. 
-</div>
-</div>
-
-
-<br />
 
 
 
