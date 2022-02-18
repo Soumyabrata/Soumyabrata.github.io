@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ D. Kaloni, Y. H. Lee, and S. Dev, Air quality in the New Delhi metropolis under COVID-19 lockdown, *Systems and Soft Computing*, 2022. 
+
 + G. Sivapalan, K. Nundy, S. Dev, B. Cardiff, and D. John, ANNet: A Lightweight Neural Network for ECG Anomaly Detection in IoT Edge Sensors, *IEEE Transactions on Biomedical Circuits and Systems*, 2022. [<a href="https://soumyabratadev.files.wordpress.com/2022/02/2022sivapalanannet.pdf">PDF</a>]
 
 + B. McNicholl, Y. H. Lee, A. Campbell, and S. Dev, Evaluating the Reliability of Air Temperature from ERA5 Reanalysis Data, *IEEE Geoscience and Remote Sensing Letters*, 2021. 
