@@ -57,6 +57,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ A. L. Costuchen, and S. Dev, Confronting challenges of non-formal education: A shift from book-based EFL to tailor-made, experimental syllabi, *Proc. ACM 5th International Conference on Big Data and Education (ICBDE)*, Feb 2022. [<a href="https://soumyabratadev.files.wordpress.com/2022/02/2022-icbde-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/b0114b4c065f4754916fe561e1c5d878">video presentation</a>]
 
 + M. Munjal, and S. Dev, Utility Based Handoff Decision for Internet of Everything (IoE), *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
 
