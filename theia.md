@@ -40,7 +40,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
       <img class="people-pic" src="{{ "/images/theia/MH.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-	  <b>Murhaf HOSSARI</b> is a Research Scientist at Nokia Bell Labs, based at Sunnyvale, California, United States. His main interests and expertise are in Natural Language Processing, Machine Learning and Deep Learning. Prior to Nokia Bell Labs, Murhaf worked in ADAPT Centre for 3 years and Apple Inc. for 5 years. He won the 2018 DatSci award for Best Contribution to Data Science from Academic Research Body.
+	  <b>Murhaf HOSSARI</b> is a Technical Program Manager at Apple, based at San Francisco Bay Area, United States. His main interests and expertise are in natural language processing, machine learning and deep learning. 
     </div>
  </div>
   
