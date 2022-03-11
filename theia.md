@@ -73,26 +73,9 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 
-
 ### PhD Students
 
 <div class="row">
-	
-	
-
-<div class="col-xs-2">
-<a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">
-<img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
-</a>
-<div class="people-name">
-<b>Alexia Larchen COSTUCHEN</b> is a Ph.D. candidate at the Polytechnic University of Valencia (UPV), Spain. She is invited as a visiting researcher to University College Dublin to contribute to the development of gamified survey software under the supervision of Dr. Soumyabrata Dev. Her current research interests include cognitive linguistics and innovations in second-language learning and teaching. She is a member of the GIEL research group (GIUV2013-081) at the University of Valencia, Spain, and is currently participating in gamification and game-design projects in Spain, Sweden, and Ireland. 
-</div>
-</div>
-
-
-
-<br />
-
 	
    	<div class="col-xs-2">
        <a href="https://github.com/futaoo">
@@ -105,11 +88,6 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 	
 	
 <br />
-
-
-
-
-
 	
    	<div class="col-xs-2">
        <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">
@@ -119,11 +97,6 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
    	  <b>Mayank JAIN</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He did his M.Sc. Artificial Intelligence from the University of Edinburgh in 2019, and B.Tech. IT and Mathematical Innovations - Major: Electronics and Robotics from the Cluster Innovation Centre, University of Delhi in 2015. He is the co-founder of Imfundo Technologies Pvt. Ltd., for which he worked as Director for 3 years. The startup was focused on introducing STEM education modules in a gamified manner for young kids. He has also been associated with Defence Terrain Research Laboratory (Defence Research and Development Organization, Government of India), Design Innovation Centre (University of Delhi) and Indian Institute of Technology (Mumbai, India) at various times in his academic career. He has been a recipient of several fellowships and scholarships, including the Scottish Saltire Scholarship, Delhi University Innovation Project Fellowship, Global Problem Solving Consortium - Water Sustainability Fellowship'2013 and UCD-CS PhD Scholarship. His major research interests are computer vision, deep learning, and robotics.
        </div>
     </div>
-	
-	
-
-  
-  
   
 </div>
 
@@ -133,10 +106,6 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 <div class="row">
 
-
-
-
-
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Zixiang-Xu.png" | prepend:site.baseurl }}">
 <div class="people-name">
@@ -144,9 +113,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 </div>
 </div>
 
-
 <br />
-
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Yuan-Liang.png" | prepend:site.baseurl }}">
@@ -154,11 +121,6 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 <b>Yuan LIANG (Nick)</b> is currently pursuing his MSc in Computer Science at University College Dublin. He received his BSc degree and B.Eng degree from Beijing University of Technology in Software Engineering.  His main areas of interest are computer vision, machine learning and deep learning. Currently, he is working on his thesis on the visualization of agricultural big data with machine learning.
 </div>
 </div>
-
-
-
-
-
 
 
 </div>
@@ -181,49 +143,33 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 </div>
 </div>
 
-
-
 <br />
-
-	
 	 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Andra-Antal.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Andra Antal-Berbecaru</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. She has an interest in software development and is eager to complete her degree and contribute positively to technology. She has many interests, including sewing and roller skating, and enjoys the process of creating something from start to finish. Over the course of her degree, Andra has come to appreciate working within a team environment, and although an introvert, now prefers it over independent work.
-
 </div>
 </div>
-
-
 
 <br />
-
-
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/jarrett-pierse.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Jarrett Pierse</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has a keen interest in business and technology with a focus on developing knowledge in the area of machine learning and artificial intelligence. He is a black belt in Shotokan karate and enjoys all things tech.
-
 </div>
 </div>
-
 
 <br />
-
-
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/dummy-headshot.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Shane COOKE</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has an interest in software development, cyber security and web development and hopes to pursue one of these fields upon finishing his studies. He enjoys all things tech and also has a keen interest in sports.
-
 </div>
 </div>
 	
-
-
 </div>
 
 
@@ -232,51 +178,20 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 <div class="row">
 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Giri.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Girievasan Manivannan</b> is currently pursuing Btech in Electrical and Electronics Engineering at the National Institute of Technology Tiruchirappalli, India. His research interests include deep learning and machine learning. He is currently working on the prediction of diabetes from machine learning techniques. 
+</div>
+</div>
 
-
-
+<br />
 
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Deepak-Joel-Yericherla.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Deepak Joel Yericherla</b> is a 3rd-year undergraduate student majoring in Data Science & Artificial Intelligence at the International Institute of Information Technology (IIIT) Naya Raipur, India. His main areas of interest are in data analytics and statistical modelling, although all domains in AI fascinate him the same. He enjoys music, manga, and board games. He is working on new techniques to detect PM2.5 concentration pollutants in the air using AI.
-</div>
-</div>
-
-
-<br />
-
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/prathistith-raj-medi.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Prathistith Raj MEDI</b> is currently a 3rd-year undergraduate student majoring in Data Science & Artificial Intelligence at the International Institute of Information Technology (IIIT), Naya Raipur, India. His research interests include computer vision, deep learning, pattern recognition, medical image analysis, biometrics, generative AI, multi-modal learning, machine learning, privacy-preserving schemes for biometric data, emotion recognition, speech processing, and multimedia learning. He is currently working as an R&D Intern at Samsung Research Institute (SRI-B), Bangalore, India under the PRISM program, and previously he was an intern at the Indian Institute of Technology (IIT-BHU), Varanasi, India.
-</div>
-</div>
-
-
-<br />
-
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Nitin-Sai.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Nitin Sai BOMMI</b> is a 4th-year Integrated Masters of Technology student at the University of Hyderabad, India, with majors in Computer Science. His research interests include machine learning, deep learning, and computer vision. He recently completed a research internship under Prof Siba K Udgata, University of Hyderabad, India. As of October 2021, he co-authored four peer-reviewed publications.
-</div>
-</div>
-
-
-<br />
-
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Bibhash-Pran-Das.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Bibhash Pran DAS</b> is a penultimate year undergraduate student at National Institute of Technology, Rourkela. He is pursuing his major in Electronics and Instrumentation Engineering. His research interests include deep learning and computer vision. He is working on a research project for estimating the ground-based pollutant concentration from satellite measurements.
 </div>
 </div>
 
@@ -290,20 +205,13 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 </div>
 
 
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Pierre.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Pierre BERJON</b> is a graduate student at Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep Learning and natural language processing, and is working on a project in automatic speech recognition in order to develop and AI-driven software framework that will automatically generate English sentences from a video tutorial.
-</div>
-</div>
-
 </div>
 
  
 ### Alumni
+
+#### PhD
++ Alexia Larchen COSTUCHEN, Erasmus PhD Visitor, AY 2021-22
 
 
 #### Masters
@@ -348,6 +256,10 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 + Guan Zhao Ting, NTU FYP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 
 #### Interns
++ Nitin Sai BOMMI (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
++ Prathistith Raj MEDI (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
++ Bibhash Pran DAS (National Institute of Technology Rourkela, India), UCD Intern, AY 2021--2022
++ Pierre BERJON (Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France), UCD Intern, AY 2019--2020, AY 2020-2021
 + Ho Zheng Yi (Nanyang Technological University, Singapore), UCD Intern, Summer 2021
 + Bugra Alparslan (Middle East Technical University, Turkey), UCD Intern, Summer 2020
 + Guillaume Tran (ENSEEIHT Toulouse France), UCD Intern, AY 2019-20
@@ -365,17 +277,8 @@ All great research starts with a story. Our group's name THEIA lab is derived fr
 
 
 
-<!---
-### Undergrad Students
-
-<div class="row">
 
 
-
-
-</div>
-
--->
 
 
 
@@ -386,6 +289,16 @@ Previous team members detailed biography
 
 
 PhD:
+
+<div class="col-xs-2">
+<a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">
+<img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Alexia Larchen COSTUCHEN</b> is a Ph.D. candidate at the Polytechnic University of Valencia (UPV), Spain. She is invited as a visiting researcher to University College Dublin to contribute to the development of gamified survey software under the supervision of Dr. Soumyabrata Dev. Her current research interests include cognitive linguistics and innovations in second-language learning and teaching. She is a member of the GIEL research group (GIUV2013-081) at the University of Valencia, Spain, and is currently participating in gamification and game-design projects in Spain, Sweden, and Ireland. 
+</div>
+</div>
+
 
 <br />
 	
@@ -597,10 +510,43 @@ Undergrads:
 
 Interns:
 
-
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Nitin-Sai.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Nitin Sai BOMMI</b> is a 4th-year Integrated Masters of Technology student at the University of Hyderabad, India, with majors in Computer Science. His research interests include machine learning, deep learning, and computer vision. He recently completed a research internship under Prof Siba K Udgata, University of Hyderabad, India. As of October 2021, he co-authored four peer-reviewed publications.
+</div>
+</div>
 
 <br />
 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/prathistith-raj-medi.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Prathistith Raj MEDI</b> is currently a 3rd-year undergraduate student majoring in Data Science & Artificial Intelligence at the International Institute of Information Technology (IIIT), Naya Raipur, India. His research interests include computer vision, deep learning, pattern recognition, medical image analysis, biometrics, generative AI, multi-modal learning, machine learning, privacy-preserving schemes for biometric data, emotion recognition, speech processing, and multimedia learning. He is currently working as an R&D Intern at Samsung Research Institute (SRI-B), Bangalore, India under the PRISM program, and previously he was an intern at the Indian Institute of Technology (IIT-BHU), Varanasi, India.
+</div>
+</div>
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Bibhash-Pran-Das.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Bibhash Pran DAS</b> is a penultimate year undergraduate student at National Institute of Technology, Rourkela. He is pursuing his major in Electronics and Instrumentation Engineering. His research interests include deep learning and computer vision. He is working on a research project for estimating the ground-based pollutant concentration from satellite measurements.
+</div>
+</div>
+
+<br />
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Pierre.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Pierre BERJON</b> is a graduate student at Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France. He is currently a summer intern hosted by University College Dublin. His areas of interest are deep Learning and natural language processing, and is working on a project in automatic speech recognition in order to develop and AI-driven software framework that will automatically generate English sentences from a video tutorial.
+</div>
+</div>
+
+
+<br />
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Ho-Zheng-Yi.png" | prepend:site.baseurl }}">
@@ -611,7 +557,6 @@ Interns:
 
 <br />
 
-
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/bugra.png" | prepend:site.baseurl }}">
 <div class="people-name">
@@ -619,10 +564,7 @@ Interns:
 </div>
 </div>
 
-
-
 <br />
-
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Guillaume.png" | prepend:site.baseurl }}">
@@ -630,9 +572,6 @@ Interns:
 <b>Guillaume TRAN</b> is a second-year undergraduate student at Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France. He is currently a summer intern hosted by University College Dublin. His areas of interest are image processing and multimedia, and is working on a project in cloud type recognition from ground-based sky cameras.
 </div>
 </div>
-
-
-
 
 
 <br />
@@ -647,8 +586,6 @@ Interns:
 </div>
 </div>
 
-	
-	
 <br />
 
     <div class="col-xs-2">
@@ -660,10 +597,6 @@ Interns:
     </div>
     </div>
 
-
-
-
-	
 	
 -->
 

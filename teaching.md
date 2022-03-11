@@ -13,21 +13,36 @@ sidebar:
  Details of navigation bar can be found here: _data/navigation.yml
  -->
 
+## 2021
+#### COMP2002J Data Structures and Algorithms 1<br><sup>Trimester I, AY 2021-22, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on data structures and algorithms, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=941">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:mayank.jain1@ucdconnect.ie">Mayank Jain</a>, for further details.
+
+#### COMP2012J Operating Systems<br><sup>Trimester I, AY 2021-22, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=940">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:jiantao.wu@ucdconnect.ie">Jiantao Wu (Ivan)</a>, for further details.
+
+#### COMP3023J Wireless Sensor Networks<br><sup>Trimester I, AY 2021-22, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=942">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:muhammad.pathan@ucd.ie">Dr Muhammad Salman Pathan</a>, for further details.
+
+#### COMP30900 Final Year Project (FYP) Foundations/COMP30910 FYP Design and Implementation<br><sup>Trimester I, AY 2021-22, University College Dublin</sup>
+I am supervising 4 students, in their final year BSc projects. Please see <a href="https://brightspace.ucd.ie/d2l/home/157340">the BrightSpace page</a> for all the related details.
 
 
 ## 2020
 
 #### COMP2002J Data Structures and Algorithms 1<br><sup>Trimester I, AY 2020-21, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on Data Structures and Algorithms 1, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=891">the CS moodle page</a> for course notes + assessments.<br>
+I lectured a course on Data Structures and Algorithms 1, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=891">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:saeedeh.ghanadbashi@ucdconnect.ie">Saeedeh Ghanadbashi</a>, for further details.
 
 
 #### COMP2012J Operating Systems<br><sup>Trimester I, AY 2020-21, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=890">the CS moodle page</a> for course notes + assessments.<br>
+I lectured a course on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=890">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:maha.riad@ucdconnect.ie">Maha Riad</a>, for further details.
 
 #### COMP2005J Object Oriented Programming<br><sup>Trimester I, AY 2020-21, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on Object Oriented Programming, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=892">the CS moodle page</a> for course notes + assessments.<br>
+I lectured a course on Object Oriented Programming, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=892">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:mayank.jain1@ucdconnect.ie">Mayank Jain</a>, for further details.
 
 #### COMP47360-Research Practicum (MSc Conv)<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
