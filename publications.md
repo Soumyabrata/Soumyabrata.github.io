@@ -57,6 +57,18 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  M. Jain, D. Yericherla, and S. Dev, On the Relationship Between Ground- and Satellite-Based Global Horizontal Irradiance, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
+
++  M. Jain, C. Kumari, and S. Dev, Identifying The Best Clear Sky Model For The Delhi-NCR Region, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
+
++  M. S. Pathan, A. Nag, S. Dev, Efficient Rainfall Prediction Using A Dimensionality Reduction Method, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
+
++  J. Wu, F. Orlandi, M. S. Pathan, D. O'Sullivan, and S. Dev, Augmenting Weather Sensor Data With Remote Knowledge Graphs, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
+
++  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Publishing Climate Data As Linked Data Via Virtual Knowledge Graphs, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
+
++  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, A Workflow To Convert Live Atmospheric Sensor Data Into Linked Data, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
+
 + A. L. Costuchen, and S. Dev, Confronting challenges of non-formal education: A shift from book-based EFL to tailor-made, experimental syllabi, *Proc. ACM 5th International Conference on Big Data and Education (ICBDE)*, Feb 2022. [<a href="https://soumyabratadev.files.wordpress.com/2022/02/2022-icbde-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/b0114b4c065f4754916fe561e1c5d878">video presentation</a>]
 
 + M. Munjal, and S. Dev, Utility Based Handoff Decision for Internet of Everything (IoE), *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 

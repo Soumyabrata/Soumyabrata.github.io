@@ -20,6 +20,7 @@ sidebar:
 
 ### Technical Program Committee
 
++ 2022: <a href="https://imvipconference.github.io/#contact">IMVIP 2022</a>, 23rd Irish Machine Vision and Image Processing (IMVIP)
 + 2022: <a href="https://www.iaria.org/conferences2022/ComCOGNITIVE22.html">COGNITIVE 2022</a>, Fourteenth International Conference on Advanced Cognitive Technologies and Applications
 + 2022: <a href="https://icict.co.uk/committees.php#tab4">ICICT 2022</a>, 7th International Congress on Information and Communication Technology 
 + 2022: <a href="https://smartcomconference.com/committee.php#tab04">SmartCom 2022</a>, International Conference on Smart Trends in Computing and Communications 
