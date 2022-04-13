@@ -12,6 +12,9 @@ sidebar:
 
 ## Journals
 
+
++ S. Batra\*, H. Wang\*, A. Nag, P. Brodeur, M. Checkley, A. Klinkert, and S. Dev, DMCNet: Diversified Model Combination Network for Understanding Engagement from Video Screengrabs, *Systems and Soft Computing*, 2022 (\* Authors contributed equally). 
+
 + S. Dev, H. Wang, C. S. Nwosu, N. Jain, B. Veeravalli, and D. John, A predictive analytics approach for stroke prediction using machine learning and neural networks, *Healthcare Analytics*, 2022. [<a href="https://arxiv.org/pdf/2203.00497.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/EHR-features">code</a>]
 
 + D. Kaloni, Y. H. Lee, and S. Dev, Air quality in the New Delhi metropolis under COVID-19 lockdown, *Systems and Soft Computing*, 2022. [<a href="https://arxiv.org/pdf/2203.02258.pdf">arXiv</a>] [<a href="https://github.com/dkaloni/LockdownAnalysis">code</a>]
