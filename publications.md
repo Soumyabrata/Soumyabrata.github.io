@@ -84,21 +84,21 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + J. Wu, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, Organizing Decentralized Energy Data Using Semantic Approach, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
 
-+ J. Wu, F. Orlandi, I. Gollini, E. Pisoni, and S. Dev, Uplifting Air Quality Data Using Knowledge Graph, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
++ J. Wu, F. Orlandi, I. Gollini, E. Pisoni, and S. Dev, Uplifting Air Quality Data Using Knowledge Graph, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/wu2021uplifting-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/c43b5ae983aa4e2d8748be34439210f6">video presentation</a>]
 
-+ T. A. Fathima, V. Nedumpozhimana, J. Wu, Y. H. Lee, and S. Dev, Role of Temporal Information for Multi-step Ahead Forecasting of Solar Irradiance, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
++ T. A. Fathima, V. Nedumpozhimana, J. Wu, Y. H. Lee, and S. Dev, Role of Temporal Information for Multi-step Ahead Forecasting of Solar Irradiance, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/fathima2021role-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/3827c70daf6a43328fa601ba5fbf16eb">video presentation</a>]
 
-+ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Detecting Rainfall Events Leveraging Climate Knowledge Graphs, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
++ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Detecting Rainfall Events Leveraging Climate Knowledge Graphs, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/wu2021detecting-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/989466b089d04f20961af3d6e586bc5d">video presentation</a>]
 
-+ B. Alparslan, M. Jain, J. Wu, and S. Dev, Analyzing Air Pollutant Concentrations in New Delhi, India, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
++ B. Alparslan, M. Jain, J. Wu, and S. Dev, Analyzing Air Pollutant Concentrations in New Delhi, India, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/alparslan2021analyzing-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/54671909f07d4b7bb4b0c8984887606e">video presentation</a>]
 
 + N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Predicting Ground-based PM2.5 Concentration in Queensland, Australia, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/12/2021piers-nick-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/5a54f85cfd7c436aa09336044afdc7f9">video presentation</a>]
 
-+ M. Jain, P. Yadav, Y. H. Lee, and S. Dev, Improving Training Efficiency of LSTMs While Forecasting Precipitable Water Vapours, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
++ M. Jain, P. Yadav, Y. H. Lee, and S. Dev, Improving Training Efficiency of LSTMs While Forecasting Precipitable Water Vapours, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/jain2021improving-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/c0da02cff9c64a7eb2ded47e8c0eb9ee">video presentation</a>]
 
-+ Z. Y. Ho, M. Jain, and S. Dev, Multivariate Convolutional LSTMs for Relative Humidity Forecasting, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
++ Z. Y. Ho, M. Jain, and S. Dev, Multivariate Convolutional LSTMs for Relative Humidity Forecasting, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/ho2021multivariate-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/c047dc5393534022b4642d341e999527">video presentation</a>]
 
-+ B. P. Das, M. S. Pathan, Y. H. Lee, and S. Dev, Estimating Ground-level Nitrogen Dioxide Concentration from Satellite Data, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
++ B. P. Das, M. S. Pathan, Y. H. Lee, and S. Dev, Estimating Ground-level Nitrogen Dioxide Concentration from Satellite Data, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/das2021estimating-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/a86a1f3229e647508b45c85dc8d43fd7">video presentation</a>]
 
 + M. S. Pathan, M. Jain, Y. H. Lee, T. AlSkaif, and S. Dev, Efficient Forecasting of Precipitation Using LSTM, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
 
