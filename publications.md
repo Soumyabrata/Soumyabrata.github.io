@@ -21,7 +21,7 @@ sidebar:
 
 + G. Sivapalan, K. Nundy, S. Dev, B. Cardiff, and D. John, ANNet: A Lightweight Neural Network for ECG Anomaly Detection in IoT Edge Sensors, *IEEE Transactions on Biomedical Circuits and Systems*, 2022. [<a href="https://soumyabratadev.files.wordpress.com/2022/02/2022sivapalanannet.pdf">PDF</a>]
 
-+ B. McNicholl, Y. H. Lee, A. Campbell, and S. Dev, Evaluating the Reliability of Air Temperature from ERA5 Reanalysis Data, *IEEE Geoscience and Remote Sensing Letters*, 2021. [<a href="https://github.com/Soumyabrata/sat-land-temp">code</a>]
++ B. McNicholl, Y. H. Lee, A. Campbell, and S. Dev, Evaluating the Reliability of Air Temperature from ERA5 Reanalysis Data, *IEEE Geoscience and Remote Sensing Letters*, 2021. [<a href="https://arxiv.org/pdf/2204.10659.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/sat-land-temp">code</a>]
 
 + P. Berjon, A. Nag, and S. Dev, Analysis of French phonetic idiosyncrasies for accent recognition, *Soft Computing Letters*, 2021. [<a href="https://arxiv.org/pdf/2110.09179.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Article-Accent-Recognition">code</a>]
 
