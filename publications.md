@@ -100,7 +100,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + B. P. Das, M. S. Pathan, Y. H. Lee, and S. Dev, Estimating Ground-level Nitrogen Dioxide Concentration from Satellite Data, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/das2021estimating-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/a86a1f3229e647508b45c85dc8d43fd7">video presentation</a>]
 
-+ M. S. Pathan, M. Jain, Y. H. Lee, T. AlSkaif, and S. Dev, Efficient Forecasting of Precipitation Using LSTM, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
++ M. S. Pathan, M. Jain, Y. H. Lee, T. AlSkaif, and S. Dev, Efficient Forecasting of Precipitation Using LSTM, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/pathan2021effecient-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/e0c91e62bb4c4866b1e91118fa0b09f6">video presentation</a>]
 
 + M. S. Pathan, M. Jain, A. Nag, T. AlSkaif, and S. Dev, Analyzing Impact of Time on Early Detection of Rainfall Event, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
 
