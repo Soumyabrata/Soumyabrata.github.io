@@ -13,6 +13,8 @@ sidebar:
 ## Journals
 
 
++ M. S. Pathan, A. Nag, M. M. Pathan, and S. Dev, Analyzing the impact of feature selection on the accuracy of heart disease prediction, *Healthcare Analytics*, 2022. 
+
 + S. Batra\*, H. Wang\*, A. Nag, P. Brodeur, M. Checkley, A. Klinkert, and S. Dev, DMCNet: Diversified Model Combination Network for Understanding Engagement from Video Screengrabs, *Systems and Soft Computing*, 2022 (\* Authors contributed equally). [<a href="https://arxiv.org/pdf/2204.06454.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Video-Engagement-Analysis">code</a>]
 
 + S. Dev, H. Wang, C. S. Nwosu, N. Jain, B. Veeravalli, and D. John, A predictive analytics approach for stroke prediction using machine learning and neural networks, *Healthcare Analytics*, 2022. [<a href="https://arxiv.org/pdf/2203.00497.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/EHR-features">code</a>]
@@ -60,6 +62,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  P. Berjon\*, R. Sharma\*, A. Nag, and S. Dev, Frequency-centroid features for word recognition of non-native English speakers, *IEEE Irish Signals & Systems Conference (ISSC)*, 2022 (\* authors contributed equally). 
+
 +  M. Jain, D. Yericherla, and S. Dev, On the Relationship Between Ground- and Satellite-Based Global Horizontal Irradiance, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
 
 +  M. Jain, C. Kumari, and S. Dev, Identifying The Best Clear Sky Model For The Delhi-NCR Region, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
@@ -72,7 +76,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, A Workflow To Convert Live Atmospheric Sensor Data Into Linked Data, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
 
-+  Z. Xu, Y. Liang, S. Dev, and A. G. Campbell, An Explore of Virtual Reality for Awareness of the Climate Change Crisis: A Simulation of Sea Level Rise, *8th International Conference of the Immersive Learning Research Network (iLRN)*, 2022. 
++  Z. Xu, A. G. Campbell, S. Dev, and Y. Liang, An Explore of Virtual Reality for Awareness of the Climate Change Crisis: A Simulation of Sea Level Rise, *8th International Conference of the Immersive Learning Research Network (iLRN)*, 2022. 
 
 + A. L. Costuchen, and S. Dev, Confronting challenges of non-formal education: A shift from book-based EFL to tailor-made, experimental syllabi, *Proc. ACM 5th International Conference on Big Data and Education (ICBDE)*, Feb 2022. [<a href="https://soumyabratadev.files.wordpress.com/2022/02/2022-icbde-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/b0114b4c065f4754916fe561e1c5d878">video presentation</a>]
 
