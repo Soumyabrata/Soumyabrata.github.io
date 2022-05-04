@@ -76,7 +76,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, A Workflow To Convert Live Atmospheric Sensor Data Into Linked Data, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
 
-+  Z. Xu, A. G. Campbell, S. Dev, and Y. Liang, An Explore of Virtual Reality for Awareness of the Climate Change Crisis: A Simulation of Sea Level Rise, *8th International Conference of the Immersive Learning Research Network (iLRN)*, 2022. 
++  Z. Xu, A. G. Campbell, S. Dev, and Y. Liang, An Explore of Virtual Reality for Awareness of the Climate Change Crisis: A Simulation of Sea Level Rise, *8th International Conference of the Immersive Learning Research Network (iLRN)*, 2022. [<a href="https://arxiv.org/pdf/2205.01583.pdf">arXiv</a>]
 
 + A. L. Costuchen, and S. Dev, Confronting challenges of non-formal education: A shift from book-based EFL to tailor-made, experimental syllabi, *Proc. ACM 5th International Conference on Big Data and Education (ICBDE)*, Feb 2022. [<a href="https://soumyabratadev.files.wordpress.com/2022/02/2022-icbde-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/b0114b4c065f4754916fe561e1c5d878">video presentation</a>]
 
