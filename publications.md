@@ -12,6 +12,7 @@ sidebar:
 
 ## Journals
 
++ J. Wu, F. Orlandi, D. O'Sullivan, E. Pisoni, and S. Dev, Boosting Climate Analysis with Semantically Uplifted Knowledge Graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. 
 
 + M. S. Pathan, A. Nag, M. M. Pathan, and S. Dev, Analyzing the impact of feature selection on the accuracy of heart disease prediction, *Healthcare Analytics*, 2022. 
 
