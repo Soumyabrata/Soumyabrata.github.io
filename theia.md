@@ -179,6 +179,26 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 <div class="row">
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Ansh-Lodhi.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Ansh Lodhi</b> is a 3rd-year undergraduate majoring in Chemical Engineering at the Indian Institute of Technology Delhi, India. He is currently working on predicting PM2.5 concentration using satellite- and ground-based- pollutant data. His hobbies include sketching, reading manga, and visual novels. 
+</div>
+</div>
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Ambrish-Kashyap.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Ambrish Kashyap</b> is a third-year undergrad majoring in chemical engineering at the Indian Institute of Technology Delhi, India. His current interests lie in the areas of computer vision and deep learning. He is currently working on monitoring land boundaries and land cover near coastal regions from LANDSAT and Sentinel images. He enjoys playing badminton and binging web series.
+</div>
+</div>
+
+<br />
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Giri.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Girievasan Manivannan</b> is currently pursuing Btech in Electrical and Electronics Engineering at the National Institute of Technology Tiruchirappalli, India. His research interests include deep learning and machine learning. He is currently working on the prediction of diabetes from machine learning techniques. 
