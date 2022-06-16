@@ -76,6 +76,18 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 ### PhD Students
 
 <div class="row">
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Riju-Das.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Riju Das</b> is pursuing her PhD at the School of Computer Science, University College Dublin. Prior to this, she worked as an Assistant Professor for 3+ years in the Department of Computer Science and Engineering at Jorhat Engineering College, recruited under the TEQIP-III project, implemented by the National Project Implementation Unit (NPIU), India. She did her Masters from the National Institute of Technology Meghalaya, India in the Department of Computer Science and Engineering, and her Bachelors from the Gauhati University, India in the Department of Computer Science and Engineering. Her research interests are computational art, computer vision, and artificial intelligence. 
+</div>
+</div>
+
+
+<br />
+
 	
    	<div class="col-xs-2">
        <a href="https://github.com/futaoo">
@@ -134,41 +146,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 <div class="row">
 
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Killian-Callaghan.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Killian Callaghan</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has an interest in science and technology. He has many interests, such as video games, going to the gym and making things. He hopes to learn more about software development, virtual reality and cyber security.
-
-</div>
-</div>
-
-<br />
-	 
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Andra-Antal.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Andra Antal-Berbecaru</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. She has an interest in software development and is eager to complete her degree and contribute positively to technology. She has many interests, including sewing and roller skating, and enjoys the process of creating something from start to finish. Over the course of her degree, Andra has come to appreciate working within a team environment, and although an introvert, now prefers it over independent work.
-</div>
-</div>
-
-<br />
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/jarrett-pierse.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Jarrett Pierse</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has a keen interest in business and technology with a focus on developing knowledge in the area of machine learning and artificial intelligence. He is a black belt in Shotokan karate and enjoys all things tech.
-</div>
-</div>
-
-<br />
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/dummy-headshot.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Shane COOKE</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has an interest in software development, cyber security and web development and hopes to pursue one of these fields upon finishing his studies. He enjoys all things tech and also has a keen interest in sports.
-</div>
-</div>
+None at this moment.
 	
 </div>
 
@@ -177,6 +155,20 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 ### Interns 
 
 <div class="row">
+
+
+<div class="col-xs-2">
+<a href="https://tejasrin.gitlab.io/">
+<img class="people-pic" src="{{ "/images/theia/Tejasri-N.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Tejasri Nampally</b> is a PhD Scholar in the Department of AI at the Indian Institute of Technology Hyderabad, India. She works at the intersection of machine learning and crop phenotyping using UAV-based remote sensing. Currently, she is working as a research intern at THEIA Lab working on TROPOMI satellite data for estimating air quality using deep learning techniques. She enjoys chatting about knowledge commons, science, history, and music.
+</div>
+</div>
+
+<br />
+
+
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Ansh-Lodhi.png" | prepend:site.baseurl }}">
@@ -244,6 +236,10 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 #### Undergrads
++ Killian Callaghan, UCD FYP, AY 2021-22
++ Andra Antal-Berbecaru, UCD FYP, AY 2021-22
++ Jarrett Pierse, UCD FYP, AY 2021-22
++ Shane Cooke, UCD FYP, AY 2021-22
 + Robert Collins, UCD FYP, AY 2020-21
 + Oisin Hourican, UCD FYP, AY 2020-21
 + Aleksandar Dimitrov, UCD FYP, AY 2020-21
@@ -380,8 +376,45 @@ Undergrads:
 
 
 
-
-
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Killian-Callaghan.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Killian Callaghan</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has an interest in science and technology. He has many interests, such as video games, going to the gym and making things. He hopes to learn more about software development, virtual reality and cyber security.
+ 
+ </div>
+ </div>
+ 
+ <br />
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Andra-Antal.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Andra Antal-Berbecaru</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. She has an interest in software development and is eager to complete her degree and contribute positively to technology. She has many interests, including sewing and roller skating, and enjoys the process of creating something from start to finish. Over the course of her degree, Andra has come to appreciate working within a team environment, and although an introvert, now prefers it over independent work.
+ </div>
+ </div>
+ 
+ <br />
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/jarrett-pierse.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Jarrett Pierse</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has a keen interest in business and technology with a focus on developing knowledge in the area of machine learning and artificial intelligence. He is a black belt in Shotokan karate and enjoys all things tech.
+ </div>
+ </div>
+ 
+ <br />
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/dummy-headshot.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Shane COOKE</b> is a fourth-year BSc Computer Science student, studying at University College Dublin. He has an interest in software development, cyber security and web development and hopes to pursue one of these fields upon finishing his studies. He enjoys all things tech and also has a keen interest in sports.
+ </div>
+ </div>
+ 
+ 
+ 
+ <br />
 	
 	
 	<div class="col-xs-2">
