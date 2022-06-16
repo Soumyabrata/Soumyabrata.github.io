@@ -79,6 +79,17 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Prasanjit Dey</b> is pursuing his PhD at the School of Computer Science, Technological University Dublin, under the supervision of Dr Bianca Schoen-Phelan and Dr Soumyabrata Dev. His research project title is on monitoring and short-term forecasting of atmospheric air pollutants using deep neural networks. He completed his MTech degree from the Maulana Abul Kalam Azad University of Technology, West Bengal, India. After that, he worked as a Project Associate at CSIR-Central Institute of Mining and Fuel Research, India. His research interest includes predicting time-series data using deep learning and machine learning algorithms.
+</div>
+</div>
+
+
+<br />
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Riju-Das.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Riju Das</b> is pursuing her PhD at the School of Computer Science, University College Dublin. Prior to this, she worked as an Assistant Professor for 3+ years in the Department of Computer Science and Engineering at Jorhat Engineering College, recruited under the TEQIP-III project, implemented by the National Project Implementation Unit (NPIU), India. She did her Masters from the National Institute of Technology Meghalaya, India in the Department of Computer Science and Engineering, and her Bachelors from the Gauhati University, India in the Department of Computer Science and Engineering. Her research interests are computational art, computer vision, and artificial intelligence. 
