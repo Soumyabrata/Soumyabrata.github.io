@@ -67,7 +67,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  P. Berjon\*, R. Sharma\*, A. Nag, and S. Dev, Frequency-centroid features for word recognition of non-native English speakers, *IEEE Irish Signals & Systems Conference (ISSC)*, 2022 (\* authors contributed equally). [<a href="https://arxiv.org/pdf/2206.07176.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Frequency-centroid-features-for-word-recognition-of-non-native-English-speakers">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/06/issc2022_slides.pdf">slides</a>]
 
-+  M. Jain, D. Yericherla, and S. Dev, On the Relationship Between Ground- and Satellite-Based Global Horizontal Irradiance, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://arxiv.org/pdf/2206.07404.pdf">arXiv</a>]
++  M. Jain, D. Yericherla, and S. Dev, On the Relationship Between Ground- and Satellite-Based Global Horizontal Irradiance, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://arxiv.org/pdf/2206.07404.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/SolarSatGround">code</a>] [<a href="https://drive.google.com/drive/folders/1S458Oo6AbXJhGyD2fKef84XYvW6afcOM?usp=sharing">dataset</a>]
 
 +  M. Jain, C. Kumari, and S. Dev, Identifying The Best Clear Sky Model For The Delhi-NCR Region, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
 
