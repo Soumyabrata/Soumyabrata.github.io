@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ M. Jain\*, M. Jain\*, T. AlSkaif, and S. Dev, Which internal validation indices to use while clustering electric load demand profiles?, *Sustainable Energy, Grids and Networks*, 2022 (\* Authors contributed equally).
+
 + H. Wang, Y. Li, S. Xi, S. Wang, M. S. Pathan, and S. Dev, AMDCNet: An Attentional Multi-Directional Convolutional Network for Stereo Matching, *Displays*, 2022.
 
 + J. Wu, F. Orlandi, D. O'Sullivan, E. Pisoni, and S. Dev, Boosting Climate Analysis with Semantically Uplifted Knowledge Graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. 
