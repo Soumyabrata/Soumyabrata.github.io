@@ -69,17 +69,17 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  P. Berjon\*, R. Sharma\*, A. Nag, and S. Dev, Frequency-centroid features for word recognition of non-native English speakers, *IEEE Irish Signals & Systems Conference (ISSC)*, 2022 (\* authors contributed equally). [<a href="https://arxiv.org/pdf/2206.07176.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Frequency-centroid-features-for-word-recognition-of-non-native-English-speakers">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/06/issc2022_slides.pdf">slides</a>]
 
-+  M. Jain, D. Yericherla, and S. Dev, On the Relationship Between Ground- and Satellite-Based Global Horizontal Irradiance, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://arxiv.org/pdf/2206.07404.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/SolarSatGround">code</a>] [<a href="https://drive.google.com/drive/folders/1S458Oo6AbXJhGyD2fKef84XYvW6afcOM?usp=sharing">dataset</a>]
++  M. Jain, D. Yericherla, and S. Dev, On the Relationship Between Ground- and Satellite-Based Global Horizontal Irradiance, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://arxiv.org/pdf/2206.07404.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/SolarSatGround">code</a>] [<a href="https://drive.google.com/drive/folders/1S458Oo6AbXJhGyD2fKef84XYvW6afcOM?usp=sharing">dataset</a>] [<a href="https://media.heanet.ie/page/000a1238453f44ba9b210e7930a5fc46">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/07/jain2022relationship-slides.pdf">slides</a>]
 
-+  M. Jain, C. Kumari, and S. Dev, Identifying The Best Clear Sky Model For The Delhi-NCR Region, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
++  M. Jain, C. Kumari, and S. Dev, Identifying The Best Clear Sky Model For The Delhi-NCR Region, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://media.heanet.ie/page/76e8819d61774558bfc7141ed66da4a0">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/07/jain2022identifying-slides.pdf">slides</a>]
 
-+  M. S. Pathan, A. Nag, S. Dev, Efficient Rainfall Prediction Using A Dimensionality Reduction Method, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
++  M. S. Pathan, A. Nag, S. Dev, Efficient Rainfall Prediction Using A Dimensionality Reduction Method, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://media.heanet.ie/page/4e67f825597142b89f139ae0e3d3c102">video</a>]
 
-+  J. Wu, F. Orlandi, M. S. Pathan, D. O'Sullivan, and S. Dev, Augmenting Weather Sensor Data With Remote Knowledge Graphs, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
++  J. Wu, F. Orlandi, M. S. Pathan, D. O'Sullivan, and S. Dev, Augmenting Weather Sensor Data With Remote Knowledge Graphs, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://media.heanet.ie/page/ebd85623401c4f2f92229d7d3e626efd">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/07/wu2022augmenting-slides.pdf">slides</a>]
 
-+  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Publishing Climate Data As Linked Data Via Virtual Knowledge Graphs, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
++  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Publishing Climate Data As Linked Data Via Virtual Knowledge Graphs, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://media.heanet.ie/page/29f72c8bced54fe38a8d9ad9ceb77fc7">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/07/wu2022publishing-slides.pdf">slides</a>]
 
-+  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, A Workflow To Convert Live Atmospheric Sensor Data Into Linked Data, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. 
++  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, A Workflow To Convert Live Atmospheric Sensor Data Into Linked Data, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://media.heanet.ie/page/56eb4e77218e4093a8a38dc592f7bb52">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/07/wu2022workflow-slides.pdf">slides</a>]
 
 +  Z. Xu, A. G. Campbell, S. Dev, and Y. Liang, An Explore of Virtual Reality for Awareness of the Climate Change Crisis: A Simulation of Sea Level Rise, *8th International Conference of the Immersive Learning Research Network (iLRN)*, 2022. [<a href="https://arxiv.org/pdf/2205.01583.pdf">arXiv</a>]
 
