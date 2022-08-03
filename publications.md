@@ -73,7 +73,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  M. Jain, C. Kumari, and S. Dev, Identifying The Best Clear Sky Model For The Delhi-NCR Region, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://media.heanet.ie/page/76e8819d61774558bfc7141ed66da4a0">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/07/jain2022identifying-slides.pdf">slides</a>]
 
-+  M. S. Pathan, A. Nag, S. Dev, Efficient Rainfall Prediction Using A Dimensionality Reduction Method, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://media.heanet.ie/page/4e67f825597142b89f139ae0e3d3c102">video</a>]
++  M. S. Pathan, A. Nag, S. Dev, Efficient Rainfall Prediction Using A Dimensionality Reduction Method, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://media.heanet.ie/page/4e67f825597142b89f139ae0e3d3c102">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/08/pathan2022efficient-slides.pdf">slides</a>]
 
 +  J. Wu, F. Orlandi, M. S. Pathan, D. O'Sullivan, and S. Dev, Augmenting Weather Sensor Data With Remote Knowledge Graphs, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://media.heanet.ie/page/ebd85623401c4f2f92229d7d3e626efd">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/07/wu2022augmenting-slides.pdf">slides</a>]
 
