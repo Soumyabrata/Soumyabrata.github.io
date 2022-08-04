@@ -79,6 +79,18 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Sukriti-Dhang.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Sukriti Dhang</b> is a PhD student under the supervision of Dr Soumyabrata Dev and Dr Mimi Zhang (Trinity College Dublin). Prior to this, she worked as a project employee at Indian Institute of Technology (IIT) Kharagpur to develop an online laboratory environment for an undergraduate programme in Electronics and Communication Engineering. She completed her M.S. from the Advanced Technology Development Centre, IIT Kharagpur, and she worked to introduce hybrid system modeling of digital circuits for parameter optimization. She completed her B.Tech. in Electronics and Communication Engineering from the Maulana Abul Kalam Azad University of Technology, West Bengal, India. Her research interest includes computer vision and deep learning.
+</div>
+</div>
+
+
+<br />
+
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Prasanjit Dey</b> is pursuing his PhD at the School of Computer Science, Technological University Dublin, under the supervision of Dr Bianca Schoen-Phelan and Dr Soumyabrata Dev. His research project title is on monitoring and short-term forecasting of atmospheric air pollutants using deep neural networks. He completed his MTech degree from the Maulana Abul Kalam Azad University of Technology, West Bengal, India. After that, he worked as a Project Associate at CSIR-Central Institute of Mining and Fuel Research, India. His research interest includes predicting time-series data using deep learning and machine learning algorithms.
@@ -166,6 +178,17 @@ None at this moment.
 ### Interns 
 
 <div class="row">
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Vinat-Goyal.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Vinat Goyal</b> is an undergraduate student pursuing a B. Tech in Computer Science and Engineering at the Indian Institute of Information Technology Pune, India. His key area of interest lies in deep Learning, and computer vision. Currently, he is working with THEIA Lab on cloud/sky segmentation using high dynamic range images. Outside work, he likes to go on treks and watches cricket and football.
+</div>
+</div>
+
+<br />
+
 
 
 <div class="col-xs-2">
