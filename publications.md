@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ N. Jain, M. Jain, and S. Dev, Image Deblurring Techniques for Ground-Based Sky Cameras, *Remote Sensing Applications: Society and Environment*, 2022.
+
 + M. Jain\*, M. Jain\*, T. AlSkaif, and S. Dev, Which internal validation indices to use while clustering electric load demand profiles?, *Sustainable Energy, Grids and Networks*, 2022 (\* Authors contributed equally).
 
 + H. Wang, Y. Li, S. Xi, S. Wang, M. S. Pathan, and S. Dev, AMDCNet: An Attentional Multi-Directional Convolutional Network for Stereo Matching, *Displays*, 2022.
