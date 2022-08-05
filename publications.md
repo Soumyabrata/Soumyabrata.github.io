@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ J. Wu, F. Orlandi, T. AlSkaif, D. O'Sullivan, and S. Dev, A semantic web approach to uplift decentralized household energy data, *Sustainable Energy, Grids and Networks*, 2022.
+
 + N. Jain, M. Jain, and S. Dev, Image Deblurring Techniques for Ground-Based Sky Cameras, *Remote Sensing Applications: Society and Environment*, 2022.
 
 + M. Jain\*, M. Jain\*, T. AlSkaif, and S. Dev, Which internal validation indices to use while clustering electric load demand profiles?, *Sustainable Energy, Grids and Networks*, 2022 (\* Authors contributed equally).
