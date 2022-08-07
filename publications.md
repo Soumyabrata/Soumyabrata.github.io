@@ -12,6 +12,10 @@ sidebar:
 
 ## Journals
 
++ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Link Climate: An Interoperable Knowledge Graph Platform for Climate Data, *Computers and Geosciences*, 2022.
+
++ M. Jain\*, V. S. Sengar\*, I. Gollini, M. Bertolotto, G. McArdle, and S. Dev, LAMSkyCam: A Low-cost and Miniature Ground-based Sky Camera, *HardwareX*, 2022 (\* Authors contributed equally).
+
 + J. Wu, F. Orlandi, T. AlSkaif, D. O'Sullivan, and S. Dev, A semantic web approach to uplift decentralized household energy data, *Sustainable Energy, Grids and Networks*, 2022.
 
 + N. Jain, M. Jain, and S. Dev, Image Deblurring Techniques for Ground-Based Sky Cameras, *Remote Sensing Applications: Society and Environment*, 2022.
