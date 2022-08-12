@@ -75,6 +75,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ M. Jain, T. AlSkaif, and S. Dev, Are deep learning models more effective against traditional models for load demand forecasting?, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2022.
+
 +  P. Berjon\*, R. Sharma\*, A. Nag, and S. Dev, Frequency-centroid features for word recognition of non-native English speakers, *IEEE Irish Signals & Systems Conference (ISSC)*, 2022 (\* authors contributed equally). [<a href="https://arxiv.org/pdf/2206.07176.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Frequency-centroid-features-for-word-recognition-of-non-native-English-speakers">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/06/issc2022_slides.pdf">slides</a>]
 
 +  M. Jain, D. Yericherla, and S. Dev, On the Relationship Between Ground- and Satellite-Based Global Horizontal Irradiance, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2022. [<a href="https://arxiv.org/pdf/2206.07404.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/SolarSatGround">code</a>] [<a href="https://drive.google.com/drive/folders/1S458Oo6AbXJhGyD2fKef84XYvW6afcOM?usp=sharing">dataset</a>] [<a href="https://media.heanet.ie/page/000a1238453f44ba9b210e7930a5fc46">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/07/jain2022relationship-slides.pdf">slides</a>]
