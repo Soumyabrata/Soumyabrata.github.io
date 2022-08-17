@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ J. Walsh, A. Othmani, M. Jain, and S. Dev, Using U-Net Network for Efficient Brain Tumor Segmentation in MRI Images, *Healthcare Analytics*, 2022. 
+
 + J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Link Climate: An Interoperable Knowledge Graph Platform for Climate Data, *Computers and Geosciences*, 2022.
 
 + M. Jain\*, V. S. Sengar\*, I. Gollini, M. Bertolotto, G. McArdle, and S. Dev, LAMSkyCam: A Low-cost and Miniature Ground-based Sky Camera, *HardwareX*, 2022 (\* Authors contributed equally).
@@ -74,6 +76,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
  
 ## Conferences
+
++ H. Wang, B. Zhu, Y. Li, K. Gong, Z. Wen, S. Wang, and S. Dev, SYGNET: A SVD-YOLO Based Ghostnet For Real-time Driving Scene Parsing, *IEEE International Conference on Image Processing (ICIP)*, 2022. 
 
 + M. Jain, T. AlSkaif, and S. Dev, Are deep learning models more effective against traditional models for load demand forecasting?, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2022.
 
