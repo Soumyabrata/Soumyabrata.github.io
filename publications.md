@@ -113,7 +113,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Detecting Rainfall Events Leveraging Climate Knowledge Graphs, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/wu2021detecting-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/989466b089d04f20961af3d6e586bc5d">video presentation</a>]
 
-+ B. Alparslan, M. Jain, J. Wu, and S. Dev, Analyzing Air Pollutant Concentrations in New Delhi, India, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/alparslan2021analyzing-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/54671909f07d4b7bb4b0c8984887606e">video presentation</a>]
++ B. Alparslan, M. Jain, J. Wu, and S. Dev, Analyzing Air Pollutant Concentrations in New Delhi, India, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://arxiv.org/pdf/2208.09410.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/air-pollutant-analysis-delhi">code</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/04/alparslan2021analyzing-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/54671909f07d4b7bb4b0c8984887606e">video presentation</a>]
 
 + N. Danesi, M. Jain, Y. H. Lee, and S. Dev, Predicting Ground-based PM2.5 Concentration in Queensland, Australia, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/12/2021piers-nick-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/5a54f85cfd7c436aa09336044afdc7f9">video presentation</a>]
 
