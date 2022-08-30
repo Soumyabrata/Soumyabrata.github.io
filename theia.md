@@ -181,6 +181,16 @@ None at this moment.
 
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Akhil-Chenna.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Akhil Chenna</b> is a 4th year undergraduate with a major in Electrical and Electronics Engineering and a minor in Computer Science and Engineering at the National Institute of Technology Tiruchirappalli, India. His research interests lies in the domains of machine learning, deep learning, and computer vision. He is currently working on benchmarking current machine learning models on engagement detection datasets. In his free time, he enjoys swimming, listening to music, and watching anime.
+</div>
+</div>
+
+<br />
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Vinat-Goyal.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Vinat Goyal</b> is an undergraduate student pursuing a B. Tech in Computer Science and Engineering at the Indian Institute of Information Technology Pune, India. His key area of interest lies in deep Learning, and computer vision. Currently, he is working with THEIA Lab on cloud/sky segmentation using high dynamic range images. Outside work, he likes to go on treks and watches cricket and football.
