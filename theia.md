@@ -79,6 +79,17 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Conor-Sullivan.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Conor O'Sullivan</b> is a PhD student at UCD under the supervision of Dr Soumyabrata Dev. His research interests include deep learning and XAI - with a focus on applying these methods to monitor Ireland's coastline. Prior to his PhD, he worked in the banking industry where he built models used to automate lending on a large scale. In his spare time, Conor enjoys surfing and rock climbing. He is also an avid blogger on [medium](https://conorosullyds.medium.com/). 
+</div>
+</div>
+
+
+<br />
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Sukriti-Dhang.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Sukriti Dhang</b> is a PhD student under the supervision of Dr Soumyabrata Dev and Dr Mimi Zhang (Trinity College Dublin). Prior to this, she worked as a project employee at Indian Institute of Technology (IIT) Kharagpur to develop an online laboratory environment for an undergraduate programme in Electronics and Communication Engineering. She completed her M.S. from the Advanced Technology Development Centre, IIT Kharagpur, and she worked to introduce hybrid system modeling of digital circuits for parameter optimization. She completed her B.Tech. in Electronics and Communication Engineering from the Maulana Abul Kalam Azad University of Technology, West Bengal, India. Her research interest includes computer vision and deep learning.

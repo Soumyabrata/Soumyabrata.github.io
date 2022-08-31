@@ -9,7 +9,17 @@ sidebar:
   nav: sidebar-news
 ---
 
+## 2022
++ (Mar 2022): We have two PhD funded opportunities at our group with a start date of August 2022. Please see [<a href="https://d-real.ie/2022-d-real-phd-topics/#2022UCD06">this</a>] and [<a href="https://d-real.ie/2022-d-real-phd-topics/#2022TUD06">this</a>] link for further details. Apply!
++ (Feb 2022): Welcome to Girievasan Manivannan from National Institute of Technology Tiruchirappalli, India to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as a research intern.
+
 ## 2021
++ (Dec 2021): Our group publishes seven papers [<a href="https://arxiv.org/pdf/2110.09761.pdf">1</a>] [<a href="https://arxiv.org/pdf/2110.09764.pdf">2</a>] [<a href="https://arxiv.org/pdf/2110.09797.pdf">3</a>] [<a href="https://arxiv.org/pdf/2110.11039.pdf">4</a>] [<a href="https://arxiv.org/pdf/2110.13812.pdf">5</a>] [<a href="https://arxiv.org/pdf/2110.11059.pdf">6</a>] [<a href="https://arxiv.org/pdf/2111.05094.pdf">7</a>] to <a href="https://igarss2021.com/">2021 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (APS/URSI)</a>.
++ (Oct 2021): Welcome Deepak Joel Yericherla from International Institute of Information Technology (IIIT) Naya Raipur, India, Nitin Sai Bommi from University of Hyderabad, India, and Prathistith Raj Medi from International Institute of Information Technology (IIIT), Naya Raipur, India to our <a href="https://soumyabrata.dev/theia/">group</a>. They join us as research interns. 
++ (Sep 2021): Welcome Shane Cooke, Killian Callaghan, Andra Antal-Berbecaru, and Jarrett Pierse to our <a href="https://soumyabrata.dev/theia/">group</a>. They join us for a year as part of their BSc final year projects.  
++ (Sep 2021): Welcome Alexia Larchen Costuchen to our <a href="https://soumyabrata.dev/theia/">group</a>. She joins us as a visiting researcher, as a part of Erasmus Internship programme to contribute to the development of gamified survey software. 
++ (Sep 2021): Our group publishes two papers [<a href="https://arxiv.org/pdf/2108.01504.pdf">1</a>] [<a href="https://arxiv.org/pdf/2108.01433.pdf">2</a>] to <a href="https://sites.uwasa.fi/sest2021/">2021 4th IEEE International Conference on Smart Energy Systems and Technologies (SEST)</a>.
++ (July 2021): Our group publishes four papers [<a href="https://arxiv.org/pdf/2107.13514.pdf">1</a>] [<a href="https://arxiv.org/pdf/2106.03064.pdf">2</a>] [<a href="https://arxiv.org/pdf/2106.03073.pdf">3</a>] [<a href="https://arxiv.org/pdf/2106.03085.pdf">4</a>] to <a href="https://igarss2021.com/">2021 41st annual IGARSS symposium</a>.
 + Welcome Muhammad Salman Pathan to our <a href="https://soumyabrata.dev/theia/">group</a>. He joins us as a Marie Skłodowska-Curie ELITE-S Research fellow to investigate the onset of critical events in a machine-learning framework.
 + Welcome to our summer intern for this academic year: Ho Zheng Yi. He is working on developing forecasting techniques for atmospheric parameters. 
 
