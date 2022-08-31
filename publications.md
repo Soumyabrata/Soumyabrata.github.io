@@ -28,7 +28,7 @@ sidebar:
 
 + J. Wu, F. Orlandi, D. O'Sullivan, E. Pisoni, and S. Dev, Boosting Climate Analysis with Semantically Uplifted Knowledge Graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. 
 
-+ M. S. Pathan, A. Nag, M. M. Pathan, and S. Dev, Analyzing the impact of feature selection on the accuracy of heart disease prediction, *Healthcare Analytics*, 2022. [<a href="https://arxiv.org/pdf/2206.03239.pdf">arXiv</a>]
++ M. S. Pathan, A. Nag, M. M. Pathan, and S. Dev, Analyzing the impact of feature selection on the accuracy of heart disease prediction, *Healthcare Analytics*, 2022. [<a href="https://arxiv.org/pdf/2206.03239.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/analyzing-the-impact-of-feature-selection-on-heart-disease-prediction">code</a>]
 
 + S. Batra\*, H. Wang\*, A. Nag, P. Brodeur, M. Checkley, A. Klinkert, and S. Dev, DMCNet: Diversified Model Combination Network for Understanding Engagement from Video Screengrabs, *Systems and Soft Computing*, 2022 (\* Authors contributed equally). [<a href="https://arxiv.org/pdf/2204.06454.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/Video-Engagement-Analysis">code</a>]
 
