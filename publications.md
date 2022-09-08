@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ S. Kumari, A. C. Yadav, M. Saharia, and S. Dev, Spatio-temporal analysis of air quality and its relationship with COVID-19 lockdown over Dublin, *Remote Sensing Applications: Society and Environment*, 2022.
+
 + J. Walsh, A. Othmani, M. Jain, and S. Dev, Using U-Net Network for Efficient Brain Tumor Segmentation in MRI Images, *Healthcare Analytics*, 2022. 
 
 + J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Link Climate: An Interoperable Knowledge Graph Platform for Climate Data, *Computers and Geosciences*, 2022.
@@ -77,7 +79,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ H. Wang, B. Zhu, Y. Li, K. Gong, Z. Wen, S. Wang, and S. Dev, SYGNET: A SVD-YOLO Based Ghostnet For Real-time Driving Scene Parsing, *IEEE International Conference on Image Processing (ICIP)*, 2022. 
++ H. Wang, B. Zhu, Y. Li, K. Gong, Z. Wen, S. Wang, and S. Dev, SYGNET: A SVD-YOLO Based Ghostnet For Real-time Driving Scene Parsing, *IEEE International Conference on Image Processing (ICIP)*, 2022. [<a href="https://media.heanet.ie/page/c92a3d5cb8e74780badbf06f73e5e601">video</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/09/icip2022-slides.pdf">slides</a>]
 
 + M. Jain, T. AlSkaif, and S. Dev, Are deep learning models more effective against traditional models for load demand forecasting?, *IEEE International Conference on Smart Energy Systems and Technologies (SEST)*, 2022.
 
