@@ -81,7 +81,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Conor-Sullivan.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Conor O'Sullivan</b> is a PhD student at UCD under the supervision of Dr Soumyabrata Dev. His research interests include deep learning and XAI - with a focus on applying these methods to monitor Ireland's coastline. Prior to his PhD, he worked in the banking industry where he built models used to automate lending on a large scale. In his spare time, Conor enjoys surfing and rock climbing. He is also an avid blogger on [medium](https://conorosullyds.medium.com/). 
+<b>Conor O'Sullivan</b> is a PhD student at UCD under the supervision of Dr Soumyabrata Dev. His research interests include deep learning and XAI - with a focus on applying these methods to monitor Ireland's coastline. Prior to his PhD, he worked in the banking industry where he built models used to automate lending on a large scale. In his spare time, Conor enjoys surfing and rock climbing. He is also an avid blogger on <a href="https://conorosullyds.medium.com/">medium</a>.
 </div>
 </div>
 

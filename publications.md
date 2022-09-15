@@ -18,7 +18,7 @@ sidebar:
 
 + J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Link Climate: An Interoperable Knowledge Graph Platform for Climate Data, *Computers and Geosciences*, 2022.
 
-+ M. Jain\*, V. S. Sengar\*, I. Gollini, M. Bertolotto, G. McArdle, and S. Dev, LAMSkyCam: A Low-cost and Miniature Ground-based Sky Camera, *HardwareX*, 2022 (\* Authors contributed equally).
++ M. Jain\*, V. S. Sengar\*, I. Gollini, M. Bertolotto, G. McArdle, and S. Dev, LAMSkyCam: A Low-cost and Miniature Ground-based Sky Camera, *HardwareX*, 2022 (\* Authors contributed equally). [<a href="https://arxiv.org/pdf/2209.06051.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/LAMSkyCam">code</a>]
 
 + J. Wu, F. Orlandi, T. AlSkaif, D. O'Sullivan, and S. Dev, A semantic web approach to uplift decentralized household energy data, *Sustainable Energy, Grids and Networks*, 2022. [<a href="https://arxiv.org/pdf/2208.10265.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/semantic-energy">code</a>]
 
