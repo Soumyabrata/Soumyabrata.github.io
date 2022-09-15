@@ -10,6 +10,7 @@ sidebar:
 ---
 
 ### Organizing Committee
++ 2022: Guest editor, Special Issue on Selected articles from the 5th International Conference on Smart Energy Systems and Technologies (SEST 2022) for Sustainable Energy, Grids and Networks.
 + 2022: Session Chair, Session: TU7.V8: Data Mining and Management Methods, <a href="https://www.igarss2022.org/">IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</a>, 2022, Kuala Lumpur, Malaysia. 
 + 2022: Publication Chair, <a href="https://www.sest2022.org/#committees.html">5th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Eindhoven, the Netherlands.
 + 2021: Publication Chair, <a href="https://sites.univaasa.fi/sest2021/committees/">4th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Vaasa, Finland.
