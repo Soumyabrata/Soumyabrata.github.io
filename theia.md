@@ -101,6 +101,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 
+<!---
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
 <div class="people-name">
@@ -110,6 +111,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 <br />
+-->
 
 
 <div class="col-xs-2">
