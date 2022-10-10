@@ -13,6 +13,7 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 #### Recent News
 
++ (September 2022): Welcome to Atseosi Idogho, Nan Wu, Loghlen Rickard, Ammar Abdalla, and Tom Higgins who joins us for their final year projects in AY 2022/23.
 + (August 2022): Welcome to Riju Das, <!---Prasanjit Dey,--> Sukriti Dhang, and Conor O'Sullivan to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as PhD students starting from Fall 2022 sesssion. Best wishes to all of you. 
 + (June 2022): Welcome to Ambrish Kashyap, Ansh Lodhi, Tejasri Nampally, Vinat Goyal, and Akhil Chenna to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as research interns over the summer.
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]

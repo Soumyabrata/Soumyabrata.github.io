@@ -182,7 +182,26 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 <div class="row">
 
-None at this moment.
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Atseosi-Idogho.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Atseosi Idogho</b> is a fourth year undergraduate student, currently pursuing a degree in computer science with data science. Her research interests lie in machine learning, and artificial intelligence. Outside of work, she enjoys crocheting and reading.
+</div>
+</div>
+
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Nan-Wu.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Nan Wu</b> is a fourth-year undergraduate student at University College Dublin, studying Computer Science. He is doing his final year project at THEIA Lab, working on automated image captioning of facial emotion datasets. He has worked as a Software Engineer Intern at Bank of America in Dublin.
+</div>
+</div>
+
+
+
 	
 </div>
 
