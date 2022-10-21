@@ -79,6 +79,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ M. Jain, M. Jain, T. AlSkaif, and S. Dev, Analyzing Micro-Level Rebound Effects of Energy Efficient Technologies, *NeurIPS 2022 Workshop on Tackling Climate Change with Machine Learning*, 2022.
+
 + Y. Liang, Z. Xu, S. Rasti, S. Dev, and A. G. Campbell, On the Use of a Semantic Segmentation Micro-Service in AR Devices for UI Placement, *IEEE CTSoc International Conference on Games, Entertainment & Media (GEM)*, 2022. 
 
 + A. Othmani, T. Bizet, T. Pellerin, B. Hamdi, M. Bock, and S. Dev, Significant CC400 functional brain parcellations based LeNet5 Convolutional Neural Network for Autism Spectrum Disorder detection, *5th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R)*, 2022. [<a href="https://soumyabratadev.files.wordpress.com/2022/09/othmani2022significant.pdf">PDF</a>]
