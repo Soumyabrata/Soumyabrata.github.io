@@ -201,6 +201,17 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 </div>
 
 
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Ammar-Abdalla.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Ammar Abdalla</b> is a 4th-year undergraduate in Computer & Data science at UCD, Dublin, Ireland. His main interests are machine learning and time series analysis, and he is currently working on short-term forecasting for solar irradiance. His hobbies include Brazilian Jiu-Jitsu and wrestling.
+</div>
+</div>
+
+
 
 	
 </div>
