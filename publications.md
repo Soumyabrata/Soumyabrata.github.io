@@ -16,7 +16,7 @@ sidebar:
 
 + J. Walsh, A. Othmani, M. Jain, and S. Dev, Using U-Net Network for Efficient Brain Tumor Segmentation in MRI Images, *Healthcare Analytics*, 2022. 
 
-+ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Link Climate: An Interoperable Knowledge Graph Platform for Climate Data, *Computers and Geosciences*, 2022.
++ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Link Climate: An Interoperable Knowledge Graph Platform for Climate Data, *Computers and Geosciences*, 2022. [<a href="https://arxiv.org/pdf/2210.16050.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/LinkClimate">code</a>]
 
 + M. Jain\*, V. S. Sengar\*, I. Gollini, M. Bertolotto, G. McArdle, and S. Dev, LAMSkyCam: A Low-cost and Miniature Ground-based Sky Camera, *HardwareX*, 2022 (\* Authors contributed equally). [<a href="https://arxiv.org/pdf/2209.06051.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/LAMSkyCam">code</a>]
 

@@ -183,6 +183,17 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 <div class="row">
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Tom-Higgins.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Tom Higgins</b> is a fourth-year student studying for a computer science degree. He is currently doing his final year project on the representation of climate data in knowledge graphs. He plays rugby outside of college and is currently trying to learn about music production.
+</div>
+</div>
+
+
+<br />
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Atseosi-Idogho.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Atseosi Idogho</b> is a fourth year undergraduate student, currently pursuing a degree in computer science with data science. Her research interests lie in machine learning, and artificial intelligence. Outside of work, she enjoys crocheting and reading.
