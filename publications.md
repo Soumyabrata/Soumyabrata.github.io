@@ -79,6 +79,10 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ S. Cooke, D. Graux, and S. Dev, Multi Platform-based Hate Speech Detection, *International Conference on Agents and Artificial Intelligence (ICAART)*, 2023.
+
++ A. Patil\*, N. Jain\*, R. Agrahari, M. Hossari, F. Orlandi, and S. Dev, A Data-Driven Analysis of Formula 1 Car Races Outcome, *Proc. 30th Irish Conference on Artificial Intelligence and Cognitive Science (AICS)*, 2022 (\* Authors contributed equally).
+
 + M. Jain, M. Jain, T. AlSkaif, and S. Dev, Analyzing Micro-Level Rebound Effects of Energy Efficient Technologies, *NeurIPS 2022 Workshop on Tackling Climate Change with Machine Learning*, 2022.
 
 + Y. Liang, Z. Xu, S. Rasti, S. Dev, and A. G. Campbell, On the Use of a Semantic Segmentation Micro-Service in AR Devices for UI Placement, *IEEE CTSoc International Conference on Games, Entertainment & Media (GEM)*, 2022. 
