@@ -79,6 +79,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ M. Premawardhana, M. A. Azeem, S. S. Sengar, and S. Dev, On the Impact of Temperature for Precipitation Analysis, *11th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA)*, 2023.
+
 + S. Cooke, D. Graux, and S. Dev, Multi Platform-based Hate Speech Detection, *International Conference on Agents and Artificial Intelligence (ICAART)*, 2023.
 
 + A. Patil\*, N. Jain\*, R. Agrahari, M. Hossari, F. Orlandi, and S. Dev, A Data-Driven Analysis of Formula 1 Car Races Outcome, *Proc. 30th Irish Conference on Artificial Intelligence and Cognitive Science (AICS)*, 2022 (\* Authors contributed equally).
