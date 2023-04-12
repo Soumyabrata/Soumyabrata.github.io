@@ -60,22 +60,24 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 ### Postdoc Fellows
 
-<div class="row">
-  <div class="col-xs-2">
-    <a href="https://scholar.google.com/citations?user=ZTyANRQAAAAJ&hl=en">
-      <img class="people-pic" src="{{ "/images/theia/Salman-Khan.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <b>Muhammad Salman PATHAN</b> is a Marie Skłodowska-Curie ELITE-S Research fellow at ADAPT centre. He has completed his PhD in Software Engineering from Beijing University of Technology where he was awarded 4 years fully funded Chinese Scholarship Council (CSC) Scholarship. His research interests include machine learning, information security, and health care data.
-    </div>
-  </div>
-</div>
+None at this moment.
 
 
 
 ### PhD Students
 
 <div class="row">
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Mena.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Menatallah Abdel Azeem</b> is a PhD student at University College Dublin researching in the area of climate analytics. She is also an Azure Data & AI Cloud Solution Architect at Microsoft, covering multiple regions. She has 15+ years of experience in data-related roles in various sectors such as telecom, banking, and government. Menatallah holds a Master of Software Engineering from Nile University and a Master of Business Administration from ESLSCA University. Her research interests include big data, machine learning, and cloud computing.
+</div>
+</div>
+
+
+<br />
 
 
 <div class="col-xs-2">
@@ -101,7 +103,6 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 
-<!---
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
 <div class="people-name">
@@ -111,7 +112,6 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 
 
 <br />
--->
 
 
 <div class="col-xs-2">
@@ -305,14 +305,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 </div>
 </div>
 
-<br />
 
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Navya-Jain.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Navya JAIN</b> is a first-year undergraduate student at Ram Lal Anand College, University of Delhi. She is perusing her major in statistics. She is currently a student intern at the THEIA Lab. Her research interests are computer vision and deep learning. She has been working on research projects on cloud classification and image deblurring techniques. 
-</div>
-</div>
 
 
 </div>
@@ -320,8 +313,11 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
  
 ### Alumni
 
+#### Postdoctoral researchers
++ <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">Muhammad Salman PATHAN</a>, Postdoc, AY 2021-23 (Next stop: Maynooth University, Ireland)
+
 #### PhD
-+ Alexia Larchen COSTUCHEN, Erasmus PhD Visitor, AY 2021-22
++ <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop: Universitat Politècnica de València (UPV), Spain)
 
 
 #### Masters
@@ -370,6 +366,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 + Guan Zhao Ting, NTU FYP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 
 #### Interns
++ Navya Jain (Ram Lal Anand College, University of Delhi), UCD Intern, AY 2022--2023
 + Nitin Sai BOMMI (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
 + Prathistith Raj MEDI (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
 + Bibhash Pran DAS (National Institute of Technology Rourkela, India), UCD Intern, AY 2021--2022
@@ -399,7 +396,18 @@ All great research starts with a story. Our group's name THEIA lab is derived fr
 <!---
 Previous team members detailed biography
 
+Postdoc:
 
+ <div class="row">
+ <div class="col-xs-2">
+ <a href="https://scholar.google.com/citations?user=ZTyANRQAAAAJ&hl=en">
+ <img class="people-pic" src="{{ "/images/theia/Salman-Khan.png" | prepend:site.baseurl }}">
+ </a>
+ <div class="people-name">
+ <b>Muhammad Salman PATHAN</b> is a Marie Skłodowska-Curie ELITE-S Research fellow at ADAPT centre. He has completed his PhD in Software Engineering from Beijing University of Technology where he was awarded 4 years fully funded Chinese Scholarship Council (CSC) Scholarship. His research interests include machine learning, information security, and health care data.
+ </div>
+ </div>
+ </div>
 
 
 PhD:
@@ -660,6 +668,16 @@ Undergrads:
 ================================================================================================
 
 Interns:
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Navya-Jain.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Navya JAIN</b> is a first-year undergraduate student at Ram Lal Anand College, University of Delhi. She is perusing her major in statistics. She is currently a student intern at the THEIA Lab. Her research interests are computer vision and deep learning. She has been working on research projects on cloud classification and image deblurring techniques. 
+ </div>
+ </div>
+ 
+ 
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Nitin-Sai.png" | prepend:site.baseurl }}">
