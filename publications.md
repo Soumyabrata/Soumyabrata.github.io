@@ -12,6 +12,10 @@ sidebar:
 
 ## Journals
 
++ P. Dey\*, B. P. Das\*, Y. H. Lee, and S. Dev, NeSNet: A Deep Network for Estimating Near-Surface Pollutant Concentrations, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. (\* Authors contributed equally).
+
++ J. Wu\*, J. Pierse\*, F. Orlandi, D. O'Sullivan, and S. Dev, Improving Tourism Analytics From Climate Data Using Knowledge Graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. (\* Authors contributed equally).
+
 + S. Kumari, A. C. Yadav, M. Saharia, and S. Dev, Spatio-temporal analysis of air quality and its relationship with COVID-19 lockdown over Dublin, *Remote Sensing Applications: Society and Environment*, 2022.
 
 + J. Walsh, A. Othmani, M. Jain, and S. Dev, Using U-Net Network for Efficient Brain Tumor Segmentation in MRI Images, *Healthcare Analytics*, 2022. 
@@ -79,7 +83,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ M. Premawardhana, M. A. Azeem, S. S. Sengar, and S. Dev, On the Impact of Temperature for Precipitation Analysis, *11th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA)*, 2023.
++ Z. Xu, Y. Liang, A. Campbell, and S. Dev, Climate Crisis in Virtual Environments: Exploration and Evaluation of Virtual Reality and Mixed Reality for Climate Change Education in Sea level Rise Simulation, *Future Technologies Conference (FTC)*, 2023. 
+
++ M. Premawardhana, M. A. Azeem, S. S. Sengar, and S. Dev, On the Impact of Temperature for Precipitation Analysis, *11th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA)*, 2023. [<a href="https://demo5613.files.wordpress.com/2023/04/2023ficta-slides.pdf">slides</a>]
 
 + S. Cooke, D. Graux, and S. Dev, Multi Platform-based Hate Speech Detection, *International Conference on Agents and Artificial Intelligence (ICAART)*, 2023.
 
