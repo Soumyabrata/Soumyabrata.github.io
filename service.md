@@ -59,6 +59,7 @@ sidebar:
 
 (This list excludes conference talks; such details are available in the [<a href="https://soumyabrata.github.io/news/">news</a>] page.)
 
++ 2023: Delivered a talk on the EDI (Equality Diversity and Inclusion) topic 'Let's Talk About Race: Bridging the Gap in Science', organised by the EDI School of Chemistry, University College Dublin, 19 April 2023. [<a href="https://demo5613.files.wordpress.com/2023/04/edi-talk-april2023.pdf">slides</a>] [<a href="https://twitter.com/SoumyabrataDev/status/1649081919936577537">Tweet</a>]
 + 2021: UCD Earth Institute workshop, and spoke on our recent project of imaging the atmosphere using low-cost cameras, March 24, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/03/collab_workshop_1.pdf">slides</a>]
 + 2021: UCD Earth Institute workshop, and spoke about our current work on interlinking atmospheric sensor data using knowledge graph, March 24, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/03/collab_workshop_2.pdf">slides</a>]
 + 2020: Invited talk at the <a href="https://sites.google.com/a/adaptcentre.ie/srs/home/scientific-meetings/online-research-seminars-proposed?authuser=0">ADAPT Research Seminar series</a>, Dublin, May 20, 2020. [<a href="https://soumyabratadev.files.wordpress.com/2020/05/adaptseminar_may2020.pdf">slides</a>] 
