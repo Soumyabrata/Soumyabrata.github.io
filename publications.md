@@ -83,6 +83,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  D. Walsh, S. Dev, and A. Nag, Hilbert-Huang-Transform based features for accent classification of non-native English speakers, *IEEE Irish Signals & Systems Conference (ISSC)*, 2023.
+
 + Z. Xu, Y. Liang, A. Campbell, and S. Dev, Climate Crisis in Virtual Environments: Exploration and Evaluation of Virtual Reality and Mixed Reality for Climate Change Education in Sea level Rise Simulation, *Future Technologies Conference (FTC)*, 2023. 
 
 + M. Premawardhana, M. A. Azeem, S. S. Sengar, and S. Dev, On the Impact of Temperature for Precipitation Analysis, *11th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA)*, 2023. [<a href="https://demo5613.files.wordpress.com/2023/04/2023ficta-slides.pdf">slides</a>]
