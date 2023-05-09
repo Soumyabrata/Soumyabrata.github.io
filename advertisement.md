@@ -1,6 +1,6 @@
 ---
 layout: novipage
-permalink: /multimedia/
+permalink: /advertisement/
 title: Research
 tags: [code]
 modified: 11-June-2018
@@ -9,7 +9,8 @@ sidebar:
   nav: sidebar-research
 ---
 
-# Multimedia
+# Product Placement 
+
 ## Objective 
 To design an advertisement detection- and integration- system for multimedia videos, useful for next-generation online publicity. 
 
