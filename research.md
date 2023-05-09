@@ -27,6 +27,13 @@ In this project, we develop low-cost, high resolution, ground-based sky cameras 
     *(From left to right) Sky Camera, Whole Sky Image captured by the camera* 
 
 
+## [<u>Coastline monitoring</u>](https://soumyabrata.github.io/coastline/)
+This research aims to improve coastline extraction from satellite images by evaluating different approaches. It considers deep learning methods and edge detection algorithms on spectral bands/indices to automatically extract coastlines and land cover maps. A new open-source dataset of labeled high-resolution satellite images will also be released. This research can have a significant impact on fields such as coastal management and disaster response planning. [[read more](https://soumyabrata.github.io/coastline/)]
+<br />
+<img src="{{ site.url }}/images/sample-coast-edge.png">
+*(From left to right) Illustration of a satellite image, along with corresponding binary land/water map and detected coastline.* 
+
+
 
 ## [<u>Solar Analytics</u>](https://soumyabrata.github.io/solar/)
 In this project, we use a multi-modal data integration approach, in using various sensors (camera images + weather station recordings) to provide useful insights about solar energy. We use image- and weather-station- data for accurate solar energy estimation and forecasting. This is useful in the field of photovoltaic (PV) generation and integration. [[read more](https://soumyabrata.github.io/solar/)]
