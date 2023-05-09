@@ -35,7 +35,7 @@ This research aims to improve coastline extraction from satellite images by eval
 
 
 
-## [<u>Solar Analytics</u>](https://soumyabrata.github.io/solar/)
+## [<u>Solar Energy</u>](https://soumyabrata.github.io/solar/)
 In this project, we use a multi-modal data integration approach, in using various sensors (camera images + weather station recordings) to provide useful insights about solar energy. We use image- and weather-station- data for accurate solar energy estimation and forecasting. This is useful in the field of photovoltaic (PV) generation and integration. [[read more](https://soumyabrata.github.io/solar/)]
     <br />
     <img src="{{ site.url }}/images/upot.png">
@@ -52,8 +52,8 @@ In this project, we aim to make knowledge graph technologies more accessible to 
 
 
 
-## [<u>Multimedia</u>](https://soumyabrata.github.io/multimedia/)
-This project involves designing an advertisement detection- and integration- system for multimedia videos. It is useful for next-generation online publicity (viz. product placement and embedded marketing), wherein advertisements are seamlessly integrated into the video scenes. We use deep-learning based techniques for determining if a video frame contains an existing advert, and for accurate localization of adverts in the selected video frame. Subsequently, new adverts are seamlessly implanted into the original video, to create a new augmented video. [[read more](https://soumyabrata.github.io/multimedia/)]
+## [<u>Product Placement</u>](https://soumyabrata.github.io/advertisement/)
+This project involves designing an advertisement detection- and integration- system for multimedia videos. It is useful for next-generation online publicity (viz. product placement and embedded marketing), wherein advertisements are seamlessly integrated into the video scenes. We use deep-learning based techniques for determining if a video frame contains an existing advert, and for accurate localization of adverts in the selected video frame. Subsequently, new adverts are seamlessly implanted into the original video, to create a new augmented video. [[read more](https://soumyabrata.github.io/advertisement/)]
     <br />
     <img src="{{ site.url }}/images/hw1-image.png">
     *(From left to right) Screen grab of original video and augmented video respectively.* 

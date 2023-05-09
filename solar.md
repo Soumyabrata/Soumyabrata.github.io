@@ -9,7 +9,7 @@ sidebar:
   nav: sidebar-research
 ---
 
-# Solar Analytics
+# Solar Energy
 
 ## Objective 
 To provide useful insights in the field of solar analytics using ground-based cameras and other weather sensors. 
