@@ -42,6 +42,8 @@ sidebar-research:
     url: /research/
   - title: "Cloud Imaging"
     url: /cloud/
+  - title: "Coastline Monitoring"
+    url: /coastline/
   - title: "Solar Analytics"
     url: /solar/	
   - title: "Knowledge Graph"
