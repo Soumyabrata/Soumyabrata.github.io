@@ -30,8 +30,7 @@ In this project, we develop low-cost, high resolution, ground-based sky cameras 
 ## [<u>Coastline monitoring</u>](https://soumyabrata.github.io/coastline/)
 This research aims to improve coastline extraction from satellite images by evaluating different approaches. It considers deep learning methods and edge detection algorithms on spectral bands/indices to automatically extract coastlines and land cover maps. A new open-source dataset of labeled high-resolution satellite images will also be released. This research can have a significant impact on fields such as coastal management and disaster response planning. [[read more](https://soumyabrata.github.io/coastline/)]
 <br />
-<img src="{{ site.url }}/images/sample-coast-edge.png">
-<br />
+<img src="{{ site.url }}/images/sample-coast-edge.png"><br />
 *(From left to right) Illustration of a satellite image, along with corresponding binary land/water map and detected coastline.* 
 
 
