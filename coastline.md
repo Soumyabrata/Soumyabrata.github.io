@@ -33,6 +33,12 @@ Coastline extraction from satellite imagery is a crucial task that is relevant t
 The research will consider various edge detection algorithms and spectral bands/indices to evaluate their effectiveness using a range of metrics such as correlation, mutual information, and figure of merit (FOM). Additionally, this study will investigate pre-processing steps such as histogram equalization and Gaussian blur, as well as feature engineering methods to improve the robustness of the algorithms.
 
 <br />
+<img src="{{ site.baseurl }}/images/coastline-maps.png">
+<br />
+*(From left to right) Sample satellite image, along with the corresponding binary map showcasing the distinction between water and land. We also show the various channels including, RGB (red green blue), NIR (near infrared), NDVI (Normalized Di erence Vegetation Index), and other water indices (NDWI, MNDWI, AWEIsh, WI2015, S2WI, WI2).*  
+
+
+<br />
 Moreover, this research will release open-source code and a new dataset of high-resolution satellite images to enable future research in this field. The dataset will contain images of different coastal environments and will be labeled with ground truth information, enabling supervised learning approaches.
 
 <br />
