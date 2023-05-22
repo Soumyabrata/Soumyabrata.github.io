@@ -130,7 +130,7 @@ None at this moment.
          <img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
        </a>
        <div class="people-name">
-   	  <b>Jiantao WU (Ivan)</b> is pursuing his PhD at the School of Computer Science, University College Dublin. His thesis is co-supervised by Dr Fabrizio Orlandi and Prof Declan O'Sullivan. Jiantao has been a software engineer for 2 years in the field of knowledge graph applications at China Electronics Technology Group Corporation before the commence of his research role at UCD. Prior to this, he completed his Masters from University College London and Bachelors from Xi'an University of Architecture and Technology. His research interests includes knowledge graphs, machine learning, and sensor data processing. 
+   	  <b>Jiantao Wu (Ivan)</b> is pursuing his PhD at the School of Computer Science, University College Dublin. His thesis is co-supervised by Dr Fabrizio Orlandi and Prof Declan O'Sullivan. Jiantao has been a software engineer for 2 years in the field of knowledge graph applications at China Electronics Technology Group Corporation before the commence of his research role at UCD. Prior to this, he completed his Masters from University College London and Bachelors from Xi'an University of Architecture and Technology. His research interests includes knowledge graphs, machine learning, and sensor data processing. 
        </div>
     </div>
 	
@@ -142,7 +142,7 @@ None at this moment.
          <img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
        </a>
        <div class="people-name">
-   	  <b>Mayank JAIN</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He did his M.Sc. Artificial Intelligence from the University of Edinburgh in 2019, and B.Tech. IT and Mathematical Innovations - Major: Electronics and Robotics from the Cluster Innovation Centre, University of Delhi in 2015. He is the co-founder of Imfundo Technologies Pvt. Ltd., for which he worked as Director for 3 years. The startup was focused on introducing STEM education modules in a gamified manner for young kids. He has also been associated with Defence Terrain Research Laboratory (Defence Research and Development Organization, Government of India), Design Innovation Centre (University of Delhi) and Indian Institute of Technology (Mumbai, India) at various times in his academic career. He has been a recipient of several fellowships and scholarships, including the Scottish Saltire Scholarship, Delhi University Innovation Project Fellowship, Global Problem Solving Consortium - Water Sustainability Fellowship'2013 and UCD-CS PhD Scholarship. His major research interests are computer vision, deep learning, and robotics.
+   	  <b>Mayank Jain</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He did his M.Sc. Artificial Intelligence from the University of Edinburgh in 2019, and B.Tech. IT and Mathematical Innovations - Major: Electronics and Robotics from the Cluster Innovation Centre, University of Delhi in 2015. He is the co-founder of Imfundo Technologies Pvt. Ltd., for which he worked as Director for 3 years. The startup was focused on introducing STEM education modules in a gamified manner for young kids. He has also been associated with Defence Terrain Research Laboratory (Defence Research and Development Organization, Government of India), Design Innovation Centre (University of Delhi) and Indian Institute of Technology (Mumbai, India) at various times in his academic career. He has been a recipient of several fellowships and scholarships, including the Scottish Saltire Scholarship, Delhi University Innovation Project Fellowship, Global Problem Solving Consortium - Water Sustainability Fellowship'2013 and UCD-CS PhD Scholarship. His major research interests are computer vision, deep learning, and robotics.
        </div>
     </div>
   
@@ -157,7 +157,7 @@ None at this moment.
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Zixiang-Xu.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Zixiang XU (Dante)</b> is pursuing his MSc at the School of Computer Science, University College Dublin. His project is supervised by Dr Abraham Campbell and Dr Soumyabrata Dev. Zixiang received his undergraduate from Beijing-Dublin International College. His research interests include virtual reality, augmented reality, data visualization and machine learning. Currently, he is working with CONSUS to visualize the farming data into 3D graphs and output them with augmented reality technology in devices.
+<b>Zixiang Xu (Dante)</b> is pursuing his MSc at the School of Computer Science, University College Dublin. His project is supervised by Dr Abraham Campbell and Dr Soumyabrata Dev. Zixiang received his undergraduate from Beijing-Dublin International College. His research interests include virtual reality, augmented reality, data visualization and machine learning. Currently, he is working with CONSUS to visualize the farming data into 3D graphs and output them with augmented reality technology in devices.
 </div>
 </div>
 
@@ -166,7 +166,7 @@ None at this moment.
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Yuan-Liang.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Yuan LIANG (Nick)</b> is currently pursuing his MSc in Computer Science at University College Dublin. He received his BSc degree and B.Eng degree from Beijing University of Technology in Software Engineering.  His main areas of interest are computer vision, machine learning and deep learning. Currently, he is working on his thesis on the visualization of agricultural big data with machine learning.
+<b>Yuan Liang (Nick)</b> is currently pursuing his MSc in Computer Science at University College Dublin. He received his BSc degree and B.Eng degree from Beijing University of Technology in Software Engineering.  His main areas of interest are computer vision, machine learning and deep learning. Currently, he is working on his thesis on the visualization of agricultural big data with machine learning.
 </div>
 </div>
 
@@ -182,45 +182,8 @@ None at this moment.
 
 <div class="row">
 
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Tom-Higgins.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Tom Higgins</b> is a fourth-year student studying for a computer science degree. He is currently doing his final year project on the representation of climate data in knowledge graphs. He plays rugby outside of college and is currently trying to learn about music production.
-</div>
-</div>
 
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Atseosi-Idogho.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Atseosi Idogho</b> is a fourth year undergraduate student, currently pursuing a degree in computer science with data science. Her research interests lie in machine learning, and artificial intelligence. Outside of work, she enjoys crocheting and reading.
-</div>
-</div>
-
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Nan-Wu.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Nan Wu</b> is a fourth-year undergraduate student at University College Dublin, studying Computer Science. He is doing his final year project at THEIA Lab, working on automated image captioning of facial emotion datasets. He has worked as a Software Engineer Intern at Bank of America in Dublin.
-</div>
-</div>
-
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Ammar-Abdalla.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Ammar Abdalla</b> is a 4th-year undergraduate in Computer & Data science at UCD, Dublin, Ireland. His main interests are machine learning and time series analysis, and he is currently working on short-term forecasting for solar irradiance. His hobbies include Brazilian Jiu-Jitsu and wrestling.
-</div>
-</div>
+None at this moment. 
 
 
 
@@ -233,79 +196,7 @@ None at this moment.
 
 <div class="row">
 
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Akhil-Chenna.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Akhil Chenna</b> is a 4th year undergraduate with a major in Electrical and Electronics Engineering and a minor in Computer Science and Engineering at the National Institute of Technology Tiruchirappalli, India. His research interests lies in the domains of machine learning, deep learning, and computer vision. He is currently working on benchmarking current machine learning models on engagement detection datasets. In his free time, he enjoys swimming, listening to music, and watching anime.
-</div>
-</div>
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Vinat-Goyal.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Vinat Goyal</b> is an undergraduate student pursuing a B. Tech in Computer Science and Engineering at the Indian Institute of Information Technology Pune, India. His key area of interest lies in deep Learning, and computer vision. Currently, he is working with THEIA Lab on cloud/sky segmentation using high dynamic range images. Outside work, he likes to go on treks and watches cricket and football.
-</div>
-</div>
-
-<br />
-
-
-
-<div class="col-xs-2">
-<a href="https://tejasrin.gitlab.io/">
-<img class="people-pic" src="{{ "/images/theia/Tejasri-N.png" | prepend:site.baseurl }}">
-</a>
-<div class="people-name">
-<b>Tejasri Nampally</b> is a PhD Scholar in the Department of AI at the Indian Institute of Technology Hyderabad, India. She works at the intersection of machine learning and crop phenotyping using UAV-based remote sensing. Currently, she is working as a research intern at THEIA Lab working on TROPOMI satellite data for estimating air quality using deep learning techniques. She enjoys chatting about knowledge commons, science, history, and music.
-</div>
-</div>
-
-<br />
-
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Ansh-Lodhi.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Ansh Lodhi</b> is a 3rd-year undergraduate majoring in Chemical Engineering at the Indian Institute of Technology Delhi, India. He is currently working on predicting PM2.5 concentration using satellite- and ground-based- pollutant data. His hobbies include sketching, reading manga, and visual novels. 
-</div>
-</div>
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Ambrish-Kashyap.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Ambrish Kashyap</b> is a third-year undergrad majoring in chemical engineering at the Indian Institute of Technology Delhi, India. His current interests lie in the areas of computer vision and deep learning. He is currently working on monitoring land boundaries and land cover near coastal regions from LANDSAT and Sentinel images. He enjoys playing badminton and binging web series.
-</div>
-</div>
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Giri.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Girievasan Manivannan</b> is currently pursuing Btech in Electrical and Electronics Engineering at the National Institute of Technology Tiruchirappalli, India. His research interests include deep learning and machine learning. He is currently working on the prediction of diabetes from machine learning techniques. 
-</div>
-</div>
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Deepak-Joel-Yericherla.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Deepak Joel Yericherla</b> is a 3rd-year undergraduate student majoring in Data Science & Artificial Intelligence at the International Institute of Information Technology (IIIT) Naya Raipur, India. His main areas of interest are in data analytics and statistical modelling, although all domains in AI fascinate him the same. He enjoys music, manga, and board games. He is working on new techniques to detect PM2.5 concentration pollutants in the air using AI.
-</div>
-</div>
-
-
+None at this moment.
 
 
 </div>
@@ -314,25 +205,31 @@ None at this moment.
 ### Alumni
 
 #### Postdoctoral researchers
-+ <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">Muhammad Salman PATHAN</a>, Postdoc, AY 2021-23 (Next stop: Maynooth University, Ireland)
++ <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">Muhammad Salman PATHAN</a>, Postdoc, AY 2021-23 (Next stop: Senior Postdoctoral Researcher, Maynooth University, Ireland)
 
 #### PhD
-+ <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop: Universitat Politècnica de València (UPV), Spain)
++ <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop:  Associate Lecturer, Universitat Politècnica de València (UPV), Spain)
 
 
 #### Masters
-+ <a href="https://www.linkedin.com/in/nicholas-danesi/">Nicholas Danesi</a>, UCD MS, AY 2020-21
-+ <a href="https://www.linkedin.com/in/jason-john-walsh/">Jason Walsh</a>, UCD MS, AY 2020-21
-+ Barry McNicholl, UCD MS, AY 2020-21
++ Mark Crowley, UCD MS (EEE), AY 2022-23
++ <a href="https://www.linkedin.com/in/nicholas-danesi/">Nicholas Danesi</a>, UCD MS, AY 2020-21 (Next stop: Project Officer, Energy Demand and Efficiency Policy at Department of Energy, Environment and Climate Action, Australia)
++ <a href="https://www.linkedin.com/in/jason-john-walsh/">Jason Walsh</a>, UCD MS, AY 2020-21 (Next stop: PhD student at at University College Dublin, Ireland)
++ <a href="https://www.linkedin.com/in/barry-mcnicholl-86287120a/">Barry McNicholl</a>, UCD MS, AY 2020-21 (Next stop:  Design Engineer at Microchip Technology, Ireland)
 + Ankur Patil, NCI MSc, AY 2018-19
-+ Jyotsna Patel, NCI MSc, AY 2018-19
-+ Chidozie Shamrock Nwosu, NCI MSc, AY 2018-19
++ <a href="https://www.linkedin.com/in/jyotsnapatel26/">Jyotsna Patel</a>, NCI MSc, AY 2018-19 (Next stop:  Engineering Doctorate at Eindhoven University of Technology, Netherlands)
++ <a href="https://www.linkedin.com/in/shamrock-chidozie-nwosu/">Chidozie Shamrock Nwosu</a>, NCI MSc, AY 2018-19 (Next stop: Data Analyst at Monaghan Electrical Ltd, Ireland)
 
 
 #### Undergrads
-+ Killian Callaghan, UCD FYP, AY 2021-22
-+ Andra Antal-Berbecaru, UCD FYP, AY 2021-22
-+ Jarrett Pierse, UCD FYP, AY 2021-22
++ Tom Higgins, UCD FYP, AY 2022-23
++ Atseosi Idogho, UCD FYP, AY 2022-23
++ Nan Wu, UCD FYP, AY 2022-23
++ Ammar Abdalla, UCD FYP, AY 2022-23
++ Loghlen Rickard, UCD FYP, AY 2022-23
++ <a href="https://www.linkedin.com/in/killian-callaghan-b414a2150/">Killian Callaghan</a>, UCD FYP, AY 2021-22 (Next stop: Graduate Software Engineer at Citi, Ireland)
++ <a href="https://www.linkedin.com/in/andra-antal-berbecaru/">Andra Antal-Berbecaru</a>, UCD FYP, AY 2021-22 (Next stop:  Software Engineer at HubSpot, Ireland)
++ <a href="https://www.linkedin.com/in/jarrettpierse/">Jarrett Pierse</a>, UCD FYP, AY 2021-22 (Next stop:  Systems Development Engineer at Amazon Web Services, Ireland)
 + Shane Cooke, UCD FYP, AY 2021-22
 + Robert Collins, UCD FYP, AY 2020-21
 + Oisin Hourican, UCD FYP, AY 2020-21
@@ -366,11 +263,19 @@ None at this moment.
 + Guan Zhao Ting, NTU FYP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 
 #### Interns
+
++ Akhil Chenna (National Institute of Technology Tiruchirappalli, India), UCD Intern, AY 2022--23
++ Vinat Goyal (Indian Institute of Information Technology Pune, India), UCD Intern, AY 2022--2023
++ <a href="https://tejasrin.gitlab.io/">Tejasri Nampally</a> ( Indian Institute of Technology Hyderabad, India), UCD Intern, AY 2022--2023
++ Ansh Lodhi (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--2023
++ Ambrish Kashyap (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--2023
++ Girievasan Manivannan (National Institute of Technology Tiruchirappalli, India), UCD Intern, AY 2022--2023
++ Deepak Joel Yericherla (International Institute of Information Technology (IIIT) Naya Raipur, India), UCD Intern, AY 2022--2023
 + Navya Jain (Ram Lal Anand College, University of Delhi), UCD Intern, AY 2022--2023
-+ Nitin Sai BOMMI (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
-+ Prathistith Raj MEDI (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
-+ Bibhash Pran DAS (National Institute of Technology Rourkela, India), UCD Intern, AY 2021--2022
-+ Pierre BERJON (Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France), UCD Intern, AY 2019--2020, AY 2020-2021
++ Nitin Sai Bommi (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
++ Prathistith Raj Medi (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
++ Bibhash Pran Das (National Institute of Technology Rourkela, India), UCD Intern, AY 2021--2022
++ Pierre Berjon (Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France), UCD Intern, AY 2019--2020, AY 2020-2021
 + Ho Zheng Yi (Nanyang Technological University, Singapore), UCD Intern, Summer 2021
 + Bugra Alparslan (Middle East Technical University, Turkey), UCD Intern, Summer 2020
 + Guillaume Tran (ENSEEIHT Toulouse France), UCD Intern, AY 2019-20
@@ -480,6 +385,47 @@ Masters:
 
 Undergrads:
 
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Tom-Higgins.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Tom Higgins</b> is a fourth-year student studying for a computer science degree. He is currently doing his final year project on the representation of climate data in knowledge graphs. He plays rugby outside of college and is currently trying to learn about music production.
+ </div>
+ </div>
+ 
+ 
+ <br />
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Atseosi-Idogho.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Atseosi Idogho</b> is a fourth year undergraduate student, currently pursuing a degree in computer science with data science. Her research interests lie in machine learning, and artificial intelligence. Outside of work, she enjoys crocheting and reading.
+ </div>
+ </div>
+ 
+ 
+ <br />
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Nan-Wu.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Nan Wu</b> is a fourth-year undergraduate student at University College Dublin, studying Computer Science. He is doing his final year project at THEIA Lab, working on automated image captioning of facial emotion datasets. He has worked as a Software Engineer Intern at Bank of America in Dublin.
+ </div>
+ </div>
+ 
+ 
+ <br />
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Ammar-Abdalla.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Ammar Abdalla</b> is a 4th-year undergraduate in Computer & Data science at UCD, Dublin, Ireland. His main interests are machine learning and time series analysis, and he is currently working on short-term forecasting for solar irradiance. His hobbies include Brazilian Jiu-Jitsu and wrestling.
+ </div>
+ </div>
 
 
  
@@ -668,6 +614,81 @@ Undergrads:
 ================================================================================================
 
 Interns:
+ 
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Akhil-Chenna.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Akhil Chenna</b> is a 4th year undergraduate with a major in Electrical and Electronics Engineering and a minor in Computer Science and Engineering at the National Institute of Technology Tiruchirappalli, India. His research interests lies in the domains of machine learning, deep learning, and computer vision. He is currently working on benchmarking current machine learning models on engagement detection datasets. In his free time, he enjoys swimming, listening to music, and watching anime.
+ </div>
+ </div>
+ 
+ <br />
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Vinat-Goyal.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Vinat Goyal</b> is an undergraduate student pursuing a B. Tech in Computer Science and Engineering at the Indian Institute of Information Technology Pune, India. His key area of interest lies in deep Learning, and computer vision. Currently, he is working with THEIA Lab on cloud/sky segmentation using high dynamic range images. Outside work, he likes to go on treks and watches cricket and football.
+ </div>
+ </div>
+ 
+ <br />
+ 
+ 
+ 
+ <div class="col-xs-2">
+ <a href="https://tejasrin.gitlab.io/">
+ <img class="people-pic" src="{{ "/images/theia/Tejasri-N.png" | prepend:site.baseurl }}">
+ </a>
+ <div class="people-name">
+ <b>Tejasri Nampally</b> is a PhD Scholar in the Department of AI at the Indian Institute of Technology Hyderabad, India. She works at the intersection of machine learning and crop phenotyping using UAV-based remote sensing. Currently, she is working as a research intern at THEIA Lab working on TROPOMI satellite data for estimating air quality using deep learning techniques. She enjoys chatting about knowledge commons, science, history, and music.
+ </div>
+ </div>
+ 
+ <br />
+ 
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Ansh-Lodhi.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Ansh Lodhi</b> is a 3rd-year undergraduate majoring in Chemical Engineering at the Indian Institute of Technology Delhi, India. He is currently working on predicting PM2.5 concentration using satellite- and ground-based- pollutant data. His hobbies include sketching, reading manga, and visual novels. 
+ </div>
+ </div>
+ 
+ <br />
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Ambrish-Kashyap.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Ambrish Kashyap</b> is a third-year undergrad majoring in chemical engineering at the Indian Institute of Technology Delhi, India. His current interests lie in the areas of computer vision and deep learning. He is currently working on monitoring land boundaries and land cover near coastal regions from LANDSAT and Sentinel images. He enjoys playing badminton and binging web series.
+ </div>
+ </div>
+ 
+ <br />
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Giri.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Girievasan Manivannan</b> is currently pursuing Btech in Electrical and Electronics Engineering at the National Institute of Technology Tiruchirappalli, India. His research interests include deep learning and machine learning. He is currently working on the prediction of diabetes from machine learning techniques. 
+ </div>
+ </div>
+ 
+ <br />
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Deepak-Joel-Yericherla.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Deepak Joel Yericherla</b> is a 3rd-year undergraduate student majoring in Data Science & Artificial Intelligence at the International Institute of Information Technology (IIIT) Naya Raipur, India. His main areas of interest are in data analytics and statistical modelling, although all domains in AI fascinate him the same. He enjoys music, manga, and board games. He is working on new techniques to detect PM2.5 concentration pollutants in the air using AI.
+ </div>
+ </div>
+ 
+
  
  
  <div class="col-xs-2">
