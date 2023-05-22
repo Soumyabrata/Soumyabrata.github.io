@@ -10,6 +10,9 @@ sidebar:
 ---
 
 ## 2022
++ (September 2022): Welcome to Atseosi Idogho, Nan Wu, Loghlen Rickard, Ammar Abdalla, and Tom Higgins who joins us for their final year projects in AY 2022/23.
++ (August 2022): Welcome to Riju Das, Prasanjit Dey, Sukriti Dhang, and Conor O'Sullivan to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as PhD students starting from Fall 2022 sesssion. Best wishes to all of you. 
++ (June 2022): Welcome to Ambrish Kashyap, Ansh Lodhi, Tejasri Nampally, Vinat Goyal, and Akhil Chenna to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as research interns over the summer.
 + (Mar 2022): We have two PhD funded opportunities at our group with a start date of August 2022. Please see [<a href="https://d-real.ie/2022-d-real-phd-topics/#2022UCD06">this</a>] and [<a href="https://d-real.ie/2022-d-real-phd-topics/#2022TUD06">this</a>] link for further details. Apply!
 + (Feb 2022): Welcome to Girievasan Manivannan from National Institute of Technology Tiruchirappalli, India to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as a research intern.
 
