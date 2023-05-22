@@ -13,17 +13,19 @@ sidebar:
  Details of navigation bar can be found here: _data/navigation.yml
  -->
 
+My teaching focuses on the paradigms *Learning by doing* and *Technology-enabled learning* to create a practical and interactive learning environment. I believe in problem-based learning and integrating technology to engage students effectively. Furthermore, I completed the University Teaching & Learning Certificate of Continuing Professional Development in 2021-22 from University College Dublin, achieving an *exceptional* overall score.
+
 ## 2021
 #### COMP2002J Data Structures and Algorithms 1<br><sup>Trimester I, AY 2021-22, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on data structures and algorithms, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=941">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a course on data structures and algorithms, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=941">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:mayank.jain1@ucdconnect.ie">Mayank Jain</a>, for further details.
 
 #### COMP2012J Operating Systems<br><sup>Trimester I, AY 2021-22, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=940">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a course on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=940">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:jiantao.wu@ucdconnect.ie">Jiantao Wu (Ivan)</a>, for further details.
 
 #### COMP3023J Wireless Sensor Networks<br><sup>Trimester I, AY 2021-22, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=942">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=942">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:muhammad.pathan@ucd.ie">Dr Muhammad Salman Pathan</a>, for further details.
 
 #### COMP30900 Final Year Project (FYP) Foundations/COMP30910 FYP Design and Implementation<br><sup>Trimester I, AY 2021-22, University College Dublin</sup>
