@@ -228,7 +228,7 @@ None at this moment.
 
 #### Undergrads
 + Tom Higgins, UCD FYP, AY 2022-23
-+ <a href="https://www.linkedin.com/in/atseosi-idogho/>Atseosi Idogho</a>, UCD FYP, AY 2022-23
++ <a href="https://www.linkedin.com/in/atseosi-idogho/">Atseosi Idogho</a>, UCD FYP, AY 2022-23
 + <a href="https://www.linkedin.com/in/itsnanwu/">Nan Wu</a>, UCD FYP, AY 2022-23
 + Ammar Abdalla, UCD FYP, AY 2022-23
 + Loghlen Rickard, UCD FYP, AY 2022-23
@@ -282,7 +282,7 @@ None at this moment.
 + <a href="https://www.linkedin.com/in/bibhash-pran-das-b214461a2/">Bibhash Pran Das</a> (National Institute of Technology Rourkela, India), UCD Intern, AY 2021--22 (Next stop: Software Engineer at Microsoft, India)
 + <a href="https://www.linkedin.com/in/pierre-berjon-5b011a177/">Pierre Berjon</a> (Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France), UCD Intern, AY 2019--20, AY 2020-21 (Next stop: R&D Satellite Image Machine Learning Expert at Airbus Defence and Space, France)
 + <a href="https://www.linkedin.com/in/zheng-yi-ho-417021205/">Ho Zheng Yi</a> (Nanyang Technological University, Singapore), UCD Intern, Summer 2021 (Next stop: Associate AI Engineer at Seventh Sense, Singapore)
-+ <a href="https://www.linkedin.com/in/bugra-alparslan/>Bugra Alparslan</a> (Middle East Technical University, Turkey), UCD Intern, Summer 2020 (Next stop: Software Developer at Aurvis, Türkiye)
++ <a href="https://www.linkedin.com/in/bugra-alparslan/">Bugra Alparslan</a> (Middle East Technical University, Turkey), UCD Intern, Summer 2020 (Next stop: Software Developer at Aurvis, Türkiye)
 + Guillaume Tran (ENSEEIHT Toulouse France), UCD Intern, AY 2019-20
 + <a href="https://www.linkedin.com/in/dkaloni/">Dewansh Kaloni</a> (Birla Institute of Technology and Science, Pilani, India), UCD Intern, AY 2019-20 (Next stop: Data Scientist at AiDash, India)
 + <a href="https://www.linkedin.com/in/sarthak-batra1/">Sarthak Batra</a> (Indian Institute of Technology Kharagpur, India), UCD Intern, AY 2019-20
