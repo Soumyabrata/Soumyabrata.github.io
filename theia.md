@@ -27,7 +27,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
       <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <b>Soumyabrata DEV</b> is an Assistant Professor in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>, since Fall 2019 session.
+      <b>Soumyabrata Dev</b> is an Assistant Professor in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>, since Fall 2019 session.
     </div>
   </div>
 </div>
@@ -40,18 +40,18 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
       <img class="people-pic" src="{{ "/images/theia/MH.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-	  <b>Murhaf HOSSARI</b> is a Technical Program Manager at Apple, based at San Francisco Bay Area, United States. His main interests and expertise are in natural language processing, machine learning and deep learning. 
+	  <b>Murhaf Hossari</b> is a Technical Program Manager at Apple, based at San Francisco Bay Area, United States. His main interests and expertise are in natural language processing, machine learning and deep learning. 
     </div>
  </div>
   
 <br />
 
   <div class="col-xs-2">
-    <a href="https://badmotor.github.io/">
+    <a href="https://fabriziorlandi.net/">
       <img class="people-pic" src="{{ "/images/theia/FO.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <b>Fabrizio ORLANDI</b> is a Marie Skłodowska-Curie EDGE Research Scientist at ADAPT Centre. His research interests are focused on Knowledge Graphs, Semantic Web, Web of Data, Knowledge Representation and the application of semantic technologies to different domains, such as Social Media, Personalisation and Open Government Data. 
+      <b>Fabrizio Orlandi</b> is a Senior Knowledge and Data Engineer at Inter IKEA Systems. His research interests are focused on Knowledge Graphs, Semantic Web, Web of Data, Knowledge Representation and the application of semantic technologies to different domains, such as Social Media, Personalisation and Open Government Data. 
     </div>
   </div>
 </div>
@@ -196,7 +196,12 @@ None at this moment.
 
 <div class="row">
 
-None at this moment.
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Lucian-Fairbrother.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Lucian Fairbrother</b> is currently pursuing his BS in Computer Science at Brandeis University, United States. Lucian has previously worked in researching cybersecurity software. His main areas of interest are web automation, machine learning, and cyber security. 
+</div>
+</div>
 
 
 </div>
@@ -223,8 +228,8 @@ None at this moment.
 
 #### Undergrads
 + Tom Higgins, UCD FYP, AY 2022-23
-+ Atseosi Idogho, UCD FYP, AY 2022-23
-+ Nan Wu, UCD FYP, AY 2022-23
++ <a href="https://www.linkedin.com/in/atseosi-idogho/>Atseosi Idogho</a>, UCD FYP, AY 2022-23
++ <a href="https://www.linkedin.com/in/itsnanwu/">Nan Wu</a>, UCD FYP, AY 2022-23
 + Ammar Abdalla, UCD FYP, AY 2022-23
 + Loghlen Rickard, UCD FYP, AY 2022-23
 + <a href="https://www.linkedin.com/in/killian-callaghan-b414a2150/">Killian Callaghan</a>, UCD FYP, AY 2021-22 (Next stop: Graduate Software Engineer at Citi, Ireland)
@@ -265,22 +270,22 @@ None at this moment.
 #### Interns
 
 + Akhil Chenna (National Institute of Technology Tiruchirappalli, India), UCD Intern, AY 2022--23
-+ Vinat Goyal (Indian Institute of Information Technology Pune, India), UCD Intern, AY 2022--2023
-+ <a href="https://tejasrin.gitlab.io/">Tejasri Nampally</a> ( Indian Institute of Technology Hyderabad, India), UCD Intern, AY 2022--2023
-+ Ansh Lodhi (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--2023
-+ Ambrish Kashyap (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--2023
-+ Girievasan Manivannan (National Institute of Technology Tiruchirappalli, India), UCD Intern, AY 2022--2023
-+ Deepak Joel Yericherla (International Institute of Information Technology (IIIT) Naya Raipur, India), UCD Intern, AY 2022--2023
-+ Navya Jain (Ram Lal Anand College, University of Delhi), UCD Intern, AY 2022--2023
-+ Nitin Sai Bommi (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
-+ Prathistith Raj Medi (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--2022
-+ Bibhash Pran Das (National Institute of Technology Rourkela, India), UCD Intern, AY 2021--2022
-+ Pierre Berjon (Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France), UCD Intern, AY 2019--2020, AY 2020-2021
-+ Ho Zheng Yi (Nanyang Technological University, Singapore), UCD Intern, Summer 2021
-+ Bugra Alparslan (Middle East Technical University, Turkey), UCD Intern, Summer 2020
++ Vinat Goyal (Indian Institute of Information Technology Pune, India), UCD Intern, AY 2022--23
++ <a href="https://tejasrin.gitlab.io/">Tejasri Nampally</a> ( Indian Institute of Technology Hyderabad, India), UCD Intern, AY 2022--23
++ Ansh Lodhi (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--23
++ Ambrish Kashyap (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--23
++ Girievasan Manivannan (National Institute of Technology Tiruchirappalli, India), UCD Intern, AY 2022--23
++ Deepak Joel Yericherla (International Institute of Information Technology (IIIT) Naya Raipur, India), UCD Intern, AY 2022--23
++ Navya Jain (Ram Lal Anand College, University of Delhi), UCD Intern, AY 2022--23
++ Nitin Sai Bommi (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--22
++ Prathistith Raj Medi (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--22
++ <a href="https://www.linkedin.com/in/bibhash-pran-das-b214461a2/">Bibhash Pran Das</a> (National Institute of Technology Rourkela, India), UCD Intern, AY 2021--22 (Next stop: Software Engineer at Microsoft, India)
++ <a href="https://www.linkedin.com/in/pierre-berjon-5b011a177/">Pierre Berjon</a> (Ecole Normal Supérieur of Electrotechnique Electronique Informatique Hydraulique and Telecommunication (ENSEEIHT) Toulouse France), UCD Intern, AY 2019--20, AY 2020-21 (Next stop: R&D Satellite Image Machine Learning Expert at Airbus Defence and Space, France)
++ <a href="https://www.linkedin.com/in/zheng-yi-ho-417021205/">Ho Zheng Yi</a> (Nanyang Technological University, Singapore), UCD Intern, Summer 2021 (Next stop: Associate AI Engineer at Seventh Sense, Singapore)
++ <a href="https://www.linkedin.com/in/bugra-alparslan/>Bugra Alparslan</a> (Middle East Technical University, Turkey), UCD Intern, Summer 2020 (Next stop: Software Developer at Aurvis, Türkiye)
 + Guillaume Tran (ENSEEIHT Toulouse France), UCD Intern, AY 2019-20
-+ Dewansh Kaloni (Birla Institute of Technology and Science, Pilani, India), UCD Intern, AY 2019-20
-+ Sarthak Batra (Indian Institute of Technology Kharagpur, India), UCD Intern, AY 2019-20
++ <a href="https://www.linkedin.com/in/dkaloni/">Dewansh Kaloni</a> (Birla Institute of Technology and Science, Pilani, India), UCD Intern, AY 2019-20 (Next stop: Data Scientist at AiDash, India)
++ <a href="https://www.linkedin.com/in/sarthak-batra1/">Sarthak Batra</a> (Indian Institute of Technology Kharagpur, India), UCD Intern, AY 2019-20
 + Sarah Omer, NTU NRP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 + Megan Soo, NTU NRP 2016-17 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 + Loh Yi Chang, NTU NRP 2015 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)

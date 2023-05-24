@@ -19,6 +19,7 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 + (July 2023): Our group has a strong presence at International Geoscience and Remote Sensing Symposium (IGARSS 2023) with 9 papers. Say hi to us at Pasadena, California if you are attending!
 + (July 2023): Our group has a strong presence at Progress In Electromagnetics Research Symposium (PIERS 2023) with 6 papers. Say hi to us at Prague, Czech Republic if you are attending! 
++ (June 2023): Welcome to Lucian Fairbrother from Brandeis University, United States to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as a summer intern.
 + (January 2023): Welcome to Menatallah Abdel Azeem to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as a PhD student.
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
 
