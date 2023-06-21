@@ -24,7 +24,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
 <div class="row">
   <div class="col-xs-2">
     <a href="https://soumyabrata.github.io/">
-      <img class="people-pic" src="{{ "/images/theia/SD.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/images/SD-21June2023.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <b>Soumyabrata Dev</b> is an Assistant Professor in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>, since Fall 2019 session.
