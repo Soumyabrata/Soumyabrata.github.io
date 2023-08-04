@@ -196,6 +196,18 @@ None at this moment.
 
 <div class="row">
 
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Mohsin-Imam.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Mohsin Imam</b> is a recent graduate from the University of Delhi with a major in Computer Science. He has previously worked as an intern at the National University of Malaysia and the University of Delhi in the domains of machine learning and information security. His primary research interests encompass machine learning, natural language processing, and blockchain.
+</div>
+</div>
+
+
+
+<br />
+
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Lucian-Fairbrother.png" | prepend:site.baseurl }}">
 <div class="people-name">

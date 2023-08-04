@@ -10,6 +10,7 @@ sidebar:
 ---
 
 ### Organizing Committee
++ 2023: Publication Chair, <a href="https://www.sest2023.org/committees/">6th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Mugla, Turkey.
 + 2022: Guest editor, Special Issue on Selected articles from the 5th International Conference on Smart Energy Systems and Technologies (SEST 2022) for Sustainable Energy, Grids and Networks.
 + 2022: Session Chair, Session: TU7.V8: Data Mining and Management Methods, <a href="https://www.igarss2022.org/">IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</a>, 2022, Kuala Lumpur, Malaysia. 
 + 2022: Publication Chair, <a href="https://www.sest2022.org/#committees.html">5th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Eindhoven, the Netherlands.
@@ -22,6 +23,7 @@ sidebar:
 
 ### Technical Program Committee
 
++ 2023: <a href="https://www.universityofgalway.ie/c3i/news-&-events/imvip_2023/conference_chairs_committee_members/#">IMVIP 2023</a>, 25th Irish Machine Vision and Image Processing (IMVIP)
 + 2022: <a href="https://imvipconference.github.io/#contact">IMVIP 2022</a>, 23rd Irish Machine Vision and Image Processing (IMVIP)
 + 2022: <a href="https://www.iaria.org/conferences2022/ComCOGNITIVE22.html">COGNITIVE 2022</a>, Fourteenth International Conference on Advanced Cognitive Technologies and Applications
 + 2022: <a href="https://icict.co.uk/committees.php#tab4">ICICT 2022</a>, 7th International Congress on Information and Communication Technology 

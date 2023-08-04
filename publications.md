@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ Q. Paletta, G. Terrén-Serrano, Y. Nie, B. Li, J. Bieker, W. Zhang, L. Dubus, S. Dev, C. Feng, Advances in Solar Forecasting: Computer Vision with Deep Learning, *Advances in Applied Energy*, 2023.
+
 + P. Dey\*, B. P. Das\*, Y. H. Lee, and S. Dev, NeSNet: A Deep Network for Estimating Near-Surface Pollutant Concentrations, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. (\* Authors contributed equally).
 
 + J. Wu\*, J. Pierse\*, F. Orlandi, D. O'Sullivan, and S. Dev, Improving Tourism Analytics From Climate Data Using Knowledge Graphs, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. (\* Authors contributed equally).
