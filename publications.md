@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ H. Wang, Y. Li, K. Gong, M. S. Pathan, B. Zhu, Z. Wen, and S. Dev, MFCSNet: A Musician-Follower Complex Social Network for measuring musical influence, *Entertainment Computing*, 2023.
+
 + Q. Paletta, G. Terrén-Serrano, Y. Nie, B. Li, J. Bieker, W. Zhang, L. Dubus, S. Dev, C. Feng, Advances in Solar Forecasting: Computer Vision with Deep Learning, *Advances in Applied Energy*, 2023.
 
 + P. Dey\*, B. P. Das\*, Y. H. Lee, and S. Dev, NeSNet: A Deep Network for Estimating Near-Surface Pollutant Concentrations, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. (\* Authors contributed equally).
@@ -84,6 +86,18 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
  
 ## Conferences
+
++ M. A. Azeem, and S. Dev, Rainfall Prediction Using Azure Automated Machine Learning, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230205172942-azure-slides.pdf">slides</a>]
+
++ M. A. Azeem, P. Dey, and S. Dev, A Multidimensionality Reduction Approach to Rainfall Prediction, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230205172511-rainfall-prediction-slides.pdf">slides</a>]
+
++ P. Dey, S. Dev, B. Schoen-Phelan, NeSDeepNet: A Fusion Framework for Multi-step Forecasting of Near-surface Air Pollutants, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230205034943-nesdeepnet-slides.pdf">slides</a>]
+
++ C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, Analyzing Water Body Indicies for Coastal Semantic Segmentation, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230204160235-water-body-indices.pdf">slides</a>]
+
++ C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, The Effectiveness of Edge Detection Evaluation Metrics for Automated Coastline Detection, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230204160050-evaluation-metrics.pdf">slides</a>]
+
++ C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, Interpreting a Semantic Segmentation Model for Coastline Detection, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230204155516-unet-interpretation.pdf">slides</a>]
 
 +  D. Walsh, S. Dev, and A. Nag, Hilbert-Huang-Transform based features for accent classification of non-native English speakers, *IEEE Irish Signals & Systems Conference (ISSC)*, 2023.
 
