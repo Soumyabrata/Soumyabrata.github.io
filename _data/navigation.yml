@@ -83,6 +83,10 @@ sidebar-news:
 
 
 sidebar-teaching:
+  - title: "2023"
+    url: /teaching/#2023
+  - title: "2022"
+    url: /teaching/#2022
   - title: "2021"
     url: /teaching/#2021
   - title: "2020"
