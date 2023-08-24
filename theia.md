@@ -195,6 +195,26 @@ None at this moment.
 ### Interns 
 
 <div class="row">
+	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Abhishek-Gautam.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Abhishek Gautam</b> is currently pursuing B.Tech in Engineering Physics at Indian Institute of Technology, Guwahati, India. His main areas of interest include machine learning, computer vision, and product design. 
+</div>
+</div>
+
+
+<br />
+	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Pardhu-Nadella.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Pardhu Nadella</b> is a recent graduate in Electronics and Communication Engineering from GRIET, India. He brings a wealth of internship experience spanning robotics, drones, machine learning, deep learning, and computer vision. His primary focus is on advancing technological boundaries in computer vision and deep learning.
+</div>
+</div>
+
+
+<br />
 
 
 <div class="col-xs-2">
