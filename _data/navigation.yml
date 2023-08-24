@@ -27,12 +27,14 @@ sidebar-theia:
     
     
 sidebar-service:
-  - title: "Organizing Committee"
-    url: /service/#organizing-committee
+  - title: "Academic and Administrative Service"
+    url: /service/#academic-and-administrative-service
+  - title: "Outreach and Community Engagement"
+    url: /service/#outreach-and-community-engagement
+  - title: "Organizational Leadership"
+    url: /service/#organizational-leadership
   - title: "Technical Program Committee"
     url: /service/#technical-program-committee
-  - title: "Talks"
-    url: /service/#talks
   - title: "Referee"
     url: /service/#referee
 
