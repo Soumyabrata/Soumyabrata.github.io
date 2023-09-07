@@ -87,6 +87,24 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  J. Wu, C. O'Sullivan, F. Orlandi, D. O'Sullivan, and S. Dev, Measurement of Industrial Smoke Plumes from Satellite Images, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
+
++  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Ontological Modeling of Climate Data to Improve Climate Analytics, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
+
++  M. Jain, N. Jain, Y. H. Lee, S. Winkler, and S. Dev, Transfer Learning for Cloud Image Classification, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
+
++  P. Dey, S. Dev, and B. S. Phelan, BiLSTM-BiGRU: A fusion deep neural network for predicting air pollutant concentration, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
+
++  C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, Automated Coastline Extraction Using Edge Detection Algorithms, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
+
++  A. Kumar\*, M. Jain\*, and S. Dev, Generative Augmentation for Sky/cloud Image Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023 (\* Authors contributed equally).
+
++  T. Nampally, J. Wu, and S. Dev, Performance Comparison of Multispectral Channels for Land Use Classification, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023. 
+
++  M. Jain, C. Kumari, A. Kumar, and S. Dev, Using Meteosat Cloud Masks for Solar Irradiance Nowcasting, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023. 
+
++  M. Jain, N. Jain, N. Sinha, and S. Dev, A Systematic Spatio-temporal Analysis of Relevant Meteorological Variables for Solar Irradiance Forecasting, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023. 
+
 + M. A. Azeem, and S. Dev, Rainfall Prediction Using Azure Automated Machine Learning, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230205172942-azure-slides.pdf">slides</a>]
 
 + M. A. Azeem, P. Dey, and S. Dev, A Multidimensionality Reduction Approach to Rainfall Prediction, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230205172511-rainfall-prediction-slides.pdf">slides</a>]
