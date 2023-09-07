@@ -17,6 +17,7 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 #### Recent News
 
++ (September 2023): Heartiest welcome to Yao Wendong (Isaac), who joins us for pursuing PhD at our group. 
 + (July 2023): Our group has a strong presence at International Geoscience and Remote Sensing Symposium (IGARSS 2023) with 9 papers. Say hi to us at Pasadena, California if you are attending!
 + (July 2023): Our group has a strong presence at Progress In Electromagnetics Research Symposium (PIERS 2023) with 6 papers. Say hi to us at Prague, Czech Republic if you are attending! 
 + (June 2023): Welcome to Lucian Fairbrother from Brandeis University, United States to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as a summer intern.

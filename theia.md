@@ -70,6 +70,17 @@ None at this moment.
 
 
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Yao-Wendong.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Yao Wendong (Isaac)</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He completed his B Eng degree from Beijing-Dublin International College (BDIC), Beijing, China, majoring in Internet of Things. His research interests include remote sensing and machine learning, researching on object detection and classification in remote sensing satellite images. 
+</div>
+</div>
+
+
+<br />
+
+
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Mena.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Menatallah Abdel Azeem</b> is a PhD student at University College Dublin researching in the area of climate analytics. She is also an Azure Data & AI Cloud Solution Architect at Microsoft, covering multiple regions. She has 15+ years of experience in data-related roles in various sectors such as telecom, banking, and government. Menatallah holds a Master of Software Engineering from Nile University and a Master of Business Administration from ESLSCA University. Her research interests include big data, machine learning, and cloud computing.
