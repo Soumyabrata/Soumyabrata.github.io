@@ -32,6 +32,7 @@ sidebar:
 
 ### Outreach and Community Engagement
 
++ 2023: Delivered a talk on 'Remote Sensing for Climate, Air Quality, and Weather Prediction' at the John McCarthy AI Summer School event - AI for Sustainability, 7 September 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/09/rdihub-7sep2023.pdf">slides</a>] [<a href="https://twitter.com/SoumyabrataDev/status/1700022314421887168">Tweet</a>] [<a href="https://www.eventbrite.ie/e/artificial-intelligence-summer-school-event-ai-for-sustainability-tickets-698300324067">Event</a>]
 + 2023: Delivered a talk on the EDI (Equality Diversity and Inclusion) topic 'Let's Talk About Race: Bridging the Gap in Science', organised by the EDI School of Chemistry, University College Dublin, 19 April 2023. [<a href="https://demo5613.files.wordpress.com/2023/04/edi-talk-april2023.pdf">slides</a>] [<a href="https://twitter.com/SoumyabrataDev/status/1649081919936577537">Tweet</a>]
 + 2021: Participated in a <a href="https://ieeeukiyp.org/3rd_stem/schedule/">panel discussion</a> at Third IEEE UK&I YP Postgrad STEM Research Symposium on the future of STEM in a shifting landscape, organised by IEEE UK & Ireland Young Professionals, Nov 10, 2021, at Dublin, Ireland.
 + 2021: UCD Earth Institute workshop, and spoke on our recent project of imaging the atmosphere using low-cost cameras, March 24, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/03/collab_workshop_1.pdf">slides</a>]
