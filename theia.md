@@ -68,6 +68,27 @@ None at this moment.
 
 <div class="row">
 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Yue-Li.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Li Yue (Lychee)</b> is a PhD student at UCD under the supervision of Dr Soumyabrata Dev. She completed her Masters degree in Computer Technology in Xi'an Shiyou University, China, majoring in natural language processing. Her research interests include computer vision, deep learning and machine learning. 
+</div>
+</div>
+
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Yiteng-Zhang.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Yiteng Zhang</b> is pursuing his PhD at the School of Computer Science, University College Dublin, under the supervision of Dr Soumyabrata Dev. He received his BSc degree in Software Engineering from Beijing University of Technology, Beijing, as well as B.Eng degree from University College Dublin, Ireland. His research interests include machine learning and computer image recognition applied to atmospheric science and green energy.
+</div>
+</div>
+
+
+<br />
+
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Yao-Wendong.png" | prepend:site.baseurl }}">
@@ -164,6 +185,16 @@ None at this moment.
 ### Grad Students 
 
 <div class="row">
+	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Shane-Smyth.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Shane Smyth</b> is pursuing a MSc (Research) at the School of Computer Science, University College Dublin, under the supervision of Dr Soumyabrata Dev. Shane has completed his BSc at the Institute of Art, Design and Technology, Dún Laoghaire. His research interests include machine learning, deep learning, and computer vision. He is currently researching nearshore wave prediction using deep learning.
+</div>
+</div>
+
+<br />
+
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Zixiang-Xu.png" | prepend:site.baseurl }}">

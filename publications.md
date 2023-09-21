@@ -105,6 +105,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  M. Jain, N. Jain, N. Sinha, and S. Dev, A Systematic Spatio-temporal Analysis of Relevant Meteorological Variables for Solar Irradiance Forecasting, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023. 
 
++  M. Jain, and S. Dev, Truly Generative Data Augmentation for Image Segmentation - Case of Cloud Images, *Tiny Papers Track at International Conference on Learning Representations (ICLR)*, 2023. 
+
 + M. A. Azeem, and S. Dev, Rainfall Prediction Using Azure Automated Machine Learning, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230205172942-azure-slides.pdf">slides</a>]
 
 + M. A. Azeem, P. Dey, and S. Dev, A Multidimensionality Reduction Approach to Rainfall Prediction, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230205172511-rainfall-prediction-slides.pdf">slides</a>]
