@@ -16,7 +16,8 @@ Welcome to the <a href="https://soumyabrata.github.io/theia/">THEIA: THE visIon 
 <br />
     <img src="{{ site.url }}/images/theia/THEIA-Sep2023-800.png">
     *THEIA Lab group members (dt. Sept 2023)* 
-	
+
+<br />	
 Our research interests are in the area of computer vision, image processing, and remote sensing. We use techniques from statistical machine learning and deep learning, to solve interdisciplinary computational problems in various fields of digital multimedia, atmospheric research, and solar and renewable energy. 
 
 <br />
