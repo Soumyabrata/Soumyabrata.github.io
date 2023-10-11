@@ -87,6 +87,10 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ Y. Li, H. Wang, Z. Li, S. Wang, S. Dev, G. Zuo, DAANet: Dual Attention Aggregating Network for Salient Object Detection, *Proc. IEEE International Conference on Robotics and Biomimetics*, 2023. 
+
++ Z. Li, H. Wang, Y. Li, S. Dev, and G. Zuo, VGRISys: A Vision-Guided Robotic Intelligent System for Autonomous Instrument Calibration, *Proc. IEEE International Conference on Robotics and Biomimetics*, 2023. 
+
 +  J. Wu, C. O'Sullivan, F. Orlandi, D. O'Sullivan, and S. Dev, Measurement of Industrial Smoke Plumes from Satellite Images, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
 
 +  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Ontological Modeling of Climate Data to Improve Climate Analytics, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
