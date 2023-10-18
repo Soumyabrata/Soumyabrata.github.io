@@ -71,6 +71,18 @@ None at this moment.
 ### PhD Students
 
 <div class="row">
+	
+	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Priscilla-Adong120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Priscilla Adong</b> is a PhD student at University College Dublin. Her research areas include machine learning, remote sensing and air quality. She holds a Masters in Data Communications and Software Engineering and a Bachelors in Computer Science from Makerere University. Prior to starting her PhD, she worked as a data scientist at AirQo-Makerere University, where she focused on building, validating and maintaining predictive air quality models. Her work directly contributed to addressing environmental challenges and improving the well-being of the community.
+</div>
+</div>
+
+
+<br />
+
 
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Yue-Li.png" | prepend:site.baseurl }}">
@@ -229,10 +241,33 @@ None at this moment.
 <div class="row">
 
 
-None at this moment. 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Bori120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Toluwabori Akinola</b> is a current undergraduate pursuing a Bachelors degree in Computer Science with Data Science from UCD. He enjoys coding and looks for ways to apply his coding skills to solve real-world problems which can deliver a huge impact to the world.
+</div>
+</div>
+
+<br />
 
 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/EvinOS120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Evin O'Sullivan</b> is currently pursuing his BS in Computer Science at UCD. His main areas of interest include machine learning, computer vision and deep learning.
+</div>
+</div>
 
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Jason120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Jason Lok</b> is currently pursuing his BSc in Computer Science at UCD. His primary focus is on the topics of machine learning and computer vision.
+</div>
+</div>
 	
 </div>
 

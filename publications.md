@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ A. Antal-Berbecaru, A. L. Costuchen, and S. Dev, Survey Gamification: Engaging Generation Z, *Computers in the Schools*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/10/manuscript.pdf">PDF</a>]
+
 + H. Wang, Y. Li, K. Gong, M. S. Pathan, B. Zhu, Z. Wen, and S. Dev, MFCSNet: A Musician-Follower Complex Social Network for measuring musical influence, *Entertainment Computing*, 2023.
 
 + Q. Paletta, G. Terrén-Serrano, Y. Nie, B. Li, J. Bieker, W. Zhang, L. Dubus, S. Dev, C. Feng, Advances in Solar Forecasting: Computer Vision with Deep Learning, *Advances in Applied Energy*, 2023.
