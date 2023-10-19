@@ -70,6 +70,7 @@ sidebar:
 
 ### Technical Program Committee
 
++ 2024: <a href="https://www.iaria.org/conferences2024/ComCOGNITIVE24.html">COGNITIVE 2024</a>, Sixteenth International Conference on Advanced Cognitive Technologies and Applications
 + 2023: <a href="https://www.universityofgalway.ie/c3i/news-&-events/imvip_2023/conference_chairs_committee_members/#">IMVIP 2023</a>, 25th Irish Machine Vision and Image Processing (IMVIP)
 + 2022: <a href="https://imvipconference.github.io/#contact">IMVIP 2022</a>, 23rd Irish Machine Vision and Image Processing (IMVIP)
 + 2022: <a href="https://www.iaria.org/conferences2022/ComCOGNITIVE22.html">COGNITIVE 2022</a>, Fourteenth International Conference on Advanced Cognitive Technologies and Applications
