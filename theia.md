@@ -185,7 +185,7 @@ None at this moment.
 <br />
 
 	
-   	<div class="col-xs-2">
+<div class="col-xs-2">
        <a href="https://github.com/futaoo">
          <img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
        </a>
@@ -220,17 +220,6 @@ None at this moment.
 <b>Shane Smyth</b> is pursuing a MSc (Research) at the School of Computer Science, University College Dublin, under the supervision of Dr Soumyabrata Dev. Shane has completed his BSc at the Institute of Art, Design and Technology, Dún Laoghaire. His research interests include machine learning, deep learning, and computer vision. He is currently researching nearshore wave prediction using deep learning.
 </div>
 </div>
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Zixiang-Xu.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Zixiang Xu (Dante)</b> is pursuing his MSc at the School of Computer Science, University College Dublin. His project is supervised by Dr Abraham Campbell and Dr Soumyabrata Dev. Zixiang received his undergraduate from Beijing-Dublin International College. His research interests include virtual reality, augmented reality, data visualization and machine learning. Currently, he is working with CONSUS to visualize the farming data into 3D graphs and output them with augmented reality technology in devices.
-</div>
-</div>
-
 
 
 </div>
@@ -305,10 +294,6 @@ None at this moment.
 </div>
 
 
-
-
-
-
 </div>
 
  
@@ -326,17 +311,15 @@ None at this moment.
 
 
 #### Masters
-+ Yuan Liang (Nick), UCD MS, AY 2021-23
-+ Mark Crowley, UCD MS (EEE), AY 2022-23
++ Zixiang Xu (Dante), UCD MS (Research), AY 2020-22
++ Yuan Liang (Nick), UCD MS (Research), AY 2020-22
++ Mark Crowley, UCD MS Electrical and Electronic (EEE), AY 2022-23
 + <a href="https://www.linkedin.com/in/nicholas-danesi/">Nicholas Danesi</a>, UCD MS, AY 2020-21 (Next stop: Project Officer, Energy Demand and Efficiency Policy at Department of Energy, Environment and Climate Action, Australia)
 + <a href="https://www.linkedin.com/in/jason-john-walsh/">Jason Walsh</a>, UCD MS, AY 2020-21 (Next stop: PhD student at at University College Dublin, Ireland)
-+ <a href="https://www.linkedin.com/in/barry-mcnicholl-86287120a/">Barry McNicholl</a>, UCD MS, AY 2020-21 (Next stop:  Design Engineer at Microchip Technology, Ireland)
++ <a href="https://www.linkedin.com/in/barry-mcnicholl-86287120a/">Barry McNicholl</a>, UCD MS Electrical and Electronic (EEE), AY 2020-21 (Next stop:  Design Engineer at Microchip Technology, Ireland)
 + Ankur Patil, NCI MSc, AY 2018-19
 + <a href="https://www.linkedin.com/in/jyotsnapatel26/">Jyotsna Patel</a>, NCI MSc, AY 2018-19 (Next stop:  Engineering Doctorate at Eindhoven University of Technology, Netherlands)
 + <a href="https://www.linkedin.com/in/shamrock-chidozie-nwosu/">Chidozie Shamrock Nwosu</a>, NCI MSc, AY 2018-19 (Next stop: Data Analyst at Monaghan Electrical Ltd, Ireland)
-
-
-
 
 
 
@@ -412,10 +395,6 @@ All great research starts with a story. Our group's name THEIA lab is derived fr
 
 
 
-
-
-
-
 <!---
 Previous team members detailed biography
 
@@ -463,7 +442,6 @@ PhD:
 
 Masters:
 
-
 <br />
 
 <div class="col-xs-2">
@@ -474,6 +452,18 @@ Masters:
 </div>
 
 <br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Zixiang-Xu.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Zixiang Xu (Dante)</b> is pursuing his MSc at the School of Computer Science, University College Dublin. His project is supervised by Dr Abraham Campbell and Dr Soumyabrata Dev. Zixiang received his undergraduate from Beijing-Dublin International College. His research interests include virtual reality, augmented reality, data visualization and machine learning. Currently, he is working with CONSUS to visualize the farming data into 3D graphs and output them with augmented reality technology in devices.
+</div>
+</div>
+
+
+<br />
+
 
 <div class="col-xs-2">
 <a href="https://www.linkedin.com/in/nicholas-danesi/">
