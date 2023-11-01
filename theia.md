@@ -315,7 +315,7 @@ None at this moment.
 ### Alumni
 
 #### Postdoctoral researchers
-+ <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">Muhammad Salman PATHAN</a>, Postdoc, AY 2021-23 (Next stop: Senior Postdoctoral Researcher, Maynooth University, Ireland)
++ <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">Muhammad Salman PATHAN</a>, Postdoc, AY 2021-23 (Next stop: Senior Postdoctoral Researcher, Maynooth University, Ireland)<br />
 <img class="people-pic" src="{{ "/images/theia/Salman-Khan.png" | prepend:site.baseurl }}">
 
 #### PhD
