@@ -74,6 +74,18 @@ None at this moment.
 	
 	
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Ifran-Rahman120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Ifran Rahman Nijhum</b> is currently a PhD student at University College Dublin, specializing in solar power forecasting and estimation using artificial intelligence techniques. Before this current role, Ifran served as a Lecturer at RTM Al-Kabir Technical University, Bangladesh and worked as a Research Assistant at TnR Lab, North South University, Bangladesh. His academic and research journey began with a Bachelor of Science degree in Computer Science and Engineering from North South University, Bangladesh. His primary research interest lies in deep learning, computer vision, and their applications in various fields. 
+</div>
+</div>
+
+
+<br />
+
+	
+	
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Priscilla-Adong120.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Priscilla Adong</b> is a PhD student at University College Dublin. Her research areas include machine learning, remote sensing and air quality. She holds a Masters in Data Communications and Software Engineering and a Bachelors in Computer Science from Makerere University. Prior to starting her PhD, she worked as a data scientist at AirQo-Makerere University, where she focused on building, validating and maintaining predictive air quality models. Her work directly contributed to addressing environmental challenges and improving the well-being of the community.
@@ -87,7 +99,7 @@ None at this moment.
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Yue-Li.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Li Yue (Lychee)</b> is a PhD student at UCD under the supervision of Dr Soumyabrata Dev. She completed her Masters degree in Computer Technology in Xi'an Shiyou University, China, majoring in natural language processing. Her research interests include computer vision, deep learning and machine learning. 
+<b>Yue Li (Lychee)</b> is a PhD student at UCD under the supervision of Dr Soumyabrata Dev. She completed her Masters degree in Computer Technology in Xi'an Shiyou University, China, majoring in natural language processing. Her research interests include computer vision, deep learning and machine learning. 
 </div>
 </div>
 
@@ -219,17 +231,12 @@ None at this moment.
 </div>
 </div>
 
-<br />
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Yuan-Liang.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Yuan Liang (Nick)</b> is currently pursuing his MSc in Computer Science at University College Dublin. He received his BSc degree and B.Eng degree from Beijing University of Technology in Software Engineering.  His main areas of interest are computer vision, machine learning and deep learning. Currently, he is working on his thesis on the visualization of agricultural big data with machine learning.
-</div>
-</div>
 
 
 </div>
+
+
+
 
 
 
@@ -299,14 +306,7 @@ None at this moment.
 
 
 
-<br />
 
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Lucian-Fairbrother.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Lucian Fairbrother</b> is currently pursuing his BS in Computer Science at Brandeis University, United States. Lucian has previously worked in researching cybersecurity software. His main areas of interest are web automation, machine learning, and cyber security. 
-</div>
-</div>
 
 
 </div>
@@ -317,16 +317,16 @@ None at this moment.
 #### Postdoctoral researchers
 + <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">Muhammad Salman PATHAN</a>, Postdoc, AY 2021-23 (Next stop: Senior Postdoctoral Researcher, Maynooth University, Ireland)<br />
 <img class="people-pic" src="{{ "/images/theia/Salman-Khan.png" | prepend:site.baseurl }}">
-+ <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">XXX</a>, Postdoc, AY 2021-23 (Next stop: Senior Postdoctoral Researcher, Maynooth University, Ireland)<br />
-<img class="people-pic" src="{{ "/images/theia/Salman-Khan.png" | prepend:site.baseurl }}">
 
 
 
 #### PhD
-+ <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop:  Associate Lecturer, Universitat Politècnica de València (UPV), Spain)
++ <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop:  Associate Lecturer, Universitat Politècnica de València (UPV), Spain)<br />
+<img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
 
 
 #### Masters
++ Yuan Liang (Nick), UCD MS, AY 2021-23
 + Mark Crowley, UCD MS (EEE), AY 2022-23
 + <a href="https://www.linkedin.com/in/nicholas-danesi/">Nicholas Danesi</a>, UCD MS, AY 2020-21 (Next stop: Project Officer, Energy Demand and Efficiency Policy at Department of Energy, Environment and Climate Action, Australia)
 + <a href="https://www.linkedin.com/in/jason-john-walsh/">Jason Walsh</a>, UCD MS, AY 2020-21 (Next stop: PhD student at at University College Dublin, Ireland)
@@ -334,6 +334,10 @@ None at this moment.
 + Ankur Patil, NCI MSc, AY 2018-19
 + <a href="https://www.linkedin.com/in/jyotsnapatel26/">Jyotsna Patel</a>, NCI MSc, AY 2018-19 (Next stop:  Engineering Doctorate at Eindhoven University of Technology, Netherlands)
 + <a href="https://www.linkedin.com/in/shamrock-chidozie-nwosu/">Chidozie Shamrock Nwosu</a>, NCI MSc, AY 2018-19 (Next stop: Data Analyst at Monaghan Electrical Ltd, Ireland)
+
+
+
+
 
 
 #### Undergrads
@@ -379,8 +383,7 @@ None at this moment.
 
 #### Interns
 
-+ Akhil Chenna (National Institute of Technology Tiruchirappalli, India), UCD Intern, AY 2022--23
-+ Vinat Goyal (Indian Institute of Information Technology Pune, India), UCD Intern, AY 2022--23
++ Lucian Fairbrother (Brandeis University, United States), UCD Intern, AY 2022--23
 + <a href="https://tejasrin.gitlab.io/">Tejasri Nampally</a> ( Indian Institute of Technology Hyderabad, India), UCD Intern, AY 2022--23
 + Ansh Lodhi (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--23
 + Ambrish Kashyap (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--23
@@ -460,6 +463,17 @@ PhD:
 
 Masters:
 
+
+<br />
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Yuan-Liang.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Yuan Liang (Nick)</b> is currently pursuing his MSc in Computer Science at University College Dublin. He received his BSc degree and B.Eng degree from Beijing University of Technology in Software Engineering.  His main areas of interest are computer vision, machine learning and deep learning. Currently, he is working on his thesis on the visualization of agricultural big data with machine learning.
+</div>
+</div>
+
+<br />
 
 <div class="col-xs-2">
 <a href="https://www.linkedin.com/in/nicholas-danesi/">
@@ -729,6 +743,16 @@ Undergrads:
 ================================================================================================
 
 Interns:
+
+
+<br />
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Lucian-Fairbrother.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Lucian Fairbrother</b> is currently pursuing his BS in Computer Science at Brandeis University, United States. Lucian has previously worked in researching cybersecurity software. His main areas of interest are web automation, machine learning, and cyber security. 
+</div>
+</div>
  
  
  
