@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ P. Dey, S. Dev, and B. S. Phelan, CombineDeepNet: A Deep Network for Multi-Step Prediction of Near-Surface PM2.5 Concentration, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. 
+
 + A. Antal-Berbecaru, A. L. Costuchen, and S. Dev, Survey Gamification: Engaging Generation Z, *Computers in the Schools*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/10/manuscript.pdf">PDF</a>]
 
 + H. Wang, Y. Li, K. Gong, M. S. Pathan, B. Zhu, Z. Wen, and S. Dev, MFCSNet: A Musician-Follower Complex Social Network for measuring musical influence, *Entertainment Computing*, 2023.

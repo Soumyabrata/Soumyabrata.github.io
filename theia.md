@@ -277,15 +277,7 @@ None at this moment.
 
 <div class="row">
 	
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Abhishek-Gautam.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Abhishek Gautam</b> is currently pursuing B.Tech in Engineering Physics at Indian Institute of Technology, Guwahati, India. His main areas of interest include machine learning, computer vision, and product design. 
-</div>
-</div>
 
-
-<br />
 	
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Pardhu-Nadella.png" | prepend:site.baseurl }}">
@@ -324,6 +316,7 @@ None at this moment.
 
 #### Postdoctoral researchers
 + <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">Muhammad Salman PATHAN</a>, Postdoc, AY 2021-23 (Next stop: Senior Postdoctoral Researcher, Maynooth University, Ireland)
+<img class="people-pic" src="{{ "/images/theia/Salman-Khan.png" | prepend:site.baseurl }}">
 
 #### PhD
 + <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop:  Associate Lecturer, Universitat Politècnica de València (UPV), Spain)
@@ -734,6 +727,15 @@ Undergrads:
 Interns:
  
  
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Abhishek-Gautam.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Abhishek Gautam</b> is currently pursuing B.Tech in Engineering Physics at Indian Institute of Technology, Guwahati, India. His main areas of interest include machine learning, computer vision, and product design. 
+ </div>
+ </div>
+
+ <br />
  
  <div class="col-xs-2">
  <img class="people-pic" src="{{ "/images/theia/Akhil-Chenna.png" | prepend:site.baseurl }}">
