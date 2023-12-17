@@ -19,6 +19,9 @@ sidebar:
 	- Aditya Kuppa (My role: Chair of Examination Committee, supervisor: Nhien-An Le-Khac)
 	- Muhammad Zahid Iqbal (My role: Chair of Examination Committee, supervisor: Abey Campbell)
 + Research Studies Panel (RSP) member for the following UCD doctoral students: 
+	- Yuan Liang (Supervisor: Abey Campbell, Sourav Bhattacharjee)
+	- Paul James Banahan (Supervisor: Aonghus Lawlor, Brian Mac Namee)
+	- Huan Chen (Supervisor: Rob Brennan)
 	- Daniel Anojan Atputharuban (Supervisor: Aonghus Lawlor)
 	- Jiwei Zhang (Supervisor: David Lillis)
 	- Furqan Rustam (Supervisor: Anca Jurcut)
@@ -26,7 +29,7 @@ sidebar:
 	- Duc-Anh Nguyen (Supervisor: Nhien-An Le-Khac)
 	- John O'Meara (Supervisor: Anca Jurcut)
 	- Siteng Ma (Supervisor: Ruihai Dong, Aonghus Lawlor)
-	- Jinyan Yang (Supervisor: Abey Campbell)
+	- Jinyuan Yang (Supervisor: Abey Campbell)
 	- Chamin Nalinda (Supervisor: Michela Bertolotto, Nhien-An Le-Khac)
 + Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, AY 2019--20, AY 2020--21, University College Dublin.
 
@@ -70,6 +73,7 @@ sidebar:
 
 ### Technical Program Committee
 
++ 2024: <a href="https://www.iaria.org/conferences2024/ComeLmL24.html">eLmL 2024</a>, Sixteenth International Conference on Mobile, Hybrid, and On-line Learning
 + 2024: <a href="https://www.iaria.org/conferences2024/ComCOGNITIVE24.html">COGNITIVE 2024</a>, Sixteenth International Conference on Advanced Cognitive Technologies and Applications
 + 2023: <a href="https://www.universityofgalway.ie/c3i/news-&-events/imvip_2023/conference_chairs_committee_members/#">IMVIP 2023</a>, 25th Irish Machine Vision and Image Processing (IMVIP)
 + 2022: <a href="https://imvipconference.github.io/#contact">IMVIP 2022</a>, 23rd Irish Machine Vision and Image Processing (IMVIP)

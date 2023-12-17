@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ R. Das\*, N. Wu\*, and S. Dev, Leveraging Facial Expressions as Emotional Context in Image Captioning, *Multimedia Tools and Applications*, 2023. (\* Authors contributed equally).
+
 + P. Dey, S. Dev, and B. S. Phelan, CombineDeepNet: A Deep Network for Multi-Step Prediction of Near-Surface PM2.5 Concentration, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2023. 
 
 + A. Antal-Berbecaru, A. L. Costuchen, and S. Dev, Survey Gamification: Engaging Generation Z, *Computers in the Schools*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/10/manuscript.pdf">PDF</a>]
@@ -91,11 +93,23 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ Y. Zhang, A. Pakrashi, and S. Dev, Assessing Interconnected Factors in CO2 Emissions: A Case Study of India Using Principal Component Analysis, *Proc. IEEE Conference on Energy Internet and Energy System Integration*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/12/yiteng-ei2-paper6677.pdf">slides</a>]
+
++ W. Yao, S. Donohue, and S. Dev, Optimizing Remote Sensing Image Classification with Spectral Indices and Convolutional Neural Networks, *Proc. IEEE Conference on Energy Internet and Energy System Integration*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/12/ei2-2023-wendong-8729.pdf">slides</a>]
+
++ I. R. Nijhum, P. Kenny, and S. Dev, Intra-Hour Solar Irradiance Estimation Using Infrared Sky Images and MobileNetV2-Based CNN Regression, *Proc. IEEE Conference on Energy Internet and Energy System Integration*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/12/ei2023-solar-irradiance-paper8145.pdf">slides</a>]
+
++ N. Akrami, Y. Li, P. Dey, and S. Dev, Spatial-Temporal-TES: Reanalysis Dataset based Short-Term Temperature Forecasting System, *Proc. IEEE Conference on Energy Internet and Energy System Integration*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/12/6399_spatial-temporal-tes-reanalysis-dataset-based-short-term-temperature-forecasting-system.pdf">slides</a>]
+
++ Y. Li\*, N. Akrami\*, and S. Dev, Harnessing ERA5 Reanalysis Data for Improved Long-Term Rainfall Forecasting in Southern Iran, *Proc. IEEE Conference on Energy Internet and Energy System Integration*, 2023. (\* Authors contributed equally). [<a href="https://soumyabratadev.files.wordpress.com/2023/12/960_harnessing-era5-reanalysis-data.pdf">slides</a>]
+
++ S. Smyth, C. O'Sullivan, A. Pakrashi, and S. Dev, Nearshore Wave Prediction for renewable energy: Initial Results with Remote Sensing and Buoy Data, *Proc. IEEE Conference on Energy Internet and Energy System Integration*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/12/ei2-buoy-paper8724.pdf">slides</a>]
+
 + Y. Li, H. Wang, Z. Li, S. Wang, S. Dev, G. Zuo, DAANet: Dual Attention Aggregating Network for Salient Object Detection, *Proc. IEEE International Conference on Robotics and Biomimetics*, 2023. 
 
 + Z. Li, H. Wang, Y. Li, S. Dev, and G. Zuo, VGRISys: A Vision-Guided Robotic Intelligent System for Autonomous Instrument Calibration, *Proc. IEEE International Conference on Robotics and Biomimetics*, 2023. 
 
-+  J. Wu, C. O'Sullivan, F. Orlandi, D. O'Sullivan, and S. Dev, Measurement of Industrial Smoke Plumes from Satellite Images, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
++ J. Wu, C. O'Sullivan, F. Orlandi, D. O'Sullivan, and S. Dev, Measurement of Industrial Smoke Plumes from Satellite Images, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
 
 +  J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Ontological Modeling of Climate Data to Improve Climate Analytics, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
 
