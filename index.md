@@ -18,7 +18,6 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 #### Recent News
 
 + (December 2023): Our group has a strong presence at 2023 Proc. IEEE Conference on Energy Internet and Energy System Integration with 6 papers. Say hi to us at Hangzhou, China if you are attending! 
-
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
 
 
