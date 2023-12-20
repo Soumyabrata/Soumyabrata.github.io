@@ -9,6 +9,16 @@ sidebar:
   nav: sidebar-news
 ---
 
+## 2023
++ (September 2023): Received funding from SFI National Challenges Fund - a €65m fund aiming to accelerate research addressing national challenges in the areas of Green Transition and Digital Transformation. [<a href="https://twitter.com/ucddublin/status/1702632558234648827">Tweet</a>] [<a href="https://www.ucd.ie/newsandopinion/news/2023/september/14/nineucdteamsawardedfundingunderfinalroundsof65mnationalchallengefund/">UCD</a>] [<a href="https://www.ucd.ie/earth/newsevents/news/body,704670,en.html">Earth Institute</a>]
++ (September 2023): Heartiest welcome to Toluwabori Akinola, Evin O'Sullivan, and Jason Lok who joins us for their year-long BSc Final Year Project at our group. 
++ (September 2023): Heartiest welcome to Shane Smyth who joins us for pursuing MS (Research) at our group. 
++ (September 2023): Heartiest welcome to Yao Wendong (Isaac), Yiteng Zhang, Yue Li (Lychee), Priscilla Adong, and Ifran Rahman Nijhum who joins us for pursuing PhD at our group. 
++ (July 2023): Our group has a strong presence at International Geoscience and Remote Sensing Symposium (IGARSS 2023) with 9 papers. Say hi to us at Pasadena, California if you are attending!
++ (July 2023): Our group has a strong presence at Progress In Electromagnetics Research Symposium (PIERS 2023) with 6 papers. Say hi to us at Prague, Czech Republic if you are attending! 
++ (June 2023): Welcome to Lucian Fairbrother from Brandeis University, United States to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as a summer intern.
++ (January 2023): Welcome to Menatallah Abdel Azeem to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as a PhD student.
+
 ## 2022
 + (September 2022): Welcome to Atseosi Idogho, Nan Wu, Loghlen Rickard, Ammar Abdalla, and Tom Higgins who joins us for their final year projects in AY 2022/23.
 + (August 2022): Welcome to Riju Das, Prasanjit Dey, Sukriti Dhang, and Conor O'Sullivan to our <a href="https://soumyabrata.dev/theia/">group</a>, who joins us as PhD students starting from Fall 2022 sesssion. Best wishes to all of you. 
