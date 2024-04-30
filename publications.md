@@ -12,6 +12,10 @@ sidebar:
 
 ## Journals
 
++ M. Jain, P. Yadav, and S. Dev, Holistic and Lightweight Approach for Solar Irradiance Forecasting, *IEEE Transactions on Geoscience and Remote Sensing*, 2024. 
+
++ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, LinkedGeoClimate: An Interoperable Platform for Climate Data Access within Geographical Context, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024. 
+
 + J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, On the Use of Virtual Knowledge Graphs to Improve Environmental Sensor Data Accessibility, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024. 
 
 + M. Imam, S. Adam, S. Dev, and N Nesa, Air Quality Monitoring Using Statistical Learning Models for Sustainable Environment, *Intelligent Systems with Applications*, 2024. 
@@ -100,6 +104,14 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
  
 ## Conferences
+
++  P. Dey, S. Dhang, S. Dev, and B. Schoen-Phelan, NES-VIT-NET: A Nested Vision Transformer-based Network for Near-surface NO2 Estimation from Satellite and Ground Observations, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
+
++  S. Dhang, P. Dey, M. Zhang, and S. Dev, USE-NET: Satellite Data-based Framework for Optimizing Billboard Placement in Urban Areas, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
+
++  Y. Li, H. Wang, S. Wang, Y. H. Lee, M. S. Pathan, and S. Dev, UCLOUDNET: A Residual U-net with Deep Supervision for Cloud Image Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
+
++  I. R. Nijhum, D. Kaloni, P. Kenny, S. Dev, Enhancing Intra-hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
 
 + Y. Zhang, A. Pakrashi, and S. Dev, Assessing Interconnected Factors in CO2 Emissions: A Case Study of India Using Principal Component Analysis, *Proc. IEEE Conference on Energy Internet and Energy System Integration*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/12/yiteng-ei2-paper6677.pdf">slides</a>]
 
@@ -360,6 +372,20 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 
 ## Others
+
++ W. Yao, S. Donohue, and S. Dev, Optimizing Remote Sensing Image Classification with Spectral Indices and Convolutional Neural Networks, *ADAPT Internal Scientific Conference*, 2024. 
+
++ I. R. Nijhum, D. Kaloni, P. Kenny, and S. Dev, Enhancing Intra-Hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images, *ADAPT Internal Scientific Conference*, 2024. 
+
++ Y. Zhang, A. Pakrashi, and S. Dev, Assessing Interconnected Factors in CO2 Emissions: A Case Study of India Using Principal Component Analysis, *ADAPT Internal Scientific Conference*, 2024. 
+
++ R. Das, and S. Dev, Exploring Student Engagement: Bridging the Gap Between Facial Features and Engagement, *ADAPT Internal Scientific Conference*, 2024. 
+
++ P. Dey, S. Dev, and B. Schoen-Phelan, Nes-ViT-Net: A Nested Vision Transformer-Based Network for Near-Surface NO2 Estimation from Satellite and Ground Observations, *ADAPT Internal Scientific Conference*, 2024. 
+
++ S. Smyth, C. O'Sullivan, A. Pakrashi, and S. Dev, Nearshore Wave Prediction for Renewable Energy: Initial Results with Remote Sensing and Buoy Data, *ADAPT Internal Scientific Conference*, 2024. 
+
++ S. Dhang, M. Zhang, and S. Dev, Advertisement Localization in Outdoor Scenes, *ADAPT Internal Scientific Conference*, 2024. 
 
 + A. Abdelkader, A. Nautiyal, C. Conran, D. McKibben, D. Turner, F. Piti&eacute;, J. Vreeke, K. McCabe, M. Hossari, M. Nicholsan, S. Dev, "An Advert Creation System for Next-Gen Publicity", 3rd Annual Huawei Ireland Video Intelligence Forum 2018, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/huawei-video-forum2018.pdf">PDF</a>]
 
