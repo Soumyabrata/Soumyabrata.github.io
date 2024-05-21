@@ -373,25 +373,23 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 ## Others
 
-+ W. Yao, S. Donohue, and S. Dev, Optimizing Remote Sensing Image Classification with Spectral Indices and Convolutional Neural Networks, *ADAPT Internal Scientific Conference*, 2024. 
++ W. Yao, S. Donohue, and S. Dev, Optimizing Remote Sensing Image Classification with Spectral Indices and Convolutional Neural Networks, *ADAPT Internal Scientific Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/yao2024.pdf">poster</a>]
 
-+ I. R. Nijhum, D. Kaloni, P. Kenny, and S. Dev, Enhancing Intra-Hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images, *ADAPT Internal Scientific Conference*, 2024. 
++ I. R. Nijhum, D. Kaloni, P. Kenny, and S. Dev, Enhancing Intra-Hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images, *ADAPT Internal Scientific Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/nijhum2024.pdf">poster</a>]
 
-+ Y. Zhang, A. Pakrashi, and S. Dev, Assessing Interconnected Factors in CO2 Emissions: A Case Study of India Using Principal Component Analysis, *ADAPT Internal Scientific Conference*, 2024. 
++ Y. Zhang, A. Pakrashi, and S. Dev, Assessing Interconnected Factors in CO2 Emissions: A Case Study of India Using Principal Component Analysis, *ADAPT Internal Scientific Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/zhang2024.pdf">poster</a>]
 
-+ R. Das, and S. Dev, Exploring Student Engagement: Bridging the Gap Between Facial Features and Engagement, *ADAPT Internal Scientific Conference*, 2024. 
++ R. Das, and S. Dev, Exploring Student Engagement: Bridging the Gap Between Facial Features and Engagement, *ADAPT Internal Scientific Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/das2024.pdf">poster</a>]
 
-+ P. Dey, S. Dev, and B. Schoen-Phelan, Nes-ViT-Net: A Nested Vision Transformer-Based Network for Near-Surface NO2 Estimation from Satellite and Ground Observations, *ADAPT Internal Scientific Conference*, 2024. 
++ P. Dey, S. Dev, and B. Schoen-Phelan, Nes-ViT-Net: A Nested Vision Transformer-Based Network for Near-Surface NO2 Estimation from Satellite and Ground Observations, *ADAPT Internal Scientific Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/dey2024.pdf">poster</a>]
 
-+ S. Smyth, C. O'Sullivan, A. Pakrashi, and S. Dev, Nearshore Wave Prediction for Renewable Energy: Initial Results with Remote Sensing and Buoy Data, *ADAPT Internal Scientific Conference*, 2024. 
++ S. Smyth, C. O'Sullivan, A. Pakrashi, and S. Dev, Nearshore Wave Prediction for Renewable Energy: Initial Results with Remote Sensing and Buoy Data, *ADAPT Internal Scientific Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/smyth2024.pdf">poster</a>]
 
-+ S. Dhang, M. Zhang, and S. Dev, Advertisement Localization in Outdoor Scenes, *ADAPT Internal Scientific Conference*, 2024. 
++ S. Dhang, M. Zhang, and S. Dev, Advertisement Localization in Outdoor Scenes, *ADAPT Internal Scientific Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/dhang2024.pdf">poster</a>]
 
 + A. Abdelkader, A. Nautiyal, C. Conran, D. McKibben, D. Turner, F. Piti&eacute;, J. Vreeke, K. McCabe, M. Hossari, M. Nicholsan, S. Dev, "An Advert Creation System for Next-Gen Publicity", 3rd Annual Huawei Ireland Video Intelligence Forum 2018, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/huawei-video-forum2018.pdf">PDF</a>]
 
-<!---
 + T. AlSkaif, S. Dev, L. Visser, M. Hossari, W. van Sark, "On the Analysis and Evaluation of Meteorological Variables for Photovoltaic Output Power Estimation", ACOS 2018 - Applied Computational Science Symposium, October 2018. [<a href="https://soumyabratadev.files.wordpress.com/2018/10/acos18.pdf">PDF</a>]
--->
 
 + S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, "Cloud Imaging Using Ground-based Sky Cameras", ADSC PhD day, Singapore, August 2016. [<a href="https://soumyabratadev.files.wordpress.com/2016/08/adsc-phd-day.pdf">PDF</a>]
 
@@ -401,7 +399,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 
 
-<sub><sup>&copy; 2008-2021 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works. </sup></sub>
+<sub><sup>&copy; 2008-2024 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works. </sup></sub>
 
 
 <sub><sup>&copy; This material on this page is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. </sup></sub>
