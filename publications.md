@@ -12,6 +12,10 @@ sidebar:
 
 ## Journals
 
++ C. O'Sullivan, A. Kashyap, S. Coveney, X. Monteys, and S. Dev, Enhancing Coastal Water Body Segmentation with Landsat Irish Coastal Segmentation (LICS) Dataset, Remote Sensing Applications: Society and Environment, 2024.
+
++ P. Dey, S. Dev, and B. S. Phelan, Predicting Multivariate Air Pollution: A Gaussian-Mixture Nested Factorial Variational Autoencoder Approach, *IEEE Geoscience and Remote Sensing Letters*, 2024. 
+
 + M. Jain, P. Yadav, and S. Dev, Holistic and Lightweight Approach for Solar Irradiance Forecasting, *IEEE Transactions on Geoscience and Remote Sensing*, 2024. 
 
 + J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, LinkedGeoClimate: An Interoperable Platform for Climate Data Access within Geographical Context, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024. 
