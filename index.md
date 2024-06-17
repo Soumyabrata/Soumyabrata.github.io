@@ -17,7 +17,7 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 #### Recent News
 
-+ (December 2023): Our group has a strong presence at 2023 Proc. IEEE Conference on Energy Internet and Energy System Integration with 6 papers. Say hi to us at Hangzhou, China if you are attending! 
++ (March 2024): Mayank Jain has successfully defended his PhD thesis on "Facilitating the Inclusion of Photovoltaic Systems in Energy Grids". Huge thanks to examiners Prof Ulrich Bodenhofer, Prof Michela Bertolotto, and chair Assoc Prof Mark Scanlon. Congrats, Mayank! [<a href="https://twitter.com/SoumyabrataDev/status/1802632631072247940">tweet</a>] [<a href="https://www.ucd.ie/bdic/newsandevents/phdstudentdefendedhisthesisfundedbybdicscholarship/">news</a>]
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
 
 

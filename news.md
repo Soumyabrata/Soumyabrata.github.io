@@ -10,6 +10,7 @@ sidebar:
 ---
 
 ## 2023
++ (December 2023): Our group has a strong presence at 2023 Proc. IEEE Conference on Energy Internet and Energy System Integration with 6 papers. Say hi to us at Hangzhou, China if you are attending! [<a href="https://www.ucd.ie/bdic/newsandevents/bdicteachersrepresentingucdonieeeconferenceonenergyinternetandesiinhangzhou/">news</a>]
 + (September 2023): Received funding from SFI National Challenges Fund - a €65m fund aiming to accelerate research addressing national challenges in the areas of Green Transition and Digital Transformation. [<a href="https://twitter.com/ucddublin/status/1702632558234648827">Tweet</a>] [<a href="https://www.ucd.ie/newsandopinion/news/2023/september/14/nineucdteamsawardedfundingunderfinalroundsof65mnationalchallengefund/">UCD</a>] [<a href="https://www.ucd.ie/earth/newsevents/news/body,704670,en.html">Earth Institute</a>]
 + (September 2023): Heartiest welcome to Toluwabori Akinola, Evin O'Sullivan, and Jason Lok who joins us for their year-long BSc Final Year Project at our group. 
 + (September 2023): Heartiest welcome to Shane Smyth who joins us for pursuing MS (Research) at our group. 

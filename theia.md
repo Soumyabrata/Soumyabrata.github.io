@@ -209,16 +209,7 @@ None at this moment.
     </div>
 	
 	
-<br />
-	
-   	<div class="col-xs-2">
-       <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">
-         <img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
-       </a>
-       <div class="people-name">
-   	  <b>Mayank Jain</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He did his M.Sc. Artificial Intelligence from the University of Edinburgh in 2019, and B.Tech. IT and Mathematical Innovations - Major: Electronics and Robotics from the Cluster Innovation Centre, University of Delhi in 2015. He is the co-founder of Imfundo Technologies Pvt. Ltd., for which he worked as Director for 3 years. The startup was focused on introducing STEM education modules in a gamified manner for young kids. He has also been associated with Defence Terrain Research Laboratory (Defence Research and Development Organization, Government of India), Design Innovation Centre (University of Delhi) and Indian Institute of Technology (Mumbai, India) at various times in his academic career. He has been a recipient of several fellowships and scholarships, including the Scottish Saltire Scholarship, Delhi University Innovation Project Fellowship, Global Problem Solving Consortium - Water Sustainability Fellowship'2013 and UCD-CS PhD Scholarship. His major research interests are computer vision, deep learning, and robotics.
-       </div>
-    </div>
+
   
 </div>
 
@@ -262,33 +253,7 @@ None at this moment.
 <div class="row">
 
 
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Bori120.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Toluwabori Akinola</b> is a current undergraduate pursuing a Bachelors degree in Computer Science with Data Science from UCD. He enjoys coding and looks for ways to apply his coding skills to solve real-world problems which can deliver a huge impact to the world.
-</div>
-</div>
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/EvinOS120.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Evin O'Sullivan</b> is currently pursuing his BS in Computer Science at UCD. His main areas of interest include machine learning, computer vision and deep learning.
-</div>
-</div>
-
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Jason120.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Jason Lok</b> is currently pursuing his BSc in Computer Science at UCD. His primary focus is on the topics of machine learning and computer vision.
-</div>
-</div>
+None at this moment. 
 	
 </div>
 
@@ -332,6 +297,8 @@ None at this moment.
 
 
 #### PhD
++ <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">Mayank Jain</a>, PhD, Jan 2020 till Dec 2023 (Next stop:  Research Assistant, University College Dublin, Ireland)<br />
+<img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
 + <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop:  Associate Lecturer, Universitat Politècnica de València (UPV), Spain)<br />
 <img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
 
@@ -350,6 +317,9 @@ None at this moment.
 
 
 #### Undergrads
++ Toluwabori Akinola, UCD FYP, AY 2023-24
++ Evin O'Sullivan, UCD FYP, AY 2023-24
++ Jason Lok, UCD FYP, AY 2023-24
 + Tom Higgins, UCD FYP, AY 2022-23
 + <a href="https://www.linkedin.com/in/atseosi-idogho/">Atseosi Idogho</a>, UCD FYP, AY 2022-23
 + <a href="https://www.linkedin.com/in/itsnanwu/">Nan Wu</a>, UCD FYP, AY 2022-23
@@ -442,6 +412,24 @@ Postdoc:
 
 PhD:
 
+
+
+	
+   	<div class="col-xs-2">
+       <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">
+         <img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
+       </a>
+       <div class="people-name">
+   	  <b>Mayank Jain</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He did his M.Sc. Artificial Intelligence from the University of Edinburgh in 2019, and B.Tech. IT and Mathematical Innovations - Major: Electronics and Robotics from the Cluster Innovation Centre, University of Delhi in 2015. He is the co-founder of Imfundo Technologies Pvt. Ltd., for which he worked as Director for 3 years. The startup was focused on introducing STEM education modules in a gamified manner for young kids. He has also been associated with Defence Terrain Research Laboratory (Defence Research and Development Organization, Government of India), Design Innovation Centre (University of Delhi) and Indian Institute of Technology (Mumbai, India) at various times in his academic career. He has been a recipient of several fellowships and scholarships, including the Scottish Saltire Scholarship, Delhi University Innovation Project Fellowship, Global Problem Solving Consortium - Water Sustainability Fellowship'2013 and UCD-CS PhD Scholarship. His major research interests are computer vision, deep learning, and robotics.
+       </div>
+    </div>
+
+
+
+<br />
+
+
+
 <div class="col-xs-2">
 <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">
 <img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
@@ -533,6 +521,39 @@ Masters:
 Undergrads:
 
  
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Bori120.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Toluwabori Akinola</b> is a current undergraduate pursuing a Bachelors degree in Computer Science with Data Science from UCD. He enjoys coding and looks for ways to apply his coding skills to solve real-world problems which can deliver a huge impact to the world.
+ </div>
+ </div>
+
+ <br />
+
+
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/EvinOS120.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Evin O'Sullivan</b> is currently pursuing his BS in Computer Science at UCD. His main areas of interest include machine learning, computer vision and deep learning.
+ </div>
+ </div>
+
+
+ <br />
+
+
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Jason120.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Jason Lok</b> is currently pursuing his BSc in Computer Science at UCD. His primary focus is on the topics of machine learning and computer vision.
+ </div>
+ </div>
+
+
+
+ <br />
  
  <div class="col-xs-2">
  <img class="people-pic" src="{{ "/images/theia/Tom-Higgins.png" | prepend:site.baseurl }}">
