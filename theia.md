@@ -73,6 +73,20 @@ None at this moment.
 <div class="row">
 	
 	
+	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Sushma-Kumari-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Sushma Kumari</b> is currently working on her PhD at the School of Computer Science, University College Dublin, under the supervision of Dr Soumyabrata Dev. She is deeply interested in remote sensing and uses machine learning to analyse and classify hyperspectral images. Her focus is on evaluating water quality in inland areas using these methods. She earned a postgraduate diploma in Remote Sensing and Photogrammetry from the Indian Institute of Remote Sensing, ISRO, in 2018, where she specialized in Satellite Image Processing. With a Bachelor's degree in Electronics and Communication Engineering, Sushma has nearly five years of experience in both academia and industrial research. She recently worked as a Senior Research Engineer at Valeo India Private Limited, focusing on Lidar data processing for Advanced Driver Assistance Systems (ADAS). Previously, she conducted research on foggy image enhancement and satellite image processing for defence projects at institutions like CSIR-Central Institute of Mining and Fuel Research. Sushma also interned at the Indian Space and Research Organization (ISRO) in Ahmedabad in 2018. Her expertise lies in digital image processing, remote sensing, and machine learning, reflecting her dedication to advancing scientific knowledge in these areas.
+</div>
+</div>
+
+
+<br />
+
+
+	
+	
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Ifran-Rahman120.png" | prepend:site.baseurl }}">
 <div class="people-name">
@@ -214,6 +228,17 @@ None at this moment.
 
 <div class="row">
 	
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Zachary-Yahn-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Zachary Yahn</b> is pursuing a MSc Computer Science (Negotiated Learning) at University College Dublin as a Mitchell Scholar. Previously, he earned a Bachelor of Science degree from the University of Virginia, where he double majored in computer engineering and computer science. From 2024, he will pursue a PhD at Georgia Tech advised by Dr Ling Liu. His research interests are in remote sensing and trustworthy artificial intelligence. 
+</div>
+</div>
+	
+	
+<br />
+	
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Shane-Smyth.png" | prepend:site.baseurl }}">
 <div class="people-name">
@@ -273,12 +298,11 @@ None at this moment.
 
 <div class="row">
 	
-
 	
 <div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Pardhu-Nadella.png" | prepend:site.baseurl }}">
+<img class="people-pic" src="{{ "/images/theia/Alejandro-Mayagoitia-120.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Pardhu Nadella</b> is a recent graduate in Electronics and Communication Engineering from GRIET, India. He brings a wealth of internship experience spanning robotics, drones, machine learning, deep learning, and computer vision. His primary focus is on advancing technological boundaries in computer vision and deep learning.
+<b>Alejandro Mayagoitia</b> is a student in the class of 2025 at Yale University majoring in Electrical Engineering and Computer Science. He has previously worked as an intern at General Electric, where he worked on modeling the physics of gas generators. After completing his BS, he hopes to further study machine learning, robotics, and embedded systems. Outside of school, Alejandro likes to play music and travel, which he plans to do a lot of this summer.
 </div>
 </div>
 
@@ -286,12 +310,14 @@ None at this moment.
 <br />
 
 
+
 <div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Mohsin-Imam.png" | prepend:site.baseurl }}">
+<img class="people-pic" src="{{ "/images/theia/Hayden-Wilson-120.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Mohsin Imam</b> is a recent graduate from the University of Delhi with a major in Computer Science. He has previously worked as an intern at the National University of Malaysia and the University of Delhi in the domains of machine learning and information security. His primary research interests encompass machine learning, natural language processing, and blockchain.
+<b>Hayden Wilson</b> is an undergraduate electrical and computer engineering student specializing in biomedical sciences. He is currently studying at UCD during the summer term, and is a student at Southern Methodist University (SMU) in Dallas, Texas during the academic year.
 </div>
 </div>
+
 
 
 </div>
@@ -366,6 +392,8 @@ None at this moment.
 
 #### Interns
 
++ Pardhu Nadella (GRIET, India), UCD Intern, AY 2023--24
++ Mohsin Imam (University of Delhi, India), UCD Intern, AY 2023--24
 + Lucian Fairbrother (Brandeis University, United States), UCD Intern, AY 2022--23
 + <a href="https://tejasrin.gitlab.io/">Tejasri Nampally</a> ( Indian Institute of Technology Hyderabad, India), UCD Intern, AY 2022--23
 + Ansh Lodhi (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--23
@@ -733,6 +761,24 @@ Undergrads:
 ================================================================================================
 
 Interns:
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Pardhu-Nadella.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Pardhu Nadella</b> is a recent graduate in Electronics and Communication Engineering from GRIET, India. He brings a wealth of internship experience spanning robotics, drones, machine learning, deep learning, and computer vision. His primary focus is on advancing technological boundaries in computer vision and deep learning.
+</div>
+</div>
+
+
+<br />
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Mohsin-Imam.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Mohsin Imam</b> is a recent graduate from the University of Delhi with a major in Computer Science. He has previously worked as an intern at the National University of Malaysia and the University of Delhi in the domains of machine learning and information security. His primary research interests encompass machine learning, natural language processing, and blockchain.
+</div>
+</div>
 
 
 <br />
