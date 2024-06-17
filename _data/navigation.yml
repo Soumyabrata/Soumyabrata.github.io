@@ -42,20 +42,23 @@ sidebar-service:
 sidebar-research:
   - title: "Overview"
     url: /research/
-  - title: "Cloud Imaging"
-    url: /cloud/
+  - title: "Solar Energy"
+    url: /solar/
   - title: "Coastline Monitoring"
     url: /coastline/
-  - title: "Solar Energy"
-    url: /solar/	
-  - title: "Knowledge Graph"
-    url: /knowledgegraph/
+  - title: "Affective Computing"
+    url: /affectivecomputing/
   - title: "Product Placement"
     url: /advertisement/
+  - title: "Knowledge Graph"
+    url: /knowledgegraph/
+  - title: "Cloud Imaging"
+    url: /cloud/
   - title: "Security"
     url: /security/
   - title: "E-Health"
     url: /ehealth/
+
 
 
 sidebar-pubs:
