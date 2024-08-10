@@ -362,6 +362,7 @@ None at this moment.
 
 #### Interns
 
++ Priyanshu Mishra (Indian Institute of Technology, Jammu, India), UCD Intern, AY 2023--24
 + Pardhu Nadella (GRIET, India), UCD Intern, AY 2023--24
 + Mohsin Imam (University of Delhi, India), UCD Intern, AY 2023--24
 + Lucian Fairbrother (Brandeis University, United States), UCD Intern, AY 2022--23
