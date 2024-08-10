@@ -12,6 +12,10 @@ sidebar:
 
 ## Journals
 
++ F. Ullah, J. He, N. Zhu, A. Wajahat, A. Nazir, S. Qureshi, M. S. Pathan, and S. Dev , Blockchain-Enabled EHR Access Auditing: Enhancing Healthcare Data Security, Heliyon, 2024.
+
++ S. Dhang, M. Zhang, and S. Dev, AdSegNet: A deep network to localize billboard in outdoor scenes, Signal, Image and Video Processing, 2024.
+
 + C. O'Sullivan, A. Kashyap, S. Coveney, X. Monteys, and S. Dev, Enhancing Coastal Water Body Segmentation with Landsat Irish Coastal Segmentation (LICS) Dataset, Remote Sensing Applications: Society and Environment, 2024.
 
 + P. Dey, S. Dev, and B. S. Phelan, Predicting Multivariate Air Pollution: A Gaussian-Mixture Nested Factorial Variational Autoencoder Approach, *IEEE Geoscience and Remote Sensing Letters*, 2024. 
@@ -109,6 +113,16 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  R. Das, S. Dhang, and S. Dev, Integrated Approach for Simultaneous Estimation of Emotional States and Valence-Arousal Levels in Facial Images, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
+
++  I. R. Nijhum, M. Y. Hossain, M. M. H. Rakib, and S. Dev, On Improving Solar Forecasts with Enhanced IR Imaging and CNNs, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
+
++  M. Y. Hossain, I. R. Nijhum, M. M. H. Rakib, and S. Dev, Can Deep Learning Outperform Traditional Methods in Upscaling IR Images for Solar Irradiance Estimation?, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
+
++  S. Dhang, M. Zhang, and S. Dev, Frame-level Advert Localisation, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
+
++  S. Dhang, A. Idogho, M. Zhang, and S. Dev, Towards Accurate Billboard Detection: An Ablation and Benchmarking Study of Deep Learning Models, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
+
 +  P. Dey, S. Dhang, S. Dev, and B. Schoen-Phelan, NES-VIT-NET: A Nested Vision Transformer-based Network for Near-surface NO2 Estimation from Satellite and Ground Observations, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
 
 +  S. Dhang, P. Dey, M. Zhang, and S. Dev, USE-NET: Satellite Data-based Framework for Optimizing Billboard Placement in Urban Areas, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
@@ -141,7 +155,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  P. Dey, S. Dev, and B. S. Phelan, BiLSTM-BiGRU: A fusion deep neural network for predicting air pollutant concentration, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
 
-+  C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, Automated Coastline Extraction Using Edge Detection Algorithms, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023.
++  C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, Automated Coastline Extraction Using Edge Detection Algorithms, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023. [<a href="https://arxiv.org/pdf/2405.11494">arXiv</a>]
 
 +  A. Kumar\*, M. Jain\*, and S. Dev, Generative Augmentation for Sky/cloud Image Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2023 (\* Authors contributed equally).
 
@@ -161,9 +175,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, Analyzing Water Body Indicies for Coastal Semantic Segmentation, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230204160235-water-body-indices.pdf">slides</a>]
 
-+ C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, The Effectiveness of Edge Detection Evaluation Metrics for Automated Coastline Detection, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230204160050-evaluation-metrics.pdf">slides</a>]
++ C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, The Effectiveness of Edge Detection Evaluation Metrics for Automated Coastline Detection, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://arxiv.org/pdf/2405.11498">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230204160050-evaluation-metrics.pdf">slides</a>]
 
-+ C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, Interpreting a Semantic Segmentation Model for Coastline Detection, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230204155516-unet-interpretation.pdf">slides</a>]
++ C. O'Sullivan, S. Coveney, X. Monteys, and S. Dev, Interpreting a Semantic Segmentation Model for Coastline Detection, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2023. [<a href="https://arxiv.org/pdf/2405.11500">arXiv</a>] [<a href="https://soumyabratadev.files.wordpress.com/2023/08/2023piers-230204155516-unet-interpretation.pdf">slides</a>]
 
 +  D. Walsh, S. Dev, and A. Nag, Hilbert-Huang-Transform based features for accent classification of non-native English speakers, *IEEE Irish Signals & Systems Conference (ISSC)*, 2023.
 
