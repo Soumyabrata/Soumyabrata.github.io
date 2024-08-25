@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ M. Y. Saeed, J. He, N. Zhu, M. Farhan, S. Dev, T. R. Gadekallu, and A. Almadhor, An Intelligent Reinforcement Learning-Based Method for Threat Detection in Mobile Edge Networks, International Journal of Network Management, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/08/saeed2024intelligent.pdf">PDF</a>]
+
 + F. Ullah, J. He, N. Zhu, A. Wajahat, A. Nazir, S. Qureshi, M. S. Pathan, and S. Dev , Blockchain-Enabled EHR Access Auditing: Enhancing Healthcare Data Security, Heliyon, 2024.
 
 + S. Dhang, M. Zhang, and S. Dev, AdSegNet: A deep network to localize billboard in outdoor scenes, Signal, Image and Video Processing, 2024.
