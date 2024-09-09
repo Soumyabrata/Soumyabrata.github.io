@@ -12,9 +12,15 @@ sidebar:
 
 ## Journals
 
++ M. Yaqub, M. S. Pathan, S. Dev, and L. He, Tfh Cells Potential Dual Role in Cancer: A Perspective, Heliyon, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/yaqub2024tfh.pdf">PDF</a>]
+
++ M. A. Azeem, and S. Dev, A Performance and Interpretability Assessment of Machine Learning Models for Rainfall Prediction in the Republic of Ireland, Decision Analytics, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/azeem2024performance.pdf">PDF</a>]
+
++ S. Habib, M. Ahmad, Y. U. Haq, R. Sana, A. Muneer, M. Waseem, M. S. Pathan, and S. Dev, Advancing Taxonomic Classification through Deep Learning: A Robust Artificial Intelligence Framework for Species Identification Using Natural Images, IEEE Access, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/habib2024advancing.pdf">PDF</a>]
+
 + M. Y. Saeed, J. He, N. Zhu, M. Farhan, S. Dev, T. R. Gadekallu, and A. Almadhor, An Intelligent Reinforcement Learning-Based Method for Threat Detection in Mobile Edge Networks, International Journal of Network Management, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/08/saeed2024intelligent.pdf">PDF</a>]
 
-+ F. Ullah, J. He, N. Zhu, A. Wajahat, A. Nazir, S. Qureshi, M. S. Pathan, and S. Dev , Blockchain-Enabled EHR Access Auditing: Enhancing Healthcare Data Security, Heliyon, 2024.
++ F. Ullah, J. He, N. Zhu, A. Wajahat, A. Nazir, S. Qureshi, M. S. Pathan, and S. Dev, Blockchain-Enabled EHR Access Auditing: Enhancing Healthcare Data Security, Heliyon, 2024.
 
 + S. Dhang, M. Zhang, and S. Dev, AdSegNet: A deep network to localize billboard in outdoor scenes, Signal, Image and Video Processing, 2024.
 
@@ -115,15 +121,19 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+  R. Das, S. Dhang, and S. Dev, Integrated Approach for Simultaneous Estimation of Emotional States and Valence-Arousal Levels in Facial Images, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
++  R. Das, S. Dhang, and S. Dev, Integrated Approach for Simultaneous Estimation of Emotional States and Valence-Arousal Levels in Facial Images, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/das2024integrated.pdf">slides</a>]
 
-+  I. R. Nijhum, M. Y. Hossain, M. M. H. Rakib, and S. Dev, On Improving Solar Forecasts with Enhanced IR Imaging and CNNs, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
++  I. R. Nijhum, M. Y. Hossain, M. M. H. Rakib, and S. Dev, On Improving Solar Forecasts with Enhanced IR Imaging and CNNs, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/nijhum2024improving.pdf">slides</a>]
 
-+  M. Y. Hossain, I. R. Nijhum, M. M. H. Rakib, and S. Dev, Can Deep Learning Outperform Traditional Methods in Upscaling IR Images for Solar Irradiance Estimation?, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
++  M. Y. Hossain, I. R. Nijhum, M. M. H. Rakib, and S. Dev, Can Deep Learning Outperform Traditional Methods in Upscaling IR Images for Solar Irradiance Estimation?, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/hossain2024deep.pdf">slides</a>]
 
-+  S. Dhang, M. Zhang, and S. Dev, Frame-level Advert Localisation, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
++  S. Dhang, M. Zhang, and S. Dev, Frame-level Advert Localisation, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/dhang2024frame.pdf">slides</a>]
 
-+  S. Dhang, A. Idogho, M. Zhang, and S. Dev, Towards Accurate Billboard Detection: An Ablation and Benchmarking Study of Deep Learning Models, *26th Irish Machine Vision and Image Processing Conference*, 2024. 
++  S. Dhang, A. Idogho, M. Zhang, and S. Dev, Towards Accurate Billboard Detection: An Ablation and Benchmarking Study of Deep Learning Models, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/dhang2024towards.pdf">slides</a>]
+ 
++ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Leveraging Knowledge Graphs For Enhancing Climate-resilient Agricultural Analysis, *9th IEEE International Conference on Computational Intelligence and Applications*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/wu2024leveraging-slides.pdf">slides</a>]
+
++ S. Kumari, J. Wu, D. Ayala-Cabrera, and S. Dev, Effective Water Body Extraction from Hyperspectral Data: A Focus on Unsupervised Band Indices, *9th IEEE International Conference on Computational Intelligence and Applications*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/kumari2024effective-slides.pdf">slides</a>]
 
 +  P. Dey, S. Dhang, S. Dev, and B. Schoen-Phelan, NES-VIT-NET: A Nested Vision Transformer-based Network for Near-surface NO2 Estimation from Satellite and Ground Observations, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
 

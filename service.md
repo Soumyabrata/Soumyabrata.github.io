@@ -11,6 +11,8 @@ sidebar:
 ### Academic and Administrative Service
 + Timetable Coordinator at the UCD School of Computer Science Timetabling committee to organize the BSc timetables, and arrange the room allocations across the different BSc stages, AY 2022-23, AY 2023-24, University College Dublin. 
 + PhD thesis committee member for the following UCD/External doctoral students. 
+	- Yogesh Bansal (My role: Internal Examiner, supervisor: David Lillis)
+	- Agatha Hennigen de Mattos (My role: Internal Examiner, supervisor: Gavin McArdle)
 	- Mohammed Temraz (My role: Internal Examiner, supervisor: Mark Keane)
 	- Krishna Gopal Sharma (My role: External Examiner, supervisor: Yashpal Singh, Dr A P J Abdul Kalam Technical University, India)
 	- Yuhan Du (My role: Internal Examiner, supervisor: Catherine Mooney)
@@ -31,7 +33,7 @@ sidebar:
 	- Siteng Ma (Supervisor: Ruihai Dong, Aonghus Lawlor)
 	- Jinyuan Yang (Supervisor: Abey Campbell)
 	- Chamin Nalinda (Supervisor: Michela Bertolotto, Nhien-An Le-Khac)
-+ Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, AY 2019--20, AY 2020--21, University College Dublin.
++ Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, AY 2019--20, AY 2020--21, AY 2023--24, University College Dublin.
 
 ### Outreach and Community Engagement
 
