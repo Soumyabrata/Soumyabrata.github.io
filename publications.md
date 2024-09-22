@@ -12,19 +12,19 @@ sidebar:
 
 ## Journals
 
-+ M. Yaqub, M. S. Pathan, S. Dev, and L. He, Tfh Cells Potential Dual Role in Cancer: A Perspective, Heliyon, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/yaqub2024tfh.pdf">PDF</a>]
++ M. Yaqub, M. S. Pathan, S. Dev, and L. He, Tfh Cells Potential Dual Role in Cancer: A Perspective, *Heliyon*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/yaqub2024tfh.pdf">PDF</a>]
 
-+ M. A. Azeem, and S. Dev, A Performance and Interpretability Assessment of Machine Learning Models for Rainfall Prediction in the Republic of Ireland, Decision Analytics, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/azeem2024performance.pdf">PDF</a>]
++ M. A. Azeem, and S. Dev, A Performance and Interpretability Assessment of Machine Learning Models for Rainfall Prediction in the Republic of Ireland, *Decision Analytics*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/azeem2024performance.pdf">PDF</a>]
 
-+ S. Habib, M. Ahmad, Y. U. Haq, R. Sana, A. Muneer, M. Waseem, M. S. Pathan, and S. Dev, Advancing Taxonomic Classification through Deep Learning: A Robust Artificial Intelligence Framework for Species Identification Using Natural Images, IEEE Access, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/habib2024advancing.pdf">PDF</a>]
++ S. Habib, M. Ahmad, Y. U. Haq, R. Sana, A. Muneer, M. Waseem, M. S. Pathan, and S. Dev, Advancing Taxonomic Classification through Deep Learning: A Robust Artificial Intelligence Framework for Species Identification Using Natural Images, *IEEE Access*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/habib2024advancing.pdf">PDF</a>]
 
-+ M. Y. Saeed, J. He, N. Zhu, M. Farhan, S. Dev, T. R. Gadekallu, and A. Almadhor, An Intelligent Reinforcement Learning-Based Method for Threat Detection in Mobile Edge Networks, International Journal of Network Management, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/08/saeed2024intelligent.pdf">PDF</a>]
++ M. Y. Saeed, J. He, N. Zhu, M. Farhan, S. Dev, T. R. Gadekallu, and A. Almadhor, An Intelligent Reinforcement Learning-Based Method for Threat Detection in Mobile Edge Networks, *International Journal of Network Management*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/08/saeed2024intelligent.pdf">PDF</a>]
 
-+ F. Ullah, J. He, N. Zhu, A. Wajahat, A. Nazir, S. Qureshi, M. S. Pathan, and S. Dev, Blockchain-Enabled EHR Access Auditing: Enhancing Healthcare Data Security, Heliyon, 2024.
++ F. Ullah, J. He, N. Zhu, A. Wajahat, A. Nazir, S. Qureshi, M. S. Pathan, and S. Dev, Blockchain-Enabled EHR Access Auditing: Enhancing Healthcare Data Security, *Heliyon*, 2024.
 
-+ S. Dhang, M. Zhang, and S. Dev, AdSegNet: A deep network to localize billboard in outdoor scenes, Signal, Image and Video Processing, 2024.
++ S. Dhang, M. Zhang, and S. Dev, AdSegNet: A deep network to localize billboard in outdoor scenes, *Signal, Image and Video Processing*, 2024.
 
-+ C. O'Sullivan, A. Kashyap, S. Coveney, X. Monteys, and S. Dev, Enhancing Coastal Water Body Segmentation with Landsat Irish Coastal Segmentation (LICS) Dataset, Remote Sensing Applications: Society and Environment, 2024.
++ C. O'Sullivan, A. Kashyap, S. Coveney, X. Monteys, and S. Dev, Enhancing Coastal Water Body Segmentation with Landsat Irish Coastal Segmentation (LICS) Dataset, *Remote Sensing Applications: Society and Environment*, 2024.
 
 + P. Dey, S. Dev, and B. S. Phelan, Predicting Multivariate Air Pollution: A Gaussian-Mixture Nested Factorial Variational Autoencoder Approach, *IEEE Geoscience and Remote Sensing Letters*, 2024. 
 
@@ -139,7 +139,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  S. Dhang, P. Dey, M. Zhang, and S. Dev, USE-NET: Satellite Data-based Framework for Optimizing Billboard Placement in Urban Areas, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
 
-+  Y. Li, H. Wang, S. Wang, Y. H. Lee, M. S. Pathan, and S. Dev, UCLOUDNET: A Residual U-net with Deep Supervision for Cloud Image Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
++  Y. Li, H. Wang, S. Wang, Y. H. Lee, M. S. Pathan, and S. Dev, UCLOUDNET: A Residual U-net with Deep Supervision for Cloud Image Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/li2024ucloudnet-slides.pdf">slides</a>]
 
 +  I. R. Nijhum, D. Kaloni, P. Kenny, S. Dev, Enhancing Intra-hour Solar Irradiance Estimation Through Knowledge Distillation and Infrared Sky Images, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2024. 
 
