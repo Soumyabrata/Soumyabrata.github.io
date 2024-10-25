@@ -37,6 +37,7 @@ sidebar:
 
 ### Outreach and Community Engagement
 
++ 2024: Presented a research talk titled 'From Space to Shore: AI and Remote Sensing for Coastal Protection' at NYU Shanghai, hosted by Prof Jiayong Liang, 25 October 2024, Shanghai. [<a href="https://x.com/SoumyabrataDev/status/1849689022530191462">Tweet</a>] 
 + 2023: Delivered a talk on 'Remote Sensing for Climate, Air Quality, and Weather Prediction' at the John McCarthy AI Summer School event - AI for Sustainability, 7 September 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/09/rdihub-7sep2023.pdf">slides</a>] [<a href="https://twitter.com/SoumyabrataDev/status/1700022314421887168">Tweet</a>] [<a href="https://www.eventbrite.ie/e/artificial-intelligence-summer-school-event-ai-for-sustainability-tickets-698300324067">Event</a>] [<a href="https://www.independent.ie/regionals/kerry/news/kerry-hub-hosts-artificial-intelligence-school/a658185459.html">Press</a>]
 + 2023: Delivered a talk on the EDI (Equality Diversity and Inclusion) topic 'Let's Talk About Race: Bridging the Gap in Science', organised by the EDI School of Chemistry, University College Dublin, 19 April 2023. [<a href="https://demo5613.files.wordpress.com/2023/04/edi-talk-april2023.pdf">slides</a>] [<a href="https://twitter.com/SoumyabrataDev/status/1649081919936577537">Tweet</a>]
 + 2021: Participated in a <a href="https://ieeeukiyp.org/3rd_stem/schedule/">panel discussion</a> at Third IEEE UK&I YP Postgrad STEM Research Symposium on the future of STEM in a shifting landscape, organised by IEEE UK & Ireland Young Professionals, Nov 10, 2021, at Dublin, Ireland.
@@ -75,6 +76,9 @@ sidebar:
 
 ### Technical Program Committee
 
++ 2025: <a href="https://ccnc2025.ieee-ccnc.org/workshop/ws-7-research-advancements-ai-and-future-communication-technologies-healthcare/call-papers">RAFCATH 2025</a>, CCNC 2025 WKSHPS: 1st International workshop on Research Advancements in AI and Future Communication Technologies for Healthcare (RAFCATH)
++ 2025: <a href="https://gia.sciencesconf.org/">ACM/SIGAPP 2025</a>, 40th ACM/SIGAPP Symposium on Applied Computing 2025 - Geographical Information Analytics (GIA) track
++ 2024: <a href="https://aics2024.ucd.ie/">AICS 2024</a>, 32nd Irish Conference on Artificial Intelligence and Cognitive Science (AICS 2024)
 + 2024: <a href="https://www.iaria.org/conferences2024/ComeLmL24.html">eLmL 2024</a>, Sixteenth International Conference on Mobile, Hybrid, and On-line Learning
 + 2024: <a href="https://www.iaria.org/conferences2024/ComCOGNITIVE24.html">COGNITIVE 2024</a>, Sixteenth International Conference on Advanced Cognitive Technologies and Applications
 + 2023: <a href="https://www.universityofgalway.ie/c3i/news-&-events/imvip_2023/conference_chairs_committee_members/#">IMVIP 2023</a>, 25th Irish Machine Vision and Image Processing (IMVIP)
