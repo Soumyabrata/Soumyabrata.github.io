@@ -36,7 +36,7 @@ sidebar:
 + Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, AY 2019--20, AY 2020--21, AY 2023--24, University College Dublin.
 
 ### Outreach and Community Engagement
-
++ 2024: Represented UCD Global at Shandong University, exploring partnership opportunities and promoting the UCD 3+1+1 program. Engaged with international colleagues across disciplines to strengthen academic collaboration and inter-faculty engagement. [<a href="https://x.com/SoumyabrataDev/status/1853745958678679970">Tweet</a>]
 + 2024: Presented a research talk titled 'From Space to Shore: AI and Remote Sensing for Coastal Protection' at NYU Shanghai, hosted by Prof Jiayong Liang, 25 October 2024, Shanghai. [<a href="https://x.com/SoumyabrataDev/status/1849689022530191462">Tweet</a>] 
 + 2023: Delivered a talk on 'Remote Sensing for Climate, Air Quality, and Weather Prediction' at the John McCarthy AI Summer School event - AI for Sustainability, 7 September 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/09/rdihub-7sep2023.pdf">slides</a>] [<a href="https://twitter.com/SoumyabrataDev/status/1700022314421887168">Tweet</a>] [<a href="https://www.eventbrite.ie/e/artificial-intelligence-summer-school-event-ai-for-sustainability-tickets-698300324067">Event</a>] [<a href="https://www.independent.ie/regionals/kerry/news/kerry-hub-hosts-artificial-intelligence-school/a658185459.html">Press</a>]
 + 2023: Delivered a talk on the EDI (Equality Diversity and Inclusion) topic 'Let's Talk About Race: Bridging the Gap in Science', organised by the EDI School of Chemistry, University College Dublin, 19 April 2023. [<a href="https://demo5613.files.wordpress.com/2023/04/edi-talk-april2023.pdf">slides</a>] [<a href="https://twitter.com/SoumyabrataDev/status/1649081919936577537">Tweet</a>]
@@ -76,6 +76,7 @@ sidebar:
 
 ### Technical Program Committee
 
++ 2025: <a href="https://www.iaria.org/conferences2025/ComeLmL25.html">eLmL 2025</a>, Seventeenth International Conference on Mobile, Hybrid, and On-line Learning
 + 2025: <a href="https://ccnc2025.ieee-ccnc.org/workshop/ws-7-research-advancements-ai-and-future-communication-technologies-healthcare/call-papers">RAFCATH 2025</a>, CCNC 2025 WKSHPS: 1st International workshop on Research Advancements in AI and Future Communication Technologies for Healthcare (RAFCATH)
 + 2025: <a href="https://gia.sciencesconf.org/">ACM/SIGAPP 2025</a>, 40th ACM/SIGAPP Symposium on Applied Computing 2025 - Geographical Information Analytics (GIA) track
 + 2024: <a href="https://aics2024.ucd.ie/">AICS 2024</a>, 32nd Irish Conference on Artificial Intelligence and Cognitive Science (AICS 2024)
