@@ -12,8 +12,6 @@ sidebar:
 
 ## Journals
 
-+ M. Yaqub, M. S. Pathan, S. Dev, and L. He, Tfh Cells Potential Dual Role in Cancer: A Perspective, *Heliyon*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/yaqub2024tfh.pdf">PDF</a>]
-
 + M. A. Azeem, and S. Dev, A Performance and Interpretability Assessment of Machine Learning Models for Rainfall Prediction in the Republic of Ireland, *Decision Analytics*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/azeem2024performance.pdf">PDF</a>]
 
 + S. Habib, M. Ahmad, Y. U. Haq, R. Sana, A. Muneer, M. Waseem, M. S. Pathan, and S. Dev, Advancing Taxonomic Classification through Deep Learning: A Robust Artificial Intelligence Framework for Species Identification Using Natural Images, *IEEE Access*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/habib2024advancing.pdf">PDF</a>]
