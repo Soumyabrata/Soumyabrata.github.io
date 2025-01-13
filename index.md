@@ -32,11 +32,11 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 
 <div style="display: inline;">Page views: </div>
-<div id="sfcs8efdnt59gsgg1zhufmjd2cu1er41hwa"> </div>
+<div id="sfcs8efdnt59gsgg1zhufmjd2cu1er41hwa" style="display: inline; margin-left: 5px;"></div>
 <script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=s8efdnt59gsgg1zhufmjd2cu1er41hwa&down=async" async></script>
 <noscript>
   <a href="https://www.freecounterstat.com" title="free counters">
-    <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=s8efdnt59gsgg1zhufmjd2cu1er41hwa" border="0" title="free counters" alt="free counters">
+    <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=s8efdnt59gsgg1zhufmjd2cu1er41hwa" border="0" title="free counters" alt="free counters" style="display: inline;">
   </a>
 </noscript>
 
