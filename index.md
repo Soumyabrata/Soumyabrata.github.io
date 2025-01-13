@@ -32,4 +32,4 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 
 
-<div id="sfcs8efdnt59gsgg1zhufmjd2cu1er41hwa"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=s8efdnt59gsgg1zhufmjd2cu1er41hwa&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="free counters">Page views <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=s8efdnt59gsgg1zhufmjd2cu1er41hwa" border="0" title="free counters" alt="free counters"></a></noscript>
+<div id="sfcs8efdnt59gsgg1zhufmjd2cu1er41hwa">Page views </div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=s8efdnt59gsgg1zhufmjd2cu1er41hwa&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="free counters"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=s8efdnt59gsgg1zhufmjd2cu1er41hwa" border="0" title="free counters" alt="free counters"></a></noscript>
