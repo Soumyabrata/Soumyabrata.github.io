@@ -388,6 +388,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 ## Technical Reports
 
++ M. Jain, Facilitating The Inclusion Of Photovoltaic Systems In Energy Grids, Doctoral Thesis, Universty College Dublin, Ireland, January 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/01/mjain_phd_thesis_2024.pdf">Thesis</a>] 
+
 + F. Piti&eacute;, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, An automatic system that identifies and locates the four corners of the advertising space in a video as a cloud service, *Patent Filed*, 2018. 
 
 + F. Piti&eacute;, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, An algorithm that ranks candidate advertising spaces based on their quality and value, *Patent Filed*, 2018. 
@@ -427,7 +429,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 
 
-<sub><sup>&copy; 2008-2024 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works. </sup></sub>
+<sub><sup>&copy; 2008-2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works. </sup></sub>
 
 
 <sub><sup>&copy; This material on this page is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. </sup></sub>
