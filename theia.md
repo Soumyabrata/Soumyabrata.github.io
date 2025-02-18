@@ -73,6 +73,21 @@ None at this moment.
 <div class="row">
 	
 	
+
+
+	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Sicheng-Zhao.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Sicheng Zhao</b> is a PhD student at University College Dublin under the supervision of Dr Soumyabrata Dev. He completed his Masters degree in Data Science at University Collge Dublin, Ireland, focusing on AI-Driven 3D reconstruction. His research interests include 3D reconstruction, SLAM, and AI-driven geographic modeling.
+</div>
+</div>
+
+
+<br />
+
+
+	
 	
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Sushma-Kumari-120.png" | prepend:site.baseurl }}">
@@ -196,20 +211,6 @@ None at this moment.
 </div>
 
 
-<br />
-
-	
-<div class="col-xs-2">
-       <a href="https://github.com/futaoo">
-         <img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
-       </a>
-       <div class="people-name">
-   	  <b>Jiantao Wu (Ivan)</b> is pursuing his PhD at the School of Computer Science, University College Dublin. His thesis is co-supervised by Dr Fabrizio Orlandi and Prof Declan O'Sullivan. Jiantao has been a software engineer for 2 years in the field of knowledge graph applications at China Electronics Technology Group Corporation before the commence of his research role at UCD. Prior to this, he completed his Masters from University College London and Bachelors from Xi'an University of Architecture and Technology. His research interests includes knowledge graphs, machine learning, and sensor data processing. 
-       </div>
-    </div>
-	
-	
-
   
 </div>
 
@@ -219,16 +220,6 @@ None at this moment.
 
 <div class="row">
 	
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Zachary-Yahn-120.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Zachary Yahn</b> is pursuing a MSc Computer Science (Negotiated Learning) at University College Dublin as a Mitchell Scholar. Previously, he earned a Bachelor of Science degree from the University of Virginia, where he double majored in computer engineering and computer science. From 2024, he will pursue a PhD at Georgia Tech advised by Dr Ling Liu. His research interests are in remote sensing and trustworthy artificial intelligence. 
-</div>
-</div>
-	
-	
-<br />
 	
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Shane-Smyth.png" | prepend:site.baseurl }}">
@@ -291,24 +282,27 @@ None at this moment.
 ### Alumni
 
 #### Postdoctoral researchers
-+ <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">Muhammad Salman PATHAN</a>, Postdoc, AY 2021-23 (Next stop: Senior Postdoctoral Researcher, Maynooth University, Ireland)<br />
++ <a href="https://www.linkedin.com/in/muhammad-salman-pathan-434486211/">Muhammad Salman Pathan</a>, Postdoc, AY 2021-23 (Next stop: Senior Postdoctoral Researcher, Maynooth University, Ireland, Next-next stop: Assistant Professor at the School of Computing, Dublin City University)<br />
 <img class="people-pic" src="{{ "/images/theia/Salman-Khan.png" | prepend:site.baseurl }}">
 
 
 
 #### PhD
-+ <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">Mayank Jain</a>, PhD, Jan 2020 till Dec 2023 (Next stop:  Research Assistant, University College Dublin, Ireland)<br />
++ <a href="https://www.linkedin.com/in/jiantao-wu/">Jiantao Wu (Ivan)</a>, PhD, Aug 2020 till Aug 2024 (Next stop: Research Assistant, University College Dublin, Ireland)<br />
+<img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
++ <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">Mayank Jain</a>, PhD, Jan 2020 till Dec 2023 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Engineer, EirGrid)<br />
 <img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
 + <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop:  Associate Lecturer, Universitat Politècnica de València (UPV), Spain)<br />
 <img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
 
 
 #### Masters
-+ Zixiang Xu (Dante), UCD MS (Research), AY 2020-22
-+ Yuan Liang (Nick), UCD MS (Research), AY 2020-22
++ <a href="https://zacharyyahn.github.io/">Zachary Yahn</a>, UCD MS, AY 2023-24 (Next stop: PhD student at Georgia Tech, United States)
++ <a href="https://www.linkedin.com/in/zixiang-xu-545561207/">Zixiang Xu (Dante)</a>, UCD MS (Research), AY 2020-22 (Next stop: PhD student at Kyoto University, Japan)
++ <a href="https://www.linkedin.com/in/yuan-liang-a4920a193/">Yuan Liang (Nick)</a>, UCD MS (Research), AY 2020-22 (Next stop: PhD student at University College Dublin, Ireland)
 + Mark Crowley, UCD MS Electrical and Electronic (EEE), AY 2022-23
 + <a href="https://www.linkedin.com/in/nicholas-danesi/">Nicholas Danesi</a>, UCD MS, AY 2020-21 (Next stop: Project Officer, Energy Demand and Efficiency Policy at Department of Energy, Environment and Climate Action, Australia)
-+ <a href="https://www.linkedin.com/in/jason-john-walsh/">Jason Walsh</a>, UCD MS, AY 2020-21 (Next stop: PhD student at at University College Dublin, Ireland)
++ <a href="https://www.linkedin.com/in/jason-john-walsh/">Jason Walsh</a>, UCD MS, AY 2020-21 (Next stop: PhD student at University College Dublin, Ireland)
 + <a href="https://www.linkedin.com/in/barry-mcnicholl-86287120a/">Barry McNicholl</a>, UCD MS Electrical and Electronic (EEE), AY 2020-21 (Next stop:  Design Engineer at Microchip Technology, Ireland)
 + Ankur Patil, NCI MSc, AY 2018-19
 + <a href="https://www.linkedin.com/in/jyotsnapatel26/">Jyotsna Patel</a>, NCI MSc, AY 2018-19 (Next stop:  Engineering Doctorate at Eindhoven University of Technology, Netherlands)
@@ -411,19 +405,37 @@ Postdoc:
  </div>
 
 
+
+
+================================================================================================
+
+
+
 PhD:
 
+	
+<div class="col-xs-2">
+<a href="https://github.com/futaoo">
+<img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
+</a>
+<div class="people-name">
+<b>Jiantao Wu (Ivan)</b> is pursuing his PhD at the School of Computer Science, University College Dublin. His thesis is co-supervised by Dr Fabrizio Orlandi and Prof Declan O'Sullivan. Jiantao has been a software engineer for 2 years in the field of knowledge graph applications at China Electronics Technology Group Corporation before the commence of his research role at UCD. Prior to this, he completed his Masters from University College London and Bachelors from Xi'an University of Architecture and Technology. His research interests includes knowledge graphs, machine learning, and sensor data processing. 
+</div>
+</div>
+
+
+<br />
 
 
 	
-   	<div class="col-xs-2">
+<div class="col-xs-2">
        <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">
          <img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
        </a>
        <div class="people-name">
    	  <b>Mayank Jain</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He did his M.Sc. Artificial Intelligence from the University of Edinburgh in 2019, and B.Tech. IT and Mathematical Innovations - Major: Electronics and Robotics from the Cluster Innovation Centre, University of Delhi in 2015. He is the co-founder of Imfundo Technologies Pvt. Ltd., for which he worked as Director for 3 years. The startup was focused on introducing STEM education modules in a gamified manner for young kids. He has also been associated with Defence Terrain Research Laboratory (Defence Research and Development Organization, Government of India), Design Innovation Centre (University of Delhi) and Indian Institute of Technology (Mumbai, India) at various times in his academic career. He has been a recipient of several fellowships and scholarships, including the Scottish Saltire Scholarship, Delhi University Innovation Project Fellowship, Global Problem Solving Consortium - Water Sustainability Fellowship'2013 and UCD-CS PhD Scholarship. His major research interests are computer vision, deep learning, and robotics.
        </div>
-    </div>
+</div>
 
 
 
@@ -458,6 +470,15 @@ PhD:
 
 
 Masters:
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Zachary-Yahn-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Zachary Yahn</b> is pursuing a MSc Computer Science (Negotiated Learning) at University College Dublin as a Mitchell Scholar. Previously, he earned a Bachelor of Science degree from the University of Virginia, where he double majored in computer engineering and computer science. From 2024, he will pursue a PhD at Georgia Tech advised by Dr Ling Liu. His research interests are in remote sensing and trustworthy artificial intelligence. 
+</div>
+</div>
+	
+
 
 <br />
 
