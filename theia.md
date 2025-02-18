@@ -254,27 +254,7 @@ None at this moment.
 
 <div class="row">
 	
-	
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Alejandro-Mayagoitia-120.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Alejandro Mayagoitia</b> is a student in the class of 2025 at Yale University majoring in Electrical Engineering and Computer Science. He has previously worked as an intern at General Electric, where he worked on modeling the physics of gas generators. After completing his BS, he hopes to further study machine learning, robotics, and embedded systems. Outside of school, Alejandro likes to play music and travel, which he plans to do a lot of this summer.
-</div>
-</div>
-
-
-<br />
-
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Hayden-Wilson-120.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Hayden Wilson</b> is an undergraduate electrical and computer engineering student specializing in biomedical sciences. He is currently studying at UCD during the summer term, and is a student at Southern Methodist University (SMU) in Dallas, Texas during the academic year.
-</div>
-</div>
-
-
+None at this moment. 
 
 </div>
 
@@ -355,7 +335,8 @@ None at this moment.
 + Guan Zhao Ting, NTU FYP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 
 #### Interns
-
++ Alejandro Mayagoitia (Yale University, United States), UCD Intern, AY 2023--24
++ Hayden Wilson (Southern Methodist University, Dallas, United States), UCD Intern, AY 2023--24
 + Priyanshu Mishra (Indian Institute of Technology, Jammu, India), UCD Intern, AY 2023--24
 + Pardhu Nadella (GRIET, India), UCD Intern, AY 2023--24
 + Mohsin Imam (University of Delhi, India), UCD Intern, AY 2023--24
@@ -804,6 +785,29 @@ Undergrads:
 ================================================================================================
 
 Interns:
+
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Alejandro-Mayagoitia-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Alejandro Mayagoitia</b> is a student in the class of 2025 at Yale University majoring in Electrical Engineering and Computer Science. He has previously worked as an intern at General Electric, where he worked on modeling the physics of gas generators. After completing his BS, he hopes to further study machine learning, robotics, and embedded systems. Outside of school, Alejandro likes to play music and travel, which he plans to do a lot of this summer.
+</div>
+</div>
+
+
+<br />
+
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Hayden-Wilson-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Hayden Wilson</b> is an undergraduate electrical and computer engineering student specializing in biomedical sciences. He is currently studying at UCD during the summer term, and is a student at Southern Methodist University (SMU) in Dallas, Texas during the academic year.
+</div>
+</div>
+
+<br />
 
 
 <div class="col-xs-2">
