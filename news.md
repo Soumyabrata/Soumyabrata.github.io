@@ -9,6 +9,11 @@ sidebar:
   nav: sidebar-news
 ---
 
+## 2024
++ (July 2024): Awarded the prestigious 2024 Biomedical Circuits and Systems Best Paper Award for the paper "ANNet: A Lightweight Neural Network for ECG Anomaly Detection in IoT Edge Sensors," published in IEEE Transactions on Biomedical Circuits and Systems, Volume 16, Issue 1. [<a href="https://www.linkedin.com/feed/update/urn:li:activity:7209965585080664064/">news</a>]
++ (March 2024): Mayank Jain has successfully defended his PhD thesis on "Facilitating the Inclusion of Photovoltaic Systems in Energy Grids". Huge thanks to examiners Prof Ulrich Bodenhofer, Prof Michela Bertolotto, and chair Assoc Prof Mark Scanlon. Congrats, Mayank! [<a href="https://twitter.com/SoumyabrataDev/status/1802632631072247940">tweet</a>] [<a href="https://www.ucd.ie/bdic/newsandevents/phdstudentdefendedhisthesisfundedbybdicscholarship/">news</a>]
+
+
 ## 2023
 + (December 2023): Our group has a strong presence at 2023 Proc. IEEE Conference on Energy Internet and Energy System Integration with 6 papers. Say hi to us at Hangzhou, China if you are attending! [<a href="https://www.ucd.ie/bdic/newsandevents/bdicteachersrepresentingucdonieeeconferenceonenergyinternetandesiinhangzhou/">news</a>]
 + (September 2023): Received funding from SFI National Challenges Fund - a €65m fund aiming to accelerate research addressing national challenges in the areas of Green Transition and Digital Transformation. [<a href="https://twitter.com/ucddublin/status/1702632558234648827">Tweet</a>] [<a href="https://www.ucd.ie/newsandopinion/news/2023/september/14/nineucdteamsawardedfundingunderfinalroundsof65mnationalchallengefund/">UCD</a>] [<a href="https://www.ucd.ie/earth/newsevents/news/body,704670,en.html">Earth Institute</a>]
