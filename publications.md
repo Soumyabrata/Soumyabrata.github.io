@@ -122,6 +122,26 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  I. R. Nijhum, M. Y. Hossain, T. Akinola, M. M. H. Rakib, and S. Dev, A Hybrid CNN-LSTM Framework and Infrared Image Processing for Solar Irradiance Forecasting, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
++  Y. Zhang, A. Pakrashi, and S. Dev, Deep Learning-Based Prediction of Short-Term CO2 Emissions in Ireland, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
++  P. Adong, A. Pakrashi, and S. Dev, Using Random Forest to Estimate Low-Cost Sensor PM2.5 from MODIS MAIAC AOD in Kampala, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
++  D. J. Yericherla, G. S. Krishna, A. Pakrashi, and S. Dev, Estimating Global Horizontal Irradiance of Solar Photovoltaic System from Satellite Data, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
++  S. Smyth, A. Pakrashi, and S. Dev, Exploring the Impact of SAR Images on Wave Height Prediction Models: A Study Using XAI, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
++  Y. Li, and S. Dev, Short-Term Precipitation Forecasting Based on BU-LSTM Model in Dublin City, Ireland, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
++  D. Saharia, Y. H. Lee, and S. Dev, The Reliability of Satellite Precipitation Measurements in Singapore, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
++  S. Kumari, P. Dey, D. Ayala-Cabrera, and S. Dev, Attention-Based ResNet for Accurate Water Body Classification Using Spectral Indices, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
++  W. Yao, S. Azadnejad, S. Donohue, and S. Dev, A Study on Spatial Prediction Models and Influential Parameters of Deformation in Western Ireland, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
++  S. Zhao, M. Jain, and S. Dev, Multi-Agent Visual SLAM for 3D Coastline Reconstruction: Overcoming Synchronization and Dynamic Environment Challenges, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
+
 +  R. Das, S. Dhang, and S. Dev, Integrated Approach for Simultaneous Estimation of Emotional States and Valence-Arousal Levels in Facial Images, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/das2024integrated.pdf">slides</a>]
 
 +  I. R. Nijhum, M. Y. Hossain, M. M. H. Rakib, and S. Dev, On Improving Solar Forecasts with Enhanced IR Imaging and CNNs, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/nijhum2024improving.pdf">slides</a>]
