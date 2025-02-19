@@ -11,6 +11,9 @@ sidebar:
 
 
 ## Journals
++ S. Dhang, M. Zhang, and S. Dev, LaBINet - An Approach for Seamlessly Integrating New Advertisement into an Existing Scene, *IEEE Transactions on Artificial Intelligence*, 2025. 
+
++ J. Yang, S. Dev, and A. G. Campbell, RenderKernel: High-level programming for real-time rendering systems, *Visual Informatics*, 2024. 
 
 + M. A. Azeem, and S. Dev, A Performance and Interpretability Assessment of Machine Learning Models for Rainfall Prediction in the Republic of Ireland, *Decision Analytics*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/azeem2024performance.pdf">PDF</a>]
 
@@ -402,6 +405,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 
 ## Others
+
++ (<a href="https://link.springer.com/chapter/10.1007/978-981-97-6671-0_15">Book chapter</a>): Neog, D.R., Singha, G., Dev, S. and Prince, E.H., 2024. Artificial Intelligence and Its Application in Disaster Risk Reduction in the Agriculture Sector. In Disaster Risk Reduction and Rural Resilience: With a Focus on Agriculture, Water, Gender and Technology (pp. 279-305). Singapore: Springer Nature Singapore.
 
 + W. Yao, S. Donohue, and S. Dev, Optimizing Remote Sensing Image Classification with Spectral Indices and Convolutional Neural Networks, *ADAPT Internal Scientific Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/yao2024.pdf">poster</a>]
 

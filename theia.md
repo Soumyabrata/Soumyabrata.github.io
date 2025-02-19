@@ -73,6 +73,15 @@ None at this moment.
 <div class="row">
 	
 	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Yearat-Hossain.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Md Yearat Hossain</b> is pursuing his PhD in the School of Computer Science at University College Dublin, where his research focuses on image-to-image translation and computational imaging for earth observations. He holds a Bachelor's degree in Computer Science and Engineering from North South University, Bangladesh, where he also served as a research assistant in the Department of Electrical and Computer Engineering. In addition to his academic pursuits, Yearat worked as a software engineer in the machine learning team at a software company, where he specialized in applied natural language processing (NLP). His research and professional interests span computer vision, computational imaging, applied machine learning and ML system design.
+</div>
+</div>
+
+
+<br />
 
 
 	
