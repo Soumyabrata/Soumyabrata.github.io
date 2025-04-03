@@ -316,7 +316,7 @@ None at this moment.
 + Oisin Hourican, UCD FYP, AY 2020-21
 + Aleksandar Dimitrov, UCD FYP, AY 2020-21
 + Wang He, UCD FYP, AY 2019-20
-+ Sun Jingxiang, UCD FYP, AY 2019-20
++ <a href="https://mrtornado24.github.io/">Jingxiang Sun</a>, UCD FYP, AY 2019-20
 + Wang Zihao, UCD FYP, AY 2019-20
 + Meichen Lu, UCD FYP, AY 2019-20
 + Wang Zhenhao, UCD FYP, AY 2019-20

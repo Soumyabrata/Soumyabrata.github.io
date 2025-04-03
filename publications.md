@@ -11,6 +11,8 @@ sidebar:
 
 
 ## Journals
++ Y. Li, H. Wang, S. Wang, J. Xu, Y. H. Lee, and S. Dev, BSANet: A Bilateral Segregation and Aggregation Network for Real-time Cloud Segmentation, *Remote Sensing Applications: Society and Environment*, 2025. 
+
 + S. Dhang, M. Zhang, and S. Dev, LaBINet - An Approach for Seamlessly Integrating New Advertisement into an Existing Scene, *IEEE Transactions on Artificial Intelligence*, 2025. 
 
 + J. Yang, S. Dev, and A. G. Campbell, RenderKernel: High-level programming for real-time rendering systems, *Visual Informatics*, 2024. 
@@ -121,6 +123,8 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
  
 ## Conferences
+
++ Y. Li, H. Wang, J. Zhang, J. You, J. Xu, P. Wu, Y. Xiao, and S, Dev, Segregation and Context Aggregation Network for Real-time Cloud Segmentation, *Proc. ICLR workshop on Tackling Climate Change with Machine Learning*, 2025. 
 
 +  I. R. Nijhum, M. Y. Hossain, T. Akinola, M. M. H. Rakib, and S. Dev, A Hybrid CNN-LSTM Framework and Infrared Image Processing for Solar Irradiance Forecasting, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
 

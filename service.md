@@ -11,6 +11,7 @@ sidebar:
 ### Academic and Administrative Service
 + Timetable Coordinator at the UCD School of Computer Science Timetabling committee to organize the BSc timetables, and arrange the room allocations across the different BSc stages, AY 2022-23, AY 2023-24, University College Dublin. 
 + PhD thesis committee member for the following UCD/External doctoral students. 
+	- Rajitha Ramanayake (My role: Internal Examiner, supervisor: Vivek Nallur)
 	- Yogesh Bansal (My role: Internal Examiner, supervisor: David Lillis)
 	- Agatha Hennigen de Mattos (My role: Internal Examiner, supervisor: Gavin McArdle)
 	- Mohammed Temraz (My role: Internal Examiner, supervisor: Mark Keane)
@@ -21,6 +22,10 @@ sidebar:
 	- Aditya Kuppa (My role: Chair of Examination Committee, supervisor: Nhien-An Le-Khac)
 	- Muhammad Zahid Iqbal (My role: Chair of Examination Committee, supervisor: Abey Campbell)
 + Research Studies Panel (RSP) member for the following UCD doctoral students: 
+	- Quinn Berryman (Supervisor: Aidan Murphy, Abey Campbell)
+	- Nouf Alsallum (Supervisor: Mohamed Saadeldin)
+	- Kanwal Aftab (Supervisor: Mark Scanlon)
+	- Manya Singh (Supervisor: Arjun Pakrashi, Mark Keane)
 	- Yuan Liang (Supervisor: Abey Campbell, Sourav Bhattacharjee)
 	- Paul James Banahan (Supervisor: Aonghus Lawlor, Brian Mac Namee)
 	- Huan Chen (Supervisor: Rob Brennan)
@@ -36,6 +41,7 @@ sidebar:
 + Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, AY 2019--20, AY 2020--21, AY 2023--24, University College Dublin.
 
 ### Outreach and Community Engagement
++ 2025: Served as a judge for the UCD CS Annual Computer Science Poster Event at University College Dublin on January 22, 2025, providing expert evaluation and constructive feedback on graduate research presentations.
 + 2024: Represented UCD Global at Shandong University, exploring partnership opportunities and promoting the UCD 3+1+1 program. Engaged with international colleagues across disciplines to strengthen academic collaboration and inter-faculty engagement. [<a href="https://x.com/SoumyabrataDev/status/1853745958678679970">Tweet</a>]
 + 2024: Represented BDIC at the IEEE CISP-BMEI 2024 in Shanghai, presenting our state-of-the-art research on solar forecasting, spatial prediction models, and CO₂ emissions monitoring, reinforcing BDIC’s commitment to sustainability and impactful global research collaborations. [<a href="https://www.ucd.ie/bdic/newsandevents/bdicrepresentationatieeecisp-bmei2024inshanghai/">news</a>]
 + 2024: Presented a research talk titled 'From Space to Shore: AI and Remote Sensing for Coastal Protection' at NYU Shanghai, hosted by Prof Jiayong Liang, 25 October 2024, Shanghai. [<a href="https://x.com/SoumyabrataDev/status/1849689022530191462">Tweet</a>] 
@@ -64,6 +70,7 @@ sidebar:
 
 
 ### Organizational Leadership
++ 2025: Technical Committee, <a href="https://ctsoc.ieee.org/technical/technical-committees/smc-tc.html">IEEE Application-Specific CE for Smart Cities (SMC)</a>.
 + 2023: Publication Chair, <a href="https://www.sest2023.org/committees/">6th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Mugla, Turkey.
 + 2022: Guest editor, Special Issue on Selected articles from the 5th International Conference on Smart Energy Systems and Technologies (SEST 2022) for Sustainable Energy, Grids and Networks.
 + 2022: Session Chair, Session: TU7.V8: Data Mining and Management Methods, <a href="https://www.igarss2022.org/">IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</a>, 2022, Kuala Lumpur, Malaysia. 
@@ -77,6 +84,8 @@ sidebar:
 
 ### Technical Program Committee
 
++ 2025: <a href="https://imvipconference.github.io/">IMVIP 2025</a>, 2025 Irish Machine Vision and Image Processing Conference
++ 2025: <a href="https://prompteng-ws.github.io/2025/">PromptEng'25</a>, 2nd PromptEng Workshop at the ACM WebConf'25
 + 2025: <a href="https://www.iaria.org/conferences2025/ComeLmL25.html">eLmL 2025</a>, Seventeenth International Conference on Mobile, Hybrid, and On-line Learning
 + 2025: <a href="https://ccnc2025.ieee-ccnc.org/workshop/ws-7-research-advancements-ai-and-future-communication-technologies-healthcare/call-papers">RAFCATH 2025</a>, CCNC 2025 WKSHPS: 1st International workshop on Research Advancements in AI and Future Communication Technologies for Healthcare (RAFCATH)
 + 2025: <a href="https://gia.sciencesconf.org/">ACM/SIGAPP 2025</a>, 40th ACM/SIGAPP Symposium on Applied Computing 2025 - Geographical Information Analytics (GIA) track

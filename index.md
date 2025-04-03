@@ -18,10 +18,6 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 #### Recent News
 
 + (January 2025): My PhD student, Jiantao Wu, successfully defended his thesis, "Bridging the Climate & Environmental Data Divide: A Knowledge Graph Approach", on 30th January 2025. Huge thanks to his examiners: Boeing Endowed Professor Bo Fu from California State University Long Beach, who served as the external examiner; and Assoc Prof Gavin McArdle, who served as the internal examiner. Special thanks to Dr David Lillis for ably chairing the viva and overseeing proceedings. [<a href="https://x.com/SoumyabrataDev/status/1887190971269488853">tweet</a>]
-+ (September 2024): Excited to <a href="https://iemss.org/news/newsletter/summer-2024-newsletter/">announce</a> that the 13th International Environmental Modelling and Software conference is coming to Dublin in 2026, hosted at University College Dublin by David Ayala-Cabrera and myself! Stay tuned for important announcements on dates and details. [<a href="https://x.com/SoumyabrataDev/status/1832986542186606799">tweet</a>]
-+ (September 2024): Heartiest welcome to Wasif Qazi, Tingyu Zhang, and Ciarán Scanlon who joins us for their year-long BSc Final Year Project at our group.
-+ (September 2024): Heartiest welcome to Yearat Hossain, and Sicheng Zhao who joins us for pursuing their PhD at our group.
-+ (August 2024): Appointed as the UCD Climate Fellow 2024, supporting climate-related research dissemination and academic impact across disciplines.
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
 
 
