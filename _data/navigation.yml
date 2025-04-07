@@ -66,6 +66,8 @@ sidebar-pubs:
     url: /publications/#journals
   - title: "Conferences"
     url: /publications/#conferences
+  - title: "Book chapters & Preprints"
+    url: /publications/#book-chapters-preprints
   - title: "Technical Reports"
     url: /publications/#technical-reports
   - title: "Others"

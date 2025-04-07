@@ -405,12 +405,16 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + S. Dev, Y. H. Lee, S. Winkler, Systematic Study of Color Spaces and Components for the segmentation of sky/cloud images, *Proc. IEEE International Conference on Image Processing (ICIP)*, Oct. 2014.<a href="https://soumyabratadev.files.wordpress.com/2016/06/icip2014b.pdf"> [PDF]</a> <a href="https://arxiv.org/pdf/1701.04520v1.pdf"> [arXiv]</a> [<a href="https://github.com/Soumyabrata/color-channels">code</a>]
 
-+ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, WAHRSIS: A low-cost, high-resolution whole sky imager with near-infrared capabilities, *Proc. IS&T/SPIE Infrared Imaging Systems: Design, Analysis, Modeling, and Testing*, May 2014.<a href="https://soumyabratadev.files.wordpress.com/2017/04/spie2014.pdf"> [PDF]</a> <a href="https://arxiv.org/pdf/1605.06595.pdf"> [arXiv]</a> [<a href="https://github.com/Soumyabrata/WAHRSIS">code</a>]
++ S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, WAHRSIS: A low-cost, high-resolution whole sky imager with near-infrared capabilities, *Proc. IS&T/SPIE Infrared Imaging Systems: Design, Analysis, Modeling, and Testing*, May 2014.<a href="https://soumyabratadev.files.wordpress.com/2017/04/spie2014.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1605.06595.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/WAHRSIS">code</a>]
 
 + S. Dev, Z.H. Choudhury, K. L. Baishnab, A. Nag, An efficient heap management technique with Minimum Fragmentation and Auto Compaction, *IEEE International Conference on Industrial and Information Systems (ICIIS)*, July 2010 <a href="https://soumyabratadev.files.wordpress.com/2016/06/iciis2010.pdf"> [PDF]</a>
 
 + S. Dev, Z. H. Choudhury, A randomized cryptographic algorithm and its simulation in C and MATLAB, with its hardware implementation in Verilog HDL, *IEEE Conference on Anti-Counterfeiting, Security and Identification (ASID)*, Aug. 2009 <a href="https://soumyabratadev.files.wordpress.com/2016/06/icasid2009.pdf"> [PDF]</a>
 
+## Book chapters & Preprints
++ J. Zhang, Y. Zhang, Y. Zheng, Y. Wang, J. You, Y. Xu, W. Jiang, and S. Dev, TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization. arXiv preprint arXiv:2503.03276. [<a href="https://arxiv.org/pdf/2503.03276">arXiv</a>]
+
++ (<a href="https://link.springer.com/chapter/10.1007/978-981-97-6671-0_15">Book chapter</a>): Neog, D.R., Singha, G., Dev, S. and Prince, E.H., 2024. Artificial Intelligence and Its Application in Disaster Risk Reduction in the Agriculture Sector. In Disaster Risk Reduction and Rural Resilience: With a Focus on Agriculture, Water, Gender and Technology (pp. 279-305). Singapore: Springer Nature Singapore.
 
 
 ## Technical Reports
@@ -429,8 +433,6 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 
 ## Others
-
-+ (<a href="https://link.springer.com/chapter/10.1007/978-981-97-6671-0_15">Book chapter</a>): Neog, D.R., Singha, G., Dev, S. and Prince, E.H., 2024. Artificial Intelligence and Its Application in Disaster Risk Reduction in the Agriculture Sector. In Disaster Risk Reduction and Rural Resilience: With a Focus on Agriculture, Water, Gender and Technology (pp. 279-305). Singapore: Springer Nature Singapore.
 
 + W. Yao, S. Donohue, and S. Dev, Optimizing Remote Sensing Image Classification with Spectral Indices and Convolutional Neural Networks, *ADAPT Internal Scientific Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/05/yao2024.pdf">poster</a>]
 
