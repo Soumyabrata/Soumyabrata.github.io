@@ -11,6 +11,8 @@ sidebar:
 ### Academic and Administrative Service
 + Timetable Coordinator at the UCD School of Computer Science Timetabling committee to organize the BSc timetables, and arrange the room allocations across the different BSc stages, AY 2022-23, AY 2023-24, University College Dublin. 
 + PhD thesis committee member for the following UCD/External doctoral students. 
+	- Ciaran O'Connor (My role: External Examiner, supervisors: Steven Prestwich and Andrea Visentin from University College Cork, Ireland)
+	- Oshana Iddi Dissanayake (My role: Internal Examiner, supervisor: Padraig Cunningham)
 	- Rajitha Ramanayake (My role: Internal Examiner, supervisor: Vivek Nallur)
 	- Yogesh Bansal (My role: Internal Examiner, supervisor: David Lillis)
 	- Agatha Hennigen de Mattos (My role: Internal Examiner, supervisor: Gavin McArdle)

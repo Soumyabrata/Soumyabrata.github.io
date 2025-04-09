@@ -347,15 +347,16 @@ None at this moment.
 + Alejandro Mayagoitia (Yale University, United States), UCD Intern, AY 2023--24
 + Hayden Wilson (Southern Methodist University, Dallas, United States), UCD Intern, AY 2023--24
 + Priyanshu Mishra (Indian Institute of Technology, Jammu, India), UCD Intern, AY 2023--24
-+ Pardhu Nadella (GRIET, India), UCD Intern, AY 2023--24
++ <a href="https://www.linkedin.com/in/pardhu-nadella-2686641a5/">Pardhu Nadella</a> ( Gokaraju Rangaraju Institute of Engineering and Technology, India), UCD Intern, AY 2023--24 (Next stop: Systems Engineer at Tata Consultancy Services)
 + Mohsin Imam (University of Delhi, India), UCD Intern, AY 2023--24
-+ Lucian Fairbrother (Brandeis University, United States), UCD Intern, AY 2022--23
++ <a href="https://www.linkedin.com/in/lucian-fairbrother-720957207/">Lucian Fairbrother</a> (Brandeis University, United States), UCD Intern, AY 2022--23
 + <a href="https://tejasrin.gitlab.io/">Tejasri Nampally</a> ( Indian Institute of Technology Hyderabad, India), UCD Intern, AY 2022--23
 + Ansh Lodhi (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--23
 + Ambrish Kashyap (Indian Institute of Technology Delhi, India), UCD Intern, AY 2022--23
 + Girievasan Manivannan (National Institute of Technology Tiruchirappalli, India), UCD Intern, AY 2022--23
 + Deepak Joel Yericherla (International Institute of Information Technology (IIIT) Naya Raipur, India), UCD Intern, AY 2022--23
 + Navya Jain (Ram Lal Anand College, University of Delhi), UCD Intern, AY 2022--23
++ <a href="https://dsaharia.com/">Dhiraj Saharia</a> (Tezpur University, India), UCD Intern, AY 2021--22 (Next stop: PhD student at Georgetown University, United States)
 + Nitin Sai Bommi (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--22
 + Prathistith Raj Medi (International Institute of Information Technology Naya Raipur, India), UCD Intern, AY 2021--22
 + <a href="https://www.linkedin.com/in/bibhash-pran-das-b214461a2/">Bibhash Pran Das</a> (National Institute of Technology Rourkela, India), UCD Intern, AY 2021--22 (Next stop: Software Engineer at Microsoft, India)
