@@ -13,6 +13,7 @@ sidebar:
 + PhD thesis committee member for the following UCD/External doctoral students. 
 	- Ciaran O'Connor (My role: External Examiner, supervisors: Steven Prestwich and Andrea Visentin from University College Cork, Ireland)
 	- Oshana Iddi Dissanayake (My role: Internal Examiner, supervisor: Padraig Cunningham)
+	- Areej Banjar (My role: Chair of Examination Committee, supervisor: Abey Campbell)
 	- Rajitha Ramanayake (My role: Internal Examiner, supervisor: Vivek Nallur)
 	- Yogesh Bansal (My role: Internal Examiner, supervisor: David Lillis)
 	- Agatha Hennigen de Mattos (My role: Internal Examiner, supervisor: Gavin McArdle)
@@ -43,6 +44,7 @@ sidebar:
 + Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, AY 2019--20, AY 2020--21, AY 2023--24, University College Dublin.
 
 ### Outreach and Community Engagement
++ 2025: Delivered the AI in My Life workshop to Transition Year students at Muckross Park College on 10 April 2025, introducing core AI concepts, ethics, and societal impacts. [<a href="https://x.com/SoumyabrataDev/status/1912078987641180243">tweet</a>]
 + 2025: Served as a judge for the UCD CS Annual Computer Science Poster Event at University College Dublin on January 22, 2025, providing expert evaluation and constructive feedback on graduate research presentations.
 + 2024: Represented UCD Global at Shandong University, exploring partnership opportunities and promoting the UCD 3+1+1 program. Engaged with international colleagues across disciplines to strengthen academic collaboration and inter-faculty engagement. [<a href="https://x.com/SoumyabrataDev/status/1853745958678679970">Tweet</a>]
 + 2024: Represented BDIC at the IEEE CISP-BMEI 2024 in Shanghai, presenting our state-of-the-art research on solar forecasting, spatial prediction models, and CO₂ emissions monitoring, reinforcing BDIC’s commitment to sustainability and impactful global research collaborations. [<a href="https://www.ucd.ie/bdic/newsandevents/bdicrepresentationatieeecisp-bmei2024inshanghai/">news</a>]

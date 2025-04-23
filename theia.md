@@ -318,7 +318,7 @@ None at this moment.
 + Wang He, UCD FYP, AY 2019-20
 + <a href="https://mrtornado24.github.io/">Jingxiang Sun</a>, UCD FYP, AY 2019-20
 + Wang Zihao, UCD FYP, AY 2019-20
-+ Meichen Lu, UCD FYP, AY 2019-20
++ <a href="https://www.linkedin.com/in/meichen-lu-835192222/">Meichen Lu</a>, UCD FYP, AY 2019-20 (Next stop: MS at  Carnegie Mellon University, Next-next stop: SE at Amazon Web Services (AWS), Seattle)
 + Wang Zhenhao, UCD FYP, AY 2019-20
 + Zhang Lei , UCD FYP, AY 2019-20
 + Rongze Tian, UCD FYP, AY 2019-20
