@@ -124,7 +124,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ Y. Li, H. Wang, J. Zhang, J. You, J. Xu, P. Wu, Y. Xiao, and S, Dev, Segregation and Context Aggregation Network for Real-time Cloud Segmentation, *Proc. ICLR workshop on Tackling Climate Change with Machine Learning*, 2025. 
++ Y. Li, H. Wang, J. Zhang, J. You, J. Xu, P. Wu, Y. Xiao, and S, Dev, Segregation and Context Aggregation Network for Real-time Cloud Segmentation, *<a href="https://www.climatechange.ai/events/iclr2025">Proc. ICLR workshop on Tackling Climate Change with Machine Learning</a>*, 2025. [<a href="https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/iclr2025/68/paper.pdf">PDF</a>]
 
 +  I. R. Nijhum, M. Y. Hossain, T. Akinola, M. M. H. Rakib, and S. Dev, A Hybrid CNN-LSTM Framework and Infrared Image Processing for Solar Irradiance Forecasting, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
 
