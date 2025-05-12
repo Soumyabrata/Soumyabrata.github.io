@@ -44,6 +44,8 @@ sidebar:
 + Academic mentor, for <a href="http://www.ucd.ie/registry/admissions/FET.html">QQI-FET</a>, <a href="http://accesscollege.ie/dare/">DARE</a>, <a href="http://accesscollege.ie/hear/">HEAR</a> and mature students in Stage 1 Science programme, AY 2019--20, AY 2020--21, AY 2023--24, University College Dublin.
 
 ### Outreach and Community Engagement
++ 2025: Delivered AI literacy training to PME2 students at UCD School of Education on 9th May 2025, equipping future high-school teachers with essential AI knowledge and resources. [<a href="https://x.com/SoumyabrataDev/status/1921582228246520068">tweet</a>]
++ 2025: Delivered a technical talk on "Sensing the City: AI-Powered Environmental Monitoring for Smarter Urban Futures" at the IEEE SOC Technical Talks, highlighting the role of AI in air quality monitoring, coastal management, and sustainable grid systems, on 9 May 2025. [<a href="https://ctsoc.ieee.org/technical/technical-talks.html">web</a>] [<a href="https://x.com/SoumyabrataDev/status/1920831370311418081">tweet</a>]
 + 2025: Showcased our AI-based approach to predictive maintenance for climate-resilient railway infrastructure at the 2025 National Challenge Fund Showcase in Croke Park on 30 April 2025, attended by leading researchers, stakeholders, and policy makers—including James Lawless TD, Minister for Further & Higher Education, Research, Innovation & Science. [<a href="https://x.com/SoumyabrataDev/status/1917666565652172939">tweet</a>]
 + 2025: Delivered the AI in My Life workshop to Transition Year students at Muckross Park College on 10 April 2025, introducing core AI concepts, ethics, and societal impacts. [<a href="https://x.com/SoumyabrataDev/status/1912078987641180243">tweet</a>]
 + 2025: Served as a judge for the UCD CS Annual Computer Science Poster Event at University College Dublin on January 22, 2025, providing expert evaluation and constructive feedback on graduate research presentations.
@@ -52,6 +54,7 @@ sidebar:
 + 2024: Presented a research talk titled 'From Space to Shore: AI and Remote Sensing for Coastal Protection' at NYU Shanghai, hosted by Prof Jiayong Liang, 25 October 2024, Shanghai. [<a href="https://x.com/SoumyabrataDev/status/1849689022530191462">Tweet</a>] 
 + 2023: Delivered a talk on 'Remote Sensing for Climate, Air Quality, and Weather Prediction' at the John McCarthy AI Summer School event - AI for Sustainability, 7 September 2023. [<a href="https://soumyabratadev.files.wordpress.com/2023/09/rdihub-7sep2023.pdf">slides</a>] [<a href="https://twitter.com/SoumyabrataDev/status/1700022314421887168">Tweet</a>] [<a href="https://www.eventbrite.ie/e/artificial-intelligence-summer-school-event-ai-for-sustainability-tickets-698300324067">Event</a>] [<a href="https://www.independent.ie/regionals/kerry/news/kerry-hub-hosts-artificial-intelligence-school/a658185459.html">Press</a>]
 + 2023: Delivered a talk on the EDI (Equality Diversity and Inclusion) topic 'Let's Talk About Race: Bridging the Gap in Science', organised by the EDI School of Chemistry, University College Dublin, 19 April 2023. [<a href="https://demo5613.files.wordpress.com/2023/04/edi-talk-april2023.pdf">slides</a>] [<a href="https://twitter.com/SoumyabrataDev/status/1649081919936577537">Tweet</a>]
++ 2022: Delivered an invited lecture titled "Augmented and Virtual Reality: A Primer on its Definition, Applications, and Methodologies" to undergraduate students at Indian Institute of Information Technology (IIIT) Dharwad, India, on 6 December 2022, as part of their national academic bridge programme (5–16 December 2022).
 + 2022: Industry Talk at UNUM Ireland, Carlow (23 Sept 2022) where I presented a deep-tech project from my research team, highlighting cutting-edge applications of AI and remote sensing for industry innovation.
 + 2021: Participated in a <a href="https://ieeeukiyp.org/3rd_stem/schedule/">panel discussion</a> at Third IEEE UK&I YP Postgrad STEM Research Symposium on the future of STEM in a shifting landscape, organised by IEEE UK & Ireland Young Professionals, Nov 10, 2021, at Dublin, Ireland.
 + 2021: UCD Earth Institute workshop, and spoke on our recent project of imaging the atmosphere using low-cost cameras, March 24, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2021/03/collab_workshop_1.pdf">slides</a>]
@@ -75,7 +78,27 @@ sidebar:
 + 2016: Delivered a talk in the workshop 'How to build a cantenna?', as a part of NTU Outreach programme at <a href="http://ajc.edu.sg/">Anderson Junior College,</a> in Ang Mo Kio, Singapore, on May 25, 2016.
 
 
+### Awards and Honors
++ <a href="https://www.linkedin.com/feed/update/urn:li:activity:7320476950773338112/">Featured</a> by UCD Earth Institute on Earth Day 2025 as one of three Climate Fellows advancing Ireland’s energy and climate transition through research in machine learning and remote sensing.
+
++  The SOLARIS project (PhD research by Mayank Jain), shortlisted for `Best Research Project' at the 2025 Education Awards - recognised for its innovative AI-driven approach to solar energy forecasting and grid integration, March 2025.
+
++  Appointed as the UCD Climate Fellow 2024, supporting climate-related research dissemination and academic impact across disciplines.
+
++  Awarded the prestigious 2024 Biomedical Circuits and Systems <a href="https://www.linkedin.com/feed/update/urn:li:activity:7209965585080664064/">Best Paper Award</a> for the paper ``ANNet: A Lightweight Neural Network for ECG Anomaly Detection in IoT Edge Sensors'', published in IEEE Transactions on Biomedical Circuits and Systems, Volume 16, Issue 1.
+
++  Nominated for the Teaching and Learning Award from College of Science, University College Dublin for AY 2023-2024, AY 2021-2022, AY 2019-2020.
+
++  Awarded the Outstanding Academic Achievement award, by Technology Ireland, November 2018.
++  Awarded the ADAPT Centre Directors Commercialisation Award 2018, in recognition of the contribution to Huawei Advert project.
++  Recognition and appreciation for contribution as a tutor in the Peer Tutoring Scheme, NTU Singapore, AY 2016-17.
++  IEEE Region-10 Young Professionals Affinity Group Award in recognition and appreciation of valued services and contributions, August 2016.
++  Commendable Teaching Assistant Award for the AY 2014--15 by School of Electrical and Electronic Engineering, NTU Singapore, November 2015.
++  Institute Silver Medal in Bachelor of Technology, for academic excellence during the 8th Annual Convocation for graduating *summa cum laude* with highest honors National Institute of Technology Silchar, July 2010.
++  Recipient of North Eastern Council (NEC) Stipend and Book Grant Scholarship, awarded for intellectual merit and scientific ability for a period of 4 years (2006--2010).
+
 ### Organizational Leadership
++ 2025: Committee member, <a href="https://www.ucd.ie/sec/">UCD Sustainable Energy Community</a>, promoting energy awareness and low-carbon practices across campus.
 + 2025: Technical Committee, <a href="https://ctsoc.ieee.org/technical/technical-committees/smc-tc.html">IEEE Application-Specific CE for Smart Cities (SMC)</a>.
 + 2023: Publication Chair, <a href="https://www.sest2023.org/committees/">6th International Conference on Smart Energy Systems and Technologies (SEST)</a>, Mugla, Turkey.
 + 2022: Guest editor, Special Issue on Selected articles from the 5th International Conference on Smart Energy Systems and Technologies (SEST 2022) for Sustainable Energy, Grids and Networks.
@@ -89,7 +112,7 @@ sidebar:
 + 2016: Local organizing chair of <a href="http://hardtechsummit.com/">IEEE HardTech Summit</a> 2016, in extension to <a href="http://tencon2016.org/">TENCON 2016</a> conference. The summit was held at Nanyang Technological University Singapore on 26 November 2016, in association with several partners. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/hts_flyer.png">Event Flyer</a>]
 
 ### Technical Program Committee
-
++ 2025: IEEE SmartGridComm 2025, 2025 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids
 + 2025: <a href="https://imvipconference.github.io/">IMVIP 2025</a>, 2025 Irish Machine Vision and Image Processing Conference
 + 2025: <a href="https://prompteng-ws.github.io/2025/">PromptEng'25</a>, 2nd PromptEng Workshop at the ACM WebConf'25
 + 2025: <a href="https://www.iaria.org/conferences2025/ComeLmL25.html">eLmL 2025</a>, Seventeenth International Conference on Mobile, Hybrid, and On-line Learning
