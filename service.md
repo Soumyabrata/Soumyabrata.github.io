@@ -80,15 +80,10 @@ sidebar:
 
 ### Awards and Honors
 + <a href="https://www.linkedin.com/feed/update/urn:li:activity:7320476950773338112/">Featured</a> by UCD Earth Institute on Earth Day 2025 as one of three Climate Fellows advancing Ireland’s energy and climate transition through research in machine learning and remote sensing.
-
-+  The SOLARIS project (PhD research by Mayank Jain), shortlisted for `Best Research Project' at the 2025 Education Awards - recognised for its innovative AI-driven approach to solar energy forecasting and grid integration, March 2025.
-
++  The SOLARIS project (PhD research by Mayank Jain), <a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/05/edu-2025-best-research-project-university-college-dublin.pdf">shortlisted</a> for `Best Research Project' at the 2025 Education Awards - recognised for its innovative AI-driven approach to solar energy forecasting and grid integration, March 2025.
 +  Appointed as the UCD Climate Fellow 2024, supporting climate-related research dissemination and academic impact across disciplines.
-
 +  Awarded the prestigious 2024 Biomedical Circuits and Systems <a href="https://www.linkedin.com/feed/update/urn:li:activity:7209965585080664064/">Best Paper Award</a> for the paper ``ANNet: A Lightweight Neural Network for ECG Anomaly Detection in IoT Edge Sensors'', published in IEEE Transactions on Biomedical Circuits and Systems, Volume 16, Issue 1.
-
 +  Nominated for the Teaching and Learning Award from College of Science, University College Dublin for AY 2023-2024, AY 2021-2022, AY 2019-2020.
-
 +  Awarded the Outstanding Academic Achievement award, by Technology Ireland, November 2018.
 +  Awarded the ADAPT Centre Directors Commercialisation Award 2018, in recognition of the contribution to Huawei Advert project.
 +  Recognition and appreciation for contribution as a tutor in the Peer Tutoring Scheme, NTU Singapore, AY 2016-17.
