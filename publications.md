@@ -11,6 +11,11 @@ sidebar:
 
 
 ## Journals
+
++ R. Das, and S. Dev, Optimizing Student Engagement Detection using Facial and Behavioral Features, *Neural Computing and Applications*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/05/2025ncaa.pdf">PDF</a>] [<a href="https://github.com/rijju-das/Student-engagement">code</a>]
+ 
++ M. S. Pathan, P. Nadella, Y. U. Haq, S. Chaudhury, J. Wu, A. Nag, and Soumyabrata Dev, A Systematic Analysis of Meteorological Parameters in Predicting Rainfall Events, *IEEE Access*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/05/2025_ieeeaccess.pdf">PDF</a>] [<a href="https://github.com/Sammyy092/systematic-analysis-of-meteorological-parameters">code</a>]
+
 + Y. Li, H. Wang, S. Wang, J. Xu, Y. H. Lee, and S. Dev, BSANet: A Bilateral Segregation and Aggregation Network for Real-time Cloud Segmentation, *Remote Sensing Applications: Society and Environment*, 2025. 
 
 + S. Dhang, M. Zhang, and S. Dev, LaBINet - An Approach for Seamlessly Integrating New Advertisement into an Existing Scene, *IEEE Transactions on Artificial Intelligence*, 2025. 
