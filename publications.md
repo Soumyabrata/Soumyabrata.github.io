@@ -423,8 +423,9 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 
 ## Technical Reports
++ J. Wu, Bridging the Climate and Environmental Data Divide: A Knowledge Graph Approach, Doctoral Thesis, University College Dublin, Ireland, January 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/05/2025-jwu-thesis.pdf">Thesis</a>]  (<a href="https://x.com/SoumyabrataDev/status/1887190971269488853">My 2nd PhD graduate</a>)
 
-+ M. Jain, Facilitating The Inclusion Of Photovoltaic Systems In Energy Grids, Doctoral Thesis, Universty College Dublin, Ireland, January 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/01/mjain_phd_thesis_2024.pdf">Thesis</a>] 
++ M. Jain, Facilitating The Inclusion Of Photovoltaic Systems In Energy Grids, Doctoral Thesis, University College Dublin, Ireland, January 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/01/mjain_phd_thesis_2024.pdf">Thesis</a>]  (<a href="https://x.com/SoumyabrataDev/status/1802632631072247940">My 1st PhD graduate</a>)
 
 + F. Piti&eacute;, A. Nautiyal, S. Dev, M. Nicholsan, A. Abdelkader, K. McCabe, C. Conran, D. McKibben, An automatic system that identifies and locates the four corners of the advertising space in a video as a cloud service, *Patent Filed*, 2018. 
 
