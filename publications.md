@@ -120,9 +120,10 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + S. Dev, B. Wen, Y. H. Lee, S. Winkler, Machine Learning Techniques and Applications For Ground-based Image Analysis, *IEEE Geoscience and Remote Sensing Magazine, Special Issue on Advances in Machine Learning for Remote Sensing and Geosciences*, vol. 4, no. 2, pp. 79-93, Jun 2016. [<a href="https://soumyabratadev.files.wordpress.com/2021/04/grsm2016.pdf">PDF</a>] [<a href="http://arxiv.org/pdf/1606.02811v1.pdf">arXiv</a>]
 
+<!---
 + S. Dev, Nischal S., An efficient partner assignment algorithm for improving the performance of 802.11 WLAN, *International Journal of Recent Trends in Engineering, Issue on Electrical and Electronics*, vol. 2, no. 6, pp. 155-157, Nov 2009 [<a href="https://soumyabratadev.files.wordpress.com/2016/06/ijrte2009.pdf">PDF</a>] 
 
-
+-->
 
 
 
@@ -161,7 +162,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  S. Dhang, A. Idogho, M. Zhang, and S. Dev, Towards Accurate Billboard Detection: An Ablation and Benchmarking Study of Deep Learning Models, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/dhang2024towards.pdf">slides</a>]
  
-+ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Leveraging Knowledge Graphs For Enhancing Climate-resilient Agricultural Analysis, *9th IEEE International Conference on Computational Intelligence and Applications*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/wu2024leveraging-slides.pdf">slides</a>]
+*+ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Leveraging Knowledge Graphs For Enhancing Climate-resilient Agricultural Analysis, *9th IEEE International Conference on Computational Intelligence and Applications*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/wu2024leveraging-slides.pdf">slides</a>]
 
 + S. Kumari, J. Wu, D. Ayala-Cabrera, and S. Dev, Effective Water Body Extraction from Hyperspectral Data: A Focus on Unsupervised Band Indices, *9th IEEE International Conference on Computational Intelligence and Applications*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/kumari2024effective-slides.pdf">slides</a>]
 
@@ -412,9 +413,12 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + S. Dev, F. M. Savoy, Y. H. Lee, S. Winkler, WAHRSIS: A low-cost, high-resolution whole sky imager with near-infrared capabilities, *Proc. IS&T/SPIE Infrared Imaging Systems: Design, Analysis, Modeling, and Testing*, May 2014.<a href="https://soumyabratadev.files.wordpress.com/2017/04/spie2014.pdf"> [PDF]</a> [<a href="https://arxiv.org/pdf/1605.06595.pdf">arXiv</a>] [<a href="https://github.com/Soumyabrata/WAHRSIS">code</a>]
 
+<!---
 + S. Dev, Z.H. Choudhury, K. L. Baishnab, A. Nag, An efficient heap management technique with Minimum Fragmentation and Auto Compaction, *IEEE International Conference on Industrial and Information Systems (ICIIS)*, July 2010 <a href="https://soumyabratadev.files.wordpress.com/2016/06/iciis2010.pdf"> [PDF]</a>
 
 + S. Dev, Z. H. Choudhury, A randomized cryptographic algorithm and its simulation in C and MATLAB, with its hardware implementation in Verilog HDL, *IEEE Conference on Anti-Counterfeiting, Security and Identification (ASID)*, Aug. 2009 <a href="https://soumyabratadev.files.wordpress.com/2016/06/icasid2009.pdf"> [PDF]</a>
+
+-->
 
 ## Book chapters & Preprints
 + J. Zhang, Y. Zhang, Y. Zheng, Y. Wang, J. You, Y. Xu, W. Jiang, and S. Dev, TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization. arXiv preprint arXiv:2503.03276. [<a href="https://arxiv.org/pdf/2503.03276">arXiv</a>]
