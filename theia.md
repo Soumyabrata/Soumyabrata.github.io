@@ -263,7 +263,22 @@ None at this moment.
 
 <div class="row">
 	
-None at this moment. 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Margaret-Broderick-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Margaret Broderick</b> is an undergraduate at Michigan State University pursuing a Bachelor's in computer science engineering. Her research interests include human centered computing, artificial intelligence, and algorithmic bias. 
+</div>
+</div>
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Edward-Lai-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Edward Lai</b> is a UCD intern from Los Angeles, California. He is a rising sophomore at Yale University pursuing a B.S. degree in Applied Math and Computer Science. His research project focuses on SLAM systems and 3D reconstruction. 
+</div>
+</div>
 
 </div>
 
