@@ -25,8 +25,8 @@ sidebar:
 	- Aditya Kuppa (My role: Chair of Examination Committee, supervisor: Nhien-An Le-Khac)
 	- Muhammad Zahid Iqbal (My role: Chair of Examination Committee, supervisor: Abey Campbell)
 + Research Studies Panel (RSP) member for the following UCD doctoral students: 
-	- Rawan AlRashid (My role: RSP Advisor, Supervisor: Abey Campbell, Adamaria Perrotta)
-	- Probal Bose (My role: RSP Advisor, Supervisor: Avishek Nag)
+	- Rawan AlRashid (My role: RSP Advisor, Supervisor: Abey Campbell)
+	- Probal Bose (My role: RSP Advisor, Supervisor: Avishek Nag, Adamaria Perrotta)
 	- Dat-Thinh Nguyen (My role: RSP Chair, Supervisor: Nhien-An Le-Khac)
 	- Quinn Berryman (My role: RSP Advisor, Supervisor: Aidan Murphy, Abey Campbell)
 	- Nouf Alsallum (My role: RSP Advisor, Supervisor: Mohamed Saadeldin)
