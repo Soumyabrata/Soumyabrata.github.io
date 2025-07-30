@@ -158,11 +158,11 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  M. Y. Hossain, I. R. Nijhum, M. M. H. Rakib, and S. Dev, Can Deep Learning Outperform Traditional Methods in Upscaling IR Images for Solar Irradiance Estimation?, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/hossain2024deep.pdf">slides</a>]
 
-+  S. Dhang, M. Zhang, and S. Dev, Frame-level Advert Localisation, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/dhang2024frame.pdf">slides</a>]
++  S. Dhang, M. Zhang, and S. Dev, Frame-level Advert Localisation, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/07/dhang2024frame.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/frame-level-adv-loc">code</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/dhang2024frame.pdf">slides</a>]
 
-+  S. Dhang, A. Idogho, M. Zhang, and S. Dev, Towards Accurate Billboard Detection: An Ablation and Benchmarking Study of Deep Learning Models, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/dhang2024towards.pdf">slides</a>]
++  S. Dhang, A. Idogho, M. Zhang, and S. Dev, Towards Accurate Billboard Detection: An Ablation and Benchmarking Study of Deep Learning Models, *26th Irish Machine Vision and Image Processing Conference*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/07/dhang2024towards.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/billboard-detect-ablationstudy">code</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/dhang2024towards.pdf">slides</a>]
  
-*+ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Leveraging Knowledge Graphs For Enhancing Climate-resilient Agricultural Analysis, *9th IEEE International Conference on Computational Intelligence and Applications*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/wu2024leveraging-slides.pdf">slides</a>]
++ J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, Leveraging Knowledge Graphs For Enhancing Climate-resilient Agricultural Analysis, *9th IEEE International Conference on Computational Intelligence and Applications*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/wu2024leveraging-slides.pdf">slides</a>]
 
 + S. Kumari, J. Wu, D. Ayala-Cabrera, and S. Dev, Effective Water Body Extraction from Hyperspectral Data: A Focus on Unsupervised Band Indices, *9th IEEE International Conference on Computational Intelligence and Applications*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2024/09/kumari2024effective-slides.pdf">slides</a>]
 
