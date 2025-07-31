@@ -18,7 +18,7 @@ sidebar:
 
 + Y. Li, H. Wang, S. Wang, J. Xu, Y. H. Lee, and S. Dev, BSANet: A Bilateral Segregation and Aggregation Network for Real-time Cloud Segmentation, *Remote Sensing Applications: Society and Environment*, 2025. 
 
-+ S. Dhang, M. Zhang, and S. Dev, LaBINet - An Approach for Seamlessly Integrating New Advertisement into an Existing Scene, *IEEE Transactions on Artificial Intelligence*, 2025. 
++ S. Dhang, M. Zhang, and S. Dev, LaBINet - An Approach for Seamlessly Integrating New Advertisement into an Existing Scene, *IEEE Transactions on Artificial Intelligence*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/07/dhang2025labinet.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/LaBI-Net-billboard-integration">code</a>]
 
 + J. Yang, S. Dev, and A. G. Campbell, RenderKernel: High-level programming for real-time rendering systems, *Visual Informatics*, 2024. 
 
@@ -30,7 +30,7 @@ sidebar:
 
 + F. Ullah, J. He, N. Zhu, A. Wajahat, A. Nazir, S. Qureshi, M. S. Pathan, and S. Dev, Blockchain-Enabled EHR Access Auditing: Enhancing Healthcare Data Security, *Heliyon*, 2024.
 
-+ S. Dhang, M. Zhang, and S. Dev, AdSegNet: A deep network to localize billboard in outdoor scenes, *Signal, Image and Video Processing*, 2024.
++ S. Dhang, M. Zhang, and S. Dev, AdSegNet: A deep network to localize billboard in outdoor scenes, *Signal, Image and Video Processing*, 2024. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/07/dhang2024adsegnet.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/AdSegNet-billboard-segmentation">code</a>]
 
 + C. O'Sullivan, A. Kashyap, S. Coveney, X. Monteys, and S. Dev, Enhancing Coastal Water Body Segmentation with Landsat Irish Coastal Segmentation (LICS) Dataset, *Remote Sensing Applications: Society and Environment*, 2024.
 
