@@ -130,6 +130,24 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++  R. Das, S. Dhang, M. Zhang and S. Dev, AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content, *Irish Machine Vision and Image Processing Conference*, 2025. 
+
++  I. R. Nijhum, T. Akinola, M. E. Ali, and S. Dev, Optimizing Lightweight Photovoltaic Forecasting Models: A Distillation Approach, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. 
+
++  I. R. Nijhum, M. S. Reza, and S. Dev, Tiny-UCloudNet: Memory Efficient Ground-based Cloud Segmentation Network, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/nijhum2025tiny-slides.pdf">slides</a>]
+
++  Y. Li, H. Wang, J. Xu, Z. Ma, P. Wu, S. Wang, and S. Dev, CP2M: Clustered-Patch-Mixed Mosaic Augmentation for Aerial Image Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025.
+
++  Y. Li, H. Wang, J. Xu, P. Wu, Y. Xiao, S. Wang, and S. Dev, DDUNet: Dual Dynamic U-net For Highly-efficient Cloud Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/li2025ddunet-slides-1.pdf">slides</a>]
+
++  C. O'Sullivan, and S. Dev, The Impact of Data Augmentations on Coastal Image Segmentation Models, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025.
+
++  C. O'Sullivan, and S. Dev, Weighted Context: A Global Interpretation Method for Image Segmentation Models, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025.
+
++  P. Dey, S. Dev, and B. Schoen-Phelan, FewShot-AIRNET: Temporal 2D-Variation Modeling for Air Pollution Forecasting, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025.
+
++  P. Dey, S. Dev, and B. Schoen-Phelan, Efficient Vision Transformer Framework: Near-Surface O3 Prediction with Missing Satellite Data, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025.
+
 + Y. Li, H. Wang, J. Zhang, J. You, J. Xu, P. Wu, Y. Xiao, and S, Dev, Segregation and Context Aggregation Network for Real-time Cloud Segmentation, *<a href="https://www.climatechange.ai/events/iclr2025">Proc. ICLR workshop on Tackling Climate Change with Machine Learning</a>*, 2025. [<a href="https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/iclr2025/68/paper.pdf">PDF</a>]
 
 +  I. R. Nijhum, M. Y. Hossain, T. Akinola, M. M. H. Rakib, and S. Dev, A Hybrid CNN-LSTM Framework and Infrared Image Processing for Solar Irradiance Forecasting, *17th IEEE International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, 2024.
