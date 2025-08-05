@@ -130,13 +130,13 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+  R. Das, S. Dhang, M. Zhang and S. Dev, AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content, *Irish Machine Vision and Image Processing Conference*, 2025. 
++  R. Das, S. Dhang, M. Zhang and S. Dev, AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content, *Irish Machine Vision and Image Processing Conference (IMVIP)*, 2025. 
 
 +  I. R. Nijhum, T. Akinola, M. E. Ali, and S. Dev, Optimizing Lightweight Photovoltaic Forecasting Models: A Distillation Approach, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. 
 
 +  I. R. Nijhum, M. S. Reza, and S. Dev, Tiny-UCloudNet: Memory Efficient Ground-based Cloud Segmentation Network, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/nijhum2025tiny-slides.pdf">slides</a>]
 
-+  Y. Li, H. Wang, J. Xu, Z. Ma, P. Wu, S. Wang, and S. Dev, CP2M: Clustered-Patch-Mixed Mosaic Augmentation for Aerial Image Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025.
++  Y. Li, H. Wang, J. Xu, Z. Ma, P. Wu, S. Wang, and S. Dev, CP2M: Clustered-Patch-Mixed Mosaic Augmentation for Aerial Image Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/li2025cp2m.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/li2025cp2m-slides.pdf">slides</a>]
 
 +  Y. Li, H. Wang, J. Xu, P. Wu, Y. Xiao, S. Wang, and S. Dev, DDUNet: Dual Dynamic U-net For Highly-efficient Cloud Segmentation, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/li2025ddunet-slides-1.pdf">slides</a>]
 
