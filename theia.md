@@ -252,7 +252,6 @@ None at this moment.
 
 <div class="row">
 
-
 None at this moment. 
 	
 </div>
@@ -263,22 +262,7 @@ None at this moment.
 
 <div class="row">
 	
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Margaret-Broderick-120.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Margaret Broderick</b> is an undergraduate at Michigan State University pursuing a Bachelor's in computer science engineering. Her research interests include human centered computing, artificial intelligence, and algorithmic bias. 
-</div>
-</div>
-
-<br />
-
-
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Edward-Lai-120.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Edward Lai</b> is a UCD intern from Los Angeles, California. He is a rising sophomore at Yale University pursuing a B.S. degree in Applied Math and Computer Science. His research project focuses on SLAM systems and 3D reconstruction. 
-</div>
-</div>
+None at this moment.
 
 </div>
 
@@ -315,9 +299,12 @@ None at this moment.
 
 
 #### Undergrads
++ <a href="https://www.linkedin.com/in/wasirq/">Wasif Qazi</a>, UCD FYP, AY 2024-25
++ <a href="https://www.linkedin.com/in/tingyu-zhang-6498ba224/">Tingyu Zhang</a>, UCD FYP, AY 2024-25
++ <a href="https://www.linkedin.com/in/ciar%C3%A1n-scanlon-740554268/">Ciaran Scanlon</a>, UCD FYP, AY 2024-25
 + Toluwabori Akinola, UCD FYP, AY 2023-24
 + Evin O'Sullivan, UCD FYP, AY 2023-24
-+ Jason Lok, UCD FYP, AY 2023-24
++ <a href="https://www.linkedin.com/in/jason-lok2001/">Jason Lok</a>, UCD FYP, AY 2023-24 (Next stop: Graduate Software Engineer at IBM, Ireland)
 + Tom Higgins, UCD FYP, AY 2022-23
 + <a href="https://www.linkedin.com/in/atseosi-idogho/">Atseosi Idogho</a>, UCD FYP, AY 2022-23
 + <a href="https://www.linkedin.com/in/itsnanwu/">Nan Wu</a>, UCD FYP, AY 2022-23
@@ -359,8 +346,10 @@ None at this moment.
 + Guan Zhao Ting, NTU FYP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 
 #### Interns
-+ Alejandro Mayagoitia (Yale University, United States), UCD Intern, AY 2023--24
-+ Hayden Wilson (Southern Methodist University, Dallas, United States), UCD Intern, AY 2023--24
++ Margaret Broderick (Michigan State University, United States), UCD Intern, AY 2024--25
++ <a href="https://www.linkedin.com/in/edward-lai-4061782a6/">Edward Lai</a> (Yale University, United States), UCD Intern, AY 2024--25
++ <a href="https://www.linkedin.com/in/alemaya/">Alejandro Mayagoitia</a> (Yale University, United States), UCD Intern, AY 2023--24
++ <a href="https://www.linkedin.com/in/hayden-wilson-a15a6729b/">Hayden Wilson</a> (Southern Methodist University, Dallas, United States), UCD Intern, AY 2023--24
 + Priyanshu Mishra (Indian Institute of Technology, Jammu, India), UCD Intern, AY 2023--24
 + <a href="https://www.linkedin.com/in/pardhu-nadella-2686641a5/">Pardhu Nadella</a> ( Gokaraju Rangaraju Institute of Engineering and Technology, India), UCD Intern, AY 2023--24 (Next stop: Systems Engineer at Tata Consultancy Services)
 + Mohsin Imam (University of Delhi, India), UCD Intern, AY 2023--24
@@ -811,6 +800,23 @@ Undergrads:
 
 Interns:
 
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Margaret-Broderick-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Margaret Broderick</b> is an undergraduate at Michigan State University pursuing a Bachelor's in computer science engineering. Her research interests include human centered computing, artificial intelligence, and algorithmic bias. 
+</div>
+</div>
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Edward-Lai-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Edward Lai</b> is a UCD intern from Los Angeles, California. He is a rising sophomore at Yale University pursuing a B.S. degree in Applied Math and Computer Science. His research project focuses on SLAM systems and 3D reconstruction. 
+</div>
+</div>
 
 
 <div class="col-xs-2">
