@@ -276,7 +276,7 @@ None at this moment.
 
 
 #### PhD
-+ <a href="https://www.linkedin.com/in/jiantao-wu/">Jiantao Wu (Ivan)</a>, PhD, Aug 2020 till Aug 2024 (Next stop: Research Assistant, University College Dublin, Ireland)<br />
++ <a href="https://www.linkedin.com/in/jiantao-wu/">Jiantao Wu (Ivan)</a>, PhD, Aug 2020 till Aug 2024 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Postdoctoral researcher, Adaptemy)<br/>
 <img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
 + <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">Mayank Jain</a>, PhD, Jan 2020 till Dec 2023 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Engineer, EirGrid)<br />
 <img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
@@ -346,7 +346,7 @@ None at this moment.
 + Guan Zhao Ting, NTU FYP 2012-13 (Supervised by A/P Lee Yee Hui and Dr. Stefan Winkler)
 
 #### Interns
-+ Margaret Broderick (Michigan State University, United States), UCD Intern, AY 2024--25
++ <a href="https://www.linkedin.com/in/maggie-broderick-b5b5b5298/">Margaret Broderick</a> (Michigan State University, United States), UCD Intern, AY 2024--25
 + <a href="https://www.linkedin.com/in/edward-lai-4061782a6/">Edward Lai</a> (Yale University, United States), UCD Intern, AY 2024--25
 + <a href="https://www.linkedin.com/in/alemaya/">Alejandro Mayagoitia</a> (Yale University, United States), UCD Intern, AY 2023--24
 + <a href="https://www.linkedin.com/in/hayden-wilson-a15a6729b/">Hayden Wilson</a> (Southern Methodist University, Dallas, United States), UCD Intern, AY 2023--24
