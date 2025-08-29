@@ -132,7 +132,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  R. Das, S. Dhang, M. Zhang and S. Dev, AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content, *Irish Machine Vision and Image Processing Conference (IMVIP)*, 2025. 
 
-+  I. R. Nijhum, T. Akinola, M. E. Ali, and S. Dev, Optimizing Lightweight Photovoltaic Forecasting Models: A Distillation Approach, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. 
++  I. R. Nijhum, T. Akinola, M. E. Ali, and S. Dev, Optimizing Lightweight Photovoltaic Forecasting Models: A Distillation Approach, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/nijhum2025optimising.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/nijhum2025optimising-slides.pdf">slides</a>]
 
 +  I. R. Nijhum, M. S. Reza, and S. Dev, Tiny-UCloudNet: Memory Efficient Ground-based Cloud Segmentation Network, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/nijhum2025tiny-slides.pdf">slides</a>]
 
