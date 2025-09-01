@@ -12,6 +12,10 @@ sidebar:
 
 ## Journals
 
++ P. Adong, E. Bainomugisha, S. Dev, Evaluating machine learning methods for PM2.5 estimation using satellite AOD, low-cost and reference-grade monitors in Kampala, *International Journal of Environmental Science and Technology*, 2025. 
+
++ S. Azadnejad, A. Kandiri, A. Hrysiewicz, F. O'Loughlin, EP. Holohan, S. Dev, and S. Donohue, Application of deep learning for coherent pixel selection in time series InSAR for urban area and transport infrastructure monitoring, *International Journal of Applied Earth Observation and Geoinformation*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/09/azadnejad2025application.pdf">PDF</a>]
+
 + R. Das, and S. Dev, Optimizing Student Engagement Detection using Facial and Behavioral Features, *Neural Computing and Applications*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/05/2025ncaa.pdf">PDF</a>] [<a href="https://github.com/rijju-das/Student-engagement">code</a>]
  
 + M. S. Pathan, P. Nadella, Y. U. Haq, S. Chaudhury, J. Wu, A. Nag, and Soumyabrata Dev, A Systematic Analysis of Meteorological Parameters in Predicting Rainfall Events, *IEEE Access*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/05/2025_ieeeaccess.pdf">PDF</a>] [<a href="https://github.com/Sammyy092/systematic-analysis-of-meteorological-parameters">code</a>]
