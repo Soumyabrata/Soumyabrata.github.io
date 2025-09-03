@@ -109,6 +109,15 @@ None at this moment.
 <br />
 
 
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Binhua-Huang120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Binhua Huang</b> is a PhD candidate at the School of Computer Science, University College Dublin, under the supervision of Dr Soumyabrata Dev. He holds a Master's degree in Computer Science from University of Science, Malaysia. His research interests include computer vision, machine learning, and artificial intelligence. His personal homepage can be found <a href="https://microa.github.io/">here</a>.
+</div>
+</div>
+
+
+<br />
 	
 	
 <div class="col-xs-2">
@@ -543,7 +552,7 @@ Undergrads:
  <div class="col-xs-2">
  <img class="people-pic" src="{{ "/images/theia/Bori120.png" | prepend:site.baseurl }}">
  <div class="people-name">
- <b>Toluwabori Akinola</b> is a current undergraduate pursuing a Bachelors degree in Computer Science with Data Science from UCD. He enjoys coding and looks for ways to apply his coding skills to solve real-world problems which can deliver a huge impact to the world.
+ <b>Toluwabori Akinola</b> is a current undergraduate pursuing a Bachelors degree in Computer Science with Data Science from UCD. He enjoys coding and looks for ways to apply his coding skills to solve real-world problems which can deliver a huge impact to the world. Toluwabori (Bori) Akinola. BSc Comp. Sci. with Data Science. Ad Astra Sports Scholar
  </div>
  </div>
 
