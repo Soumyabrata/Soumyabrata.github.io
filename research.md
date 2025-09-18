@@ -30,11 +30,17 @@ In this project, we use a multi-modal data integration approach, in using variou
     *(From left to right) Utrecht Photovoltaic Outdoor Test facility (UPOT) with photo courtesy of Arjen de Waal, Solar Irradiance fluctuations on the event of an overcast day.* 
 
 
-## [<u>Coastline monitoring</u>](https://soumyabrata.github.io/coastline/)
+## [<u>Coast</u>](https://soumyabrata.github.io/coastline/)
 This research aims to improve coastline extraction from satellite images by evaluating different approaches. It considers deep learning methods and edge detection algorithms on spectral bands/indices to automatically extract coastlines and land cover maps. A new open-source dataset of labeled high-resolution satellite images will also be released. This research can have a significant impact on fields such as coastal management and disaster response planning. [[read more](https://soumyabrata.github.io/coastline/)]
 <br />
 <img src="{{ site.url }}/images/sample-coast-edge.png"><br />
 *(From left to right) Illustration of a satellite image, along with corresponding binary land/water map and detected coastline.* 
+
+## [<u>Water</u>](https://soumyabrata.github.io/water/)
+Our research advances water body detection by combining spectral index analysis with attention-based deep learning. These approaches enable precise mapping of rivers, coasts, and streams while achieving state-of-the-art classification accuracy from satellite imagery. The resulting framework supports scalable, interpretable, and robust monitoring systems with direct applications in environmental sustainability and resource management. [[read more](https://soumyabrata.github.io/water/)]
+<br />
+<img src="{{ site.url }}/images/river-extraction.png"><br />
+*(From left to right) Illustration of comparison of Suir River extraction using various indices.* 
 
 
 ## [<u>Affective Computing</u>](https://soumyabrata.github.io/affectivecomputing/)

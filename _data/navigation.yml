@@ -46,8 +46,10 @@ sidebar-research:
     url: /research/
   - title: "Solar Energy"
     url: /solar/
-  - title: "Coastline Monitoring"
+  - title: "Coast"
     url: /coastline/
+  - title: "Water"
+    url: /water/
   - title: "Affective Computing"
     url: /affectivecomputing/
   - title: "Product Placement"
