@@ -290,7 +290,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + J. Wu, F. Orlandi, Y. H. Lee, D. O'Sullivan, and S. Dev, Organizing Decentralized Energy Data Using Semantic Approach, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. 
 
-+ J. Wu, F. Orlandi, I. Gollini, E. Pisoni, and S. Dev, Uplifting Air Quality Data Using Knowledge Graph, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/wu2021uplifting-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/c43b5ae983aa4e2d8748be34439210f6">video presentation</a>]
++ J. Wu, F. Orlandi, I. Gollini, E. Pisoni, and S. Dev, Uplifting Air Quality Data Using Knowledge Graph, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/09/wu2021uplifting.pdf">PDF</a>] [<a href="https://soumyabratadev.files.wordpress.com/2022/04/wu2021uplifting-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/c43b5ae983aa4e2d8748be34439210f6">video presentation</a>]
 
 + T. A. Fathima, V. Nedumpozhimana, J. Wu, Y. H. Lee, and S. Dev, Role of Temporal Information for Multi-step Ahead Forecasting of Solar Irradiance, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021. [<a href="https://soumyabratadev.files.wordpress.com/2022/04/fathima2021role-slides.pdf">slides</a>] [<a href="https://media.heanet.ie/page/3827c70daf6a43328fa601ba5fbf16eb">video presentation</a>]
 

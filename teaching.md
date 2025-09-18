@@ -17,17 +17,30 @@ sidebar:
 My teaching focuses on the paradigms *Learning by doing* and *Technology-enabled learning* to create a practical and interactive learning environment. I believe in problem-based learning and integrating technology to engage students effectively.<br>
 I have a Professional Diploma in University Teaching and Learning from University College Dublin in 2023-24. Furthermore, I completed the University Teaching & Learning Certificate of Continuing Professional Development in 2021-22 from University College Dublin, achieving an *exceptional* overall score.
 
+### 2025
+#### COMP2006J Operating Systems<br><sup>Trimester I, AY 2025-26, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1109">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:conor.osullivan4@ucdconnect.ie">Conor O'Sullivan</a>, for further details.
+
+#### COMP3023J Wireless Sensor Networks<br><sup>Trimester I, AY 2025-26, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1108">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:conor.osullivan4@ucdconnect.ie">Conor O'Sullivan</a>, for further details.
+
+#### COMP3025J Augmented and Virtual Reality<br><sup>Trimester I, AY 2025-26, Beijing-Dublin International College, University College Dublin</sup>
+I am currently lecturing a course on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1110">the CS moodle page</a> for course notes + assessments.<br>
+Please contact the Head Teaching Assistant: <a href="mailto:conor.osullivan4@ucdconnect.ie">Conor O'Sullivan</a>, for further details.
+
 ### 2024
 #### COMP2006J Operating Systems<br><sup>Trimester I, AY 2024-25, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1076">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a course on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1076">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:riju.das@ucdconnect.ie">Riju Das</a>, for further details.
 
 #### COMP3023J Wireless Sensor Networks<br><sup>Trimester I, AY 2024-25, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1077">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1077">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:riju.das@ucdconnect.ie">Riju Das</a>, for further details.
 
 #### COMP3025J Augmented and Virtual Reality<br><sup>Trimester I, AY 2024-25, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1075">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a course on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1075">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:riju.das@ucdconnect.ie">Riju Das</a>, for further details.
 
 ### 2023
