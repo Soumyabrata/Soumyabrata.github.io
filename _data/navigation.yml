@@ -50,6 +50,8 @@ sidebar-research:
     url: /coastline/
   - title: "Water"
     url: /water/
+  - title: "Cloud Imaging"
+    url: /cloud/
   - title: "Affective Computing"
     url: /affectivecomputing/
   - title: "Video Understanding"
@@ -58,8 +60,6 @@ sidebar-research:
     url: /advertisement/
   - title: "Knowledge Graph"
     url: /knowledgegraph/
-  - title: "Cloud Imaging"
-    url: /cloud/
   - title: "Security"
     url: /security/
   - title: "E-Health"

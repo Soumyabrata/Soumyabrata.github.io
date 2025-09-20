@@ -43,6 +43,13 @@ Our research advances water body detection by combining spectral index analysis 
 *(From left to right) Illustration of comparison of Suir River extraction using various indices.* 
 
 
+## [<u>Cloud Imaging</u>](https://soumyabrata.github.io/cloud/)
+In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the atmosphere. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height. [[read more](https://soumyabrata.github.io/cloud/)]
+    <br />
+    <img src="{{ site.url }}/images/sky-imaging.png">
+    *(From left to right) Sky Camera, Whole Sky Image captured by the camera* 
+
+
 ## [<u>Affective Computing</u>](https://soumyabrata.github.io/affectivecomputing/)
 This research aims to enhance the interpretation of human emotions using computer vision techniques, with a particular focus on facial expressions. By integrating insights from psychology and technology, the study seeks to develop advanced models that embed emotional attributes into image captions and improve real-time student engagement recognition in educational settings. The ultimate goal is to create more expressive, empathetic, and contextually relevant interactions between humans and artificial systems, enriching applications in healthcare, human-computer interaction, and social robotics. [[read more](https://soumyabrata.github.io/affectivecomputing/)]
     <br />
@@ -66,13 +73,6 @@ In this project, we aim to make knowledge graph technologies more accessible to 
     <img src="{{ site.baseurl }}/images/KG-NOAA.png">
     *Our proposed knowledge graph model modelled on NOAA climate data.* 
 
-
-
-## [<u>Cloud Imaging</u>](https://soumyabrata.github.io/cloud/)
-In this project, we develop low-cost, high resolution, ground-based sky cameras for imaging the atmosphere. These cameras capture continuous stream of images, which are essential to learn cloud dynamics and understand various atmospheric events. We devise state-of-the-art image segmentation and image classification algorithms that computes automated cloud coverage data, recognizes cloud types and estimates the cloud-base height. [[read more](https://soumyabrata.github.io/cloud/)]
-    <br />
-    <img src="{{ site.url }}/images/sky-imaging.png">
-    *(From left to right) Sky Camera, Whole Sky Image captured by the camera* 
 
 
 ## [<u>Security</u>](https://soumyabrata.github.io/security/)
