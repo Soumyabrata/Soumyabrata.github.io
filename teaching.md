@@ -14,7 +14,7 @@ sidebar:
  -->
 
 ## Teaching 
-My teaching focuses on the paradigms *learning by doing* and *rechnology-enabled learning* to create a practical and interactive learning environment. I believe in problem-based learning and integrating technology to engage students effectively.<br>
+My teaching focuses on the paradigms *learning by doing* and *research-enabled learning* to create a practical and interactive learning environment. I believe in problem-based learning and integrating technology to engage students effectively.<br>
 I have a Professional Diploma in University Teaching and Learning from University College Dublin in 2023-24. Furthermore, I completed the University Teaching & Learning Certificate of Continuing Professional Development in 2021-22 from University College Dublin, achieving an *exceptional* overall score.
 
 ### 2025
