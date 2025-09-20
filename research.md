@@ -44,13 +44,13 @@ Our research advances water body detection by combining spectral index analysis 
 
 
 ## [<u>Affective Computing</u>](https://soumyabrata.github.io/affectivecomputing/)
-This research aims to enhance the interpretation of human emotions using computer vision techniques, with a particular focus on facial expressions. By integrating insights from psychology and technology, the study seeks to develop advanced models that embed emotional attributes into image captions and improve real-time student engagement recognition in educational settings. The ultimate goal is to create more expressive, empathetic, and contextually relevant interactions between humans and artificial systems, enriching applications in healthcare, human-computer interaction, and social robotics.[[read more](https://soumyabrata.github.io/affectivecomputing/)]
+This research aims to enhance the interpretation of human emotions using computer vision techniques, with a particular focus on facial expressions. By integrating insights from psychology and technology, the study seeks to develop advanced models that embed emotional attributes into image captions and improve real-time student engagement recognition in educational settings. The ultimate goal is to create more expressive, empathetic, and contextually relevant interactions between humans and artificial systems, enriching applications in healthcare, human-computer interaction, and social robotics. [[read more](https://soumyabrata.github.io/affectivecomputing/)]
     <br />
 	<img src="{{ site.baseurl }}/images/image-caption.png">   
 	*We demonstrate the proposed framework for incorporating emotions into the image captioning process. [Das et al. 2023]*
 	
 ## [<u>Video Understanding</u>](https://soumyabrata.github.io/video/)
-We are advancing efficient and generalizable video understanding by combining motion cues hidden inside compressed video streams with the semantic power of large vision–language models. Our research delivers lightweight, training-free methods for action recognition and object detection that achieve state-of-the-art accuracy at a fraction of the computational cost. This work opens the door to real-time, scalable video analytics on edge devices and large-scale platforms, pushing the frontier of video AI toward both practicality and impact.
+We are advancing efficient and generalizable video understanding by combining motion cues hidden inside compressed video streams with the semantic power of large vision–language models. Our research delivers lightweight, training-free methods for action recognition and object detection that achieve state-of-the-art accuracy at a fraction of the computational cost. This work opens the door to real-time, scalable video analytics on edge devices and large-scale platforms, pushing the frontier of video AI toward both practicality and impact. [[read more](https://soumyabrata.github.io/video/)]
 
 
 ## [<u>Product Placement</u>](https://soumyabrata.github.io/advertisement/)
