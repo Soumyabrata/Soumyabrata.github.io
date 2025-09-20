@@ -23,10 +23,10 @@ This is a collaborative work between:
 Video has become the dominant form of digital content, yet analyzing it remains computationally expensive. Traditional deep learning models for video recognition demand vast resources, making them impractical for large-scale deployment or use on lightweight devices.
 
 <br />
-Our research addresses this challenge by developing methods that combine efficiency with semantic richness. We leverage motion information that is already embedded in compressed video streams and pair it with the power of large pre-trained vision–language models. This integration enables video understanding systems that are both computationally efficient and capable of robust generalization to unseen categories and tasks.
+Our research addresses this challenge by developing methods that combine efficiency with semantic richness. We leverage motion information that is already embedded in compressed video streams and pair it with the power of large pre-trained vision-language models. This integration enables video understanding systems that are both computationally efficient and capable of robust generalization to unseen categories and tasks.
 
 <br />
-The long-term goal is to build scalable, real-time video analytics systems that preserve accuracy while drastically lowering the computational and data requirements. This has direct impact on applications such as intelligent surveillance, multimedia retrieval, human–computer interaction, and edge AI.
+The long-term goal is to build scalable, real-time video analytics systems that preserve accuracy while drastically lowering the computational and data requirements. This has direct impact on applications such as intelligent surveillance, multimedia retrieval, human-computer interaction, and edge AI.
 
 
 ## Results   
