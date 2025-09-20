@@ -48,6 +48,9 @@ This research aims to enhance the interpretation of human emotions using compute
     <br />
 	<img src="{{ site.baseurl }}/images/image-caption.png">   
 	*We demonstrate the proposed framework for incorporating emotions into the image captioning process. [Das et al. 2023]*
+	
+## [<u>Video Understanding</u>](https://soumyabrata.github.io/video/)
+We are advancing efficient and generalizable video understanding by combining motion cues hidden inside compressed video streams with the semantic power of large vision–language models. Our research delivers lightweight, training-free methods for action recognition and object detection that achieve state-of-the-art accuracy at a fraction of the computational cost. This work opens the door to real-time, scalable video analytics on edge devices and large-scale platforms, pushing the frontier of video AI toward both practicality and impact.
 
 
 ## [<u>Product Placement</u>](https://soumyabrata.github.io/advertisement/)

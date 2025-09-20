@@ -52,6 +52,8 @@ sidebar-research:
     url: /water/
   - title: "Affective Computing"
     url: /affectivecomputing/
+  - title: "Video Understanding"
+    url: /video/
   - title: "Product Placement"
     url: /advertisement/
   - title: "Knowledge Graph"

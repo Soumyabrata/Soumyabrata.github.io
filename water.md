@@ -14,13 +14,10 @@ sidebar:
 ## Objective 
 To develop scalable methods for accurate water body detection using spectral analysis and deep learning.
 
-<!---
 ## Team
 This is a collaborative work between:
-- [Nanyang Technological University Singapore](http://www.ntu.edu.sg/home/eyhlee/)
-- [Advanced Digital Sciences Center (ADSC)](http://vintage.winklerbros.net/index.html), Singapore
-- [Copernicus Institute of Sustainable Development](https://www.uu.nl/en/research/copernicus-institute-of-sustainable-development), Utrecht University, The Netherlands. 
--->
+- [ADAPT SFI Research Centre](https://www.adaptcentre.ie/)
+- [University College Dublin](https://www.cs.ucd.ie/)
 
 ## Description 
 
