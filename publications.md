@@ -12,6 +12,8 @@ sidebar:
 
 ## Journals
 
++ Y. Zhang, A. Pakrashi, and S. Dev, Multi-Regional CO₂ Emission Forecasting Using Advanced Machine Learning and Temporal Feature Engineering, *Environmental Modelling and Software*, 2025. 
+
 + P. Adong, E. Bainomugisha, S. Dev, Evaluating machine learning methods for PM2.5 estimation using satellite AOD, low-cost and reference-grade monitors in Kampala, *International Journal of Environmental Science and Technology*, 2025. 
 
 + S. Azadnejad, A. Kandiri, A. Hrysiewicz, F. O'Loughlin, EP. Holohan, S. Dev, and S. Donohue, Application of deep learning for coherent pixel selection in time series InSAR for urban area and transport infrastructure monitoring, *International Journal of Applied Earth Observation and Geoinformation*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/09/azadnejad2025application.pdf">PDF</a>]
