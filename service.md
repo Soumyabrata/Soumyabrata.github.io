@@ -11,6 +11,7 @@ sidebar:
 ### Academic and Administrative Service
 + Timetable Coordinator at the UCD School of Computer Science Timetabling committee to organize the BSc timetables, and arrange the room allocations across the different BSc stages, AY 2022-23, AY 2023-24, University College Dublin. 
 + PhD thesis committee member for the following UCD/External doctoral students. 
+    - Prateek Mathur (My role: Internal Examiner, supervisor: Aonghus Lawlor)
 	- M. Anitha (My role: External Examiner, supervisor: Dr. G. Lakshmi Sutha from National Institute of Technology Puducherry, India)
 	- Ciaran O'Connor (My role: External Examiner, supervisors: Steven Prestwich and Andrea Visentin from University College Cork, Ireland)
 	- Oshana Iddi Dissanayake (My role: Internal Examiner, supervisor: Padraig Cunningham)
@@ -117,7 +118,7 @@ sidebar:
 + 2016: Local organizing chair of <a href="http://hardtechsummit.com/">IEEE HardTech Summit</a> 2016, in extension to <a href="http://tencon2016.org/">TENCON 2016</a> conference. The summit was held at Nanyang Technological University Singapore on 26 November 2016, in association with several partners. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/hts_flyer.png">Event Flyer</a>]
 
 ### Technical Program Committee
-+ 2025: AICS 2025, 33rd Irish Conference on Artificial Intelligence and Cognitive Science (AICS 2025)
++ 2025: <a href="https://aicsconf.org/?page_id=85">AICS 2025</a>, 33rd Irish Conference on Artificial Intelligence and Cognitive Science (AICS 2025)
 + 2025: IEEE SmartGridComm 2025, 2025 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids
 + 2025: <a href="https://imvipconference.github.io/">IMVIP 2025</a>, 2025 Irish Machine Vision and Image Processing Conference
 + 2025: <a href="https://prompteng-ws.github.io/2025/">PromptEng'25</a>, 2nd PromptEng Workshop at the ACM WebConf'25
