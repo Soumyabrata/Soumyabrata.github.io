@@ -12,7 +12,7 @@ sidebar:
 
 ## Journals
 
-+ Y. Zhang, A. Pakrashi, and S. Dev, Multi-Regional CO₂ Emission Forecasting Using Advanced Machine Learning and Temporal Feature Engineering, *Environmental Modelling and Software*, 2025. 
++ Y. Zhang, A. Pakrashi, and S. Dev, Multi-Regional CO₂ Emission Forecasting Using Advanced Machine Learning and Temporal Feature Engineering, *Environmental Modelling and Software*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/10/2025envsoft.pdf">PDF</a>]
 
 + P. Adong, E. Bainomugisha, S. Dev, Evaluating machine learning methods for PM2.5 estimation using satellite AOD, low-cost and reference-grade monitors in Kampala, *International Journal of Environmental Science and Technology*, 2025. 
 
