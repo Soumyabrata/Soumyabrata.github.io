@@ -58,7 +58,25 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
       <b>Fabrizio Orlandi</b> is a Senior Knowledge and Data Engineer at Inter IKEA Systems. His research interests are focused on Knowledge Graphs, Semantic Web, Web of Data, Knowledge Representation and the application of semantic technologies to different domains, such as Social Media, Personalisation and Open Government Data. 
     </div>
   </div>
+  
+  
+<br />
+
+  <div class="col-xs-2">
+    <a href="https://people.ucd.ie/arjun.pakrashi">
+      <img class="people-pic" src="{{ "/images/theia/blank-HS-120.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <b>Arjun Pakrashi</b> is an Assistant Professor in the School of Computer Science at University College Dublin. His main research interests are robust, interpretable and explainable AI, and machine learning. 
+    </div>
+  </div>  
+  
+  
+  
 </div>
+
+
+
 
 
 
@@ -101,7 +119,7 @@ None at this moment.
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Sushma-Kumari-120.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Sushma Kumari</b> is currently working on her PhD at the School of Computer Science, University College Dublin, under the supervision of Dr Soumyabrata Dev. She is deeply interested in remote sensing and uses machine learning to analyse and classify hyperspectral images. Her focus is on evaluating water quality in inland areas using these methods. She earned a postgraduate diploma in Remote Sensing and Photogrammetry from the Indian Institute of Remote Sensing, ISRO, in 2018, where she specialized in Satellite Image Processing. With a Bachelor's degree in Electronics and Communication Engineering, Sushma has nearly five years of experience in both academia and industrial research. She recently worked as a Senior Research Engineer at Valeo India Private Limited, focusing on Lidar data processing for Advanced Driver Assistance Systems (ADAS). Previously, she conducted research on foggy image enhancement and satellite image processing for defence projects at institutions like CSIR-Central Institute of Mining and Fuel Research. Sushma also interned at the Indian Space and Research Organization (ISRO) in Ahmedabad in 2018. Her expertise lies in digital image processing, remote sensing, and machine learning, reflecting her dedication to advancing scientific knowledge in these areas.
+<b>Sushma Kumari</b> is currently working on her PhD at the School of Computer Science, University College Dublin, under the supervision of Dr Soumyabrata Dev. She is deeply interested in remote sensing and uses machine learning to analyse and classify hyperspectral images. Her focus is on evaluating water quality in inland areas using these methods. Sushma holds a postgraduate diploma in Remote Sensing and Photogrammetry from the Indian Institute of Remote Sensing, ISRO (2018), specializing in satellite image processing. With a Bachelor's in Electronics and Communication Engineering, she recently served as a Senior Research Engineer at Valeo India, focusing on LiDAR data processing for ADAS, and previously worked on foggy image enhancement and satellite image processing for defense projects at CSIR-CIMFR. She also interned at ISRO Ahmedabad in 2018.
 </div>
 </div>
 
@@ -146,7 +164,7 @@ None at this moment.
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Yue-Li.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Yue Li (Lychee)</b> is a PhD student at UCD under the supervision of Dr Soumyabrata Dev. She completed her Masters degree in Computer Technology in Xi'an Shiyou University, China, majoring in natural language processing. Her research interests include computer vision, deep learning and machine learning. 
+<b>Yue Li</b> is a PhD student at UCD under the supervision of Dr Soumyabrata Dev. She completed her Masters degree in Computer Technology in Xi'an Shiyou University, China, majoring in natural language processing. Her research interests include computer vision, deep learning and machine learning. 
 </div>
 </div>
 
@@ -168,7 +186,7 @@ None at this moment.
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Yao-Wendong.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Yao Wendong (Isaac)</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He completed his B Eng degree from Beijing-Dublin International College (BDIC), Beijing, China, majoring in Internet of Things. His research interests include remote sensing and machine learning, researching on object detection and classification in remote sensing satellite images. 
+<b>Wendong Yao</b> is pursuing his PhD at the School of Computer Science, University College Dublin. He completed his B Eng degree from Beijing-Dublin International College (BDIC), Beijing, China, majoring in Internet of Things. His research interests include remote sensing and machine learning, researching on object detection and classification in remote sensing satellite images. 
 </div>
 </div>
 
@@ -261,7 +279,35 @@ None at this moment.
 
 <div class="row">
 
-None at this moment. 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Matthew-Byrne-120.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Matthew Byrne</b> is a final-year Computer Science student (2022-26) with interests in machine learning, deep learning, and networking. His project focuses on developing precise automatic and semi-automatic image segmentation using Meta's SAM-2 model, with its current goal centered on reconstructing 3D glaciers from the segmented images.
+ </div>
+ </div>
+
+
+ <br />
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Arpit-Mirdha-120.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Arpit Mirdha</b> is a final-year Computer Science student (2022-26) whose interests include puzzles, basketball, and hiking. His project focuses on improving RGB-to-NIR image translation through data augmentation and semi-supervised learning, aiming to enhance the quality and reliability of image conversions across spectral domains.
+ </div>
+ </div>
+
+
+ <br />
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/blank-HS-120.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Arnav Jaitly</b> is a final-year Computer Science student (2022-26) with an interest in applied machine learning and sustainable technologies. His project focuses on developing efficient deep learning models for solar forecasting and optimizing them for edge deployment, enabling faster, low-power predictions in real-world environments.
+ </div>
+ </div>
+ 
+ 
 	
 </div>
 
