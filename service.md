@@ -119,6 +119,7 @@ sidebar:
 + 2016: Local organizing chair of <a href="http://hardtechsummit.com/">IEEE HardTech Summit</a> 2016, in extension to <a href="http://tencon2016.org/">TENCON 2016</a> conference. The summit was held at Nanyang Technological University Singapore on 26 November 2016, in association with several partners. [<a href="https://soumyabratadev.files.wordpress.com/2016/11/hts_flyer.png">Event Flyer</a>]
 
 ### Technical Program Committee
++ 2026: <a href="https://www.iaria.org/conferences2026/eLmL26.html">eLmL 2026</a>, Eighteenth International Conference on Mobile, Hybrid, and On-line Learning
 + 2026: <a href="https://prompteng-ws.github.io/2026/">PromptEng'26</a>, 3rd PromptEng Workshop at the ACM WebConf'26
 + 2025: <a href="https://aicsconf.org/?page_id=85">AICS 2025</a>, 33rd Irish Conference on Artificial Intelligence and Cognitive Science (AICS 2025)
 + 2025: IEEE SmartGridComm 2025, 2025 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids

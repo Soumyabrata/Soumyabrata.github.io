@@ -19,55 +19,55 @@ I have a Professional Diploma in University Teaching and Learning from Universit
 
 ### 2025
 #### COMP2006J Operating Systems<br><sup>Trimester I, AY 2025-26, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1109">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1109">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:conor.osullivan4@ucdconnect.ie">Conor O'Sullivan</a>, for further details.
 
 #### COMP3023J Wireless Sensor Networks<br><sup>Trimester I, AY 2025-26, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1108">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1108">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:conor.osullivan4@ucdconnect.ie">Conor O'Sullivan</a>, for further details.
 
 #### COMP3025J Augmented and Virtual Reality<br><sup>Trimester I, AY 2025-26, Beijing-Dublin International College, University College Dublin</sup>
-I am currently lecturing a course on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1110">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1110">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:conor.osullivan4@ucdconnect.ie">Conor O'Sullivan</a>, for further details.
 
 ### 2024
 #### COMP2006J Operating Systems<br><sup>Trimester I, AY 2024-25, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1076">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1076">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:riju.das@ucdconnect.ie">Riju Das</a>, for further details.
 
 #### COMP3023J Wireless Sensor Networks<br><sup>Trimester I, AY 2024-25, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1077">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1077">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:riju.das@ucdconnect.ie">Riju Das</a>, for further details.
 
 #### COMP3025J Augmented and Virtual Reality<br><sup>Trimester I, AY 2024-25, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1075">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1075">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:riju.das@ucdconnect.ie">Riju Das</a>, for further details.
 
 ### 2023
 #### COMP2006J Operating Systems<br><sup>Trimester I, AY 2023-24, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1030">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1030">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:jiantao.wu@ucdconnect.ie">Jiantao Wu (Ivan)</a>, for further details.
 
 #### COMP3023J Wireless Sensor Networks<br><sup>Trimester I, AY 2023-24, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1029">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1029">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:jiantao.wu@ucdconnect.ie">Jiantao Wu (Ivan)</a>, for further details.
 
 #### COMP3025J Augmented and Virtual Reality<br><sup>Trimester I, AY 2023-24, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1031">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=1031">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:jiantao.wu@ucdconnect.ie">Jiantao Wu (Ivan)</a>, for further details.
 
 
 ### 2022
 #### COMP2006J Operating Systems<br><sup>Trimester I, AY 2022-23, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=991">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on operating systems, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=991">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:jiantao.wu@ucdconnect.ie">Jiantao Wu (Ivan)</a>, for further details.
 
 #### COMP3023J Wireless Sensor Networks<br><sup>Trimester I, AY 2022-23, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=992">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=992">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:riju.das@ucdconnect.ie ">Riju Das</a>, for further details.
 
 #### COMP3025J Augmented and Virtual Reality<br><sup>Trimester I, AY 2022-23, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=990">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on augmented and virtual reality, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=990">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:mayank.jain1@ucdconnect.ie">Mayank Jain</a>, for further details.
 
 #### COMP30900 Final Year Project (FYP) Foundations/COMP30910 FYP Design and Implementation<br><sup>Trimester I, AY 2022-23, University College Dublin</sup>
@@ -77,15 +77,15 @@ I have supervised 5 students, in their final year BSc projects. Please see <a hr
 
 ### 2021
 #### COMP2002J Data Structures and Algorithms 1<br><sup>Trimester I, AY 2021-22, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on data structures and algorithms, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=941">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on data structures and algorithms, for degree in BSc Internet of Things (IoT) and BSc Electronic & Info (E&I). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=941">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:mayank.jain1@ucdconnect.ie">Mayank Jain</a>, for further details.
 
 #### COMP2012J Operating Systems<br><sup>Trimester I, AY 2021-22, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=940">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=940">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:jiantao.wu@ucdconnect.ie">Jiantao Wu (Ivan)</a>, for further details.
 
 #### COMP3023J Wireless Sensor Networks<br><sup>Trimester I, AY 2021-22, Beijing-Dublin International College, University College Dublin</sup>
-Lectured a course on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=942">the CS moodle page</a> for course notes + assessments.<br>
+Lectured a module on wireless sensor networks, for degree in BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=942">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:muhammad.pathan@ucd.ie">Dr Muhammad Salman Pathan</a>, for further details.
 
 #### COMP30900 Final Year Project (FYP) Foundations/COMP30910 FYP Design and Implementation<br><sup>Trimester I, AY 2021-22, University College Dublin</sup>
@@ -94,16 +94,16 @@ I have supervised 4 students, in their final year BSc projects. Please see <a hr
 
 ### 2020
 #### COMP2002J Data Structures and Algorithms 1<br><sup>Trimester I, AY 2020-21, Beijing-Dublin International College, University College Dublin</sup>
-I lectured a course on Data Structures and Algorithms 1, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=891">the CS moodle page</a> for course notes + assessments.<br>
+I lectured a module on Data Structures and Algorithms 1, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=891">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:saeedeh.ghanadbashi@ucdconnect.ie">Saeedeh Ghanadbashi</a>, for further details.
 
 
 #### COMP2012J Operating Systems<br><sup>Trimester I, AY 2020-21, Beijing-Dublin International College, University College Dublin</sup>
-I lectured a course on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=890">the CS moodle page</a> for course notes + assessments.<br>
+I lectured a module on Operating Systems, for degree in BSc Software Engineering (SE). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=890">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:maha.riad@ucdconnect.ie">Maha Riad</a>, for further details.
 
 #### COMP2005J Object Oriented Programming<br><sup>Trimester I, AY 2020-21, Beijing-Dublin International College, University College Dublin</sup>
-I lectured a course on Object Oriented Programming, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=892">the CS moodle page</a> for course notes + assessments.<br>
+I lectured a module on Object Oriented Programming, for degree in BSc Electronic & Information Engineering (EIE) and BSc Internet of Things (IoT). Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=892">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:mayank.jain1@ucdconnect.ie">Mayank Jain</a>, for further details.
 
 #### COMP47360-Research Practicum (MSc Conv)<br><sup>Trimester III, AY 2019-20, University College Dublin</sup>
@@ -126,17 +126,17 @@ I supervised 8 students, in their final year software engineering projects. Plea
 I supervised 1 student, in its final year project. Please see <a href="https://brightspace.ucd.ie/d2l/home/67116">the Brightspace page</a> for all the related details.
 
 #### COMP3005J Agile Processes<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I lectured a course on Agile Processes, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=798">the CS moodle page</a> for course notes + assessments.<br>
+I lectured a module on Agile Processes, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=798">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
 
 
 #### COMP3008J Distributed Systems<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I lectured a course on Distributed Systems, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=796">the CS moodle page</a> for course notes + assessments.<br>
+I lectured a module on Distributed Systems, for degree in BSc Software Engineering. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=796">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
 
 
 #### COMP3020J Information Security for the Internet of Things<br><sup>Trimester I, AY 2019-20, Beijing-Dublin International College, University College Dublin</sup>
-I lectured a course on Information Security for the Internet of Things, for degree in BSc Internet of Things. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=797">the CS moodle page</a> for course notes + assessments.<br>
+I lectured a module on Information Security for the Internet of Things, for degree in BSc Internet of Things. Please see <a href="https://csmoodle.ucd.ie/moodle/course/view.php?id=797">the CS moodle page</a> for course notes + assessments.<br>
 Please contact the Head Teaching Assistant: <a href="mailto:Xingyu.Pan@ucdconnect.ie">Xingyu Pan (Star)</a>, for further details.
 
 
