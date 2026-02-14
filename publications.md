@@ -138,6 +138,10 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
++ P. Dey, D. Ayala-Cabrera, S. Dev, and B. Schoen-Phelan, AirGRU: A Physics-Informed Model for PM2.5 Prediction, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/02/dey2026airgru.pdf">PDF</a>] 
+
++ M. Y. Hossain, D. Ayala-Cabrera, and S. Dev, Evaluating Cross-Modality Generalization in Deep RGB-to-NIR Image Translation, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/02/hossain2026evaluating.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/RGB2NIR-Cross-Modality-Evaluation">code</a>]
+
 +  R. Das, S. Dhang, M. Zhang and S. Dev, AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content, *Irish Machine Vision and Image Processing Conference (IMVIP)*, 2025. 
 
 +  I. R. Nijhum, T. Akinola, M. E. Ali, and S. Dev, Optimizing Lightweight Photovoltaic Forecasting Models: A Distillation Approach, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/nijhum2025optimising.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/SOLAR_FORECASTING_KD">code</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/nijhum2025optimising-slides.pdf">slides</a>]
@@ -252,7 +256,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 + Z. Xu, Y. Liang, A. Campbell, and S. Dev, Climate Crisis in Virtual Environments: Exploration and Evaluation of Virtual Reality and Mixed Reality for Climate Change Education in Sea level Rise Simulation, *Future Technologies Conference (FTC)*, 2023. 
 
-+ M. Premawardhana, M. A. Azeem, S. S. Sengar, and S. Dev, On the Impact of Temperature for Precipitation Analysis, *11th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA)*, 2023. [<a href="https://demo5613.files.wordpress.com/2023/04/2023ficta-slides.pdf">slides</a>]
++ M. Premawardhana, M. A. Azeem, S. S. Sengar, and S. Dev, On the Impact of Temperature for Precipitation Analysis, *11th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA)*, 2023. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/02/2023ficta-slides.pdf">slides</a>]
 
 + S. Cooke, D. Graux, and S. Dev, Multi Platform-based Hate Speech Detection, *International Conference on Agents and Artificial Intelligence (ICAART)*, 2023.
 
