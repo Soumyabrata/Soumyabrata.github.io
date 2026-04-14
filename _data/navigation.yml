@@ -81,6 +81,8 @@ sidebar-pubs:
 
 
 sidebar-news:
+  - title: "2025"
+    url: /news/#2025
   - title: "2024"
     url: /news/#2024
   - title: "2023"
