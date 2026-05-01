@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: 
 ---
-I am an Associate Professor in the <a href="https://www.tcd.ie/scss/">School of Computer Science and Statistics</a> at <a href="https://www.tcd.ie/">Trinity College Dublin (TCD)</a>. I am also a Funded Investigator with <a href="https://www.adaptcentre.ie">ADAPT Research Centre</a>, Dublin, and a <a href="https://people.ucd.ie/soumyabrata.dev/">Visiting Associate Professor</a> in the <a href="https://www.ucd.ie/cs/">School of Computer Science</a>, at <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>.
+I am an <a href="https://www.tcd.ie/scss/people/academic-staff/devs/">Associate Professor</a> in the <a href="https://www.tcd.ie/scss/">School of Computer Science and Statistics</a> at <a href="https://www.tcd.ie/">Trinity College Dublin (TCD)</a>, working in the discipline of <a href="https://www.tcd.ie/scss/disciplines/statistics-and-information-systems/">Statistics and Information Systems</a> within the <a href="https://www.tcd.ie/stem/">Faculty of Science, Technology, Engineering and Mathematics</a>. I am also a Funded Investigator with <a href="https://www.adaptcentre.ie">ADAPT Research Centre</a>, Dublin, and a <a href="https://people.ucd.ie/soumyabrata.dev/">Visiting Associate Professor</a> in the <a href="https://www.ucd.ie/cs/">School of Computer Science</a>, at <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>.
 
 <br />
 I lead the <a href="https://soumyabrata.dev/theia/">THE visIon and Analytics lab (THEIA)</a> at TCD. Our research interests primarily lie in the area of computer vision, image processing, and remote sensing. Leveraging techniques from statistical machine learning and deep learning, we tackle interdisciplinary computational problems in diverse fields, including environmental informatics, earth observations, and multimedia. 
@@ -16,6 +16,7 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 
 #### Recent News
++ (April 2026): [<a href="https://conference.iemss.org/about/2026-organising-committee/">Chairing</a>] the 13th International Congress on Environmental Modelling and Software (iEMSs 2026), providing research leadership in convening an international forum in Dublin advancing interdisciplinary environmental modelling and AI systems. Join us in Dublin in July 2026.
 + (January 2026): After a very rewarding time at University College Dublin, I'm delighted to have joined Trinity College Dublin (TCD) as an Associate Professor in the School of Computer Science and Statistics.
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
 
