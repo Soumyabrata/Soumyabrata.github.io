@@ -12,6 +12,12 @@ sidebar:
 
 ## Journals
 
++ I. R. Nijhum\*, C. Scanlon\*, and S. Dev, Design and Evaluation of a Dual-Spectrum Low-Cost Sky Imager for Enhanced Solar Prediction, *Measurement: Energy*, 2026. (\* Authors contributed equally). [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/05/nijhum2026design.pdf">PDF</a>]
+
++ M. A. Azeem, P. Mishra, and S. Dev, Fluvial Flood Prediction in Ireland Utilizing Machine Learning Models, *Water Resources Management*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/05/azeem2026fluvial.pdf">PDF</a>]
+
++ M. Y. Hossain, and S. Dev, End-to-End Fusion of RGB and Low-Resolution NIR for Enhanced Crop-Specific NIR Generation, *Computers and Electronics in Agriculture*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/05/hossain2026endtoend.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/RGB2NIR-Fusion-Framework">code</a>]
+
 + S. Dhang, J. Lok, M. Zhang, and S. Dev, Multi-modal Fusion for Billboard Categorization in Video Frames: A Text and Image-Based Approach, *Multimedia Tools and Applications*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/12/dhang2025multimodal.pdf">PDF</a>]
 
 + Y. Zhang, A. Pakrashi, and S. Dev, Multi-Regional CO₂ Emission Forecasting Using Advanced Machine Learning and Temporal Feature Engineering, *Environmental Modelling and Software*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/10/2025envsoft.pdf">PDF</a>]
