@@ -21,7 +21,7 @@ Welcome to the <a href="https://soumyabrata.github.io/theia/">THEIA: THE visIon 
 Our research interests are in the area of computer vision, image processing, and remote sensing. We use techniques from statistical machine learning and deep learning, to solve interdisciplinary computational problems in various fields of digital multimedia, atmospheric research, and solar and renewable energy. 
 
 <br />
-We always look for (independent!) postdoctoral researchers, (hard-working!) PhD students, and (ambitious!) interns to join us, <a href="mailto:soumyabrata.dev@adaptcentre.ie">contact us</a> for more details.
+We always look for (independent!) postdoctoral researchers, (hard-working!) PhD students, and (ambitious!) interns to join us, <a href="mailto:devs@tcd.ie">contact us</a> for more details.
 
 ### Academic Leader
 
@@ -31,7 +31,7 @@ We always look for (independent!) postdoctoral researchers, (hard-working!) PhD 
       <img class="people-pic" src="{{ "/images/SD-21June2023.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <b>Soumyabrata Dev</b> is an Assistant Professor in the <a href="https://www.cs.ucd.ie/">School of Computer Science</a>, <a href="https://www.ucd.ie/">University College Dublin (UCD)</a>, since Fall 2019 session.
+      <b>Soumyabrata Dev</b> is an Associate Professor in the <a href="https://www.tcd.ie/scss/">School of Computer Science and Statistics</a>, <a href="https://www.tcd.ie/">Trinity College Dublin (UCD)</a>, since January 2026.
     </div>
   </div>
 </div>
