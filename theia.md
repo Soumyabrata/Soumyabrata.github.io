@@ -20,7 +20,7 @@ Welcome to the <a href="https://soumyabrata.github.io/theia/">THEIA: THE visIon 
 <br />	
 -->
 <br />
-    <img src="{{ site.url }}/images/theia/THEIA-July2026.png">
+    <img src="{{ site.url }}/images/theia/THEIA-July2026.jpeg">
     *THEIA Lab group members (dt. July 2026)* 
 <br />	
 
