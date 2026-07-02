@@ -13,11 +13,17 @@ sidebar:
 
 Welcome to the <a href="https://soumyabrata.github.io/theia/">THEIA: THE visIon and Analytics lab</a>. The THEIA lab is based in the <a href="https://www.tcd.ie/scss/">School of Computer Science and Statistics</a>, <a href="https://www.tcd.ie/">Trinity College Dublin</a>. Our group's <a href="https://soumyabrata.github.io/research/">research</a> is funded by <a href="https://www.tcd.ie/">Trinity College Dublin</a>, <a href="https://www.ucd.ie/">University College Dublin</a>, <a href="https://www.sfi.ie/">Research Ireland</a>, <a href="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en">EU Horizon 2020</a>, and <a href="https://research.google/">Google</a>. 
 
+<!---
 <br />
     <img src="{{ site.url }}/images/theia/THEIA-Sep2023-800.png">
     *THEIA Lab group members (dt. Sept 2023)* 
-
 <br />	
+-->
+<br />
+    <img src="{{ site.url }}/images/theia/THEIA-July2026.png">
+    *THEIA Lab group members (dt. July 2026)* 
+<br />	
+
 Our research interests are in the area of computer vision, image processing, and remote sensing. We use techniques from statistical machine learning and deep learning, to solve interdisciplinary computational problems in various fields of digital multimedia, atmospheric research, and solar and renewable energy. 
 
 <br />
