@@ -12,6 +12,10 @@ sidebar:
 
 ## Journals
 
++ S. Zhao, A. Pakrashi, and S. Dev, Towards Efficient 3D Gaussian Splatting Reconstruction with PairVPR-Based Image Selection: A Glacier UAV Case Study, *Applied Computing and Geosciences*, 2026. 
+
++ S. Dhang, F. Zheng, P. H. J. Chong, M. Zhang, and S. Dev, Occlusion-Aware Advertisement Placement in Soccer Penalty Area, *Multimedia Tools and Applications*, 2026. 
+
 + P. Dey, S. Dev, and B. S. Phelan, PollutionNet: A Vision Transformer Framework for Climatological Assessment of NO<sub>2</sub> and SO<sub>2</sub> Using Satellite-Ground Data Fusion, *Theoretical and Applied Climatology*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/dey2026pollutionnet.pdf">PDF</a>]
 
 + I. R. Nijhum\*, C. Scanlon\*, and S. Dev, Design and Evaluation of a Dual-Spectrum Low-Cost Sky Imager for Enhanced Solar Prediction, *Measurement: Energy*, 2026. (\* Authors contributed equally). [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/05/nijhum2026design.pdf">PDF</a>]
