@@ -150,9 +150,27 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
  
 ## Conferences
 
-+ P. Dey, D. Ayala-Cabrera, S. Dev, and B. Schoen-Phelan, AirGRU: A Physics-Informed Model for PM2.5 Prediction, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/02/dey2026airgru.pdf">PDF</a>] 
++ S. Zhao, M. Byrne, D. Ayala-Cabrera, and S. Dev, Semi-Automatic Semantic Masking for Improved Glacier 3D Reconstruction, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/zhao2026semi.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/zhao2026semi-slides.pdf">slides</a>]
+
++ P. Dey, D. Ayala-Cabrera, S. Dev, and B. Schoen-Phelan, AirGRU: A Physics-Informed Model for PM<sub>2.5</sub> Prediction, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/02/dey2026airgru.pdf">PDF</a>] 
 
 + M. Y. Hossain, D. Ayala-Cabrera, and S. Dev, Evaluating Cross-Modality Generalization in Deep RGB-to-NIR Image Translation, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/02/hossain2026evaluating.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/RGB2NIR-Cross-Modality-Evaluation">code</a>]
+
++ B. Huang, W. Yao, Y. Li, D. Ayala-Cabrera, and S. Dev, EarthCamQA: An Agentic LLM-VLM Framework for Real-Time Visual Question Answering in Urban Environments, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa-slides.pdf">slides</a>]
+
++ I. R. Nijhum, I. H. Mithila, D. Ayala-Cabrera, and S. Dev, Can Self-Distillation Improve the Performance of Efficient CNNs for Cloud Recognition?, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/nijhum2026can.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/nijhum2026can-slides.pdf">slides</a>]
+
++ W. Yao, D. Ayala-Cabrera, B. Huang, and S. Dev, Layer-wise Probing of a Multi-Modal Spatio-Temporal Transformer for Land Subsidence Forecasting, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/yao2026layer.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/yao2026layer-slides.pdf">slides</a>]
+
++ Y. Zhang, A. Pakrashi, D. Ayala-Cabrera, and S. Dev, Explainable LSTM Forecasts for Hourly CO<sub>2</sub> Concentrations, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/zhang2026explainable.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/zhang2026explainable-slides.pdf">slides</a>]
+
++ Y. Li, D. Ayala-Cabrera, and S. Dev, Uncertainty-Aware BU-LSTM for Short-Term Rainfall Forecasting in Cork Using ERA5 Reanalysis Data, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/li2026uncertainty.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/li2026uncertainty-slides.pdf">slides</a>]
+
++ S. Kumari, D. Ayala-Cabrera, and S. Dev, Clustering-Based Analysis of Water Masked Hyperspectral Data for Turbidity Interpretation, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/kumari2026clustering.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/kumari2026clustering-slides.pdf">slides</a>]
+
++ S. Kimaryo, J. Francés-Chust, S. Dev, and D. Ayala-Cabrera, Spatial-Temporal Learning for Short-Term Leak Predictions: A U-Net Perspective, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/kimaryo2026spatial.pdf">PDF</a>]
+
++  I. R. Nijhum, D. Lillis, and S. Dev, Evaluating the Role of Input Window Size and Horizon-Specific Models in Multi-Horizon Solar Irradiance Forecasting, *2026 International Conference on Image Processing and Pattern Recognition (IC-IPPR 2026)*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/icppr2026.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/icppr-2026-poster.pdf">poster</a>]
 
 +  R. Das, S. Dhang, M. Zhang and S. Dev, AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content, *Irish Machine Vision and Image Processing Conference (IMVIP)*, 2025. 
 
