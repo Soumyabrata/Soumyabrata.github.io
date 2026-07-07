@@ -172,6 +172,10 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
 +  I. R. Nijhum, D. Lillis, and S. Dev, Evaluating the Role of Input Window Size and Horizon-Specific Models in Multi-Horizon Solar Irradiance Forecasting, *2026 International Conference on Image Processing and Pattern Recognition (IC-IPPR 2026)*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/icppr2026.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/icppr-2026-poster.pdf">poster</a>]
 
++  M. Shabanian-Poodeh, M. Shafie-khah, F. Golzar, S. Dev, R. Kia, and N. D. Hatziargyriou, A Lightweight Resilient Federated Learning Framework for Distributed PV Generation Forecasting, *26th International Conference on Environment and Electrical Engineering & 10th Industrial and Commercial Power Systems Europe*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/eeeic2026.pdf">PDF</a>]
+
++  B. Huang, W. Yao, S. Chen, G. Wang, Q. Wang, and S. Dev, MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition, *Proceedings of the 2026 IEEE International Joint Conference on Neural Networks (IJCNN)*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/2026ijcnn.pdf">PDF</a>]
+
 +  R. Das, S. Dhang, M. Zhang and S. Dev, AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content, *Irish Machine Vision and Image Processing Conference (IMVIP)*, 2025. 
 
 +  I. R. Nijhum, T. Akinola, M. E. Ali, and S. Dev, Optimizing Lightweight Photovoltaic Forecasting Models: A Distillation Approach, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2025. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/nijhum2025optimising.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/SOLAR_FORECASTING_KD">code</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2025/08/nijhum2025optimising-slides.pdf">slides</a>]
