@@ -234,15 +234,7 @@ None at this moment.
 
 
 
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Prasanjit Dey</b> is pursuing his PhD at the School of Computer Science, Technological University Dublin, under the supervision of Dr Bianca Schoen-Phelan and Dr Soumyabrata Dev. His research project title is on monitoring and short-term forecasting of atmospheric air pollutants using deep neural networks. He completed his MTech degree from the Maulana Abul Kalam Azad University of Technology, West Bengal, India. After that, he worked as a Project Associate at CSIR-Central Institute of Mining and Fuel Research, India. His research interest includes predicting time-series data using deep learning and machine learning algorithms.
-</div>
-</div>
 
-
-<br />
 
 
 <div class="col-xs-2">
@@ -337,6 +329,8 @@ None at this moment.
 
 
 #### PhD
++ <a href="https://prasanjit-dey.github.io/">Prasanjit Dey</a>, PhD, Aug 2022 till Aug 2026 <br/>
+<img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
 + <a href="https://www.linkedin.com/in/jiantao-wu/">Jiantao Wu (Ivan)</a>, PhD, Aug 2020 till Aug 2024 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Postdoctoral researcher, Adaptemy)<br/>
 <img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
 + <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">Mayank Jain</a>, PhD, Jan 2020 till Dec 2023 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Engineer, EirGrid)<br />
@@ -468,6 +462,17 @@ Postdoc:
 
 
 PhD:
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Prasanjit Dey</b> is pursuing his PhD at the School of Computer Science, Technological University Dublin, under the supervision of Dr Bianca Schoen-Phelan and Dr Soumyabrata Dev. His research project title is on monitoring and short-term forecasting of atmospheric air pollutants using deep neural networks. He completed his MTech degree from the Maulana Abul Kalam Azad University of Technology, West Bengal, India. After that, he worked as a Project Associate at CSIR-Central Institute of Mining and Fuel Research, India. His research interest includes predicting time-series data using deep learning and machine learning algorithms.
+</div>
+</div>
+
+
+<br />
 
 	
 <div class="col-xs-2">
