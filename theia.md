@@ -323,7 +323,7 @@ None at this moment.
 
 #### PhD
 + <a href="https://www.linkedin.com/in/menatallahabdelazeem/">Menatallah Abdel Azeem</a>, PhD, Aug 2022 till Aug 2026 (Next stop: Senior Solution Engineer - Cloud AI & Apps @ Microsoft) <br/> 
-<img class="people-pic" src="{{ "/images/theia/Mena.png" | prepend:site.baseurl }}">
+<img class="people-pic" src="{{ "/images/theia/Mena.png" | prepend:site.baseurl }}"><br/> 
 + <a href="https://prasanjit-dey.github.io/">Prasanjit Dey</a>, PhD, Aug 2021 till Aug 2026 <br/>
 <img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
 + <a href="https://www.linkedin.com/in/jiantao-wu/">Jiantao Wu (Ivan)</a>, PhD, Aug 2020 till Aug 2024 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Postdoctoral researcher, Adaptemy)<br/>
