@@ -16,7 +16,8 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 
 #### Recent News
-+ (June 2026): Prasanjit Dey (co-supervised) successfully defended his PhD thesis on monitoring and short-term forecasting of atmospheric air pollutants using deep neural networks on <a href="https://bsky.app/profile/soumyabratadev.bsky.social/post/3mte6m3u6n22p">15 June 2026</a>.
++ (August 2026): Congratulations to Menatalla AbdelAzim from our lab, who successfully defended her PhD thesis on machine learning models for rainfall prediction in Ireland on <a href="https://bsky.app/profile/soumyabratadev.bsky.social/post/3mtlss3eov22j">21 Aug 2026</a>.
++ (June 2026): Prasanjit Dey from our lab successfully defended his PhD thesis on monitoring and short-term forecasting of atmospheric air pollutants using deep neural networks on <a href="https://bsky.app/profile/soumyabratadev.bsky.social/post/3mte6m3u6n22p">15 June 2026</a>.
 + (April 2026): <a href="https://conference.iemss.org/about/2026-organising-committee/">Chairing</a> the 13th International Congress on Environmental Modelling and Software (iEMSs 2026), providing research leadership in convening an international forum in Dublin advancing interdisciplinary environmental modelling and AI systems. Join us in Dublin in July 2026.
 + (January 2026): After a very rewarding time at University College Dublin, I'm delighted to have joined Trinity College Dublin (TCD) as an Associate Professor in the School of Computer Science and Statistics.
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]

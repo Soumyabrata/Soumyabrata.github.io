@@ -96,6 +96,15 @@ None at this moment.
 
 <div class="row">
 	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Sicheng-Zhao.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Sicheng Zhao</b> is a PhD student at Trinity College Dublin under the supervision of Dr Soumyabrata Dev. He completed his Masters degree in Data Science at University Collge Dublin, Ireland, focusing on AI-Driven 3D reconstruction. His research interests include 3D reconstruction, SLAM, and AI-driven geographic modeling.
+</div>
+</div>
+
+
+<br />
 	
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Yearat-Hossain.png" | prepend:site.baseurl }}">
@@ -109,15 +118,7 @@ None at this moment.
 
 
 	
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Sicheng-Zhao.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Sicheng Zhao</b> is a PhD student at University College Dublin under the supervision of Dr Soumyabrata Dev. He completed his Masters degree in Data Science at University Collge Dublin, Ireland, focusing on AI-Driven 3D reconstruction. His research interests include 3D reconstruction, SLAM, and AI-driven geographic modeling.
-</div>
-</div>
 
-
-<br />
 
 
 	
@@ -200,15 +201,7 @@ None at this moment.
 <br />
 
 
-<div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Mena.png" | prepend:site.baseurl }}">
-<div class="people-name">
-<b>Menatallah Abdel Azeem</b> is a PhD student at University College Dublin researching in the area of climate analytics. She is also an Azure Data & AI Cloud Solution Architect at Microsoft, covering multiple regions. She has 15+ years of experience in data-related roles in various sectors such as telecom, banking, and government. Menatallah holds a Master of Software Engineering from Nile University and a Master of Business Administration from ESLSCA University. Her research interests include big data, machine learning, and cloud computing.
-</div>
-</div>
 
-
-<br />
 
 
 <div class="col-xs-2">
@@ -329,7 +322,9 @@ None at this moment.
 
 
 #### PhD
-+ <a href="https://prasanjit-dey.github.io/">Prasanjit Dey</a>, PhD, Aug 2022 till Aug 2026 <br/>
++ <a href="https://www.linkedin.com/in/menatallahabdelazeem/">Menatallah Abdel Azeem</a>, PhD, Aug 2022 till Aug 2026 <br/>
+<img class="people-pic" src="{{ "/images/theia/Mena.png" | prepend:site.baseurl }}">
++ <a href="https://prasanjit-dey.github.io/">Prasanjit Dey</a>, PhD, Aug 2021 till Aug 2026 <br/>
 <img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
 + <a href="https://www.linkedin.com/in/jiantao-wu/">Jiantao Wu (Ivan)</a>, PhD, Aug 2020 till Aug 2024 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Postdoctoral researcher, Adaptemy)<br/>
 <img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
@@ -462,6 +457,17 @@ Postdoc:
 
 
 PhD:
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Mena.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Menatallah Abdel Azeem</b> is a PhD student at University College Dublin researching in the area of climate analytics. She is also an Azure Data & AI Cloud Solution Architect at Microsoft, covering multiple regions. She has 15+ years of experience in data-related roles in various sectors such as telecom, banking, and government. Menatallah holds a Master of Software Engineering from Nile University and a Master of Business Administration from ESLSCA University. Her research interests include big data, machine learning, and cloud computing.
+</div>
+</div>
+
+
+<br />
 
 
 <div class="col-xs-2">
