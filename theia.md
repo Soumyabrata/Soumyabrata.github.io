@@ -325,11 +325,11 @@ None at this moment.
 + <a href="https://www.linkedin.com/in/menatallahabdelazeem/">Menatallah Abdel Azeem</a>, PhD, Aug 2022 till Aug 2026 (Next stop: Senior Solution Engineer - Cloud AI & Apps @ Microsoft) <br/> 
 <img class="people-pic" src="{{ "/images/theia/Mena.png" | prepend:site.baseurl }}"> <span style="display:block; margin-top:10px;"></span>
 + <a href="https://prasanjit-dey.github.io/">Prasanjit Dey</a>, PhD, Aug 2021 till Aug 2026 <br/>
-<img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}">
+<img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}"><span style="display:block; margin-top:10px;"></span>
 + <a href="https://www.linkedin.com/in/jiantao-wu/">Jiantao Wu (Ivan)</a>, PhD, Aug 2020 till Aug 2024 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Postdoctoral researcher, Adaptemy)<br/>
-<img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}">
+<img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}"><span style="display:block; margin-top:10px;"></span>
 + <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">Mayank Jain</a>, PhD, Jan 2020 till Dec 2023 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Engineer, EirGrid)<br />
-<img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}">
+<img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}"><span style="display:block; margin-top:10px;"></span>
 + <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop:  Associate Lecturer, Universitat Politècnica de València (UPV), Spain)<br />
 <img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
 
