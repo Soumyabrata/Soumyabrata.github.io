@@ -338,7 +338,7 @@ None at this moment.
 + <a href="https://zacharyyahn.github.io/">Zachary Yahn</a>, UCD MS, AY 2023-24 (Next stop: PhD student at Georgia Tech, United States)
 + <a href="https://www.linkedin.com/in/zixiang-xu-545561207/">Zixiang Xu (Dante)</a>, UCD MS (Research), AY 2020-22 (Next stop: PhD student at Kyoto University, Japan)
 + <a href="https://www.linkedin.com/in/yuan-liang-a4920a193/">Yuan Liang (Nick)</a>, UCD MS (Research), AY 2020-22 (Next stop: PhD student at University College Dublin, Ireland)
-+ Mark Crowley, UCD MS Electrical and Electronic (EEE), AY 2022-23
++ Mark Crowley, UCD MS Electrical and Electronic (EEE), AY 2022-23 (Next stop: Software Engineer at Qualtrics)
 + <a href="https://www.linkedin.com/in/nicholas-danesi/">Nicholas Danesi</a>, UCD MS, AY 2020-21 (Next stop: Project Officer, Energy Demand and Efficiency Policy at Department of Energy, Environment and Climate Action, Australia)
 + <a href="https://www.linkedin.com/in/jason-john-walsh/">Jason Walsh</a>, UCD MS, AY 2020-21 (Next stop: PhD student at University College Dublin, Ireland)
 + <a href="https://www.linkedin.com/in/barry-mcnicholl-86287120a/">Barry McNicholl</a>, UCD MS Electrical and Electronic (EEE), AY 2020-21 (Next stop:  Design Engineer at Microchip Technology, Ireland)
@@ -349,15 +349,15 @@ None at this moment.
 
 
 #### Undergrads
-+ <a href="https://www.linkedin.com/in/wasirq/">Wasif Qazi</a>, UCD FYP, AY 2024-25
-+ <a href="https://www.linkedin.com/in/tingyu-zhang-6498ba224/">Tingyu Zhang</a>, UCD FYP, AY 2024-25
-+ <a href="https://www.linkedin.com/in/ciar%C3%A1n-scanlon-740554268/">Ciaran Scanlon</a>, UCD FYP, AY 2024-25
++ <a href="https://www.linkedin.com/in/wasirq/">Wasif Qazi</a>, UCD FYP, AY 2024-25 (Next stop: Masters in Computer Science at Trinity College Dublin)
++ <a href="https://www.linkedin.com/in/tingyu-zhang-6498ba224/">Tingyu Zhang</a>, UCD FYP, AY 2024-25 (Next stop: Software Engineer at Amazon Web Services, Ireland)
++ <a href="https://www.linkedin.com/in/ciar%C3%A1n-scanlon-740554268/">Ciaran Scanlon</a>, UCD FYP, AY 2024-25 (Next stop: Trainee Engineer at Ericsson, Ireland)
 + Toluwabori Akinola, UCD FYP, AY 2023-24
 + Evin O'Sullivan, UCD FYP, AY 2023-24
 + <a href="https://www.linkedin.com/in/jason-lok2001/">Jason Lok</a>, UCD FYP, AY 2023-24 (Next stop: Graduate Software Engineer at IBM, Ireland)
 + Tom Higgins, UCD FYP, AY 2022-23
 + <a href="https://www.linkedin.com/in/atseosi-idogho/">Atseosi Idogho</a>, UCD FYP, AY 2022-23
-+ <a href="https://www.linkedin.com/in/itsnanwu/">Nan Wu</a>, UCD FYP, AY 2022-23
++ <a href="https://www.linkedin.com/in/itsnanwu/">Nan Wu</a>, UCD FYP, AY 2022-23 (Next stop: Analyst at Bank of America)
 + Ammar Abdalla, UCD FYP, AY 2022-23
 + Loghlen Rickard, UCD FYP, AY 2022-23
 + <a href="https://www.linkedin.com/in/killian-callaghan-b414a2150/">Killian Callaghan</a>, UCD FYP, AY 2021-22 (Next stop: Graduate Software Engineer at Citi, Ireland)
