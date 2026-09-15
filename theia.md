@@ -97,6 +97,28 @@ None at this moment.
 <div class="row">
 	
 <div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Keyu-Liu-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Keyu Liu</b> is a Ph.D. student at Trinity College Dublin under the supervision of Soumyabrata Dev. He holds an M.Sc. in Multimedia Telecommunications from Xi'an Jiaotong-Liverpool University and a B.Sc. in Software Engineering from East China University of Technology. His research interests include deep learning, remote sensing, and environmental monitoring.
+</div>
+</div>
+
+
+<br />
+
+	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Yukun-Li-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Yukun Li</b> is a PhD student at Trinity College Dublin under the supervision of Soumyabrata Dev. He completed his Bachelor's degree from Beijing-Dublin International College (BDIC), Beijing, China, majoring in Software Engineering. His research interests include image recognition, AI applications, and deep learning.
+</div>
+</div>
+
+
+<br />
+
+	
+<div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Sicheng-Zhao.png" | prepend:site.baseurl }}">
 <div class="people-name">
 <b>Sicheng Zhao</b> is a PhD student at Trinity College Dublin under the supervision of Dr Soumyabrata Dev. He completed his Masters degree in Data Science at University Collge Dublin, Ireland, focusing on AI-Driven 3D reconstruction. His research interests include 3D reconstruction, SLAM, and AI-driven geographic modeling.
@@ -249,9 +271,9 @@ None at this moment.
 	
 	
 <div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Shane-Smyth.png" | prepend:site.baseurl }}">
+<img class="people-pic" src="{{ "/images/theia/Drishti-Kamath-120.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Shane Smyth</b> is pursuing a MSc (Research) at the School of Computer Science, University College Dublin, under the supervision of Dr Soumyabrata Dev. Shane has completed his BSc at the Institute of Art, Design and Technology, Dún Laoghaire. His research interests include machine learning, deep learning, and computer vision. He is currently researching nearshore wave prediction using deep learning.
+<b>Drishti Kamath</b> is a final-year Computer Engineering student at Trinity College Dublin, pursuing an MAI in Computer Engineering. Her research focuses on explainable AI for short-term atmospheric CO2 forecasting, with interests spanning artificial intelligence, cybersecurity, and computer graphics.
 </div>
 </div>
 
@@ -270,35 +292,7 @@ None at this moment.
 
 <div class="row">
 
- <div class="col-xs-2">
- <img class="people-pic" src="{{ "/images/theia/Matthew-Byrne-120.png" | prepend:site.baseurl }}">
- <div class="people-name">
- <b>Matthew Byrne</b> is a final-year Computer Science student (2022-26) with interests in machine learning, deep learning, and networking. His project focuses on developing precise automatic and semi-automatic image segmentation using Meta's SAM-2 model, with its current goal centered on reconstructing 3D glaciers from the segmented images.
- </div>
- </div>
-
-
- <br />
- 
- <div class="col-xs-2">
- <img class="people-pic" src="{{ "/images/theia/Arpit-Mirdha-120.png" | prepend:site.baseurl }}">
- <div class="people-name">
- <b>Arpit Mirdha</b> is a final-year Computer Science student (2022-26) whose interests include puzzles, basketball, and hiking. His project focuses on improving RGB-to-NIR image translation through data augmentation and semi-supervised learning, aiming to enhance the quality and reliability of image conversions across spectral domains.
- </div>
- </div>
-
-
- <br />
- 
- 
- <div class="col-xs-2">
- <img class="people-pic" src="{{ "/images/theia/blank-HS-120.png" | prepend:site.baseurl }}">
- <div class="people-name">
- <b>Arnav Jaitly</b> is a final-year Computer Science student (2022-26) with an interest in applied machine learning and sustainable technologies. His project focuses on developing efficient deep learning models for solar forecasting and optimizing them for edge deployment, enabling faster, low-power predictions in real-world environments.
- </div>
- </div>
- 
- 
+None at this moment.  
 	
 </div>
 
@@ -335,6 +329,7 @@ None at this moment.
 
 
 #### Masters
++ <a href="https://www.linkedin.com/in/shane-smyth-a8b041207/">Shane Smyth</a>, UCD Masters (by Research), AY 2024-26 (Next stop: Data Scientist at CeADAR Ireland )
 + <a href="https://zacharyyahn.github.io/">Zachary Yahn</a>, UCD MS, AY 2023-24 (Next stop: PhD student at Georgia Tech, United States)
 + <a href="https://www.linkedin.com/in/zixiang-xu-545561207/">Zixiang Xu (Dante)</a>, UCD MS (Research), AY 2020-22 (Next stop: PhD student at Kyoto University, Japan)
 + <a href="https://www.linkedin.com/in/yuan-liang-a4920a193/">Yuan Liang (Nick)</a>, UCD MS (Research), AY 2020-22 (Next stop: PhD student at University College Dublin, Ireland)
@@ -349,6 +344,9 @@ None at this moment.
 
 
 #### Undergrads
++ <a href = "https://www.linkedin.com/in/matthew-byrne-840850315/">Matthew Byrne</a>, UCD FYP, AY 2025-26 (Next stop: Software Engineer at Phyxiom)
++ <a href="https://www.linkedin.com/in/arpit-mirdha/">Arpit Mirdha</a>, UCD FYP, AY 2025-26
++ <a href="https://www.linkedin.com/in/arnav-jaitly-88939b262/">Arnav Jaitly</a>, UCD FYP, AY 2025-26 (Next stop: Software Engineer at Ellucian)
 + <a href="https://www.linkedin.com/in/wasirq/">Wasif Qazi</a>, UCD FYP, AY 2024-25 (Next stop: Masters in Computer Science at Trinity College Dublin)
 + <a href="https://www.linkedin.com/in/tingyu-zhang-6498ba224/">Tingyu Zhang</a>, UCD FYP, AY 2024-25 (Next stop: Software Engineer at Amazon Web Services, Ireland)
 + <a href="https://www.linkedin.com/in/ciar%C3%A1n-scanlon-740554268/">Ciaran Scanlon</a>, UCD FYP, AY 2024-25 (Next stop: Trainee Engineer at Ericsson, Ireland)
@@ -538,6 +536,17 @@ PhD:
 
 Masters:
 
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Shane-Smyth.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Shane Smyth</b> is pursuing a MSc (Research) at the School of Computer Science, University College Dublin, under the supervision of Dr Soumyabrata Dev. Shane has completed his BSc at the Institute of Art, Design and Technology, Dún Laoghaire. His research interests include machine learning, deep learning, and computer vision. He is currently researching nearshore wave prediction using deep learning.
+</div>
+</div>
+
+
+
+
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Zachary-Yahn-120.png" | prepend:site.baseurl }}">
 <div class="people-name">
@@ -609,7 +618,37 @@ Masters:
 
 Undergrads:
 
+
+
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Matthew-Byrne-120.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Matthew Byrne</b> is a final-year Computer Science student (2022-26) with interests in machine learning, deep learning, and networking. His project focuses on developing precise automatic and semi-automatic image segmentation using Meta's SAM-2 model, with its current goal centered on reconstructing 3D glaciers from the segmented images.
+ </div>
+ </div>
+
+
+ <br />
  
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/Arpit-Mirdha-120.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Arpit Mirdha</b> is a final-year Computer Science student (2022-26) whose interests include puzzles, basketball, and hiking. His project focuses on improving RGB-to-NIR image translation through data augmentation and semi-supervised learning, aiming to enhance the quality and reliability of image conversions across spectral domains.
+ </div>
+ </div>
+
+
+ <br />
+ 
+ 
+ <div class="col-xs-2">
+ <img class="people-pic" src="{{ "/images/theia/blank-HS-120.png" | prepend:site.baseurl }}">
+ <div class="people-name">
+ <b>Arnav Jaitly</b> is a final-year Computer Science student (2022-26) with an interest in applied machine learning and sustainable technologies. His project focuses on developing efficient deep learning models for solar forecasting and optimizing them for edge deployment, enabling faster, low-power predictions in real-world environments.
+ </div>
+ </div>
+
+
  
  
  <div class="col-xs-2">

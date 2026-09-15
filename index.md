@@ -16,9 +16,12 @@ I graduated with a B.Tech from <a href="http://www.nits.ac.in/">National Institu
 
 
 #### Recent News
++ (September 2026): Welcome to Yukun Li and Keyu Liu who starts their PhD in our lab from September 2026. 
 + (August 2026): Congratulations to Menatalla AbdelAzim from our lab, who successfully defended her PhD thesis on machine learning models for rainfall prediction in Ireland on <a href="https://bsky.app/profile/soumyabratadev.bsky.social/post/3mtlss3eov22j">21 Aug 2026</a>.
++ (July 2026): Gave an invited talk, Seeing and Predicting Air Pollution with Deep Neural Networks, at the 1st IEEE International Conference on Instrumentation (INSTCon 2026), NIT Rourkela, India on <a href="https://bsky.app/profile/soumyabratadev.bsky.social/post/3muzfkrweuk2c">24 July 2026</a>.
 + (June 2026): Prasanjit Dey from our lab successfully defended his PhD thesis on monitoring and short-term forecasting of atmospheric air pollutants using deep neural networks on <a href="https://bsky.app/profile/soumyabratadev.bsky.social/post/3mte6m3u6n22p">15 June 2026</a>.
 + (April 2026): <a href="https://conference.iemss.org/about/2026-organising-committee/">Chairing</a> the 13th International Congress on Environmental Modelling and Software (iEMSs 2026), providing research leadership in convening an international forum in Dublin advancing interdisciplinary environmental modelling and AI systems. Join us in Dublin in July 2026.
++ (March 2026): Sicheng Zhao transfers his PhD from UCD to TCD! Welcome again, Sicheng! 
 + (January 2026): After a very rewarding time at University College Dublin, I'm delighted to have joined Trinity College Dublin (TCD) as an Associate Professor in the School of Computer Science and Statistics.
 + [<a href="https://soumyabrata.github.io/news/">older news</a>]
 
