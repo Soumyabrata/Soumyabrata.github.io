@@ -149,6 +149,7 @@ Featured in H. Godrich, <a href="http://ieeexplore.ieee.org/document/7814327/">S
 
  
 ## Conferences
++ P. Adong, and S. Dev, Explainable AI-Driven Domain Adaptation for PM2.5 Estimation from Aerosol Optical Depth, *NeurIPS 2026 Workshop WiML*, 2026. 
 
 + S. Zhao, M. Byrne, D. Ayala-Cabrera, and S. Dev, Semi-Automatic Semantic Masking for Improved Glacier 3D Reconstruction, *13th International Congress on Environmental Modelling and Software*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/zhao2026semi.pdf">PDF</a>] [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/zhao2026semi-slides.pdf">slides</a>]
 
