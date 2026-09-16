@@ -268,8 +268,18 @@ None at this moment.
 ### Grad Students 
 
 <div class="row">
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Aaron-Groome-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Aaron Groome</b> is a Computer Science Master's student at Trinity College Dublin. His research interests lie at the intersection of AI for Ecological & Environmental Science, Remote Sensing and Applied Machine Learning.
+</div>
+</div>
 	
-	
+
+<br />
+
+
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Drishti-Kamath-120.png" | prepend:site.baseurl }}">
 <div class="people-name">
