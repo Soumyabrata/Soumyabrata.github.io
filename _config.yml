@@ -13,7 +13,8 @@ owner:
   bio:            Associate Professor at Trinity College Dublin
   email:          devs@tcd.ie
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: SoumyabrataDev
+  twitter/X: SoumyabrataDev
+  bluesky: soumyabratadev.bsky.social
   linkedin: soumyabratadev
   google_scholar: _akXw8IAAAAJ
   orcid: 0000-0002-0153-1095
