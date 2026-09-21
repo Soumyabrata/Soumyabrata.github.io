@@ -334,7 +334,7 @@ None at this moment.
 
 
 <div class="col-xs-2">
-<a hef="https://www.linkedin.com/in/aaditya-sharma-255133257/"><img class="people-pic" src="{{ "/images/theia/Aaditya-Sharma-120.png" | prepend:site.baseurl }}"></a>
+<a href="https://www.linkedin.com/in/aaditya-sharma-255133257/"><img class="people-pic" src="{{ "/images/theia/Aaditya-Sharma-120.png" | prepend:site.baseurl }}"></a>
 <div class="people-name">
 <b>Aaditya Sharma</b> is a B.Tech student in Computer Science and Engineering at Punjab Engineering College, Chandigarh, India, graduating in 2026. His research interests lie in machine learning, with a focus on understanding model behaviour, interpretability, and improving reliability in non-stationary and data-scarce environments. He is currently a research intern at the THEIA Lab, University College Dublin, where he works on analysing representation dynamics in vision-language models for remote sensing.
 </div>
