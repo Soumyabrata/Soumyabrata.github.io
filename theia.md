@@ -312,7 +312,23 @@ None at this moment.
 
 <div class="row">
 	
-None at this moment.
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Ayush-Priyadarshi-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Ayush Priyadarshi</b> is a Computer Science student at Trinity College Dublin. His research focuses on applying machine learning to environmental science, with a particular interest in rainfall forecasting using ERA5 reanalysis data and spatial modelling.
+</div>
+</div>
+
+<br />
+
+
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Aaditya-Sharma-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Aaditya Sharma</b> is a B.Tech student in Computer Science and Engineering at Punjab Engineering College, Chandigarh, India, graduating in 2026. His research interests lie in machine learning, with a focus on understanding model behaviour, interpretability, and improving reliability in non-stationary and data-scarce environments. He is currently a research intern at the THEIA Lab, University College Dublin, where he works on analysing representation dynamics in vision-language models for remote sensing.
+</div>
+</div>
+
 
 </div>
 
@@ -326,15 +342,15 @@ None at this moment.
 
 
 #### PhD
-+ <a href="https://www.linkedin.com/in/menatallahabdelazeem/">Menatallah Abdel Azeem</a>, PhD, Aug 2022 till Aug 2026 (Next stop: Senior Solution Engineer - Cloud AI & Apps @ Microsoft) <br/> 
++ <a href="https://www.linkedin.com/in/menatallahabdelazeem/">Menatallah Abdel Azeem</a>, PhD, Aug 2022 till Aug 2026 (Next stop: Senior Solution Engineer - Cloud AI & Apps at Microsoft) <br/>
 <img class="people-pic" src="{{ "/images/theia/Mena.png" | prepend:site.baseurl }}"> <span style="display:block; margin-top:20px;"></span>
-+ <a href="https://prasanjit-dey.github.io/">Prasanjit Dey</a>, PhD, Aug 2021 till Aug 2026 <br/>
++ <a href="https://prasanjit-dey.github.io/">Prasanjit Dey</a>, PhD, Aug 2021 till Aug 2026 (Next stop: Postdoctoral researcher at Chalmers University of Technology, Sweden) <br/>
 <img class="people-pic" src="{{ "/images/theia/Prasanjit-Dey.png" | prepend:site.baseurl }}"><span style="display:block; margin-top:20px;"></span>
-+ <a href="https://www.linkedin.com/in/jiantao-wu/">Jiantao Wu (Ivan)</a>, PhD, Aug 2020 till Aug 2024 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Postdoctoral researcher, Adaptemy)<br/>
++ <a href="https://www.linkedin.com/in/jiantao-wu/">Jiantao Wu (Ivan)</a>, PhD, Aug 2020 till Aug 2024 (Next stop: Research Assistant at University College Dublin, Ireland, Next-next stop: Postdoctoral researcher at Adaptemy)<br/>
 <img class="people-pic" src="{{ "/images/theia/Jiantao-Wu.png" | prepend:site.baseurl }}"><span style="display:block; margin-top:20px;"></span>
-+ <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">Mayank Jain</a>, PhD, Jan 2020 till Dec 2023 (Next stop: Research Assistant, University College Dublin, Ireland, Next-next stop: Engineer, EirGrid)<br />
++ <a href="https://www.linkedin.com/in/mayank-jain-311a7176/">Mayank Jain</a>, PhD, Jan 2020 till Dec 2023 (Next stop: Research Assistant at University College Dublin, Ireland, Next-next stop: Engineer at EirGrid)<br />
 <img class="people-pic" src="{{ "/images/theia/MJ.png" | prepend:site.baseurl }}"><span style="display:block; margin-top:20px;"></span>
-+ <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop:  Associate Lecturer, Universitat Politècnica de València (UPV), Spain)<br />
++ <a href="https://www.linkedin.com/in/alexia-larchen-8b017796/">Alexia Larchen COSTUCHEN</a>, Erasmus PhD Visitor, AY 2021-22 (Next stop:  Associate Lecturer at Universitat Politècnica de València (UPV), Spain)<br />
 <img class="people-pic" src="{{ "/images/theia/Alexia-Larchen.png" | prepend:site.baseurl }}">
 
 
