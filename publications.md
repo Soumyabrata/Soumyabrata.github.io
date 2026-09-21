@@ -12,7 +12,7 @@ sidebar:
 
 ## Journals
 
-+ S. Zhao, A. Pakrashi, and S. Dev, Towards Efficient 3D Gaussian Splatting Reconstruction with PairVPR-Based Image Selection: A Glacier UAV Case Study, *Applied Computing and Geosciences*, 2026. 
++ S. Zhao, A. Pakrashi, and S. Dev, Towards Efficient 3D Gaussian Splatting Reconstruction with PairVPR-Based Image Selection: A Glacier UAV Case Study, *Applied Computing and Geosciences*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/09/zhao2026towards.pdf">PDF</a>]
 
 + S. Dhang, F. Zheng, P. H. J. Chong, M. Zhang, and S. Dev, Occlusion-Aware Advertisement Placement in Soccer Penalty Area, *Multimedia Tools and Applications*, 2026. 
 
