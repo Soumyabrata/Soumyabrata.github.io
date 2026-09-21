@@ -315,7 +315,7 @@ None at this moment.
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Ayush-Priyadarshi-120.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Ayush Priyadarshi</b> is a Computer Science student at Trinity College Dublin. His research focuses on applying machine learning to environmental science, with a particular interest in rainfall forecasting using ERA5 reanalysis data and spatial modelling.
+<a href="https://www.linkedin.com/in/ayush-priyadarshi-4274a034b/"><b>Ayush Priyadarshi</b></a> is a Computer Science student at Trinity College Dublin. His research focuses on applying machine learning to environmental science, with a particular interest in rainfall forecasting using ERA5 reanalysis data and spatial modelling.
 </div>
 </div>
 
@@ -325,7 +325,7 @@ None at this moment.
 <div class="col-xs-2">
 <img class="people-pic" src="{{ "/images/theia/Aaditya-Sharma-120.png" | prepend:site.baseurl }}">
 <div class="people-name">
-<b>Aaditya Sharma</b> is a B.Tech student in Computer Science and Engineering at Punjab Engineering College, Chandigarh, India, graduating in 2026. His research interests lie in machine learning, with a focus on understanding model behaviour, interpretability, and improving reliability in non-stationary and data-scarce environments. He is currently a research intern at the THEIA Lab, University College Dublin, where he works on analysing representation dynamics in vision-language models for remote sensing.
+<a hef="https://www.linkedin.com/in/aaditya-sharma-255133257/"><b>Aaditya Sharma</b></a> is a B.Tech student in Computer Science and Engineering at Punjab Engineering College, Chandigarh, India, graduating in 2026. His research interests lie in machine learning, with a focus on understanding model behaviour, interpretability, and improving reliability in non-stationary and data-scarce environments. He is currently a research intern at the THEIA Lab, University College Dublin, where he works on analysing representation dynamics in vision-language models for remote sensing.
 </div>
 </div>
 
