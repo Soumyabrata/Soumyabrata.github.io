@@ -268,9 +268,20 @@ None at this moment.
 ### Grad Students 
 
 <div class="row">
+	
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/Cooper-Illingworth-120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>Cooper Illingworth</b> is a Master's student in Computer Engineering at Trinity College Dublin. His main interests are computer graphics, data analytics, and networks. His research is focused on making 3D reconstructions of glaciers from data sets collected by drones.
+</div>
+</div>
+	
+
+<br />
+
 
 <div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Aaron-Groome-120.png" | prepend:site.baseurl }}">
+<a href = "https://www.linkedin.com/in/aaron-groome/"><img class="people-pic" src="{{ "/images/theia/Aaron-Groome-120.png" | prepend:site.baseurl }}"></a>
 <div class="people-name">
 <b>Aaron Groome</b> is a Computer Science Master's student at Trinity College Dublin. His research interests lie at the intersection of AI for Ecological & Environmental Science, Remote Sensing and Applied Machine Learning.
 </div>
@@ -281,7 +292,7 @@ None at this moment.
 
 
 <div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Drishti-Kamath-120.png" | prepend:site.baseurl }}">
+<a href="https://www.linkedin.com/in/drishti-kamath-64a604252/"><img class="people-pic" src="{{ "/images/theia/Drishti-Kamath-120.png" | prepend:site.baseurl }}"></a>
 <div class="people-name">
 <b>Drishti Kamath</b> is a final-year Computer Engineering student at Trinity College Dublin, pursuing an MAI in Computer Engineering. Her research focuses on explainable AI for short-term atmospheric CO2 forecasting, with interests spanning artificial intelligence, cybersecurity, and computer graphics.
 </div>
@@ -313,9 +324,9 @@ None at this moment.
 <div class="row">
 	
 <div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Ayush-Priyadarshi-120.png" | prepend:site.baseurl }}">
+<a href="https://www.linkedin.com/in/ayush-priyadarshi-4274a034b/"><img class="people-pic" src="{{ "/images/theia/Ayush-Priyadarshi-120.png" | prepend:site.baseurl }}"></a>
 <div class="people-name">
-<a href="https://www.linkedin.com/in/ayush-priyadarshi-4274a034b/"><b>Ayush Priyadarshi</b></a> is a Computer Science student at Trinity College Dublin. His research focuses on applying machine learning to environmental science, with a particular interest in rainfall forecasting using ERA5 reanalysis data and spatial modelling.
+<b>Ayush Priyadarshi</b> is a Computer Science student at Trinity College Dublin. His research focuses on applying machine learning to environmental science, with a particular interest in rainfall forecasting using ERA5 reanalysis data and spatial modelling.
 </div>
 </div>
 
@@ -323,9 +334,9 @@ None at this moment.
 
 
 <div class="col-xs-2">
-<img class="people-pic" src="{{ "/images/theia/Aaditya-Sharma-120.png" | prepend:site.baseurl }}">
+<a hef="https://www.linkedin.com/in/aaditya-sharma-255133257/"><img class="people-pic" src="{{ "/images/theia/Aaditya-Sharma-120.png" | prepend:site.baseurl }}"></a>
 <div class="people-name">
-<a hef="https://www.linkedin.com/in/aaditya-sharma-255133257/"><b>Aaditya Sharma</b></a> is a B.Tech student in Computer Science and Engineering at Punjab Engineering College, Chandigarh, India, graduating in 2026. His research interests lie in machine learning, with a focus on understanding model behaviour, interpretability, and improving reliability in non-stationary and data-scarce environments. He is currently a research intern at the THEIA Lab, University College Dublin, where he works on analysing representation dynamics in vision-language models for remote sensing.
+<b>Aaditya Sharma</b> is a B.Tech student in Computer Science and Engineering at Punjab Engineering College, Chandigarh, India, graduating in 2026. His research interests lie in machine learning, with a focus on understanding model behaviour, interpretability, and improving reliability in non-stationary and data-scarce environments. He is currently a research intern at the THEIA Lab, University College Dublin, where he works on analysing representation dynamics in vision-language models for remote sensing.
 </div>
 </div>
 
