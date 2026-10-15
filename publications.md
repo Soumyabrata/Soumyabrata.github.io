@@ -12,7 +12,13 @@ sidebar:
 
 ## Journals
 
-+ S. Zhao, A. Pakrashi, and S. Dev, Towards Efficient 3D Gaussian Splatting Reconstruction with PairVPR-Based Image Selection: A Glacier UAV Case Study, *Applied Computing and Geosciences*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/09/zhao2026towards.pdf">PDF</a>]
++ I. R. Nijhum, M. S. Reza, and S. Dev, Efficient Cloud Segmentation from Nychthemeron and Multi-Regional Ground-based Sky Images, *The Visual Computer*, 2026.
+
++ B. Huang, Z. Cui, W. Yao, Y. Li, and S. Dev, Training-Efficient Video Action Recognition Through Vision-Language Semantic Priors and Compressed-Domain Motion Fusion, *The Visual Computer*, 2026.
+
++ I. R. Nijhum, M. Y. Hossain, M. S. Reza, M. M. H. Rakib, and S. Dev, Visual-Conditioned Prompting for All-in-One Remote Sensing Image Restoration, *Signal Processing: Image Communication*, 2026.
+
++ S. Zhao, A. Pakrashi, and S. Dev, Towards Efficient 3D Gaussian Splatting Reconstruction with PairVPR-Based Image Selection: A Glacier UAV Case Study, *Applied Computing and Geosciences*, 2026. [<a href="https://soumyabratadev.wordpress.com/wp-content/uploads/2026/09/zhao2026towards.pdf">PDF</a>] [<a href="https://github.com/Soumyabrata/pairvpr-3dgs-selection">code</a>]
 
 + S. Dhang, F. Zheng, P. H. J. Chong, M. Zhang, and S. Dev, Occlusion-Aware Advertisement Placement in Soccer Penalty Area, *Multimedia Tools and Applications*, 2026. 
 

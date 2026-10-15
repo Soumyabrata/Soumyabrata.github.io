@@ -313,7 +313,12 @@ None at this moment.
 
 <div class="row">
 
-None at this moment.  
+<div class="col-xs-2">
+<img class="people-pic" src="{{ "/images/theia/James-Owens120.png" | prepend:site.baseurl }}">
+<div class="people-name">
+<b>James Owens</b> is a Fourth Year student in Management Science and Information Systems Studies at Trinity College Dublin. He is currently undertaking his Final Year Project on speech processing and machine learning under the supervision of Dr Soumyabrata Dev. 
+</div>
+</div>
 	
 </div>
 
